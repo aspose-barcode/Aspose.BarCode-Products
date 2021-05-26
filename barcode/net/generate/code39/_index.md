@@ -71,6 +71,8 @@ generator.Save(dataDir + "output.jpg", BarCodeImageFormat.Jpeg);
     {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
  
 
+<!-- aboutfile Starts -->
+
 {{< blocks/products/pf/agp/demobox sectionTitle="Create Code39Standard Codes via Free App" sectionDescription="[BarCode Generator App](https://products.aspose.app/barcode/generate/code39)" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" No need to download Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Just put in the barcode text." >}}
@@ -81,6 +83,9 @@ generator.Save(dataDir + "output.jpg", BarCodeImageFormat.Jpeg);
 {{< blocks/products/pf/agp/about-file-section >}}
 
 {{< /blocks/products/pf/agp/about-file-section >}}
+
+<!-- aboutfile Ends -->
+
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}

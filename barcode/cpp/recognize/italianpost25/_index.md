@@ -71,6 +71,8 @@ barCodeReader->Close();
     {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
  
 
+<!-- aboutfile Starts -->
+
 {{< blocks/products/pf/agp/demobox sectionTitle="DecodeВ ItalianPost25В via Online App" sectionDescription="[Recognize ItalianPost25](https://products.aspose.app/barcode/recognize/italianpost25) right now by visiting our Live Demos website.The live demo has the following benefits" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" No need to download Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" No need to write any code." >}}
@@ -81,6 +83,9 @@ barCodeReader->Close();
 {{< blocks/products/pf/agp/about-file-section >}}
 
 {{< /blocks/products/pf/agp/about-file-section >}}
+
+<!-- aboutfile Ends -->
+
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}

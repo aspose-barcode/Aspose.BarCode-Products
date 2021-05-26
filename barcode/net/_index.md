@@ -19,9 +19,6 @@ url: /net/
 {{< blocks/products/pf/carousel >}}
 
 {{< blocks/products/pf/carousel-item h3="At a Glance" description="An overview of the barcode recognition & generation capabilities of API." >}}
-{{< /blocks/products/pf/carousel-item >}}
-
-{{< blocks/products/pf/carousel-item h3="Platform Independence" description="You can use library to build any type of a 32-bit or 64-bit .NET application including ASP.NET, WinForms, WPF, .NET Standard and more." >}}
 <div class="diagram1 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -112,7 +109,7 @@ url: /net/
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Supported File Formats" description="Aspose.BarCode for .NET works with most commonly used image file formats." >}}
+{{< blocks/products/pf/carousel-item h3="Platform Independence" description="You can use library to build any type of a 32-bit or 64-bit .NET application including ASP.NET, WinForms, WPF, .NET Standard and more." >}}
 <div class="diagram1 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -161,6 +158,74 @@ url: /net/
  <!--/row-->
  <div class="d1-logo">
   <img alt="Barcode Generator in C#" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/barcode/272x272/aspose_barcode-for-net.png"/>
+  <header>
+   Aspose.BarCode
+  </header>
+  <footer>
+   <small>
+    <em>
+     for
+    </em>
+    .NET
+   </small>
+  </footer>
+ </div>
+ <!--/logo-->
+</div>
+
+{{< /blocks/products/pf/carousel-item >}}
+
+{{< blocks/products/pf/carousel-item h3="Supported File Formats" description="Aspose.BarCode for .NET works with most commonly used image [file formats](https://docs.aspose.com/barcode/net/supported-file-formats/)  ." >}}
+<div class="diagram1 d2 d1-net">
+ <div class="d1-row">
+  <div class="d1-col d1-left">
+   <header>
+    <i class="fa fa-arrows-v">
+    </i>
+    Input/Output
+   </header>
+   <ul>
+    <li>
+     JPEG
+    </li>
+    <li>
+     TIFF
+    </li>
+    <li>
+     PNG
+    </li>
+    <li>
+     BMP
+    </li>
+    <li>
+     GIF
+    </li>
+    <li>
+     EXIF
+    </li>
+   </ul>
+  </div>
+  <!--/left-->
+  <div class="d1-col d1-right">
+   <header>
+    <i class="fa fa-mail-forward">
+    </i>
+    Output Only
+   </header>
+   <ul>
+    <li>
+     EMF
+    </li>
+    <li>
+     SVG
+    </li>
+   </ul>
+  </div>
+  <!--/right-->
+ </div>
+ <!--/row-->
+ <div class="d1-logo">
+  <img alt=".NET Barcode Reader API" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/barcode/272x272/aspose_barcode-for-net.png"/>
   <header>
    Aspose.BarCode
   </header>

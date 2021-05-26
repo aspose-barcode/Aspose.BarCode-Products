@@ -64,6 +64,8 @@ barcodeGenerator->Save(u"output.jpg");
     {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
  
 
+<!-- aboutfile Starts -->
+
 {{< blocks/products/pf/agp/demobox sectionTitle="IATA2OF5В Barcode Generation Live Demos" sectionDescription="[Create IATA2OF5](https://products.aspose.app/barcode/generate/iata2of5)В Barocdes right now by visiting our Live Demos website.The live demo has the following benefits" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" No need to download Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" No need to write any code." >}}
@@ -74,6 +76,9 @@ barcodeGenerator->Save(u"output.jpg");
 {{< blocks/products/pf/agp/about-file-section >}}
 
 {{< /blocks/products/pf/agp/about-file-section >}}
+
+<!-- aboutfile Ends -->
+
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}

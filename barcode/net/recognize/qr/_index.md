@@ -71,6 +71,8 @@ using (BarCodeReader reader = new BarCodeReader("template.jpg", DecodeType.QR)){
     {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
  
 
+<!-- aboutfile Starts -->
+
 {{< blocks/products/pf/agp/demobox sectionTitle="Decoding QR BarCodes Live Demos" sectionDescription="Read QR BarcodesВ right now by visiting ourВ OnlineВ [BarCode Reader and Decoder](https://products.aspose.app/barcode/recognize/qr) website. The live demo has the following benefits" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" No need to download Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" No need to write any code." >}}
@@ -81,6 +83,9 @@ using (BarCodeReader reader = new BarCodeReader("template.jpg", DecodeType.QR)){
 {{< blocks/products/pf/agp/about-file-section >}}
 
 {{< /blocks/products/pf/agp/about-file-section >}}
+
+<!-- aboutfile Ends -->
+
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}

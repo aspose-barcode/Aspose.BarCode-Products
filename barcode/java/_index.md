@@ -18,7 +18,213 @@ url: /java/
 <!--Diagrams Start-->
 {{< blocks/products/pf/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="" description="" >}}
+{{< blocks/products/pf/carousel-item h3="At a Glance" description="Some of the advanced capabilities of API." >}}
+<div class="diagram1 d1-java">
+ <div class="d1-row">
+  <div class="d1-col d1-left">
+   <header>
+    <i class="fa fa-search">
+    </i>
+    Recognition
+   </header>
+   <ul>
+    <li>
+     Linear, 2D, and Postal
+    </li>
+    <li>
+     Detect from Stream or Image
+    </li>
+    <li>
+     Get Orientation
+    </li>
+    <li>
+     Decode Non-English Characters
+    </li>
+   </ul>
+   <header>
+    <i class="fa fa-print">
+    </i>
+    Printing
+   </header>
+   <ul>
+    <li>
+     Directly Print
+    </li>
+   </ul>
+  </div>
+  <!--/left-->
+  <div class="d1-col d1-right">
+   <header>
+    <i class="fa fa-barcode">
+    </i>
+    Generation
+   </header>
+   <ul>
+    <li>
+     Linear, 2D and Postal
+    </li>
+    <li>
+     Save to Stream or Image
+    </li>
+    <li>
+     Customize Size
+    </li>
+    <li>
+     Customize image Orientation
+    </li>
+    <li>
+     Encode Non-English Characters
+    </li>
+   </ul>
+   <header>
+    <i class="fa fa-qrcode">
+    </i>
+    Types
+   </header>
+   <ul>
+    <li>
+     Linear
+    </li>
+    <li>
+     2D
+    </li>
+   </ul>
+  </div>
+  <!--/right-->
+ </div>
+ <!--/row-->
+ <div class="d1-logo">
+  <img alt="Barcode Java API" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/barcode/272x272/aspose_barcode-for-java.png"/>
+  <header>
+   Aspose.BarCode
+  </header>
+  <footer>
+   <small>
+    <em>
+     for
+    </em>
+    Java
+   </small>
+  </footer>
+ </div>
+ <!--/logo-->
+</div>
+
+{{< /blocks/products/pf/carousel-item >}}
+
+{{< blocks/products/pf/carousel-item h3="Platform Independence" description="Aspose.BarCode for Java can work with any Java-based application." >}}
+<div class="diagram1 d1-java">
+ <div class="d1-row">
+  <div class="d1-col d1-left">
+  </div>
+  <!--/left-->
+  <div class="d1-col d1-right">
+   <header>
+    <i class="fa fa-cubes">
+    </i>
+    J2SE (Web, Servlet)
+   </header>
+   <br/>
+   <header>
+    <i class="fa fa-cubes">
+    </i>
+    J2EE (Desktop, Applet)
+   </header>
+   <br/>
+   <header>
+    <i class="fa fa-cubes">
+    </i>
+    J2ME (Mobile, Embedded)
+   </header>
+  </div>
+  <!--/right-->
+ </div>
+ <!--/row-->
+ <div class="d1-logo">
+  <img alt="Java Barcode Reader" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/barcode/272x272/aspose_barcode-for-java.png"/>
+  <header>
+   Aspose.BarCode
+  </header>
+  <footer>
+   <small>
+    <em>
+     for
+    </em>
+    Java
+   </small>
+  </footer>
+ </div>
+ <!--/logo-->
+</div>
+
+{{< /blocks/products/pf/carousel-item >}}
+
+{{< blocks/products/pf/carousel-item h3="Supported File Formats" description="[File formats](https://docs.aspose.com/barcode/java/supported-file-formats/)  supported by API." >}}
+<div class="diagram1 d2 d1-java">
+ <div class="d1-row">
+  <div class="d1-col d1-left">
+   <header>
+    <i class="fa fa-arrows-v">
+    </i>
+    Input/Output
+   </header>
+   <ul>
+    <li>
+     JPEG
+    </li>
+    <li>
+     TIFF
+    </li>
+    <li>
+     PNG
+    </li>
+    <li>
+     BMP
+    </li>
+    <li>
+     GIF
+    </li>
+    <li>
+     EXIF
+    </li>
+   </ul>
+  </div>
+  <!--/left-->
+  <div class="d1-col d1-right">
+   <header>
+    <i class="fa fa-mail-forward">
+    </i>
+    Output Only
+   </header>
+   <ul>
+    <li>
+     EMF
+    </li>
+    <li>
+     SVG
+    </li>
+   </ul>
+  </div>
+  <!--/right-->
+ </div>
+ <!--/row-->
+ <div class="d1-logo">
+  <img alt="Java Barcode Generator" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/barcode/272x272/aspose_barcode-for-java.png"/>
+  <header>
+   Aspose.BarCode
+  </header>
+  <footer>
+   <small>
+    <em>
+     for
+    </em>
+    Java
+   </small>
+  </footer>
+ </div>
+ <!--/logo-->
+</div>
+
 {{< /blocks/products/pf/carousel-item >}}
 
 {{< /blocks/products/pf/carousel >}}

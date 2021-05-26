@@ -17,7 +17,149 @@ url: /jasperreports/
 <!--Diagrams Start-->
 {{< blocks/products/pf/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="" description="" >}}
+{{< blocks/products/pf/carousel-item h3="At a Glance" description="An overview of Aspose.BarCode for JasperReports API." >}}
+<div class="diagram1 d1-jasper">
+ <div class="d1-row">
+  <div class="d1-col d1-left">
+   <header>
+    <i class="fa fa-barcode">
+    </i>
+    Barcode Generation
+   </header>
+   <ul>
+    <li>
+     Render Barcode to Report
+    </li>
+   </ul>
+  </div>
+  <!--/left-->
+  <div class="d1-col d1-right">
+   <header>
+    <i class="fa fa-qrcode">
+    </i>
+    Barcode Types
+   </header>
+   <ul>
+    <li>
+     Linear, 2D &amp; Postal
+    </li>
+   </ul>
+  </div>
+  <!--/right-->
+ </div>
+ <!--/row-->
+ <div class="d1-logo">
+  <img alt="Jasper Reports Barcode Generator" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/barcode/272x272/aspose_barcode-for-jasperreports.png"/>
+  <header>
+   Aspose.BarCode
+  </header>
+  <footer>
+   <small>
+    <em>
+     for
+    </em>
+    JasperReports
+   </small>
+  </footer>
+ </div>
+ <!--/logo-->
+</div>
+
+{{< /blocks/products/pf/carousel-item >}}
+
+{{< blocks/products/pf/carousel-item h3="Platform Independence" description="Aspose.BarCode for JasperReports can be used with JasperServer and JasperReports." >}}
+<div class="diagram1 d1-jasper">
+ <div class="d1-row">
+  <div class="d1-col d1-left">
+   <header style="padding-left: 0px;">
+    <i class="fa fa-cubes">
+    </i>
+    J2SE 5.0 or higher
+   </header>
+  </div>
+  <!--/left-->
+  <div class="d1-col d1-right">
+   <header style="padding-left: 0px;">
+    <i class="fa fa-cubes">
+    </i>
+    JasperReports 2.0 or higher
+   </header>
+   <br/>
+   <header style="padding-left: 0px;">
+    <i class="fa fa-cubes">
+    </i>
+    JasperReports 3.0 or higher
+   </header>
+  </div>
+  <!--/right-->
+ </div>
+ <!--/row-->
+ <div class="d1-logo">
+  <img alt="Generate Barcode in Jasper Report" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/barcode/272x272/aspose_barcode-for-jasperreports.png"/>
+  <header>
+   Aspose.BarCode
+  </header>
+  <footer>
+   <small>
+    <em>
+     for
+    </em>
+    JasperReports
+   </small>
+  </footer>
+ </div>
+ <!--/logo-->
+</div>
+
+{{< /blocks/products/pf/carousel-item >}}
+
+{{< blocks/products/pf/carousel-item h3="Supported File Formats" description="JasperReports barcode extension supports popular [image formats](https://docs.aspose.com/barcode/jasperreports/supported-file-formats/)  ." >}}
+<div class="diagram1 d2 d1-jasper">
+ <div class="d1-row">
+  <div class="d1-col d1-left">
+  </div>
+  <!--/left-->
+  <div class="d1-col d1-right">
+   <header>
+    <i class="fa fa-mail-forward">
+    </i>
+    Output Only
+   </header>
+   <ul>
+    <li>
+     <strong>
+      Images:
+     </strong>
+     JPEG, PNG, BMP, GIF, TIFF, EXIF
+    </li>
+    <li>
+     <strong>
+      Others:
+     </strong>
+     EMF, SVG
+    </li>
+   </ul>
+  </div>
+  <!--/right-->
+ </div>
+ <!--/row-->
+ <div class="d1-logo">
+  <img alt="Barcode Generation in Jasper Report" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/barcode/272x272/aspose_barcode-for-jasperreports.png"/>
+  <header>
+   Aspose.BarCode
+  </header>
+  <footer>
+   <small>
+    <em>
+     for
+    </em>
+    JasperReports
+   </small>
+  </footer>
+ </div>
+ <!--/logo-->
+</div>
+
 {{< /blocks/products/pf/carousel-item >}}
 
 {{< /blocks/products/pf/carousel >}}

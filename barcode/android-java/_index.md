@@ -17,7 +17,187 @@ url: /android-java/
 <!--Diagrams Start-->
 {{< blocks/products/pf/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="" description="" >}}
+{{< blocks/products/pf/carousel-item h3="At a Glance" description="An overview of the barcode recognition & generation capabilities of API." >}}
+<div class="diagram1 d1-android">
+ <div class="d1-row">
+  <div class="d1-col d1-left">
+   <header>
+    <i class="fa fa-search">
+    </i>
+    Recognition
+   </header>
+   <ul>
+    <li>
+     Linear, 2D &amp; Postal Types
+    </li>
+    <li>
+     Get Orientation of Barcode
+    </li>
+    <li>
+     Decode Non-English Characters
+    </li>
+   </ul>
+   <!--<header><i class="fa fa-print"> </i>Printing</header>
+
+<ul>
+
+<li>Directly Print Barcode</li>
+
+</ul>
+
+-->
+  </div>
+  <!--/left-->
+  <div class="d1-col d1-right">
+   <header>
+    <i class="fa fa-barcode">
+    </i>
+    Generation
+   </header>
+   <ul>
+    <li>
+     Linear, 2D &amp; Postal Barcode
+    </li>
+    <li>
+     Customize Label
+    </li>
+    <li>
+     Encode Non-English Characters
+    </li>
+   </ul>
+   <header>
+    <i class="fa fa-qrcode">
+    </i>
+    Types
+   </header>
+   <ul>
+    <li>
+     Linear
+    </li>
+    <li>
+     2D
+    </li>
+   </ul>
+  </div>
+  <!--/right-->
+ </div>
+ <!--/row-->
+ <div class="d1-logo">
+  <img alt="Barcode Android Library" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/barcode/272x272/aspose_barcode-for-android-via-java.png"/>
+  <header>
+   Aspose.BarCode
+  </header>
+  <footer>
+   <small>
+    <em>
+     for
+    </em>
+    Android via Java
+   </small>
+  </footer>
+ </div>
+ <!--/logo-->
+</div>
+
+{{< /blocks/products/pf/carousel-item >}}
+
+{{< blocks/products/pf/carousel-item h3="Platform Independence" description="Use API on any platform where the Android Runtime Environment is available." >}}
+<div class="diagram1 d1-android">
+ <div class="d1-row">
+  <div class="d1-col d1-left">
+  </div>
+  <!--/left-->
+  <div class="d1-col d1-right">
+   <header style="padding-left: 0px;">
+    <i class="fa fa-cogs">
+    </i>
+    Android Runtime Environment
+   </header>
+   <ul>
+    <li>
+     Mobile Application
+    </li>
+   </ul>
+  </div>
+  <!--/right-->
+ </div>
+ <!--/row-->
+ <div class="d1-logo">
+  <img alt="Barcode Generator Android" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/barcode/272x272/aspose_barcode-for-android-via-java.png"/>
+  <header>
+   Aspose.BarCode
+  </header>
+  <footer>
+   <small>
+    <em>
+     for
+    </em>
+    Android via Java
+   </small>
+  </footer>
+ </div>
+ <!--/logo-->
+</div>
+
+{{< /blocks/products/pf/carousel-item >}}
+
+{{< blocks/products/pf/carousel-item h3="Supported File Formats" description="API works with the most commonly used image formats." >}}
+<div class="diagram1 d2 d1-android">
+ <div class="d1-row">
+  <div class="d1-col d1-left">
+   <header>
+    <i class="fa fa-arrows-v">
+    </i>
+    Input/Output
+   </header>
+   <ul>
+    <li>
+     JPEG
+    </li>
+    <li>
+     PNG
+    </li>
+   </ul>
+  </div>
+  <!--/left-->
+  <div class="d1-col d1-right">
+   <header>
+    <i class="fa fa-mail-forward">
+    </i>
+    Output Only
+   </header>
+   <ul>
+    <li>
+     BMP
+    </li>
+    <li>
+     GIF
+    </li>
+    <li>
+     WebP
+    </li>
+   </ul>
+  </div>
+  <!--/right-->
+ </div>
+ <!--/row-->
+ <div class="d1-logo">
+  <img alt="Android Barcode Reader API" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/barcode/272x272/aspose_barcode-for-android-via-java.png"/>
+  <header>
+   Aspose.BarCode
+  </header>
+  <footer>
+   <small>
+    <em>
+     for
+    </em>
+    Android via Java
+   </small>
+  </footer>
+ </div>
+ <!--/logo-->
+</div>
+
 {{< /blocks/products/pf/carousel-item >}}
 
 {{< /blocks/products/pf/carousel >}}

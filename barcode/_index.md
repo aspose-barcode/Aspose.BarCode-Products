@@ -10,15 +10,15 @@ url: /
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.BarCode On Premise APIs Include" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.BarCode for " title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/barcode/272x272/aspose_barcode-for-net.png" >}}
+{{< blocks/products/pf/product pfName="Aspose.BarCode for " title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/barcode/272x272/aspose_barcode-for-net.png" productLink="https://products.aspose.com/barcode/net" >}}
 API to generate new barcodes or recognize existing barcodes from images at various angles. Supports 60+ symbologies of 1D, 2D & Postal Barcodes.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.BarCode for " title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/barcode/272x272/aspose_barcode-for-java.png" >}}
+{{< blocks/products/pf/product pfName="Aspose.BarCode for " title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/barcode/272x272/aspose_barcode-for-java.png" productLink="https://products.aspose.com/barcode/java" >}}
 Generate or recognize Linear, 2D & Postal barcodes via API. Encoding & decoding capabilities for numerous symbologies. Export barcodes to image formats.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.BarCode for " title="C++" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/barcode/272x272/aspose_barcode-for-cpp.png" >}}
+{{< blocks/products/pf/product pfName="Aspose.BarCode for " title="C++" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/barcode/272x272/aspose_barcode-for-cpp.png" productLink="https://products.aspose.com/barcode/cpp" >}}
 API for generating, recognizing & exporting 1-Dimensional, 2-Dimensional and Postal barcodes to various image formats. Support for various symbologies.
 {{< /blocks/products/pf/product >}}
 
@@ -28,15 +28,15 @@ API for generating, recognizing & exporting 1-Dimensional, 2-Dimensional and Pos
 
 {{< blocks/products/pf/product-card-row title="Aspose.BarCode Cloud APIs Include" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.BarCode" title="Cloud for cURL" imgSrc="https://www.aspose.cloud/templates/asposecloud/App_Themes/V3/images/sdk/272x272/aspose_barcode-for-curl.png" >}}
+{{< blocks/products/pf/product pfName="Aspose.BarCode" title="Cloud for cURL" imgSrc="https://www.aspose.cloud/templates/asposecloud/App_Themes/V3/images/sdk/272x272/aspose_barcode-for-curl.png" productLink="https://products.aspose.cloud/barcode/curl" >}}
 Barcode generation, recognition and customization via cURL commands. Supports Barcode symbologies of Linear, 2D and Postal Barcodes.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.BarCode" title="Cloud SDK for .NET" imgSrc="https://www.aspose.cloud/templates/asposecloud/App_Themes/V3/images/sdk/272x272/aspose_barcode-for-net.png" >}}
+{{< blocks/products/pf/product pfName="Aspose.BarCode" title="Cloud SDK for .NET" imgSrc="https://www.aspose.cloud/templates/asposecloud/App_Themes/V3/images/sdk/272x272/aspose_barcode-for-net.png" productLink="https://products.aspose.cloud/barcode/net" >}}
 Generate Linear, Postal & 2D Barcodes across supported symbologies. Perform barcode customization on platforms capable of calling REST APIs.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.BarCode" title="Cloud SDK for PHP" imgSrc="https://www.aspose.cloud/templates/asposecloud/App_Themes/V3/images/sdk/272x272/aspose_barcode-for-php.png" >}}
+{{< blocks/products/pf/product pfName="Aspose.BarCode" title="Cloud SDK for PHP" imgSrc="https://www.aspose.cloud/templates/asposecloud/App_Themes/V3/images/sdk/272x272/aspose_barcode-for-php.png" productLink="https://products.aspose.cloud/barcode/php" >}}
 Integrate Barcode generation, customization & recognition in your PHP apps. Supports Postal, 2D & Linear barcodes for relevant symbologies.
 {{< /blocks/products/pf/product >}}
 
@@ -46,24 +46,15 @@ Integrate Barcode generation, customization & recognition in your PHP apps. Supp
 
 {{< blocks/products/pf/product-card-row title="Aspose.BarCode Cross Platform Apps Include" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.BarCode " title="Recognize" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_recognize-app.png" >}}
+{{< blocks/products/pf/product pfName="Aspose.BarCode " title="Recognize" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_recognize-app.png" productLink="https://products.aspose.app/barcode/recognize" >}}
 Recognize 1D & 2D barcodes from images. Supports various symbologies. Recognizes barcodes at various angles.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.BarCode " title="Generate" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_generate-app.png" >}}
+{{< blocks/products/pf/product pfName="Aspose.BarCode " title="Generate" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_generate-app.png" productLink="https://products.aspose.app/barcode/generate" >}}
 Enter data and instantly generate 1D or 2D barcodes from various symbologies.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/center-button href="https://products.aspose.app/barcode/family" innerText="View All Cross Platform Apps" >}}
-
-{{< /blocks/products/pf/product-card-row >}}
-
-{{< blocks/products/pf/product-card-row title="" >}}
-
-{{< blocks/products/pf/product pfName="" title="" imgSrc="" >}}
-{{< /blocks/products/pf/product >}}
-
-{{< blocks/products/pf/center-button href="" innerText="" >}}
 
 {{< /blocks/products/pf/product-card-row >}}
 

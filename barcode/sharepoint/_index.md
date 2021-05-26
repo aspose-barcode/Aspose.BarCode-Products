@@ -17,7 +17,177 @@ url: /sharepoint/
 <!--Diagrams Start-->
 {{< blocks/products/pf/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="" description="" >}}
+{{< blocks/products/pf/carousel-item h3="At a Glance" description="An overview of barcode generation features." >}}
+<div class="diagram1 d1-sharepoint">
+ <div class="d1-row">
+  <div class="d1-col d1-left">
+   <header>
+    <i class="fa fa-barcode">
+    </i>
+    Barcode Generation
+   </header>
+   <ul>
+    <li>
+     Set CodeText
+    </li>
+    <li>
+     Set Symbology
+    </li>
+    <li>
+     Add Barcode to List
+    </li>
+   </ul>
+  </div>
+  <!--/left-->
+  <div class="d1-col d1-right">
+  </div>
+  <!--/right-->
+ </div>
+ <!--/row-->
+ <div class="d1-logo">
+  <img alt="SharePoint Barcode Generator" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/barcode/272x272/aspose_barcode-for-sharepoint.png"/>
+  <header>
+   Aspose.BarCode
+  </header>
+  <footer>
+   <small>
+    <em>
+     for
+    </em>
+    SharePoint
+   </small>
+  </footer>
+ </div>
+ <!--/logo-->
+</div>
+
+{{< /blocks/products/pf/carousel-item >}}
+
+{{< blocks/products/pf/carousel-item h3="Supported Platform" description="Aspose.BarCode for SharePoint supports Microsoft SharePoint Foundation & SharePoint Server." >}}
+<div class="diagram1 d1-sharepoint">
+ <div class="d1-row">
+  <div class="d1-col d1-left">
+   <header style="padding-left: 0px;">
+    <i class="fa fa-cubes">
+    </i>
+    SharePoint Server
+   </header>
+   <ul>
+    <li>
+     2010
+    </li>
+   </ul>
+  </div>
+  <!--/left-->
+  <div class="d1-col d1-right">
+   <header style="padding-left: 0px;">
+    <i class="fa fa-cubes">
+    </i>
+    SharePoint Foundation
+   </header>
+   <ul>
+    <li>
+     2010
+    </li>
+   </ul>
+  </div>
+  <!--/right-->
+ </div>
+ <!--/row-->
+ <div class="d1-logo">
+  <img alt="SharePoint Barcode App" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/barcode/272x272/aspose_barcode-for-sharepoint.png"/>
+  <header>
+   Aspose.BarCode
+  </header>
+  <footer>
+   <small>
+    <em>
+     for
+    </em>
+    SharePoint
+   </small>
+  </footer>
+ </div>
+ <!--/logo-->
+</div>
+
+{{< /blocks/products/pf/carousel-item >}}
+
+{{< blocks/products/pf/carousel-item h3="Supported Barcode Types" description="Aspose.BarCode for SharePoint supports following [file formats](https://docs.aspose.com/barcode/sharepoint/supported-file-formats/)  :" >}}
+<div class="diagram1 d1-sharepoint">
+ <div class="d1-row">
+  <div class="d1-col d1-left">
+   <header>
+    <i class="fa fa-qrcode">
+    </i>
+    Input/Output
+   </header>
+   <ul>
+    <li>
+     JPEG
+    </li>
+    <li>
+     TIFF
+    </li>
+    <li>
+     PNG
+    </li>
+    <li>
+     BMP
+    </li>
+    <li>
+     GIF
+    </li>
+    <li>
+     EXIF
+    </li>
+   </ul>
+  </div>
+  <!--/left-->
+  <div class="d1-col d1-right">
+   <header>
+    <i class="fa fa-qrcode">
+    </i>
+    Output Only
+   </header>
+   <ul>
+    <li>
+     EMF
+    </li>
+    <li>
+     SVG
+    </li>
+   </ul>
+   <!--<header><i class="fa fa-qrcode"> </i>Barcode Types</header>
+
+<ul>
+
+<li>Linear Barcode Types</li>
+
+<li>2D Barcode Types</li>
+
+</ul>-->
+  </div>
+  <!--/right-->
+ </div>
+ <!--/row-->
+ <div class="d1-logo">
+  <img alt="SharePoint Barcode App" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/barcode/272x272/aspose_barcode-for-sharepoint.png"/>
+  <header>
+   Aspose.BarCode
+  </header>
+  <footer>
+   <small>
+    <em>
+     for
+    </em>
+    SharePoint
+   </small>
+  </footer>
+ </div>
+ <!--/logo-->
+</div>
+
 {{< /blocks/products/pf/carousel-item >}}
 
 {{< /blocks/products/pf/carousel >}}
