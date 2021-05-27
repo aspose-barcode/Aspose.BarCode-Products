@@ -255,6 +255,367 @@ description: Aspose.BarCode for .NET APIs to read create and recognize 1D 2D bar
 <!--Diagrams End-->
 
 <!--Feature-section Start-->
+<div class="container-fluid features-section bg-gray">
+ <a class="anchor" id="features" name="features">
+ </a>
+ <div class="row">
+  <div class="container">
+   <h2 class="pr-ft">
+    Advanced .NET Barcode API Features
+   </h2>
+   <p>
+   </p>
+   <div class="col-lg-4">
+    <em class="fa fa-print ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Print barcode labels with ease
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-barcode ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Save to or load from stream or file
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-exchange ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Encode &amp; decode characters (non-english) in 2D types
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-repeat ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Rotate barcode images at any angle
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-file-image-o ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Scan barcodes from multi-page TIFF
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-book ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Support for linear, 2D and postal symbologies
+    </p>
+   </div>
+   <div class="col-lg-12">
+    <h2 class="h2title">
+     Supported Symbologies
+    </h2>
+    <p>
+     .NET barcode library supports multiple 1D, 2D and postal bar code symbologies for both encode and decode capabilities.
+    </p>
+    <p>
+     API supported linear types include:
+    </p>
+    <div class="col-lg-6">
+     <ul class="unstyled">
+      <li>
+       EAN 13
+      </li>
+      <li>
+       EAN 8
+      </li>
+      <li>
+       UPC A
+      </li>
+      <li>
+       UPC E
+      </li>
+      <li>
+       Interleaved 2 of 5
+      </li>
+      <li>
+       Standard 2 of 5
+      </li>
+      <li>
+       MSI
+      </li>
+      <li>
+       Code 11
+      </li>
+      <li>
+       Codabar
+      </li>
+      <li>
+       EAN 14 (SCC 14)
+      </li>
+      <li>
+       SSCC 18
+      </li>
+      <li>
+       ITF 14
+      </li>
+      <li>
+       Matrix 2 of 5
+      </li>
+      <li>
+       PZN
+      </li>
+      <li>
+       Code 128
+      </li>
+      <li>
+       Code 39 Extended
+      </li>
+      <li>
+       Code 39 Standard
+      </li>
+      <li>
+       Code 93 Extended
+      </li>
+      <li>
+       Code 16K
+      </li>
+     </ul>
+    </div>
+    <div class="col-lg-6">
+     <ul class="unstyled">
+      <li>
+       Code 93 Standard
+      </li>
+      <li>
+       IATA 2 of 5
+      </li>
+      <li>
+       OPC
+      </li>
+      <li>
+       GS1Code128
+      </li>
+      <li>
+       ISBN
+      </li>
+      <li>
+       ISMN
+      </li>
+      <li>
+       ISSN
+      </li>
+      <li>
+       ITF6
+      </li>
+      <li>
+       VIN
+      </li>
+      <li>
+       Pharmacode
+      </li>
+      <li>
+       DatabarOmniDirectional
+      </li>
+      <li>
+       DatabarTruncated
+      </li>
+      <li>
+       DatabarLimited
+      </li>
+      <li>
+       DatabarExpanded
+      </li>
+      <li>
+       DatabarStacked
+      </li>
+      <li>
+       DatabarExpandedStacked
+      </li>
+      <li>
+       DatabarStackedOmniDirectional
+      </li>
+      <li>
+       PatchCode
+      </li>
+      <li>
+       Supplement (Decode only)
+      </li>
+     </ul>
+    </div>
+   </div>
+   <div class="col-lg-12">
+    <!-- <h2 class="h2title">2D Symbologies Include:</h2> -->
+    <p>
+     2D types include:
+    </p>
+    <div class="col-lg-6">
+     <ul class="unstyled">
+      <li>
+       PDF 417
+      </li>
+      <li>
+       Macro PDF 417
+      </li>
+      <li>
+       Micro PDF 417
+      </li>
+      <li>
+       Aztec
+      </li>
+      <li>
+       DataMatrix
+      </li>
+      <li>
+       Compact PDF 417 (Decode only)
+      </li>
+     </ul>
+    </div>
+    <div class="col-lg-6">
+     <ul class="unstyled">
+      <li>
+       QR
+      </li>
+      <li>
+       MicroQR
+      </li>
+      <li>
+       DotCode
+      </li>
+      <li>
+       MaxiCode
+      </li>
+      <li>
+       GS1DataMatrix
+      </li>
+      <li>
+       Italian Post 25
+      </li>
+      <li>
+       Code16K
+      </li>
+     </ul>
+    </div>
+   </div>
+   <div class="col-lg-12">
+    <!-- <h2 class="h2title">Postal Symbologies Include:</h2> -->
+    <p>
+     Postal types include:
+    </p>
+    <div class="col-lg-6">
+     <ul class="unstyled">
+      <li>
+       Postnet
+      </li>
+      <li>
+       Planet
+      </li>
+      <li>
+       Australia Post
+      </li>
+      <li>
+       USPS OneCode
+      </li>
+      <li>
+       Deutsche Post Identcode
+      </li>
+     </ul>
+    </div>
+    <div class="col-lg-6">
+     <ul class="unstyled">
+      <li>
+       RM4SCC
+      </li>
+      <li>
+       Deutsche Post Leticode
+      </li>
+      <li>
+       SingaporePost
+      </li>
+      <li>
+       AustralianPosteParcel
+      </li>
+      <li>
+       SwissPostParcel
+      </li>
+      <li>
+       UpcaGs1DatabarCoupon
+      </li>
+     </ul>
+    </div>
+   </div>
+   <div class="col-lg-12">
+    <h2 class="h2title">
+     Generate Barcodes
+    </h2>
+    <p>
+     Barcode generator API offers to create the barcodes by specifying various symbologies, setting code text (data to be encoded to barcode image) and appearance-related properties such as background foreground color, font as well as location(hide, above, below) and alignment. Moreover, one can create two-dimensional barcodes like PDF 417, Data Matrix, Aztec, QR and Micro QR barcode etc in the same way as of one dimensional.
+    </p>
+    <div class="codeblock" id="code">
+     <h3>
+      Barcode Generation - C#
+     </h3>
+     <pre><code class="cs"> // The path to the documents directory.
+
+string dataDir = "define-your-directory";
+
+// Instantiate object and set differnt barcode properties
+
+BarcodeGenerator  generator = new BarcodeGenerator (EncodeTypes.Code128, "1234567");
+
+generator.Parameters.Barcode.XDimension.Millimeters = 1f;
+
+
+
+// Save the image to your system and set its image format to Jpeg
+
+generator.Save(dataDir + "output.jpg", BarCodeImageFormat.Jpeg);</code></pre>
+    </div>
+   </div>
+   <div class="col-lg-12">
+    <h2 class="h2title">
+     Imaging, Rotation &amp; Sizing Support
+    </h2>
+    <p>
+     Aspose.BarCode for .NET allows the manipulation of label borders, border colors, style, margins, and width. It also provides the ability to modify image color, background color, and bar color. You can also rotate barcode images to any angle and produce high-quality images with anti-aliasing. In addition to this, you can set customized resolutions for the resultant images while saving them to any of the supported image formats.
+    </p>
+   </div>
+   <div class="col-lg-12">
+    <h2 class="h2title">
+     Scanning Barcode
+    </h2>
+    <p>
+     Barcode API contains another powerful feature to read or detect the most commonly used 1D and 2D barcodes, detecting them anywhere. Just few lines of code to detect the barcodes from the image.
+    </p>
+    <div class="codeblock" id="code">
+     <h3>
+      Barcode Recognition - C#
+     </h3>
+     <pre><code class="cs">using (BarCodeReader reader = new BarCodeReader(@"d:\template.jpg"))
+
+{
+
+    foreach (BarCodeResult result in reader.ReadBarCodes())
+
+    {
+
+        Console.WriteLine("Type: " + result.CodeType);
+
+        Console.WriteLine("CodeText: " + result.CodeText);
+
+    }
+
+}</code></pre>
+    </div>
+   </div>
+   <!--<div class="col-lg-12">
+
+<h2 class="h2title">GUI Based WYSIWYG Barcode Control</h2>
+
+<p>Aspose.BarCode for .NET also provides a GUI based WYSIWYG barcode control for Windows Forms, Web Forms and WPF applications. Almost all properties such as code text, symbology, caption, foreground color, and background color can be edited using this control.</p>
+
+</div>
+
+-->
+  </div>
+ </div>
+</div>
 <!--Feature-section End-->
 
 {{< /blocks/products/pf/main-container >}}

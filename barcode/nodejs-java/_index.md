@@ -29,6 +29,364 @@ description: Node.js barcode scanning and generation library for 1D, 2D and Post
 <!--Diagrams End-->
 
 <!--Feature-section Start-->
+<div class="container-fluid features-section bg-gray">
+ <a class="anchor" id="features" name="features">
+ </a>
+ <div class="row">
+  <div class="container">
+   <h2 class="pr-ft">
+    Advanced Node.js Barcode API Features
+   </h2>
+   <p>
+   </p>
+   <div class="col-lg-4">
+    <em class="fa fa-exchange ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Specify various kind of symbologies
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-object-group ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Set code text and styles
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-text-width ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Manage barcode caption
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-refresh ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Customize bar height
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-cogs ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Adjust X and Y dimensions for 2D types
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-anchor ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Recognize different barcode types
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-repeat ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Generate multiple barcode types
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-bolt ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Scan barcode by specifying area
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-signal ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Manipulate barcode image border styles
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-random ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Rotate barcode images to any degree
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-barcode ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Manage barcode image margins
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-percent ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Customize resolution
+    </p>
+   </div>
+   <!--<div class="col-lg-4"><em class="fa fa-circle ico-blue fa-2x col-lg-2"> </em>
+
+<p class="col-lg-10">Obtain Barcode Region Information from the Image</p>
+
+</div>
+
+<div class="col-lg-4"><em class="fa fa-star ico-blue fa-2x col-lg-2"> </em>
+
+<p class="col-lg-10">Read Barcode from Specific Region</p>
+
+</div>
+
+<div class="col-lg-4"><em class="fa fa-arrows ico-blue fa-2x col-lg-2"> </em>
+
+<p class="col-lg-10">Switch Barcode Recognition Modes as of Requirement</p>
+
+</div>-->
+   <!--<div class="col-lg-12">
+
+<h2 class="h2title">QR Code Generation</h2>
+
+<p>API has the capability to create barcodes of multiple types including DataMatrix, Aztec, Pdf417, multiple MacroPdf417 barcodes for large or multiple code text values. Here is the code for QR code generation.</p>
+
+<div id="code" class="codeblock">
+
+<h3>PHP QR Code Generator</h3>
+
+<pre><code class="java"> //Instantiate barcode object
+
+$builder = new BarCodeBuilder();
+
+
+
+$symbology=new Symbology();
+
+$builder-&gt;setSymbologyType($symbology-&gt;QR);
+
+ 
+
+$builder-&gt;setCodeText("1234567890");
+
+ 
+
+// Hide code text
+
+$codeLocation=new CodeLocation();
+
+$builder-&gt;setCodeLocation($codeLocation-&gt;None);
+
+ 
+
+$builder-&gt;setRotationAngleF(90);
+
+ 
+
+// Save the image to your system and set its image format to Jpeg
+
+$builder-&gt;save($dataDir . "CreatingQRBarcode.jpg");
+
+ 
+
+// Display or echo Status
+
+</code></pre>
+
+</div>
+
+</div>-->
+   <div class="col-lg-12">
+    <h2 class="h2title">
+     Supported Barcode Symbologies
+    </h2>
+    <p>
+     Aspose.BarCode for Node.js via Java supports a large number of Numeric, Alpha Numeric and 2D bar code symbologies for both encoding and decoding.
+    </p>
+    <p>
+     API supported Numeric Symbologies include:
+    </p>
+    <div class="col-lg-6">
+     <ul class="unstyled">
+      <li>
+       EAN13
+      </li>
+      <li>
+       EAN8
+      </li>
+      <li>
+       UPCA
+      </li>
+      <li>
+       UPCE
+      </li>
+      <li>
+       ISBN
+      </li>
+      <li>
+       ISMN
+      </li>
+      <li>
+       ISSN
+      </li>
+      <li>
+       Interleaved2of5
+      </li>
+      <li>
+       Standard2of5
+      </li>
+      <li>
+       MSI
+      </li>
+      <li>
+       Code11
+      </li>
+      <li>
+       Codabar
+      </li>
+     </ul>
+    </div>
+    <div class="col-lg-6">
+     <ul class="unstyled">
+      <li>
+       Postnet
+      </li>
+      <li>
+       Planet
+      </li>
+      <li>
+       EAN14(SCC14)
+      </li>
+      <li>
+       SSCC18
+      </li>
+      <li>
+       ITF14
+      </li>
+      <li>
+       IATA 2 of 5
+      </li>
+      <li>
+       DatabarOmniDirectional
+      </li>
+      <li>
+       DatabarStackedOmniDirectional
+      </li>
+      <li>
+       DatabarExpandedStacked
+      </li>
+      <li>
+       DatabarStacked
+      </li>
+      <li>
+       DatabarLimited
+      </li>
+      <li>
+       DatabarTruncated
+      </li>
+     </ul>
+    </div>
+    <p>
+     API supported Alpha Numeric Symbologies include:
+    </p>
+    <div>
+     <div class="col-lg-6">
+      <ul class="unstyled">
+       <li>
+        GS1Code128
+       </li>
+       <li>
+        Code128
+       </li>
+       <li>
+        Code39 Extended
+       </li>
+       <li>
+        Code39 Standard
+       </li>
+       <li>
+        Code93 Extended
+       </li>
+       <li>
+        Code93 Standard
+       </li>
+      </ul>
+     </div>
+     <div class="col-lg-6">
+      <ul class="unstyled">
+       <li>
+        Australia Post
+       </li>
+       <li>
+        Italian Post 25
+       </li>
+       <li>
+        Matrix 2 of 5
+       </li>
+       <li>
+        DatabarExpanded
+       </li>
+       <li>
+        PatchCode
+        <br/>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <p>
+     Supported 2D Symbologies include:
+    </p>
+    <div>
+     <div class="col-lg-6">
+      <ul class="unstyled">
+       <li>
+        PDF417
+       </li>
+       <li>
+        DataMatrix
+       </li>
+       <li>
+        Aztec
+       </li>
+       <li>
+        QR
+       </li>
+       <li>
+        MicroQR
+       </li>
+      </ul>
+     </div>
+     <div class="col-lg-6">
+      <ul class="unstyled">
+       <li>
+        GS1DataMatrix
+       </li>
+       <li>
+        Code16K
+       </li>
+       <li>
+        CompactPDF417
+       </li>
+       <li>
+        Swiss QR (QR Bill)
+       </li>
+      </ul>
+     </div>
+    </div>
+   </div>
+   <!--<div class="col-lg-12">
+
+<h2 class="h2title">Imaging, Rotation & Sizing</h2>
+
+<p>Common manipulation features of the barcode library are modifying barcode image, border and background colors, bar color, margins, width of images and much more. Furthermore, PHP API can adjust the resolution for the resultant images and can rotate images at any angle for generating high-quality images with anti-aliasing.</p>
+
+</div>
+
+<div class="col-lg-12">
+
+<h2 class="h2title">Customizing Symbologies & Appearance</h2>
+
+<p>PHP barcode API allows you to easily customize the codes by specifying different kinds of symbologies, setting code text (data to be encoded to barcode image) and appearance-related properties like font, background color, foreground color, as well as alignment and location (hide, above, below). You can also easily manage caption settings such as font, background color, foreground color, alignment and location (hide, above, below).</p>
+
+</div>-->
+  </div>
+ </div>
+</div>
 <!--Feature-section End-->
 
 {{< /blocks/products/pf/main-container >}}
