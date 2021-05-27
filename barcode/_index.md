@@ -60,14 +60,28 @@ Enter data and instantly generate 1D or 2D barcodes from various symbologies.
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/testimonials title="What People Are Saying" subTitle="Don't just take our word for it. See what users have to say about Aspose.BarCode." >}}
+{{< blocks/products/pf/testimonials title="What People Are Saying" subTitle="Don't just take our word for it. See what users have to say about Aspose.BarCode." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.barcode/" >}}
 
 {{< blocks/products/pf/testimonials-quote >}}
-The barcode control allowed me to shorten the time between scanning a file, and making it searchable within the system by allowing me to manipulate files as soon as they were scanned.
+<p class="first">
+ The barcode control allowed me to shorten the time between scanning a file, and making it searchable within the system by allowing me to manipulate files as soon as they were scanned.
+ <em>
+  Kiel Diller | KD Solutions
+ </em>
+</p>
+
 {{< /blocks/products/pf/testimonials-quote >}}
+
 {{< blocks/products/pf/testimonials-quote >}}
-Aspose.BarCode is truly written managed code and gives us a variety of barcode types to handle all kinds of document recognition and further processing.
+<p class="second">
+ Aspose.BarCode is truly written managed code and gives us a variety of barcode types to handle all kinds of document recognition and further processing.
+ <em>
+  Dennis Alexander Petrasch | Head Developer at Keil IT
+ </em>
+</p>
+
 {{< /blocks/products/pf/testimonials-quote >}}
+
 {{< /blocks/products/pf/testimonials >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

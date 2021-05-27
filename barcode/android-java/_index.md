@@ -5,13 +5,17 @@ url: /android-java/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Android APIs for Barcode Generation & Recognition" h2="Create or read 1D, 2D and postal barcodes from images in any Android mobile app." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/barcode/header/aspose_barcode_for-android-java.png" pfName="Aspose.BarCode" subTitlepfName="for Android via Java" downloadUrl="https://downloads.aspose.com/barcode/androidjava" >}}
+{{< blocks/products/pf/upper-banner h1="Android APIs for Barcode Generation & Recognition" h2="Create or read 1D, 2D and postal barcodes from images in any Android mobile app." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/barcode/header/aspose_barcode_for-android-java.png" pfName="Aspose.BarCode for Android via Java" subTitlepfName="for Android via Java" downloadUrl="https://downloads.aspose.com/barcode/androidjava" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.BarCode" subTitlepfName="for Android via Java" >}}
 
 {{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/barcode/272x272/aspose_barcode-for-android-via-java.png" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/barcode/android-java" buyLink="" docsLink="https://docs.aspose.com/barcode/java/android-via-java-release-notes/" instalationsDocsLink="https://docs.aspose.com/barcode/java/aspose-barcode-for-android-via-java-installation/" nugetLink="" nugetPackageName="" >}}
 
 {{< blocks/products/pf/tab-content >}}
+<p>
+ Aspose.BarCode for Android via Java is a set of barcode generation &amp; scanning APIs for Android applications. API supports 1D, 2D &amp; postal barcodes from different angles on images. Barcode generator API easily creates barcode images within multiple formats.  Moreover, It supports multiple imaging features such as manipulating image borders, image color, rotating images, customizing resolution and much more.
+</p>
+
 {{< /blocks/products/pf/tab-content >}}
 
 <!--Diagrams Start-->
@@ -208,12 +212,6 @@ url: /android-java/
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/testimonials title="" subTitle="" >}}
-
-{{< blocks/products/pf/testimonials-quote >}}
-{{< /blocks/products/pf/testimonials-quote >}}
-
-{{< /blocks/products/pf/testimonials >}}
 
 {{< blocks/products/pf/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="Learning Resources" tabId="resources" >}}
@@ -238,16 +236,16 @@ url: /android-java/
 
 {{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/barcode/androidjava" pricingInformationLink="https://purchase.aspose.com/pricing/barcode/android-java" >}}
 
-{{< blocks/products/pf/offers-section pfName="Aspose.BarCode offers individual Barcode generation and recognition APIs for other popular development environments as listed below:" >}}
+{{< blocks/products/pf/offers-section pfName="Aspose.BarCode" description="Aspose.BarCode offers individual Barcode generation and recognition APIs for other popular development environments as listed below:" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/barcode/net" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/barcode/272x272/aspose_barcode-for-net.png" sdkName="Aspose.BarCode for .NET" >}}
-    {{< blocks/products/pf/offers-section-item link="/barcode/java" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/barcode/272x272/aspose_barcode-for-java.png" sdkName="Aspose.BarCode for Java" >}}
-    {{< blocks/products/pf/offers-section-item link="/barcode/cpp" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/barcode/272x272/aspose_barcode-for-cpp.png" sdkName="Aspose.BarCode for C++" >}}
-    {{< blocks/products/pf/offers-section-item link="/barcode/sharepoint" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/barcode/272x272/aspose_barcode-for-sharepoint.png" sdkName="Aspose.BarCode for SharePoint" >}}
-    {{< blocks/products/pf/offers-section-item link="/barcode/reporting-services" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/barcode/272x272/aspose_barcode-for-reporting-services.png" sdkName="Aspose.BarCode for Reporting Services" >}}
-    {{< blocks/products/pf/offers-section-item link="/barcode/jasperreports" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/barcode/272x272/aspose_barcode-for-jasperreports.png" sdkName="Aspose.BarCode for JasperReports" >}}
-    {{< blocks/products/pf/offers-section-item link="/barcode/php-java" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/barcode/272x272/aspose_barcode-for-php-via-java.png" sdkName="Aspose.BarCode for PHP via Java" >}}
-    {{< blocks/products/pf/offers-section-item link="/barcode/nodejs-java" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/barcode/header/aspose_barcode-for-nodejs-java.png" sdkName="Aspose.BarCode for Node.js via Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/barcode/net" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/barcode/272x272/aspose_barcode-for-net.png" sdkName=".NET" >}}
+    {{< blocks/products/pf/offers-section-item link="/barcode/java" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/barcode/272x272/aspose_barcode-for-java.png" sdkName="Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/barcode/cpp" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/barcode/272x272/aspose_barcode-for-cpp.png" sdkName="C++" >}}
+    {{< blocks/products/pf/offers-section-item link="/barcode/sharepoint" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/barcode/272x272/aspose_barcode-for-sharepoint.png" sdkName="SharePoint" >}}
+    {{< blocks/products/pf/offers-section-item link="/barcode/reporting-services" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/barcode/272x272/aspose_barcode-for-reporting-services.png" sdkName="Reporting Services" >}}
+    {{< blocks/products/pf/offers-section-item link="/barcode/jasperreports" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/barcode/272x272/aspose_barcode-for-jasperreports.png" sdkName="JasperReports" >}}
+    {{< blocks/products/pf/offers-section-item link="/barcode/php-java" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/barcode/272x272/aspose_barcode-for-php-via-java.png" sdkName="PHP via Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/barcode/nodejs-java" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/barcode/header/aspose_barcode-for-nodejs-java.png" sdkName="Node.js via Java" >}}
 
 {{< /blocks/products/pf/offers-section >}}
 

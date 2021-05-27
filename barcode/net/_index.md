@@ -5,14 +5,21 @@ url: /net/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1=".NET APIs to Generate & Recognize Barcodes" h2="Create, & recognize barcodes of linear, 2D and postal types from multiple images within any .NET application." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/header/aspose_barcode-for-net.png" pfName="Aspose.BarCode" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/barcode/net" >}}
+{{< blocks/products/pf/upper-banner h1=".NET APIs to Generate & Recognize Barcodes" h2="Create, & recognize barcodes of linear, 2D and postal types from multiple images within any .NET application." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/header/aspose_barcode-for-net.png" pfName="Aspose.BarCode for .NET" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/barcode/net" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.BarCode" subTitlepfName="for .NET" >}}
 
 {{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/barcode/272x272/aspose_barcode-for-net.png" liveDemosLink="https://products.aspose.app/barcode/family" PricingLink="https://purchase.aspose.com/pricing/barcode/net" buyLink="" docsLink="https://docs.aspose.com/barcode/net/" instalationsDocsLink="https://docs.aspose.com/barcode/net/installation" nugetLink="https://www.nuget.org/packages/Aspose.BarCode/" nugetPackageName="Aspose.BarCode" >}}
 
 {{< blocks/products/pf/tab-content >}}
-<p>Aspose.BarCode for .NET supports to manipulate the appearance of the generated barcodes like background color, bar color, rotation angle, x-dimension, image quality, resolution, captions, size and much more. Moreover, API supports multiple types of recognition and imaging features as well as different types of symbologies.</p>
+<p>
+ Aspose.BarCode for .NET is a powerful library to generate &amp; recognize 1D &amp; 2D barcodes from multiple image types at any angle. Developers can easily add the barcode generation and scanning functionality to their .NET applications. It also allows exporting the generated barcodes to different high-quality image formats.
+</p>
+
+<p>
+ Aspose.BarCode for .NET supports to manipulate the appearance of the generated barcodes like background color, bar color, rotation angle, x-dimension, image quality, resolution, captions, size and much more. Moreover, API supports multiple types of recognition and imaging features as well as different types of symbologies.
+</p>
+
 {{< /blocks/products/pf/tab-content >}}
 
 <!--Diagrams Start-->
@@ -251,14 +258,24 @@ url: /net/
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/testimonials title="What People Are Saying" subTitle="Don't just take our word for it. See what users have to say about APIs." >}}
+{{< blocks/products/pf/testimonials title="What People Are Saying" subTitle="Don't just take our word for it. See what users have to say about APIs." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.barcode/" >}}
 
 {{< blocks/products/pf/testimonials-quote >}}
-I have spent many years developing and enhancing my product and Aspose has allowed me to make my product much more friendly and useful, and therefore more marketable.
+<p class="first">
+ I have spent many years developing and enhancing my product and Aspose has allowed me to make my product much more friendly and useful, and therefore more marketable.
+ <em>
+  Kiel Diller | KD Solutions, Poland
+ </em>
+</p>
 {{< /blocks/products/pf/testimonials-quote >}}
 
 {{< blocks/products/pf/testimonials-quote >}}
-Aspose.BarCode is truly written in managed code and gives us a variety of barcode types to handle all kinds of document recognition and further processing.
+<p class="second">
+ Aspose.BarCode is truly written in managed code and gives us a variety of barcode types to handle all kinds of document recognition and further processing.
+ <em>
+  Dennis Alexander Petrasc | Keil IT, Germany
+ </em>
+</p>
 {{< /blocks/products/pf/testimonials-quote >}}
 
 {{< /blocks/products/pf/testimonials >}}
@@ -287,16 +304,16 @@ Aspose.BarCode is truly written in managed code and gives us a variety of barcod
 
 {{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/barcode/net" pricingInformationLink="https://purchase.aspose.com/pricing/barcode/net" >}}
 
-{{< blocks/products/pf/offers-section pfName="Aspose.BarCode offers individual Barcode generation and recognition APIs for other popular development environments as listed below:" >}}
+{{< blocks/products/pf/offers-section pfName="Aspose.BarCode" description="Aspose.BarCode offers individual Barcode generation and recognition APIs for other popular development environments as listed below:" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/barcode/java" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/barcode/272x272/aspose_barcode-for-java.png" sdkName="Aspose.BarCode for Java" >}}
-    {{< blocks/products/pf/offers-section-item link="/barcode/cpp" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/barcode/272x272/aspose_barcode-for-cpp.png" sdkName="Aspose.BarCode for C++" >}}
-    {{< blocks/products/pf/offers-section-item link="/barcode/android-java" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/barcode/272x272/aspose_barcode-for-android-via-java.png" sdkName="Aspose.BarCode for Android via Java" >}}
-    {{< blocks/products/pf/offers-section-item link="/barcode/sharepoint" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/barcode/272x272/aspose_barcode-for-sharepoint.png" sdkName="Aspose.BarCode for SharePoint" >}}
-    {{< blocks/products/pf/offers-section-item link="/barcode/reporting-services" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/barcode/272x272/aspose_barcode-for-reporting-services.png" sdkName="Aspose.BarCode for Reporting Services" >}}
-    {{< blocks/products/pf/offers-section-item link="/barcode/jasperreports" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/barcode/272x272/aspose_barcode-for-jasperreports.png" sdkName="Aspose.BarCode for JasperReports" >}}
-    {{< blocks/products/pf/offers-section-item link="/barcode/php-java" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/barcode/272x272/aspose_barcode-for-php-via-java.png" sdkName="Aspose.BarCode for PHP via Java" >}}
-    {{< blocks/products/pf/offers-section-item link="/barcode/nodejs-java" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/barcode/header/aspose_barcode-for-nodejs-java.png" sdkName="Aspose.BarCode for Node.js via Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/barcode/java" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/barcode/272x272/aspose_barcode-for-java.png" sdkName="Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/barcode/cpp" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/barcode/272x272/aspose_barcode-for-cpp.png" sdkName="C++" >}}
+    {{< blocks/products/pf/offers-section-item link="/barcode/android-java" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/barcode/272x272/aspose_barcode-for-android-via-java.png" sdkName="Android via Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/barcode/sharepoint" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/barcode/272x272/aspose_barcode-for-sharepoint.png" sdkName="SharePoint" >}}
+    {{< blocks/products/pf/offers-section-item link="/barcode/reporting-services" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/barcode/272x272/aspose_barcode-for-reporting-services.png" sdkName="Reporting Services" >}}
+    {{< blocks/products/pf/offers-section-item link="/barcode/jasperreports" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/barcode/272x272/aspose_barcode-for-jasperreports.png" sdkName="JasperReports" >}}
+    {{< blocks/products/pf/offers-section-item link="/barcode/php-java" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/barcode/272x272/aspose_barcode-for-php-via-java.png" sdkName="PHP via Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/barcode/nodejs-java" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/barcode/header/aspose_barcode-for-nodejs-java.png" sdkName="Node.js via Java" >}}
 
 {{< /blocks/products/pf/offers-section >}}
 
