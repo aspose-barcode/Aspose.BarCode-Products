@@ -2,6 +2,7 @@
 title:  
 weight: 970
 url: /java/generate/planet/ 
+description: Try our On-Premise PLANET Barcode Image Generation API on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

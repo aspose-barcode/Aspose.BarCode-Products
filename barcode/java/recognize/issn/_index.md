@@ -2,6 +2,7 @@
 title:  
 weight: 1250
 url: /java/recognize/issn/ 
+description: Try our On-Premise ISSN Barcode Reader and Decoder APIs on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

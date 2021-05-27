@@ -2,6 +2,7 @@
 title:  
 weight: 840
 url: /java/generate/dotcode/ 
+description: Try our On-Premise DOTCODE Barcode Image Generation API on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

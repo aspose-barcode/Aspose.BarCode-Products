@@ -2,6 +2,7 @@
 title:  
 weight: 1840
 url: /net/recognize/deutschepost/ 
+description: Try our On-Premise DEUTSCHEPOST Barcode Reader and Decoder APIs on .NET Framework, .NET Standard, COM Interloop for PHP, VBScript, Delphi, C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -2,6 +2,7 @@
 title:  
 weight: 200
 url: /cpp/generate/interleaved2of5/ 
+description: Try our On-Premise INTERLEAVED2OF5 Barcode Image Generation API on C++ Runtime Environment for Windows 32 bit, Windows 64 bit and Linux 64 bit.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

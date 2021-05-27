@@ -2,6 +2,7 @@
 title:  
 weight: 1640
 url: /net/generate/planet/ 
+description: Try our On-Premise PLANET Barcode Image Generation API on .NET Framework, .NET Standard, COM Interloop for PHP, VBScript, Delphi, C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

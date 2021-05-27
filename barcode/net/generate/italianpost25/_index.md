@@ -2,6 +2,7 @@
 title:  
 weight: 1590
 url: /net/generate/italianpost25/ 
+description: Try our On-Premise ITALIANPOST25 Barcode Image Generation API on .NET Framework, .NET Standard, COM Interloop for PHP, VBScript, Delphi, C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -2,6 +2,7 @@
 title:  
 weight: 790
 url: /java/generate/codeblock/ 
+description: Try our On-Premise CODEBLOCK Barcode Image Generation API on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

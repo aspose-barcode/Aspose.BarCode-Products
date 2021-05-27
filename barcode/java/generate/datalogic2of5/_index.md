@@ -2,6 +2,7 @@
 title:  
 weight: 810
 url: /java/generate/datalogic2of5/ 
+description: Try our On-Premise DATALOGIC2OF5 Barcode Image Generation API on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -2,6 +2,7 @@
 title:  
 weight: 410
 url: /cpp/recognize/code128/ 
+description: Try our On-Premise CODE128 Barcode Reader and Decoder APIs on C++ Runtime Environment for Windows 32 bit, Windows 64 bit and Linux 64 bit.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

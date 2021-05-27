@@ -2,6 +2,7 @@
 title:  
 weight: 2010
 url: /net/recognize/rm4scc/ 
+description: Try our On-Premise RM4SCC Barcode Reader and Decoder APIs on .NET Framework, .NET Standard, COM Interloop for PHP, VBScript, Delphi, C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

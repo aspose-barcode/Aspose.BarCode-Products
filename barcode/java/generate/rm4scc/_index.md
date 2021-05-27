@@ -2,6 +2,7 @@
 title:  
 weight: 1000
 url: /java/generate/rm4scc/ 
+description: Try our On-Premise RM4SCC Barcode Image Generation API on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

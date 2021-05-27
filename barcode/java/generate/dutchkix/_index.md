@@ -2,6 +2,7 @@
 title:  
 weight: 850
 url: /java/generate/dutchkix/ 
+description: Try our On-Premise DUTCHKIX Barcode Image Generation API on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

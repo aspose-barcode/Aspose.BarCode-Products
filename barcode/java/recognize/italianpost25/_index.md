@@ -2,6 +2,7 @@
 title:  
 weight: 1260
 url: /java/recognize/italianpost25/ 
+description: Try our On-Premise ITALIANPOST25 Barcode Reader and Decoder APIs on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

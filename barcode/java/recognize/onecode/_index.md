@@ -2,6 +2,7 @@
 title:  
 weight: 1290
 url: /java/recognize/onecode/ 
+description: Try our On-Premise ONECODE Barcode Reader and Decoder APIs on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

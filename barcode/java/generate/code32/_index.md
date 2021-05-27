@@ -2,6 +2,7 @@
 title:  
 weight: 760
 url: /java/generate/code32/ 
+description: Try our On-Premise CODE32 Barcode Image Generation API on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

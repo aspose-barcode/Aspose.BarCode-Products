@@ -2,6 +2,7 @@
 title:  
 weight: 1420
 url: /net/generate/code16k/ 
+description: Try our On-Premise CODE16K Barcode Image Generation API on .NET Framework, .NET Standard, COM Interloop for PHP, VBScript, Delphi, C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

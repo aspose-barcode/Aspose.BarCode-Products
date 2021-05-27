@@ -2,6 +2,7 @@
 title:  
 weight: 960
 url: /java/generate/pdf417/ 
+description: Try our On-Premise PDF417 Barcode Image Generation API on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

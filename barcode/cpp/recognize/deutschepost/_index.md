@@ -2,6 +2,7 @@
 title:  
 weight: 490
 url: /cpp/recognize/deutschepost/ 
+description: Try our On-Premise DEUTSCHEPOST Barcode Reader and Decoder APIs on C++ Runtime Environment for Windows 32 bit, Windows 64 bit and Linux 64 bit.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

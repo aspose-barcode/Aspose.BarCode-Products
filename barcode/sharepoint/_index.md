@@ -2,6 +2,7 @@
 title: SharePoint Barcode API - Insert Barcodes on SharePoint Lists 
 weight: 2080
 url: /sharepoint/ 
+description: Barcode SharePoint API to insert barcode labels in custom SharePoint Lists. Developers can use Service Markers to pick code text values or insert the text manually
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}

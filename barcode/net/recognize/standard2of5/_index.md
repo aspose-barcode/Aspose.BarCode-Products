@@ -2,6 +2,7 @@
 title:  
 weight: 2030
 url: /net/recognize/standard2of5/ 
+description: Try our On-Premise STANDARD2OF5 Barcode Reader and Decoder APIs on .NET Framework, .NET Standard, COM Interloop for PHP, VBScript, Delphi, C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

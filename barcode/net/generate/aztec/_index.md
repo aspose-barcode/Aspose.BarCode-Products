@@ -2,6 +2,7 @@
 title:  
 weight: 1400
 url: /net/generate/aztec/ 
+description: Try our On-Premise AZTEC Barcode Image Generation API on .NET Framework, .NET Standard, COM Interloop for PHP, VBScript, Delphi, C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

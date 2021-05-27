@@ -2,6 +2,7 @@
 title:  
 weight: 1660
 url: /net/generate/qr/ 
+description: Try our On-Premise QR Barcode Image Generation API on .NET Framework, .NET Standard, COM Interloop for PHP, VBScript, Delphi, C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -2,6 +2,7 @@
 title:  
 weight: 780
 url: /java/generate/code93/ 
+description: Try our On-Premise CODE93 Barcode Image Generation API on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -2,6 +2,7 @@
 title:  
 weight: 1970
 url: /net/recognize/pdf417/ 
+description: Try our On-Premise PDF417 Barcode Reader and Decoder APIs on .NET Framework, .NET Standard, COM Interloop for PHP, VBScript, Delphi, C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

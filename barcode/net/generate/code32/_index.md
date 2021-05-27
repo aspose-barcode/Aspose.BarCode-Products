@@ -2,6 +2,7 @@
 title:  
 weight: 1430
 url: /net/generate/code32/ 
+description: Try our On-Premise CODE32 Barcode Image Generation API on .NET Framework, .NET Standard, COM Interloop for PHP, VBScript, Delphi, C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

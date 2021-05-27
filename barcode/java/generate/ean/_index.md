@@ -2,6 +2,7 @@
 title:  
 weight: 860
 url: /java/generate/ean/ 
+description: Try our On-Premise EAN Barcode Image Generation API on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

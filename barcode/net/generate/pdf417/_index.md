@@ -2,6 +2,7 @@
 title:  
 weight: 1630
 url: /net/generate/pdf417/ 
+description: Try our On-Premise PDF417 Barcode Image Generation API on .NET Framework, .NET Standard, COM Interloop for PHP, VBScript, Delphi, C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

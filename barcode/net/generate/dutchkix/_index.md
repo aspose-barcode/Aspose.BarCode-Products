@@ -2,6 +2,7 @@
 title:  
 weight: 1520
 url: /net/generate/dutchkix/ 
+description: Try our On-Premise DUTCHKIX Barcode Image Generation API on .NET Framework, .NET Standard, COM Interloop for PHP, VBScript, Delphi, C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

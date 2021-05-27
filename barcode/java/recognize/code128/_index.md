@@ -2,6 +2,7 @@
 title:  
 weight: 1090
 url: /java/recognize/code128/ 
+description: Try our On-Premise CODE128 Barcode Reader and Decoder APIs on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -2,6 +2,7 @@
 title:  
 weight: 1750
 url: /net/recognize/codablock/ 
+description: Try our On-Premise CODABLOCK Barcode Reader and Decoder APIs on .NET Framework, .NET Standard, COM Interloop for PHP, VBScript, Delphi, C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

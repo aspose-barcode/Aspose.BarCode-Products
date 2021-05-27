@@ -2,6 +2,7 @@
 title:  
 weight: 880
 url: /java/generate/interleaved2of5/ 
+description: Try our On-Premise INTERLEAVED2OF5 Barcode Image Generation API on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

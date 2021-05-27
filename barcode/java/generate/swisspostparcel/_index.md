@@ -2,6 +2,7 @@
 title:  
 weight: 1030
 url: /java/generate/swisspostparcel/ 
+description: Try our On-Premise SWISSPOSTPARCEL Barcode Image Generation API on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

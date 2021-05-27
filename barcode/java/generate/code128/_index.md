@@ -2,6 +2,7 @@
 title:  
 weight: 740
 url: /java/generate/code128/ 
+description: Try our On-Premise CODE128 Barcode Image Generation API on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -2,6 +2,7 @@
 title: C# .NET Barcode API - Read Generate and Recognize Barcodes 
 weight: 1720
 url: /net/ 
+description: Aspose.BarCode for .NET APIs to read create and recognize 1D 2D barcodes. Integrate within C# VB.NET ASP.NET applications to scan and print barcode labels
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}

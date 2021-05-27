@@ -2,6 +2,7 @@
 title: Nodejs Barcode Scanner, Recognition and Generator API  - Aspose 
 weight: 2060
 url: /nodejs-java/ 
+description: Node.js barcode scanning and generation library for 1D, 2D and Postal types. Integrate in React Angular apps easily for QR Code maxicode Aztec Code128 EAN-128 and more
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}

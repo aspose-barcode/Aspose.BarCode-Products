@@ -2,6 +2,7 @@
 title:  
 weight: 1940
 url: /net/recognize/itf/ 
+description: Try our On-Premise ITF Barcode Reader and Decoder APIs on .NET Framework, .NET Standard, COM Interloop for PHP, VBScript, Delphi, C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

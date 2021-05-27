@@ -2,6 +2,7 @@
 title:  
 weight: 940
 url: /java/generate/matrix2of5/ 
+description: Try our On-Premise MATRIX2OF5 Barcode Image Generation API on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

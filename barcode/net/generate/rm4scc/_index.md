@@ -2,6 +2,7 @@
 title:  
 weight: 1670
 url: /net/generate/rm4scc/ 
+description: Try our On-Premise RM4SCC Barcode Image Generation API on .NET Framework, .NET Standard, COM Interloop for PHP, VBScript, Delphi, C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

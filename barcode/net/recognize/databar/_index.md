@@ -2,6 +2,7 @@
 title:  
 weight: 1810
 url: /net/recognize/databar/ 
+description: Try our On-Premise DATABAR Barcode Reader and Decoder APIs on .NET Framework, .NET Standard, COM Interloop for PHP, VBScript, Delphi, C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -2,6 +2,7 @@
 title:  
 weight: 1410
 url: /net/generate/code128/ 
+description: Try our On-Premise CODE128 Barcode Image Generation API on .NET Framework, .NET Standard, COM Interloop for PHP, VBScript, Delphi, C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

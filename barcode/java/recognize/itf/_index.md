@@ -2,6 +2,7 @@
 title:  
 weight: 1270
 url: /java/recognize/itf/ 
+description: Try our On-Premise ITF Barcode Reader and Decoder APIs on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

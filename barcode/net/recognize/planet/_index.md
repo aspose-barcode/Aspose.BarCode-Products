@@ -2,6 +2,7 @@
 title:  
 weight: 1980
 url: /net/recognize/planet/ 
+description: Try our On-Premise PLANET Barcode Reader and Decoder APIs on .NET Framework, .NET Standard, COM Interloop for PHP, VBScript, Delphi, C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

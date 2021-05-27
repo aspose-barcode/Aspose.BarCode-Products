@@ -2,6 +2,7 @@
 title:  
 weight: 1780
 url: /net/recognize/code32/ 
+description: Try our On-Premise CODE32 Barcode Reader and Decoder APIs on .NET Framework, .NET Standard, COM Interloop for PHP, VBScript, Delphi, C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

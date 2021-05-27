@@ -2,6 +2,7 @@
 title:  
 weight: 1830
 url: /net/recognize/datamatrix/ 
+description: Try our On-Premise DATAMATRIX Barcode Reader and Decoder APIs on .NET Framework, .NET Standard, COM Interloop for PHP, VBScript, Delphi, C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -2,6 +2,7 @@
 title:  
 weight: 770
 url: /java/generate/code39/ 
+description: Try our On-Premise CODE39 Barcode Image Generation API on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

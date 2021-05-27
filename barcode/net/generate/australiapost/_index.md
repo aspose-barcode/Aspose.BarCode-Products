@@ -2,6 +2,7 @@
 title:  
 weight: 1390
 url: /net/generate/australiapost/ 
+description: Try our On-Premise AUSTRALIAPOST Barcode Image Generation API on .NET Framework, .NET Standard, COM Interloop for PHP, VBScript, Delphi, C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

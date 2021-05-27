@@ -2,6 +2,7 @@
 title:  
 weight: 2040
 url: /net/recognize/swisspostparcel/ 
+description: Try our On-Premise SWISSPOSTPARCEL Barcode Reader and Decoder APIs on .NET Framework, .NET Standard, COM Interloop for PHP, VBScript, Delphi, C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

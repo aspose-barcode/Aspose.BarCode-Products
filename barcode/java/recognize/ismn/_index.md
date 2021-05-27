@@ -2,6 +2,7 @@
 title:  
 weight: 1240
 url: /java/recognize/ismn/ 
+description: Try our On-Premise ISMN Barcode Reader and Decoder APIs on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

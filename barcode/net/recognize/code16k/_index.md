@@ -2,6 +2,7 @@
 title:  
 weight: 1770
 url: /net/recognize/code16k/ 
+description: Try our On-Premise CODE16K Barcode Reader and Decoder APIs on .NET Framework, .NET Standard, COM Interloop for PHP, VBScript, Delphi, C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

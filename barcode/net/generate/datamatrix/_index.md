@@ -2,6 +2,7 @@
 title:  
 weight: 1490
 url: /net/generate/datamatrix/ 
+description: Try our On-Premise DATAMATRIX Barcode Image Generation API on .NET Framework, .NET Standard, COM Interloop for PHP, VBScript, Delphi, C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

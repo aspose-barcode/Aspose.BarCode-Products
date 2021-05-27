@@ -2,6 +2,7 @@
 title:  
 weight: 1860
 url: /net/recognize/dutchkix/ 
+description: Try our On-Premise DUTCHKIX Barcode Reader and Decoder APIs on .NET Framework, .NET Standard, COM Interloop for PHP, VBScript, Delphi, C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

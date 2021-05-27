@@ -2,6 +2,7 @@
 title:  
 weight: 1190
 url: /java/recognize/dutchkix/ 
+description: Try our On-Premise DUTCHKIX Barcode Reader and Decoder APIs on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

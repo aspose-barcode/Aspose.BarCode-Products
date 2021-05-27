@@ -2,6 +2,7 @@
 title:  
 weight: 1300
 url: /java/recognize/pdf417/ 
+description: Try our On-Premise PDF417 Barcode Reader and Decoder APIs on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

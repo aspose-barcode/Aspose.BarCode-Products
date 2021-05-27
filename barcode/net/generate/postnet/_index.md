@@ -2,6 +2,7 @@
 title:  
 weight: 1650
 url: /net/generate/postnet/ 
+description: Try our On-Premise POSTNET Barcode Image Generation API on .NET Framework, .NET Standard, COM Interloop for PHP, VBScript, Delphi, C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

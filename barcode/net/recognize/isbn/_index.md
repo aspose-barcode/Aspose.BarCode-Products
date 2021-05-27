@@ -2,6 +2,7 @@
 title:  
 weight: 1900
 url: /net/recognize/isbn/ 
+description: Try our On-Premise ISBN Barcode Reader and Decoder APIs on .NET Framework, .NET Standard, COM Interloop for PHP, VBScript, Delphi, C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

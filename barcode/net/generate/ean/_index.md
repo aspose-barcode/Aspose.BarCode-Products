@@ -2,6 +2,7 @@
 title:  
 weight: 1530
 url: /net/generate/ean/ 
+description: Try our On-Premise EAN Barcode Image Generation API on .NET Framework, .NET Standard, COM Interloop for PHP, VBScript, Delphi, C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

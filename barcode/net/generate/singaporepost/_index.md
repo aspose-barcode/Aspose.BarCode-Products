@@ -2,6 +2,7 @@
 title:  
 weight: 1680
 url: /net/generate/singaporepost/ 
+description: Try our On-Premise SINGAPOREPOST Barcode Image Generation API on .NET Framework, .NET Standard, COM Interloop for PHP, VBScript, Delphi, C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

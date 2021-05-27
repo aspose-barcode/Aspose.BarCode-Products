@@ -2,6 +2,7 @@
 title:  
 weight: 1460
 url: /net/generate/codeblock/ 
+description: Try our On-Premise CODEBLOCK Barcode Image Generation API on .NET Framework, .NET Standard, COM Interloop for PHP, VBScript, Delphi, C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

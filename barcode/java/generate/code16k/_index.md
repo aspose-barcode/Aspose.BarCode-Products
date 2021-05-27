@@ -2,6 +2,7 @@
 title:  
 weight: 750
 url: /java/generate/code16k/ 
+description: Try our On-Premise CODE16K Barcode Image Generation API on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

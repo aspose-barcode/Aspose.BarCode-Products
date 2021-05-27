@@ -2,6 +2,7 @@
 title:  
 weight: 1710
 url: /net/generate/upc/ 
+description: Try our On-Premise UPC Barcode Image Generation API on .NET Framework, .NET Standard, COM Interloop for PHP, VBScript, Delphi, C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

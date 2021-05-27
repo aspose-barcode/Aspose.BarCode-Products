@@ -2,6 +2,7 @@
 title:  
 weight: 730
 url: /java/generate/aztec/ 
+description: Try our On-Premise AZTEC Barcode Image Generation API on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

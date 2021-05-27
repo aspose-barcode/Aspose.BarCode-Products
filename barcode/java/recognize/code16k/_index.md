@@ -2,6 +2,7 @@
 title:  
 weight: 1100
 url: /java/recognize/code16k/ 
+description: Try our On-Premise CODE16K Barcode Reader and Decoder APIs on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

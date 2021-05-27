@@ -2,6 +2,7 @@
 title:  
 weight: 1180
 url: /java/recognize/dotcode/ 
+description: Try our On-Premise DOTCODE Barcode Reader and Decoder APIs on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

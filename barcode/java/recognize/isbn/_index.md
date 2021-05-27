@@ -2,6 +2,7 @@
 title:  
 weight: 1230
 url: /java/recognize/isbn/ 
+description: Try our On-Premise ISBN Barcode Reader and Decoder APIs on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

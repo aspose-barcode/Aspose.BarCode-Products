@@ -2,6 +2,7 @@
 title:  
 weight: 1210
 url: /java/recognize/iata2of5/ 
+description: Try our On-Premise IATA2OF5 Barcode Reader and Decoder APIs on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

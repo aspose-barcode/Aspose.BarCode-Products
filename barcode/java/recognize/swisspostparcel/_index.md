@@ -2,6 +2,7 @@
 title:  
 weight: 1370
 url: /java/recognize/swisspostparcel/ 
+description: Try our On-Premise SWISSPOSTPARCEL Barcode Reader and Decoder APIs on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

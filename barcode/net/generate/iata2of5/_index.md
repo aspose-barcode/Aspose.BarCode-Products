@@ -2,6 +2,7 @@
 title:  
 weight: 1540
 url: /net/generate/iata2of5/ 
+description: Try our On-Premise IATA2OF5 Barcode Image Generation API on .NET Framework, .NET Standard, COM Interloop for PHP, VBScript, Delphi, C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

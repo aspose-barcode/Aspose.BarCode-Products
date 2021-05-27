@@ -2,6 +2,7 @@
 title:  
 weight: 1470
 url: /net/generate/databar/ 
+description: Try our On-Premise DATABAR Barcode Image Generation API on .NET Framework, .NET Standard, COM Interloop for PHP, VBScript, Delphi, C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -2,6 +2,7 @@
 title:  
 weight: 1500
 url: /net/generate/deutschepost/ 
+description: Try our On-Premise DEUTSCHEPOST Barcode Image Generation API on .NET Framework, .NET Standard, COM Interloop for PHP, VBScript, Delphi, C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

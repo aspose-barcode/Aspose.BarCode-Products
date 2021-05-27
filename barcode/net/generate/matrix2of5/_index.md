@@ -2,6 +2,7 @@
 title:  
 weight: 1610
 url: /net/generate/matrix2of5/ 
+description: Try our On-Premise MATRIX2OF5 Barcode Image Generation API on .NET Framework, .NET Standard, COM Interloop for PHP, VBScript, Delphi, C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

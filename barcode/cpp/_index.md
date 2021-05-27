@@ -2,6 +2,7 @@
 title: C++ Library for Barcodes | Aspose 
 weight: 370
 url: /cpp/ 
+description: C++ barcode scanner and generator library for 1D and 2D barcodes. Detect read and write multiple barcodes like Data Matrix PDF 417 UPC EAN GS1 Interleaved etc
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}

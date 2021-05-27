@@ -2,6 +2,7 @@
 title:  
 weight: 1340
 url: /java/recognize/rm4scc/ 
+description: Try our On-Premise RM4SCC Barcode Reader and Decoder APIs on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

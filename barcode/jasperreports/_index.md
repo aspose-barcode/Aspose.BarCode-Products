@@ -2,6 +2,7 @@
 title: Generate Barcodes in JasperReports and Render in BMP JPG GIF & PNG 
 weight: 710
 url: /jasperreports/ 
+description: Using Aspose.BarCode for JasperReports - developers can generate barcodes in Jasper Reports that can be rendered further in BMP JPG GIF and PNG formats
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}

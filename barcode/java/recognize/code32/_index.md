@@ -2,6 +2,7 @@
 title:  
 weight: 1110
 url: /java/recognize/code32/ 
+description: Try our On-Premise CODE32 Barcode Reader and Decoder APIs on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

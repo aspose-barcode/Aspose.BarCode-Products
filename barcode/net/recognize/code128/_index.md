@@ -2,6 +2,7 @@
 title:  
 weight: 1760
 url: /net/recognize/code128/ 
+description: Try our On-Premise CODE128 Barcode Reader and Decoder APIs on .NET Framework, .NET Standard, COM Interloop for PHP, VBScript, Delphi, C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

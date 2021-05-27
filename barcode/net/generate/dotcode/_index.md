@@ -2,6 +2,7 @@
 title:  
 weight: 1510
 url: /net/generate/dotcode/ 
+description: Try our On-Premise DOTCODE Barcode Image Generation API on .NET Framework, .NET Standard, COM Interloop for PHP, VBScript, Delphi, C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

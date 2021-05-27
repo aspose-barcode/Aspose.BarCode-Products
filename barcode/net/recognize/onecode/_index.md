@@ -2,6 +2,7 @@
 title:  
 weight: 1960
 url: /net/recognize/onecode/ 
+description: Try our On-Premise ONECODE Barcode Reader and Decoder APIs on .NET Framework, .NET Standard, COM Interloop for PHP, VBScript, Delphi, C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

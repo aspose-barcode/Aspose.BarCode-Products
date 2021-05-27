@@ -2,6 +2,7 @@
 title:  
 weight: 1080
 url: /java/recognize/codablock/ 
+description: Try our On-Premise CODABLOCK Barcode Reader and Decoder APIs on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

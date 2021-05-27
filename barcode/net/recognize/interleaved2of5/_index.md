@@ -2,6 +2,7 @@
 title:  
 weight: 1890
 url: /net/recognize/interleaved2of5/ 
+description: Try our On-Premise INTERLEAVED2OF5 Barcode Reader and Decoder APIs on .NET Framework, .NET Standard, COM Interloop for PHP, VBScript, Delphi, C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
