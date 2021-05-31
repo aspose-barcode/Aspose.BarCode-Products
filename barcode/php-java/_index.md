@@ -22,7 +22,186 @@ description: PHP barcode reader library to recognize mutiple types of barcodes i
 <!--Diagrams Start-->
 {{< blocks/products/pf/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="" description="" >}}
+{{< blocks/products/pf/carousel-item h3="At a Glance" description="An overview of the barcode recognition & generation capabilities of API." >}}
+<div class="diagram1 d1-php-java">
+ <div class="d1-row">
+  <div class="d1-col d1-left">
+   <header>
+    <i class="fa fa-search">
+    </i>
+    Recognition
+   </header>
+   <ul>
+    <li>
+     Linear and 2D Types
+    </li>
+    <li>
+     Get Orientation of Barcode
+    </li>
+    <li>
+     Decode Non-English Characters
+    </li>
+   </ul>
+   <!--<header><i class="fa fa-print"> </i>Printing</header>
+<ul>
+<li>Directly Print Barcode</li>
+</ul>
+-->
+  </div>
+  <!--/left-->
+  <div class="d1-col d1-right">
+   <header>
+    <i class="fa fa-barcode">
+    </i>
+    Generation
+   </header>
+   <ul>
+    <li>
+     Linear and 2D Barcode
+    </li>
+    <li>
+     Customize Label
+    </li>
+    <li>
+     Encode Non-English Characters
+    </li>
+   </ul>
+   <header>
+    <i class="fa fa-qrcode">
+    </i>
+    Types
+   </header>
+   <ul>
+    <li>
+     Linear
+    </li>
+    <li>
+     2D
+    </li>
+   </ul>
+  </div>
+  <!--/right-->
+ </div>
+ <!--/row-->
+ <div class="d1-logo">
+  <img alt="Barcode Android Library" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/barcode/272x272/aspose_barcode-for-php-via-java.png"/>
+  <header>
+   Aspose.BarCode
+  </header>
+  <footer>
+   <small>
+    <em>
+     for
+    </em>
+    PHP via Java
+   </small>
+  </footer>
+ </div>
+ <!--/logo-->
+</div>
+
+{{< /blocks/products/pf/carousel-item >}}
+
+{{< blocks/products/pf/carousel-item h3="Platform Independence" description="Aspose.Barcode for PHP via Java requires PHP 5.3 (or above) and JavaBridge. It can run on any platform where these requirements can be met." >}}
+<div class="diagram1 d1-php-java">
+ <div class="d1-row">
+  <div class="d1-col d1-left">
+  </div>
+  <!--/left-->
+  <div class="d1-col d1-right">
+   <header>
+    <i class="fa fa-cubes">
+    </i>
+    Windows
+   </header>
+   <br/>
+   <header>
+    <i class="fa fa-cubes">
+    </i>
+    Linux
+   </header>
+   <br/>
+   <header>
+    <i class="fa fa-cubes">
+    </i>
+    macOS
+   </header>
+  </div>
+  <!--/right-->
+ </div>
+ <!--/row-->
+ <div class="d1-logo">
+  <img alt="Barcode Generator Android" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/barcode/272x272/aspose_barcode-for-php-via-java.png"/>
+  <header>
+   Aspose.BarCode
+  </header>
+  <footer>
+   <small>
+    <em>
+     for
+    </em>
+    PHP via Java
+   </small>
+  </footer>
+ </div>
+ <!--/logo-->
+</div>
+
+{{< /blocks/products/pf/carousel-item >}}
+
+{{< blocks/products/pf/carousel-item h3="Supported File Formats" description="API works with the most commonly used image formats." >}}
+<div class="diagram1 d2 d1-php-java">
+ <div class="d1-row">
+  <div class="d1-col d1-left">
+   <header>
+    <i class="fa fa-arrows-v">
+    </i>
+    Input/Output
+   </header>
+   <ul>
+    <li>
+     JPEG
+    </li>
+    <li>
+     PNG
+    </li>
+    <li>
+     BMP
+    </li>
+    <li>
+     GIF
+    </li>
+   </ul>
+  </div>
+  <!--/left-->
+  <div class="d1-col d1-right">
+   <!--<header><i class="fa  fa-mail-forward"> </i> Output Only</header>
+<ul>
+<li>BMP</li>
+<li>GIF</li>
+<li>WebP</li>
+</ul>-->
+  </div>
+  <!--/right-->
+ </div>
+ <!--/row-->
+ <div class="d1-logo">
+  <img alt="Android Barcode Reader API" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/barcode/272x272/aspose_barcode-for-php-via-java.png"/>
+  <header>
+   Aspose.BarCode
+  </header>
+  <footer>
+   <small>
+    <em>
+     for
+    </em>
+    PHP via Java
+   </small>
+  </footer>
+ </div>
+ <!--/logo-->
+</div>
+
 {{< /blocks/products/pf/carousel-item >}}
 
 {{< /blocks/products/pf/carousel >}}
@@ -156,180 +335,96 @@ description: PHP barcode reader library to recognize mutiple types of barcodes i
       PHP QR Code Generator
      </h3>
      <pre><code class="java"> //Instantiate barcode object
-
 $builder = new BarCodeBuilder();
 
-
-
 $symbology=new Symbology();
-
 $builder-&gt;setSymbologyType($symbology-&gt;QR);
-
  
-
 $builder-&gt;setCodeText("1234567890");
-
  
-
 // Hide code text
-
 $codeLocation=new CodeLocation();
-
 $builder-&gt;setCodeLocation($codeLocation-&gt;None);
-
  
-
 $builder-&gt;setRotationAngleF(90);
-
  
-
 // Save the image to your system and set its image format to Jpeg
-
 $builder-&gt;save($dataDir . "CreatingQRBarcode.jpg");
-
  
-
 // Display or echo Status
-
 </code></pre>
     </div>
    </div>
    <!--<div class="col-lg-12">
-
 <h2 class="h2title">Supported Barcode Symbologies</h2>
-
 <p>Aspose.BarCode for PHP via Java supports a large number of linear, 2D and postal bar code symbologies for both encoding and decoding.</p>
-
 <p>API supported Alpha-Numeric Symbologies include:</p>
-
 <div class="col-lg-6">
-
 <ul class="unstyled">
-
 <li>Code128</li>
-
 <li>Code39 Extended</li>
-
 <li>Code93 Extended</li>
-
 <li>Australia Post</li>
-
 <li>PZN</li>
-
 <li>VIN</li>
-
 </ul>
-
 </div>
-
 <div class="col-lg-6">
-
 <ul class="unstyled">
-
 <li>EAN128</li>
-
 <li>Code39 Standard</li>
-
 <li>Code93 Standard</li>
-
 <li>Matrix 2 of 5</li>
-
 <li>Deutsche Post Identcode</li>
-
 </ul>
-
 </div>
-
 </div>
-
 <div class="col-lg-12">-->
    <!-- <h2 class="h2title">2D Symbologies Include:</h2> -->
    <!--<p>2D types include:</p>
-
 <div class="col-lg-6">
-
 <ul class="unstyled">
-
 <li>Pdf417</li>
-
 <li>QR</li>
-
 <li>Macro PDF 417</li>
-
 </ul>
-
 </div>
-
 <div class="col-lg-6">
-
 <ul class="unstyled">
-
 <li>DataMatrix</li>
-
 <li>Aztec</li>
-
 </ul>
-
 </div>
-
 </div>
-
 --&gt; <!--<div class="col-lg-12"><!-- <h2 class="h2title">Postal Symbologies Include:</h2> -->
    <!--<p>Postal types include:</p>
-
 <div class="col-lg-6">
-
 <ul class="unstyled">
-
 <li>Postnet</li>
-
 <li>Planet</li>
-
 <li>USPS OneCode</li>
-
 <li>Australia Post</li>
-
 <li>Deutsche Post Identcode</li>
-
 </ul>
-
 </div>
-
 <div class="col-lg-6">
-
 <ul class="unstyled">
-
 <li>Deutsche Post Leticode</li>
-
 <li>RM4SCC</li>
-
 <li>SingaporePost</li>
-
 <li>AustralianPosteParcel</li>
-
 <li>SwissPostParcel</li>
-
 <li>UpcaGs1DatabarCoupon</li>
-
 </ul>
-
 </div>
-
 </div>-->
    <!--<div class="col-lg-12">
-
 <h2 class="h2title">Imaging, Rotation & Sizing</h2>
-
 <p>Common manipulation features of the barcode library are modifying barcode image, border and background colors, bar color, margins, width of images and much more. Furthermore, PHP API can adjust the resolution for the resultant images and can rotate images at any angle for generating high-quality images with anti-aliasing.</p>
-
 </div>
-
 <div class="col-lg-12">
-
 <h2 class="h2title">Customizing Symbologies & Appearance</h2>
-
 <p>PHP barcode API allows you to easily customize the codes by specifying different kinds of symbologies, setting code text (data to be encoded to barcode image) and appearance-related properties like font, background color, foreground color, as well as alignment and location (hide, above, below). You can also easily manage caption settings such as font, background color, foreground color, alignment and location (hide, above, below).</p>
-
 </div>-->
   </div>
  </div>
