@@ -1,6 +1,6 @@
 ---
 title: Render Linear & 2D Barcode Images in SQL Server Reporting Services 
-weight: 2080
+weight: 790
 url: /reporting-services/ 
 description: SQL Server Reporting Services rendering extension - Export Linear and 2d Barcode images in SSRS. Render barcode labels in BMP JPEG GIF and PNG formats
 ---

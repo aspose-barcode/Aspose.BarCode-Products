@@ -1,6 +1,6 @@
 ---
 title: Recognize DATABAR BarCode via Java 
-weight: 1140
+weight: 1000
 url: /java/recognize/databar/ 
 description: Try our On-Premise DATABAR Barcode Reader and Decoder APIs on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
@@ -13,7 +13,7 @@ description: Try our On-Premise DATABAR Barcode Reader and Decoder APIs on Java 
 
 {{% blocks/products/pf/agp/content h2="How to Read DATABAR Barcode Using Java" %}}
 
- In order to recognize GS1 Databar Expanded, GS1 Databar Expanded Stacked, GS1 DataBar Expanded, GS1 Databar OmniDirectional, GS1 DataBar Stacked, GS1 Databar Stacked OmniDirectional, GS1 DataBar Truncated barcode , weвЂ™ll use
+ In order to recognize GS1 Databar Expanded, GS1 Databar Expanded Stacked, GS1 DataBar Expanded, GS1 Databar OmniDirectional, GS1 DataBar Stacked, GS1 Databar Stacked OmniDirectional, GS1 DataBar Truncated barcode , we’ll use
  [Aspose.BarCode for Java](https://products.aspose.com/barcode/java) 
  API which is a feature-rich, powerful and easy to use barcode API for Java platform. You can download its latest version directly from
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-barcode) 
@@ -61,7 +61,7 @@ description: Try our On-Premise DATABAR Barcode Reader and Decoder APIs on Java 
 1.  Set image path containing databar code
 1.  Pass appropriate DecodeType as second parameter
 1.  Loop through each result
-1.  GetВ code text using getCodeText method
+1.  Get code text using getCodeText method
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -75,7 +75,7 @@ description: Try our On-Premise DATABAR Barcode Reader and Decoder APIs on Java 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Recognize DATABARВ Barcodes - JavaвЂЋ" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="Recognize DATABAR Barcodes - Java‎" offSpacer="" %}}
 
 ```cs
 BarCodeReader reader = new BarCodeReader("barcode.png", DecodeType.DATABAR_STACKED);
@@ -105,7 +105,7 @@ for(BarCodeResult result : reader.readBarCodes()){
 
     {{% blocks/products/pf/agp/content h2="About Aspose.BarCode for Java API" %}}
 
- Aspose.BarCode is a barcode reader and generation API. It can easily decode and generate 1D, 2D and postal barcodes of multiple symbologies. Developers can easily integrate it in any barcode generation and scanning application. Moreover, Generated barcodes can easily be exported to different high-quality image formats. Its a standalone library and does not require any additional software installation. вЂЋ
+ Aspose.BarCode is a barcode reader and generation API. It can easily decode and generate 1D, 2D and postal barcodes of multiple symbologies. Developers can easily integrate it in any barcode generation and scanning application. Moreover, Generated barcodes can easily be exported to different high-quality image formats. Its a standalone library and does not require any additional software installation. ‎
 
 
 

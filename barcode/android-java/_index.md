@@ -1,6 +1,6 @@
 ---
 title: Barcode Android API | Scan or Generate Barcodes 
-weight: 20
+weight: 1490
 url: /android-java/ 
 description: Android barcode scanner library to recognize different kinds of 1D, 2D and Postal barcodes. Scan barcodes at any angle from Android apps.
 ---

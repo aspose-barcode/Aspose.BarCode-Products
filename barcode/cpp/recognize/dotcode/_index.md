@@ -1,6 +1,6 @@
 ---
 title: Recognize DOTCODE BarCode via C++ 
-weight: 500
+weight: 600
 url: /cpp/recognize/dotcode/ 
 description: Try our On-Premise DOTCODE Barcode Reader and Decoder APIs on C++ Runtime Environment for Windows 32 bit, Windows 64 bit and Linux 64 bit.
 ---
@@ -13,7 +13,7 @@ description: Try our On-Premise DOTCODE Barcode Reader and Decoder APIs on C++ R
 
 {{% blocks/products/pf/agp/content h2="How to Recognize DOTCODE Barcode Using C++" %}}
 
- In order to read DOTCODE barcode , weвЂ™ll use
+ In order to read DOTCODE barcode , we’ll use
  [Aspose.BarCode for C++](https://products.aspose.com/barcode/cpp) 
  API which is a feature-rich, powerful and easy to use barcode API for C++ platform. You can download its latest version directly, just open
  [NuGet](https://www.nuget.org/packages/aspose.barcode) 
@@ -59,7 +59,7 @@ PM> Install-Package Aspose.BarCode.Cpp
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Recognize DotCode - C++вЂЋ" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="Recognize DotCode - C++‎" offSpacer="" %}}
 
 ```cs
 // Create an instance of BarCodeReader, set image and DecodeType type to recognize
@@ -84,7 +84,7 @@ barCodeReader->Close();
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="DecodeВ DotCodeВ via Online App" sectionDescription="[Recognize DotCode](https://products.aspose.app/barcode/recognize/dotcode) right now by visiting our Live Demos website.The live demo has the following benefits" >}}
+{{< blocks/products/pf/agp/demobox sectionTitle="Decode DotCode via Online App" sectionDescription="[Recognize DotCode](https://products.aspose.app/barcode/recognize/dotcode) right now by visiting our Live Demos website.The live demo has the following benefits" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" No need to download Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" No need to write any code." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Just upload your image containing DOTCODE barcodes, it will be scanned instantly." >}}
@@ -92,7 +92,7 @@ barCodeReader->Close();
 
     {{% blocks/products/pf/agp/content h2="About Aspose.BarCode for C++ API" %}}
 
- Aspose.BarCode is a barcode reader and generation API. It can easily decode and generate 1D, 2D and postal barcodes of multiple symbologies. Developers can easily integrate it in any barcode generation and scanning application. Moreover, Generated barcodes can easily be exported to different high-quality image formats. Its a standalone library and does not require any additional software installation. вЂЋ
+ Aspose.BarCode is a barcode reader and generation API. It can easily decode and generate 1D, 2D and postal barcodes of multiple symbologies. Developers can easily integrate it in any barcode generation and scanning application. Moreover, Generated barcodes can easily be exported to different high-quality image formats. Its a standalone library and does not require any additional software installation. ‎
 
 
 

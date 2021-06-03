@@ -1,6 +1,6 @@
 ---
 title: Java Barcode API - Generate or Scan 1D 2D & Postal Barcodes 
-weight: 1050
+weight: 1570
 url: /java/ 
 description: Java barcode library to generate read recognize barcodes. Barcode SDK supports Linear & 2D barcodes as well as exports to JPG GIF PNG BMP and more image formats
 ---

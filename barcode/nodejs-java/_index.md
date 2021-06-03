@@ -1,6 +1,6 @@
 ---
 title: Nodejs Barcode Scanner, Recognition and Generator API  - Aspose 
-weight: 2060
+weight: 660
 url: /nodejs-java/ 
 description: Node.js barcode scanning and generation library for 1D, 2D and Postal types. Integrate in React Angular apps easily for QR Code maxicode Aztec Code128 EAN-128 and more
 ---
@@ -193,10 +193,15 @@ description: Node.js barcode scanning and generation library for 1D, 2D and Post
   <!--/left-->
   <div class="d1-col d1-right">
    <!--<header><i class="fa  fa-mail-forward"> </i> Output Only</header>
+
 <ul>
+
 <li>BMP</li>
+
 <li>GIF</li>
+
 <li>WebP</li>
+
 </ul>-->
   </div>
   <!--/right-->
@@ -320,39 +325,72 @@ description: Node.js barcode scanning and generation library for 1D, 2D and Post
     </p>
    </div>
    <!--<div class="col-lg-4"><em class="fa fa-circle ico-blue fa-2x col-lg-2"> </em>
+
 <p class="col-lg-10">Obtain Barcode Region Information from the Image</p>
+
 </div>
+
 <div class="col-lg-4"><em class="fa fa-star ico-blue fa-2x col-lg-2"> </em>
+
 <p class="col-lg-10">Read Barcode from Specific Region</p>
+
 </div>
+
 <div class="col-lg-4"><em class="fa fa-arrows ico-blue fa-2x col-lg-2"> </em>
+
 <p class="col-lg-10">Switch Barcode Recognition Modes as of Requirement</p>
+
 </div>-->
    <!--<div class="col-lg-12">
+
 <h2 class="h2title">QR Code Generation</h2>
+
 <p>API has the capability to create barcodes of multiple types including DataMatrix, Aztec, Pdf417, multiple MacroPdf417 barcodes for large or multiple code text values. Here is the code for QR code generation.</p>
+
 <div id="code" class="codeblock">
+
 <h3>PHP QR Code Generator</h3>
+
 <pre><code class="java"> //Instantiate barcode object
+
 $builder = new BarCodeBuilder();
 
+
+
 $symbology=new Symbology();
+
 $builder-&gt;setSymbologyType($symbology-&gt;QR);
+
  
+
 $builder-&gt;setCodeText("1234567890");
+
  
+
 // Hide code text
+
 $codeLocation=new CodeLocation();
+
 $builder-&gt;setCodeLocation($codeLocation-&gt;None);
+
  
+
 $builder-&gt;setRotationAngleF(90);
+
  
+
 // Save the image to your system and set its image format to Jpeg
+
 $builder-&gt;save($dataDir . "CreatingQRBarcode.jpg");
+
  
+
 // Display or echo Status
+
 </code></pre>
+
 </div>
+
 </div>-->
    <div class="col-lg-12">
     <h2 class="h2title">
@@ -533,12 +571,19 @@ $builder-&gt;save($dataDir . "CreatingQRBarcode.jpg");
     </div>
    </div>
    <!--<div class="col-lg-12">
+
 <h2 class="h2title">Imaging, Rotation & Sizing</h2>
+
 <p>Common manipulation features of the barcode library are modifying barcode image, border and background colors, bar color, margins, width of images and much more. Furthermore, PHP API can adjust the resolution for the resultant images and can rotate images at any angle for generating high-quality images with anti-aliasing.</p>
+
 </div>
+
 <div class="col-lg-12">
+
 <h2 class="h2title">Customizing Symbologies & Appearance</h2>
+
 <p>PHP barcode API allows you to easily customize the codes by specifying different kinds of symbologies, setting code text (data to be encoded to barcode image) and appearance-related properties like font, background color, foreground color, as well as alignment and location (hide, above, below). You can also easily manage caption settings such as font, background color, foreground color, alignment and location (hide, above, below).</p>
+
 </div>-->
   </div>
  </div>
