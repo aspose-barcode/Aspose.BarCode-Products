@@ -6,11 +6,11 @@ description: Java barcode library to generate read recognize barcodes. Barcode S
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Java Barcode Generation & Recognition API" h2="Generate, customize & recognize linear, 2D & postal barcode images from JPG, TIFF, PNG, BMP, GIF & EXIF files." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/header/aspose_barcode-for-java.png" pfName="Aspose.BarCode for Java" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/barcode/java" >}}
+{{< blocks/products/pf/upper-banner h1="Java Barcode Generation & Recognition API" h2="Generate, customize & recognize linear, 2D & postal barcode images from JPG, TIFF, PNG, BMP, GIF & EXIF files." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/header/aspose_barcode-for-java.png" pfName="Aspose.BarCode" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/barcode/java" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.BarCode" subTitlepfName="for Java" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/barcode/272x272/aspose_barcode-for-java.png" liveDemosLink="https://products.aspose.app/barcode/family" PricingLink="https://purchase.aspose.com/pricing/barcode/java" buyLink="" docsLink="https://docs.aspose.com/barcode/java/" instalationsDocsLink="https://docs.aspose.com/barcode/java/installation" nugetLink="" nugetPackageName="" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/barcode/272x272/aspose_barcode-for-java.png" liveDemosLink="https://products.aspose.app/barcode/family" PricingLink="https://purchase.aspose.com/pricing/barcode/java" buyLink="https://purchase.aspose.com/pricing/barcode/java" docsLink="https://docs.aspose.com/barcode/java/" installationsDocsLink="https://docs.aspose.com/barcode/java/installation" nugetLink="" nugetPackageName="" mavenRepoLink="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-barcode" directDownloadLink="https://downloads.aspose.com/barcode/java" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>

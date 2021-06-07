@@ -6,11 +6,11 @@ description: Using Aspose.BarCode for JasperReports - developers can generate ba
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Generate & Export Barcodes in JasperReports" h2="JasperReports & JasperServer API to Generate, Display and Export Linear, 2D and Postal barcodes to multiple formats." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/header/aspose_barcode-for-jasperreports.png" pfName="Aspose.BarCode for JasperReports" subTitlepfName="for JasperReports" downloadUrl="https://downloads.aspose.com/barcode/jasperreports" >}}
+{{< blocks/products/pf/upper-banner h1="Generate & Export Barcodes in JasperReports" h2="JasperReports & JasperServer API to Generate, Display and Export Linear, 2D and Postal barcodes to multiple formats." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/header/aspose_barcode-for-jasperreports.png" pfName="Aspose.BarCode" subTitlepfName="for JasperReports" downloadUrl="https://downloads.aspose.com/barcode/jasperreports" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.BarCode" subTitlepfName="for JasperReports" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/barcode/272x272/aspose_barcode-for-jasperreports.png" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/barcode/jasperreports" buyLink="" docsLink="https://docs.aspose.com/barcode/jasperreports/release-notes/" instalationsDocsLink="" nugetLink="" nugetPackageName="" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/barcode/272x272/aspose_barcode-for-jasperreports.png" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/barcode/jasperreports" buyLink="https://purchase.aspose.com/pricing/barcode/jasperreports" docsLink="https://docs.aspose.com/barcode/jasperreports/release-notes/" installationsDocsLink="" nugetLink="" nugetPackageName="" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/barcode/jasperreports" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>

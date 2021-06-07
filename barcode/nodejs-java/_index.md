@@ -6,11 +6,11 @@ description: Node.js barcode scanning and generation library for 1D, 2D and Post
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Node.js Barcode Generator and Scanner API" h2="Recognize or Generate 1D, 2D and Postal barcodes including Code128, Code93, Code39, QR Code from different images." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/barcode/header/aspose_barcode-for-nodejs-java.png" pfName="Aspose.BarCode for Node.js via Java" subTitlepfName="for Node.js via Java" downloadUrl="https://downloads.aspose.com/barcode/nodejs" >}}
+{{< blocks/products/pf/upper-banner h1="Node.js Barcode Generator and Scanner API" h2="Recognize or Generate 1D, 2D and Postal barcodes including Code128, Code93, Code39, QR Code from different images." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/barcode/header/aspose_barcode-for-nodejs-java.png" pfName="Aspose.BarCode" subTitlepfName="for Node.js via Java" downloadUrl="https://downloads.aspose.com/barcode/nodejs" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.BarCode" subTitlepfName="for Node.js via Java" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/barcode/272x272/aspose_barcode-for-nodejs-via-java.png" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/barcode/nodejs-java" buyLink="" docsLink="https://docs.aspose.com/barcode/java/node-js-via-java-release-notes/" instalationsDocsLink="" nugetLink="" nugetPackageName="" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/barcode/272x272/aspose_barcode-for-nodejs-via-java.png" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/barcode/nodejs-java" buyLink="https://purchase.aspose.com/pricing/barcode/nodejs-java" docsLink="https://docs.aspose.com/barcode/java/node-js-via-java-release-notes/" installationsDocsLink="" nugetLink="" nugetPackageName="" mavenRepoLink="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-barcode" directDownloadLink="https://downloads.aspose.com/barcode/nodejs" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>

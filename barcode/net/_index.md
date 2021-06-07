@@ -6,11 +6,11 @@ description: Aspose.BarCode for .NET APIs to read create and recognize 1D 2D bar
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1=".NET APIs to Generate & Recognize Barcodes" h2="Create, & recognize barcodes of linear, 2D and postal types from multiple images within any .NET application." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/header/aspose_barcode-for-net.png" pfName="Aspose.BarCode for .NET" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/barcode/net" >}}
+{{< blocks/products/pf/upper-banner h1=".NET APIs to Generate & Recognize Barcodes" h2="Create, & recognize barcodes of linear, 2D and postal types from multiple images within any .NET application." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/header/aspose_barcode-for-net.png" pfName="Aspose.BarCode" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/barcode/net" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.BarCode" subTitlepfName="for .NET" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/barcode/272x272/aspose_barcode-for-net.png" liveDemosLink="https://products.aspose.app/barcode/family" PricingLink="https://purchase.aspose.com/pricing/barcode/net" buyLink="" docsLink="https://docs.aspose.com/barcode/net/" instalationsDocsLink="https://docs.aspose.com/barcode/net/installation" nugetLink="https://www.nuget.org/packages/Aspose.BarCode/" nugetPackageName="Aspose.BarCode" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/barcode/272x272/aspose_barcode-for-net.png" liveDemosLink="https://products.aspose.app/barcode/family" PricingLink="https://purchase.aspose.com/pricing/barcode/net" buyLink="https://purchase.aspose.com/pricing/barcode/net" docsLink="https://docs.aspose.com/barcode/net/" installationsDocsLink="https://docs.aspose.com/barcode/net/installation" nugetLink="https://www.nuget.org/packages/Aspose.BarCode/" nugetPackageName="Aspose.BarCode" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/barcode/net" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>

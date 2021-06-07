@@ -6,11 +6,11 @@ description: PHP barcode reader library to recognize mutiple types of barcodes i
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="PHP Barcode Generator and Reader API" h2="Scan or Generate 1D, 2D and postal barcodes from images in any PHP web application." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/header/aspose_barcode-for-php-via-java.png" pfName="Aspose.BarCode for PHP via Java" subTitlepfName="for PHP via Java" downloadUrl="https://downloads.aspose.com/barcode/php" >}}
+{{< blocks/products/pf/upper-banner h1="PHP Barcode Generator and Reader API" h2="Scan or Generate 1D, 2D and postal barcodes from images in any PHP web application." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/header/aspose_barcode-for-php-via-java.png" pfName="Aspose.BarCode" subTitlepfName="for PHP via Java" downloadUrl="https://downloads.aspose.com/barcode/php" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.BarCode" subTitlepfName="for PHP via Java" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/barcode/272x272/aspose_barcode-for-php-via-java.png" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/barcode/php-java" buyLink="" docsLink="https://docs.aspose.com/barcode/java/php-via-java-release-notes/" instalationsDocsLink="" nugetLink="" nugetPackageName="" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/barcode/272x272/aspose_barcode-for-php-via-java.png" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/barcode/php-java" buyLink="https://purchase.aspose.com/pricing/barcode/php-java" docsLink="https://docs.aspose.com/barcode/java/php-via-java-release-notes/" installationsDocsLink="" nugetLink="" nugetPackageName="" mavenRepoLink="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-barcode" directDownloadLink="https://downloads.aspose.com/barcode/php" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>

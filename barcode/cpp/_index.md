@@ -6,11 +6,11 @@ description: C++ barcode scanner and generator library for 1D and 2D barcodes. D
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="C++ Barcode Processing API" h2="Create or Recognize 1D and 2D types as well as Export the generated barcodes to multiple image formats within C++ applications." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/barcode/header/aspose_barcode_for-cpp.png" pfName="Aspose.BarCode for C++" subTitlepfName="for C++" downloadUrl="https://downloads.aspose.com/barcode/cpp" >}}
+{{< blocks/products/pf/upper-banner h1="C++ Barcode Processing API" h2="Create or Recognize 1D and 2D types as well as Export the generated barcodes to multiple image formats within C++ applications." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/barcode/header/aspose_barcode_for-cpp.png" pfName="Aspose.BarCode" subTitlepfName="for C++" downloadUrl="https://downloads.aspose.com/barcode/cpp" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.BarCode" subTitlepfName="for C++" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/barcode/272x272/aspose_barcode-for-cpp.png" liveDemosLink="https://products.aspose.app/barcode/family" PricingLink="https://purchase.aspose.com/pricing/barcode/cpp" buyLink="" docsLink="https://docs.aspose.com/barcode/cpp/" instalationsDocsLink="https://docs.aspose.com/barcode/cpp/installation" nugetLink="https://www.nuget.org/packages/Aspose.BarCode.Cpp/" nugetPackageName="Aspose.BarCode.Cpp" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/barcode/272x272/aspose_barcode-for-cpp.png" liveDemosLink="https://products.aspose.app/barcode/family" PricingLink="https://purchase.aspose.com/pricing/barcode/cpp" buyLink="https://purchase.aspose.com/pricing/barcode/cpp" docsLink="https://docs.aspose.com/barcode/cpp/" installationsDocsLink="https://docs.aspose.com/barcode/cpp/installation" nugetLink="https://www.nuget.org/packages/Aspose.BarCode.Cpp/" nugetPackageName="Aspose.BarCode.Cpp" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/barcode/cpp" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>

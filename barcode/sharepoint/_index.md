@@ -6,11 +6,11 @@ description: Barcode SharePoint API to insert barcode labels in custom SharePoin
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Add Barcodes to Microsoft SharePoint Lists" h2="Barcode SharePoint App to add Linear, 2D & Postal barcode symbols to Microsoft SharePoint lists." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/header/aspose_barcode-for-sharepoint.png" pfName="Aspose.BarCode for SharePoint" subTitlepfName="for SharePoint" downloadUrl="https://downloads.aspose.com/barcode/sharepoint" >}}
+{{< blocks/products/pf/upper-banner h1="Add Barcodes to Microsoft SharePoint Lists" h2="Barcode SharePoint App to add Linear, 2D & Postal barcode symbols to Microsoft SharePoint lists." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/header/aspose_barcode-for-sharepoint.png" pfName="Aspose.BarCode" subTitlepfName="for SharePoint" downloadUrl="https://downloads.aspose.com/barcode/sharepoint" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.BarCode" subTitlepfName="for SharePoint" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/barcode/272x272/aspose_barcode-for-sharepoint.png" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/barcode/sharepoint" buyLink="" docsLink="https://docs.aspose.com/barcode/sharepoint/" instalationsDocsLink="" nugetLink="" nugetPackageName="" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/barcode/272x272/aspose_barcode-for-sharepoint.png" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/barcode/sharepoint" buyLink="https://purchase.aspose.com/pricing/barcode/sharepoint" docsLink="https://docs.aspose.com/barcode/sharepoint/" installationsDocsLink="" nugetLink="" nugetPackageName="" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/barcode/sharepoint" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>

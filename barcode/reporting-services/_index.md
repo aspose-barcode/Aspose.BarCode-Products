@@ -6,11 +6,11 @@ description: SQL Server Reporting Services rendering extension - Export Linear a
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Render Barcodes in SSRS Reports" h2="Generate Linear & 2D barcodes from within Microsoft SQL Server Reporting Services." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/header/aspose_barcode-for-ssrs.png" pfName="Aspose.BarCode for Reporting Services" subTitlepfName="for Reporting Services" downloadUrl="https://downloads.aspose.com/barcode/reportingservices" >}}
+{{< blocks/products/pf/upper-banner h1="Render Barcodes in SSRS Reports" h2="Generate Linear & 2D barcodes from within Microsoft SQL Server Reporting Services." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/header/aspose_barcode-for-ssrs.png" pfName="Aspose.BarCode" subTitlepfName="for Reporting Services" downloadUrl="https://downloads.aspose.com/barcode/reportingservices" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.BarCode" subTitlepfName="for Reporting Services" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/barcode/272x272/aspose_barcode-for-reporting-services.png" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/barcode/reporting-services" buyLink="" docsLink="https://docs.aspose.com/barcode/reportingservices/release-notes/" instalationsDocsLink="" nugetLink="" nugetPackageName="" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/barcode/272x272/aspose_barcode-for-reporting-services.png" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/barcode/reporting-services" buyLink="https://purchase.aspose.com/pricing/barcode/reporting-services" docsLink="https://docs.aspose.com/barcode/reportingservices/release-notes/" installationsDocsLink="" nugetLink="" nugetPackageName="" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/barcode/reportingservices" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>
