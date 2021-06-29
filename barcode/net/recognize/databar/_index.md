@@ -111,6 +111,43 @@ using (BarCodeReader reader = new BarCodeReader("template.jpg", DecodeType.Datab
 
 <!-- aboutfile Ends -->
 
+{{< blocks/products/pf/agp/other-supported-section title="Other Supported Recognition Barcodes" subTitle="Using .NET, One can also read and recognize barcode of different symbologies including." >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/barcode/net/recognize/qr" name="QR" description="QR Code, GS1 QR Code" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/barcode/net/recognize/pdf417" name="PDF417" description="PDF 417, Micro Pdf417, Macro PDF417" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/barcode/net/recognize/datamatrix" name="DATAMATRIX" description="Data Matrix, GS1 Data Matrix" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/barcode/net/recognize/ean" name="EAN" description="EAN-8, EAN-13, EAN-14" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/barcode/net/recognize/upc" name="UPC" description="UPC-A, UPC-E, UPCA GS1 Code 128 Coupon, UPCA GS1 Databar Coupon" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/barcode/net/recognize/aztec" name="AZTEC" description="AZTEC" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/barcode/net/recognize/codablock" name="CODABLOCK" description="CodablockF, GS1 CodablockF" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/barcode/net/recognize/code128" name="CODE128" description="Code 128, GS1-128" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/barcode/net/recognize/code16k" name="CODE16K" description="CODE 16K" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/barcode/net/recognize/code32" name="CODE32" description="ITALIAN PHARMACODE CODE 32" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/barcode/net/recognize/code39" name="CODE39" description="Code 39 Extended, Code 39 Standard" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/barcode/net/recognize/code93" name="CODE93" description="Code 93 Extended, Code 93 Standard" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/barcode/net/recognize/onecode" name="ONECODE" description="USPS ONECODE" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/barcode/net/recognize/australiapost" name="AUSTRALIAPOST" description="Australia Post, Australia Poste Parcel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/barcode/net/recognize/deutschepost" name="DEUTSCHEPOST" description="Deutsche Post Identcode, Deutsche Post Leitcode" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/barcode/net/recognize/dutchkix" name="DUTCHKIX" description="KIX-CODE" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/barcode/net/recognize/italianpost25" name="ITALIANPOST25" description="ITALIAN POST 25" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/barcode/net/recognize/planet" name="PLANET" description="PLANET" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/barcode/net/recognize/postnet" name="POSTNET" description="POSTNET" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/barcode/net/recognize/rm4scc" name="RM4SCC" description="ROYALMAIL RM4SCC" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/barcode/net/recognize/singaporepost" name="SINGAPOREPOST" description="SINGAPORE POST" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/barcode/net/recognize/swisspostparcel" name="SWISSPOSTPARCEL" description="SWISS POST PARCEL" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/barcode/net/recognize/dotcode" name="DOTCODE" description="DOTCODE" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/barcode/net/recognize/interleaved2of5" name="INTERLEAVED2OF5" description="INTERLEAVED 2 OF 5" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/barcode/net/recognize/datalogic2of5" name="DATALOGIC2OF5" description="DATALOGIC 2 OF 5" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/barcode/net/recognize/iata2of5" name="IATA2OF5" description="IATA 2 OF 5" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/barcode/net/recognize/matrix2of5" name="MATRIX2OF5" description="MATRIX 2 OF 5" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/barcode/net/recognize/standard2of5" name="STANDARD2OF5" description="STANDARD 2 OF 5" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/barcode/net/recognize/isbn" name="ISBN" description="ISBN" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/barcode/net/recognize/ismn" name="ISMN" description="ISMN" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/barcode/net/recognize/issn" name="ISSN" description="ISSN" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/barcode/net/recognize/itf" name="ITF" description="ITF-6, ITF-14" >}}
+
+{{< /blocks/products/pf/agp/other-supported-section >}}
+
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}
