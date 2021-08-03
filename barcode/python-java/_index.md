@@ -23,7 +23,7 @@ description: Python barcode reader library to recognize and generate mutiple typ
 {{< blocks/products/pf/carousel >}}
 
 {{< blocks/products/pf/carousel-item h3="At a Glance" description="An overview of the barcode recognition & generation capabilities of API." >}}
-<div class="diagram1 d1-python-java">
+<div class="diagram1 d1-python">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
@@ -99,7 +99,7 @@ description: Python barcode reader library to recognize and generate mutiple typ
 {{< /blocks/products/pf/carousel-item >}}
 
 {{< blocks/products/pf/carousel-item h3="Platform Independence" description="Aspose.Barcode for Python via Java using python-java bridge and available for Python 3.6 and higher." >}}
-<div class="diagram1 d1-python-java">
+<div class="diagram1 d1-python">
  <div class="d1-row">
   <div class="d1-col d1-left">
   </div>
@@ -146,7 +146,7 @@ description: Python barcode reader library to recognize and generate mutiple typ
 {{< /blocks/products/pf/carousel-item >}}
 
 {{< blocks/products/pf/carousel-item h3="Supported File Formats" description="API works with the most commonly used image formats." >}}
-<div class="diagram1 d2 d1-python-java">
+<div class="diagram1 d2 d1-python">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
@@ -196,7 +196,7 @@ description: Python barcode reader library to recognize and generate mutiple typ
     <em>
      for
     </em>
-    python via Java
+    Python via Java
    </small>
   </footer>
  </div>
