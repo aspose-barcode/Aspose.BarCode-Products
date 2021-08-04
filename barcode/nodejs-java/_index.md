@@ -6,7 +6,7 @@ description: Node.js barcode scanning and generation library for 1D, 2D and Post
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Node.js Barcode Generator and Scanner API" h2="Recognize or Generate 1D, 2D and Postal barcodes including Code128, Code93, Code39, QR Code from different images." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/barcode/header/aspose_barcode-for-nodejs-java.png" pfName="Aspose.BarCode" subTitlepfName="for Node.js via Java" downloadUrl="https://downloads.aspose.com/barcode/nodejs" >}}
+{{< blocks/products/pf/upper-banner h1="Node.js Barcode Generator and Scanner API" h2="Recognize or Generate 1D, 2D and Postal barcodes including Code128, Code93, Code39, QR Code from different images." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/barcode/272x272/aspose_barcode-for-nodejs-via-java.png" pfName="Aspose.BarCode" subTitlepfName="for Node.js via Java" downloadUrl="https://downloads.aspose.com/barcode/nodejs" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.BarCode" subTitlepfName="for Node.js via Java" >}}
 
@@ -113,7 +113,7 @@ description: Node.js barcode scanning and generation library for 1D, 2D and Post
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="Barcode Android Library" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/barcode/header/aspose_barcode-for-nodejs-java.png"/>
+  <img alt="Barcode Android Library" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/barcode/272x272/aspose_barcode-for-nodejs-via-java.png"/>
   <header>
    Aspose.BarCode
   </header>
@@ -148,7 +148,7 @@ description: Node.js barcode scanning and generation library for 1D, 2D and Post
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="Barcode Generator Android" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/barcode/header/aspose_barcode-for-nodejs-java.png"/>
+  <img alt="Barcode Generator Android" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/barcode/272x272/aspose_barcode-for-nodejs-via-java.png"/>
   <header>
    Aspose.BarCode
   </header>
@@ -208,7 +208,7 @@ description: Node.js barcode scanning and generation library for 1D, 2D and Post
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="Android Barcode Reader API" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/barcode/header/aspose_barcode-for-nodejs-java.png"/>
+  <img alt="Android Barcode Reader API" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/barcode/272x272/aspose_barcode-for-nodejs-via-java.png"/>
   <header>
    Aspose.BarCode
   </header>
