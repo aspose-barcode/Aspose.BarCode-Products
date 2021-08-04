@@ -562,8 +562,8 @@ reader-&gt;Close();</code></pre>
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Why Aspose.BarCode for C++?" tabId="success-stories" >}}
-{{< blocks/products/pf/slr-element name="Customers List" href="https://company.aspose.com/customers" >}}
-{{< blocks/products/pf/slr-element name="Success Stories" href="https://company.aspose.com/customers/success-stories/aspose-barcode" >}}
+{{< blocks/products/pf/slr-element name="Customers List" href="https://about.aspose.com/customers" >}}
+{{< blocks/products/pf/slr-element name="Success Stories" href="https://about.aspose.com/customers/success-stories/aspose-barcode" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< /blocks/products/pf/support-learning-resources >}}

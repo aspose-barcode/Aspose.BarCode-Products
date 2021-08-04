@@ -425,12 +425,12 @@ description: Barcode SharePoint API to insert barcode labels in custom SharePoin
 
 <li><a href="https://downloads.aspose.com/corporate/case-studies/aspose.barcode/">Customer Case Studies</a></li>-->
       <li>
-       <a href="https://company.aspose.com/customers">
+       <a href="https://about.aspose.com/customers">
         Customers List
        </a>
       </li>
       <li>
-       <a href="https://company.aspose.com/customers/success-stories/aspose-barcode">
+       <a href="https://about.aspose.com/customers/success-stories/aspose-barcode">
         Success Stories
        </a>
       </li>
@@ -638,8 +638,8 @@ description: Barcode SharePoint API to insert barcode labels in custom SharePoin
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Why Aspose.BarCode for SharePoint?" tabId="success-stories" >}}
-{{< blocks/products/pf/slr-element name="Customers List" href="https://company.aspose.com/customers" >}}
-{{< blocks/products/pf/slr-element name="Success Stories" href="https://company.aspose.com/customers/success-stories/aspose-barcode" >}}
+{{< blocks/products/pf/slr-element name="Customers List" href="https://about.aspose.com/customers" >}}
+{{< blocks/products/pf/slr-element name="Success Stories" href="https://about.aspose.com/customers/success-stories/aspose-barcode" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< /blocks/products/pf/support-learning-resources >}}
