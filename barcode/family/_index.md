@@ -47,7 +47,7 @@ Generate and recognize barcodes in PHP applications via JavaBridge.
 Manage barcode generation and recognition functionality within Node.js applications.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.BarCode for" title="Python via Java" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/barcode/272x272/aspose_barcode-for-python-via-java.png" productLink="/barcode/python-java/" >}}
+{{< blocks/products/pf/product pfName="Aspose.BarCode for" title="Python via Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/barcode/aspose_barcode-for-python-via-java.svg" productLink="/barcode/python-java/" >}}
 Manage barcode generation and recognition functionality within Pytthon applications.
 {{< /blocks/products/pf/product >}}
 
