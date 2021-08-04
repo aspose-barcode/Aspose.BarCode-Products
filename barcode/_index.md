@@ -55,6 +55,10 @@ Recognize 1D & 2D barcodes from images. Supports various symbologies. Recognizes
 Enter data and instantly generate 1D or 2D barcodes from various symbologies.
 {{< /blocks/products/pf/product >}}
 
+{{< blocks/products/pf/product pfName="Aspose.BarCode " title="Embed" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_embed-app.png" productLink="https://products.aspose.app/barcode/embed" >}}
+Embed barcodes of any type for your site with your own text and size.
+{{< /blocks/products/pf/product >}}
+
 {{< blocks/products/pf/center-button href="https://products.aspose.app/barcode/family" innerText="View All Cross Platform Apps" >}}
 
 {{< /blocks/products/pf/product-card-row >}}
