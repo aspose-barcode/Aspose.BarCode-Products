@@ -6,7 +6,7 @@ description: Barcode reader generator and scanner libraries for .NET Java Androi
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Generate & Recognize Barcodes" h2="Develop high-performance apps with the ability to create & scan 1D, 2D and Postal barcode labels." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/barcode/header/aspose_barcode.png" pfName="Aspose.BarCode" downloadUrl="https://downloads.aspose.com/barcode" tryOnlineUrl="https://products.aspose.app/barcode" >}}
+{{< blocks/products/pf/upper-banner h1="Generate & Recognize Barcodes" h2="Develop high-performance apps with the ability to create & scan 1D, 2D and Postal barcode labels." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/barcode/aspose_barcode.svg" pfName="Aspose.BarCode" downloadUrl="https://downloads.aspose.com/barcode" tryOnlineUrl="https://products.aspose.app/barcode" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.BarCode On Premise APIs Include" >}}
