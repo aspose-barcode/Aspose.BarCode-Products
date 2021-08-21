@@ -107,7 +107,7 @@ description: C++ barcode scanner and generator library for 1D and 2D barcodes. D
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Platform Independence" description="Aspose.BarCode for C++ fully supports C++ applications developed in following platforms having [system requirements](https://docs.aspose.com/barcode/cpp/installation/#system-requirements)  ." >}}
+{{< blocks/products/pf/carousel-item h3="Platform Independence" description="Aspose.BarCode for C++ fully supports C++ applications developed in following platforms having [system requirements](https://docs.aspose.com/barcode/cpp/installation/#system-requirements)." >}}
 <div class="diagram1 d1-cplus">
  <div class="d1-row">
   <div class="d1-col d1-left">

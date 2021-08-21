@@ -136,7 +136,7 @@ description: SQL Server Reporting Services rendering extension - Export Linear a
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Supported File Formats" description="Reporting Services BarCode API supports the most popular image [file formats](https://docs.aspose.com/barcode/reportingservices/supported-file-formats/)  ." >}}
+{{< blocks/products/pf/carousel-item h3="Supported File Formats" description="Reporting Services BarCode API supports the most popular image [file formats](https://docs.aspose.com/barcode/reportingservices/supported-file-formats/)." >}}
 <div class="diagram1 d2 d1-rs">
  <div class="d1-row">
   <div class="d1-col d1-left">
