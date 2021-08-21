@@ -11,15 +11,15 @@ description: Build barcode generation & processing applications via On Premise A
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.BarCode On Premise APIs Include" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.BarCode for " title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/barcode/272x272/aspose_barcode-for-net.png" productLink="https://products.aspose.com/barcode/net/" >}}
+{{< blocks/products/pf/product pfName="Aspose.BarCode for " title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/barcode/aspose_barcode-for-net.svg" productLink="https://products.aspose.com/barcode/net/" >}}
 API to generate new barcodes or recognize existing barcodes from images at various angles. Supports 60+ symbologies of 1D, 2D & Postal Barcodes.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.BarCode for " title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/barcode/272x272/aspose_barcode-for-java.png" productLink="https://products.aspose.com/barcode/java/" >}}
+{{< blocks/products/pf/product pfName="Aspose.BarCode for " title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/barcode/aspose_barcode-for-java.svg" productLink="https://products.aspose.com/barcode/java/" >}}
 Generate or recognize Linear, 2D & Postal barcodes via API. Encoding & decoding capabilities for numerous symbologies. Export barcodes to image formats.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.BarCode for " title="C++" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/barcode/272x272/aspose_barcode-for-cpp.png" productLink="https://products.aspose.com/barcode/cpp/" >}}
+{{< blocks/products/pf/product pfName="Aspose.BarCode for " title="C++" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/barcode/aspose_barcode-for-cpp.svg" productLink="https://products.aspose.com/barcode/cpp/" >}}
 API for generating, recognizing & exporting 1-Dimensional, 2-Dimensional and Postal barcodes to various image formats. Support for various symbologies.
 {{< /blocks/products/pf/product >}}
 

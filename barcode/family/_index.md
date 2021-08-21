@@ -23,7 +23,7 @@ Native Java APIs for the desktop, web or any kind of application based on Java S
 Generate or recognize 1D & 2D barcode types from within C++ applications.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.BarCode for" title="Android via Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/barcode/aspose_barcode-for-android.svg" productLink="/barcode/android-java/" >}}
+{{< blocks/products/pf/product pfName="Aspose.BarCode for" title="Android via Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/barcode/aspose_barcode-for-android-java.svg" productLink="/barcode/android-java/" >}}
 Add barcode generation & recognition capabilities to your Android mobile apps.
 {{< /blocks/products/pf/product >}}
 
