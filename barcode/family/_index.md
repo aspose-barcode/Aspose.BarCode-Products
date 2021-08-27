@@ -75,6 +75,6 @@ Manage barcode generation and recognition functionality within Pytthon applicati
 
 {{< /blocks/products/pf/support-learning-resources >}}
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/barcode" pricingInformationLink="https://purchase.aspose.com/pricing/barcode" >}}
+{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/barcode" pricingInformationLink="https://purchase.aspose.com/pricing/barcode/family" >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}
