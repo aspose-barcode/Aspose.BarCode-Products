@@ -6,7 +6,7 @@ description: Build barcode generation & processing applications via On Premise A
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Barcode Generation & Recognition Solution" h2="On Premise, Cloud APIs & apps to create or read 1D (Linear), 2D, & Postal barcodes of 60+ symbologies, across popular platforms." logoImageSrc="https://www.aspose.com/templates/brand/images/barcode/aspose_barcode-brand.png" imageAlt="Aspose.BarCode Product Family" >}}
+{{< blocks/products/pf/upper-banner h1="Barcode Generation & Recognition Solution" h2="On Premise, Cloud APIs & apps to create or read 1D (Linear), 2D, & Postal barcodes of 60+ symbologies, across popular platforms." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/barcode/headers/aspose_barcode-brand.svg" imageAlt="Aspose.BarCode Product Family" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.BarCode On Premise APIs Include" >}}
