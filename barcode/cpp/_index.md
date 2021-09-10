@@ -6,7 +6,7 @@ description: C++ barcode scanner and generator library for 1D and 2D barcodes. D
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="C++ Barcode Processing API" h2="Create or Recognize 1D and 2D types as well as Export the generated barcodes to multiple image formats within C++ applications." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/barcode/header/aspose_barcode_for-cpp.png" pfName="Aspose.BarCode" subTitlepfName="for C++" downloadUrl="https://downloads.aspose.com/barcode/cpp" >}}
+{{< blocks/products/pf/upper-banner h1="C++ Barcode Processing API" h2="Create or Recognize 1D and 2D types as well as Export the generated barcodes to multiple image formats within C++ applications." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/barcode/headers/aspose_barcode-for-cpp.svg" pfName="Aspose.BarCode" subTitlepfName="for C++" downloadUrl="https://downloads.aspose.com/barcode/cpp" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.BarCode" subTitlepfName="for C++" >}}
 

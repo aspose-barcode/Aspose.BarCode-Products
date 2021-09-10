@@ -6,7 +6,7 @@ description: Node.js barcode scanning and generation library for 1D, 2D and Post
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Node.js Barcode Generator and Scanner API" h2="Recognize or Generate 1D, 2D and Postal barcodes including Code128, Code93, Code39, QR Code from different images." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/barcode/header/aspose_barcode-for-nodejs-java.png" pfName="Aspose.BarCode" subTitlepfName="for Node.js via Java" downloadUrl="https://downloads.aspose.com/barcode/nodejs" >}}
+{{< blocks/products/pf/upper-banner h1="Node.js Barcode Generator and Scanner API" h2="Recognize or Generate 1D, 2D and Postal barcodes including Code128, Code93, Code39, QR Code from different images." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/barcode/headers/aspose_barcode-for-nodejs-java.svg" pfName="Aspose.BarCode" subTitlepfName="for Node.js via Java" downloadUrl="https://downloads.aspose.com/barcode/nodejs" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.BarCode" subTitlepfName="for Node.js via Java" >}}
 

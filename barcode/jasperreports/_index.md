@@ -6,7 +6,7 @@ description: Using Aspose.BarCode for JasperReports - developers can generate ba
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Generate & Export Barcodes in JasperReports" h2="JasperReports & JasperServer API to Generate, Display and Export Linear, 2D and Postal barcodes to multiple formats." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/header/aspose_barcode-for-jasperreports.png" pfName="Aspose.BarCode" subTitlepfName="for JasperReports" downloadUrl="https://downloads.aspose.com/barcode/jasperreports" >}}
+{{< blocks/products/pf/upper-banner h1="Generate & Export Barcodes in JasperReports" h2="JasperReports & JasperServer API to Generate, Display and Export Linear, 2D and Postal barcodes to multiple formats." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/barcode/headers/aspose_barcode-for-jasperreports.svg" pfName="Aspose.BarCode" subTitlepfName="for JasperReports" downloadUrl="https://downloads.aspose.com/barcode/jasperreports" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.BarCode" subTitlepfName="for JasperReports" >}}
 
