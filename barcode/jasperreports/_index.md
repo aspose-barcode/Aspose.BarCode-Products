@@ -10,7 +10,7 @@ description: Using Aspose.BarCode for JasperReports - developers can generate ba
 
 {{< blocks/products/pf/main-container pfName="Aspose.BarCode" subTitlepfName="for JasperReports" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/barcode/aspose_barcode-for-jasperreports.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/barcode/jasperreports" buyLink="https://purchase.aspose.com/pricing/barcode/jasperreports" docsLink="https://docs.aspose.com/barcode/jasperreports/release-notes/" installationsDocsLink="" nugetLink="" nugetPackageName="" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/barcode/jasperreports" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/barcode/aspose_barcode-for-jasperreports.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/barcode/jasperreports" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/barcode/jasperreports/release-notes/" installationsDocsLink="" nugetLink="" nugetPackageName="" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/barcode/jasperreports" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>

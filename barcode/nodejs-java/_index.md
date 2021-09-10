@@ -10,7 +10,7 @@ description: Node.js barcode scanning and generation library for 1D, 2D and Post
 
 {{< blocks/products/pf/main-container pfName="Aspose.BarCode" subTitlepfName="for Node.js via Java" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/barcode/aspose_barcode-for-nodejs-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/barcode/nodejs-java" buyLink="https://purchase.aspose.com/pricing/barcode/nodejs-java" docsLink="https://docs.aspose.com/barcode/java/node-js-via-java-release-notes/" installationsDocsLink="" nugetLink="" nugetPackageName="" mavenRepoLink="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-barcode" directDownloadLink="https://downloads.aspose.com/barcode/nodejs" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/barcode/aspose_barcode-for-nodejs-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/barcode/nodejs-java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/barcode/java/node-js-via-java-release-notes/" installationsDocsLink="" nugetLink="" nugetPackageName="" mavenRepoLink="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-barcode" directDownloadLink="https://downloads.aspose.com/barcode/nodejs" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>

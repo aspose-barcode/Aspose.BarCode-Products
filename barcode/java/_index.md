@@ -10,7 +10,7 @@ description: Java barcode library to generate read recognize barcodes. Barcode S
 
 {{< blocks/products/pf/main-container pfName="Aspose.BarCode" subTitlepfName="for Java" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/barcode/aspose_barcode-for-java.svg" liveDemosLink="https://products.aspose.app/barcode/family" PricingLink="https://purchase.aspose.com/pricing/barcode/java" buyLink="https://purchase.aspose.com/pricing/barcode/java" docsLink="https://docs.aspose.com/barcode/java/" installationsDocsLink="https://docs.aspose.com/barcode/java/installation" nugetLink="" nugetPackageName="" mavenRepoLink="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-barcode" directDownloadLink="https://downloads.aspose.com/barcode/java" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/barcode/aspose_barcode-for-java.svg" liveDemosLink="https://products.aspose.app/barcode/family" PricingLink="https://purchase.aspose.com/pricing/barcode/java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/barcode/java/" installationsDocsLink="https://docs.aspose.com/barcode/java/installation" nugetLink="" nugetPackageName="" mavenRepoLink="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-barcode" directDownloadLink="https://downloads.aspose.com/barcode/java" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>

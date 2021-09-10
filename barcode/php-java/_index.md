@@ -10,7 +10,7 @@ description: PHP barcode reader library to recognize mutiple types of barcodes i
 
 {{< blocks/products/pf/main-container pfName="Aspose.BarCode" subTitlepfName="for PHP via Java" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/barcode/aspose_barcode-for-php-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/barcode/php-java" buyLink="https://purchase.aspose.com/pricing/barcode/php-java" docsLink="https://docs.aspose.com/barcode/java/php-via-java-release-notes/" installationsDocsLink="" nugetLink="" nugetPackageName="" mavenRepoLink="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-barcode" directDownloadLink="https://downloads.aspose.com/barcode/php" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/barcode/aspose_barcode-for-php-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/barcode/php-java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/barcode/java/php-via-java-release-notes/" installationsDocsLink="" nugetLink="" nugetPackageName="" mavenRepoLink="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-barcode" directDownloadLink="https://downloads.aspose.com/barcode/php" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>

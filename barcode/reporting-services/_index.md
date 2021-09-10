@@ -10,7 +10,7 @@ description: SQL Server Reporting Services rendering extension - Export Linear a
 
 {{< blocks/products/pf/main-container pfName="Aspose.BarCode" subTitlepfName="for Reporting Services" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/barcode/aspose_barcode-for-reporting-services.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/barcode/reporting-services" buyLink="https://purchase.aspose.com/pricing/barcode/reporting-services" docsLink="https://docs.aspose.com/barcode/reportingservices/release-notes/" installationsDocsLink="" nugetLink="" nugetPackageName="" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/barcode/reportingservices" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/barcode/aspose_barcode-for-reporting-services.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/barcode/reporting-services" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/barcode/reportingservices/release-notes/" installationsDocsLink="" nugetLink="" nugetPackageName="" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/barcode/reportingservices" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>

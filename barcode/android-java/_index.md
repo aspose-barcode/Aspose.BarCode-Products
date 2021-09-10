@@ -10,7 +10,7 @@ description: Android barcode scanner library to recognize different kinds of 1D,
 
 {{< blocks/products/pf/main-container pfName="Aspose.BarCode" subTitlepfName="for Android via Java" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/barcode/aspose_barcode-for-android-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/barcode/android-java" buyLink="https://purchase.aspose.com/pricing/barcode/android-java" docsLink="https://docs.aspose.com/barcode/java/android-via-java-release-notes/" installationsDocsLink="https://docs.aspose.com/barcode/java/aspose-barcode-for-android-via-java-installation/" nugetLink="" nugetPackageName="" mavenRepoLink="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-barcode" directDownloadLink="https://downloads.aspose.com/barcode/androidjava" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/barcode/aspose_barcode-for-android-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/barcode/android-java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/barcode/java/android-via-java-release-notes/" installationsDocsLink="https://docs.aspose.com/barcode/java/aspose-barcode-for-android-via-java-installation/" nugetLink="" nugetPackageName="" mavenRepoLink="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-barcode" directDownloadLink="https://downloads.aspose.com/barcode/androidjava" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>

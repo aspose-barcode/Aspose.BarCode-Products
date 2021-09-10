@@ -10,7 +10,7 @@ description: Aspose.BarCode for .NET APIs to read create and recognize 1D 2D bar
 
 {{< blocks/products/pf/main-container pfName="Aspose.BarCode" subTitlepfName="for .NET" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/barcode/aspose_barcode-for-net.svg" liveDemosLink="https://products.aspose.app/barcode/family" PricingLink="https://purchase.aspose.com/pricing/barcode/net" buyLink="https://purchase.aspose.com/pricing/barcode/net" docsLink="https://docs.aspose.com/barcode/net/" installationsDocsLink="https://docs.aspose.com/barcode/net/installation" nugetLink="https://www.nuget.org/packages/Aspose.BarCode/" nugetPackageName="Aspose.BarCode" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/barcode/net" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/barcode/aspose_barcode-for-net.svg" liveDemosLink="https://products.aspose.app/barcode/family" PricingLink="https://purchase.aspose.com/pricing/barcode/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/barcode/net/" installationsDocsLink="https://docs.aspose.com/barcode/net/installation" nugetLink="https://www.nuget.org/packages/Aspose.BarCode/" nugetPackageName="Aspose.BarCode" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/barcode/net" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>

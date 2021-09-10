@@ -10,7 +10,7 @@ description: Barcode SharePoint API to insert barcode labels in custom SharePoin
 
 {{< blocks/products/pf/main-container pfName="Aspose.BarCode" subTitlepfName="for SharePoint" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/barcode/aspose_barcode-for-sharepoint.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/barcode/sharepoint" buyLink="https://purchase.aspose.com/pricing/barcode/sharepoint" docsLink="https://docs.aspose.com/barcode/sharepoint/" installationsDocsLink="" nugetLink="" nugetPackageName="" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/barcode/sharepoint" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/barcode/aspose_barcode-for-sharepoint.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/barcode/sharepoint" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/barcode/sharepoint/" installationsDocsLink="" nugetLink="" nugetPackageName="" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/barcode/sharepoint" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>

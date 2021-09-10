@@ -10,7 +10,7 @@ description: C++ barcode scanner and generator library for 1D and 2D barcodes. D
 
 {{< blocks/products/pf/main-container pfName="Aspose.BarCode" subTitlepfName="for C++" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/barcode/aspose_barcode-for-cpp.svg" liveDemosLink="https://products.aspose.app/barcode/family" PricingLink="https://purchase.aspose.com/pricing/barcode/cpp" buyLink="https://purchase.aspose.com/pricing/barcode/cpp" docsLink="https://docs.aspose.com/barcode/cpp/" installationsDocsLink="https://docs.aspose.com/barcode/cpp/installation" nugetLink="https://www.nuget.org/packages/Aspose.BarCode.Cpp/" nugetPackageName="Aspose.BarCode.Cpp" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/barcode/cpp" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/barcode/aspose_barcode-for-cpp.svg" liveDemosLink="https://products.aspose.app/barcode/family" PricingLink="https://purchase.aspose.com/pricing/barcode/cpp" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/barcode/cpp/" installationsDocsLink="https://docs.aspose.com/barcode/cpp/installation" nugetLink="https://www.nuget.org/packages/Aspose.BarCode.Cpp/" nugetPackageName="Aspose.BarCode.Cpp" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/barcode/cpp" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>
