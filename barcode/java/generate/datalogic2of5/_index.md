@@ -72,6 +72,9 @@ description: Java sample code for datalogic2of5 barcode image generation on Java
 
 {{% /blocks/products/pf/agp/text %}}
 
+- Microsoft Windows or a compatible OS with Java Runtime Environment for JSP/JSF Application and Desktop Applications.
+- Get latest version of Aspose.BarCode for Java directly from Maven.
+
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Create DATALOGIC2OF5 Barcodes - Java‎" offSpacer="" %}}

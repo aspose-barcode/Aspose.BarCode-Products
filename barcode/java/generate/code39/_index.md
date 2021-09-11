@@ -72,6 +72,9 @@ description: Java sample code for code39 barcode image generation on Java Runtim
 
 {{% /blocks/products/pf/agp/text %}}
 
+- Microsoft Windows or a compatible OS with Java Runtime Environment for JSP/JSF Application and Desktop Applications.
+- Get latest version of Aspose.BarCode for Java directly from Maven.
+
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Create CODE39 Barcodes - Java‎" offSpacer="" %}}

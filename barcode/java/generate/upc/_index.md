@@ -72,6 +72,9 @@ description: Java sample code for upc barcode image generation on Java Runtime E
 
 {{% /blocks/products/pf/agp/text %}}
 
+- Microsoft Windows or a compatible OS with Java Runtime Environment for JSP/JSF Application and Desktop Applications.
+- Get latest version of Aspose.BarCode for Java directly from Maven.
+
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Create UPC Barcodes - Java‎" offSpacer="" %}}

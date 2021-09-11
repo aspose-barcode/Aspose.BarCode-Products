@@ -73,6 +73,9 @@ description: Java sample code to read and decode interleaved2of5 barcode on Java
 
 {{% /blocks/products/pf/agp/text %}}
 
+- Microsoft Windows or a compatible OS with Java Runtime Environment for JSP/JSF Application and Desktop Applications.
+- Get latest version of Aspose.BarCode for Java directly from Maven.
+
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Recognize INTERLEAVED2OF5 Barcodes - Java‎" offSpacer="" %}}
