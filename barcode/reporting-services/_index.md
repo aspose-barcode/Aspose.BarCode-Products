@@ -6,7 +6,7 @@ description: SQL Server Reporting Services rendering extension - Export Linear a
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Render Barcodes in SSRS Reports" h2="Generate Linear & 2D barcodes from within Microsoft SQL Server Reporting Services." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/header/aspose_barcode-for-ssrs.png" pfName="Aspose.BarCode" subTitlepfName="for Reporting Services" downloadUrl="https://downloads.aspose.com/barcode/reportingservices" >}}
+{{< blocks/products/pf/upper-banner h1="Render Barcodes in SSRS Reports" h2="Generate Linear & 2D barcodes from within Microsoft SQL Server Reporting Services." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/barcode/headers/aspose_barcode-for-reporting-services.svg" pfName="Aspose.BarCode" subTitlepfName="for Reporting Services" downloadUrl="https://downloads.aspose.com/barcode/reportingservices" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.BarCode" subTitlepfName="for Reporting Services" >}}
 

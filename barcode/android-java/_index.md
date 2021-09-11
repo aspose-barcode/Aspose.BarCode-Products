@@ -6,7 +6,7 @@ description: Android barcode scanner library to recognize different kinds of 1D,
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Android APIs for Barcode Generation & Recognition" h2="Create or read 1D, 2D and postal barcodes from images in any Android mobile app." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/barcode/header/aspose_barcode_for-android-java.png" pfName="Aspose.BarCode" subTitlepfName="for Android via Java" downloadUrl="https://downloads.aspose.com/barcode/androidjava" >}}
+{{< blocks/products/pf/upper-banner h1="Android APIs for Barcode Generation & Recognition" h2="Create or read 1D, 2D and postal barcodes from images in any Android mobile app." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/barcode/headers/aspose_barcode-for-android-java.svg" pfName="Aspose.BarCode" subTitlepfName="for Android via Java" downloadUrl="https://downloads.aspose.com/barcode/androidjava" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.BarCode" subTitlepfName="for Android via Java" >}}
 

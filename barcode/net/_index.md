@@ -6,7 +6,7 @@ description: Aspose.BarCode for .NET APIs to read create and recognize 1D 2D bar
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1=".NET APIs to Generate & Recognize Barcodes" h2="Create, & recognize barcodes of linear, 2D and postal types from multiple images within any .NET application." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/header/aspose_barcode-for-net.png" pfName="Aspose.BarCode" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/barcode/net" >}}
+{{< blocks/products/pf/upper-banner h1=".NET APIs to Generate & Recognize Barcodes" h2="Create, & recognize barcodes of linear, 2D and postal types from multiple images within any .NET application." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/barcode/headers/aspose_barcode-for-net.svg" pfName="Aspose.BarCode" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/barcode/net" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.BarCode" subTitlepfName="for .NET" >}}
 

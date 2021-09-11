@@ -6,7 +6,7 @@ description: Python barcode reader library to recognize and generate mutiple typ
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Python Barcode Generator and Reader API" h2="Recognize or Generate 1D, 2D and Postal barcodes in any Python application." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/barcode/header/aspose_barcode-for-python-java.png" pfName="Aspose.BarCode" subTitlepfName="for Python via Java" downloadUrl="https://downloads.aspose.com/barcode/python" >}}
+{{< blocks/products/pf/upper-banner h1="Python Barcode Generator and Reader API" h2="Recognize or Generate 1D, 2D and Postal barcodes in any Python application." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/barcode/headers/aspose_barcode-for-python-java.svg" pfName="Aspose.BarCode" subTitlepfName="for Python via Java" downloadUrl="https://downloads.aspose.com/barcode/python" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.BarCode" subTitlepfName="for Python via Java" >}}
 

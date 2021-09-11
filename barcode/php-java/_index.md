@@ -6,7 +6,7 @@ description: PHP barcode reader library to recognize mutiple types of barcodes i
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="PHP Barcode Generator and Reader API" h2="Scan or Generate 1D, 2D and postal barcodes from images in any PHP web application." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/header/aspose_barcode-for-php-via-java.png" pfName="Aspose.BarCode" subTitlepfName="for PHP via Java" downloadUrl="https://downloads.aspose.com/barcode/php" >}}
+{{< blocks/products/pf/upper-banner h1="PHP Barcode Generator and Reader API" h2="Scan or Generate 1D, 2D and postal barcodes from images in any PHP web application." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/barcode/headers/aspose_barcode-for-php-java.svg" pfName="Aspose.BarCode" subTitlepfName="for PHP via Java" downloadUrl="https://downloads.aspose.com/barcode/php" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.BarCode" subTitlepfName="for PHP via Java" >}}
 
