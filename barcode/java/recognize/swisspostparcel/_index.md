@@ -124,38 +124,38 @@ for(BarCodeResult result : reader.readBarCodes()){
 
 {{< blocks/products/pf/agp/other-supported-section title="Other Supported Recognition Barcodes" subTitle="Using Java, One can also read and recognize barcode of different symbology's including." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/barcode/java/recognize/qr" name="QR" description="QR Code, GS1 QR Code" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/barcode/java/recognize/pdf417" name="PDF417" description="PDF 417, Micro Pdf417, Macro PDF417" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/barcode/java/recognize/databar" name="DATABAR" description="GS1 Databar Expanded, GS1 Databar Expanded Stacked, GS1 DataBar Expanded, GS1 Databar OmniDirectional, GS1 DataBar Stacked, GS1 Databar Stacked OmniDirectional, GS1 DataBar Truncated" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/barcode/java/recognize/datamatrix" name="DATAMATRIX" description="Data Matrix, GS1 Data Matrix" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/barcode/java/recognize/ean" name="EAN" description="EAN-8, EAN-13, EAN-14" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/barcode/java/recognize/upc" name="UPC" description="UPC-A, UPC-E, UPCA GS1 Code 128 Coupon, UPCA GS1 Databar Coupon" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/barcode/java/recognize/aztec" name="AZTEC" description="AZTEC" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/barcode/java/recognize/codablock" name="CODABLOCK" description="CodablockF, GS1 CodablockF" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/barcode/java/recognize/code128" name="CODE128" description="Code 128, GS1-128" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/barcode/java/recognize/code16k" name="CODE16K" description="CODE 16K" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/barcode/java/recognize/code32" name="CODE32" description="ITALIAN PHARMACODE CODE 32" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/barcode/java/recognize/code39" name="CODE39" description="Code 39 Extended, Code 39 Standard" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/barcode/java/recognize/code93" name="CODE93" description="Code 93 Extended, Code 93 Standard" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/barcode/java/recognize/onecode" name="ONECODE" description="USPS ONECODE" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/barcode/java/recognize/australiapost" name="AUSTRALIAPOST" description="Australia Post, Australia Poste Parcel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/barcode/java/recognize/deutschepost" name="DEUTSCHEPOST" description="Deutsche Post Identcode, Deutsche Post Leitcode" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/barcode/java/recognize/dutchkix" name="DUTCHKIX" description="KIX-CODE" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/barcode/java/recognize/italianpost25" name="ITALIANPOST25" description="ITALIAN POST 25" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/barcode/java/recognize/planet" name="PLANET" description="PLANET" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/barcode/java/recognize/postnet" name="POSTNET" description="POSTNET" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/barcode/java/recognize/rm4scc" name="RM4SCC" description="ROYALMAIL RM4SCC" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/barcode/java/recognize/singaporepost" name="SINGAPOREPOST" description="SINGAPORE POST" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/barcode/java/recognize/dotcode" name="DOTCODE" description="DOTCODE" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/barcode/java/recognize/interleaved2of5" name="INTERLEAVED2OF5" description="INTERLEAVED 2 OF 5" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/barcode/java/recognize/datalogic2of5" name="DATALOGIC2OF5" description="DATALOGIC 2 OF 5" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/barcode/java/recognize/iata2of5" name="IATA2OF5" description="IATA 2 OF 5" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/barcode/java/recognize/matrix2of5" name="MATRIX2OF5" description="MATRIX 2 OF 5" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/barcode/java/recognize/standard2of5" name="STANDARD2OF5" description="STANDARD 2 OF 5" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/barcode/java/recognize/isbn" name="ISBN" description="ISBN" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/barcode/java/recognize/ismn" name="ISMN" description="ISMN" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/barcode/java/recognize/issn" name="ISSN" description="ISSN" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/barcode/java/recognize/itf" name="ITF" description="ITF-6, ITF-14" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/barcode/java/recognize/qr/" name="QR" description="QR Code, GS1 QR Code" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/barcode/java/recognize/pdf417/" name="PDF417" description="PDF 417, Micro Pdf417, Macro PDF417" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/barcode/java/recognize/databar/" name="DATABAR" description="GS1 Databar Expanded, GS1 Databar Expanded Stacked, GS1 DataBar Expanded, GS1 Databar OmniDirectional, GS1 DataBar Stacked, GS1 Databar Stacked OmniDirectional, GS1 DataBar Truncated" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/barcode/java/recognize/datamatrix/" name="DATAMATRIX" description="Data Matrix, GS1 Data Matrix" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/barcode/java/recognize/ean/" name="EAN" description="EAN-8, EAN-13, EAN-14" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/barcode/java/recognize/upc/" name="UPC" description="UPC-A, UPC-E, UPCA GS1 Code 128 Coupon, UPCA GS1 Databar Coupon" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/barcode/java/recognize/aztec/" name="AZTEC" description="AZTEC" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/barcode/java/recognize/codablock/" name="CODABLOCK" description="CodablockF, GS1 CodablockF" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/barcode/java/recognize/code128/" name="CODE128" description="Code 128, GS1-128" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/barcode/java/recognize/code16k/" name="CODE16K" description="CODE 16K" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/barcode/java/recognize/code32/" name="CODE32" description="ITALIAN PHARMACODE CODE 32" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/barcode/java/recognize/code39/" name="CODE39" description="Code 39 Extended, Code 39 Standard" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/barcode/java/recognize/code93/" name="CODE93" description="Code 93 Extended, Code 93 Standard" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/barcode/java/recognize/onecode/" name="ONECODE" description="USPS ONECODE" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/barcode/java/recognize/australiapost/" name="AUSTRALIAPOST" description="Australia Post, Australia Poste Parcel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/barcode/java/recognize/deutschepost/" name="DEUTSCHEPOST" description="Deutsche Post Identcode, Deutsche Post Leitcode" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/barcode/java/recognize/dutchkix/" name="DUTCHKIX" description="KIX-CODE" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/barcode/java/recognize/italianpost25/" name="ITALIANPOST25" description="ITALIAN POST 25" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/barcode/java/recognize/planet/" name="PLANET" description="PLANET" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/barcode/java/recognize/postnet/" name="POSTNET" description="POSTNET" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/barcode/java/recognize/rm4scc/" name="RM4SCC" description="ROYALMAIL RM4SCC" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/barcode/java/recognize/singaporepost/" name="SINGAPOREPOST" description="SINGAPORE POST" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/barcode/java/recognize/dotcode/" name="DOTCODE" description="DOTCODE" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/barcode/java/recognize/interleaved2of5/" name="INTERLEAVED2OF5" description="INTERLEAVED 2 OF 5" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/barcode/java/recognize/datalogic2of5/" name="DATALOGIC2OF5" description="DATALOGIC 2 OF 5" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/barcode/java/recognize/iata2of5/" name="IATA2OF5" description="IATA 2 OF 5" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/barcode/java/recognize/matrix2of5/" name="MATRIX2OF5" description="MATRIX 2 OF 5" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/barcode/java/recognize/standard2of5/" name="STANDARD2OF5" description="STANDARD 2 OF 5" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/barcode/java/recognize/isbn/" name="ISBN" description="ISBN" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/barcode/java/recognize/ismn/" name="ISMN" description="ISMN" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/barcode/java/recognize/issn/" name="ISSN" description="ISSN" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/barcode/java/recognize/itf/" name="ITF" description="ITF-6, ITF-14" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
