@@ -6,11 +6,11 @@ description: SQL Server Reporting Services rendering extension - Export Linear a
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Render Barcodes in SSRS Reports" h2="Generate Linear & 2D barcodes from within Microsoft SQL Server Reporting Services." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/barcode/headers/aspose_barcode-for-reporting-services.svg" pfName="Aspose.BarCode" subTitlepfName="for Reporting Services" downloadUrl="https://downloads.aspose.com/barcode/reportingservices" >}}
+{{< blocks/products/pf/upper-banner h1="Render Barcodes in SSRS Reports" h2="Generate Linear & 2D barcodes from within Microsoft SQL Server Reporting Services." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/headers/aspose_barcode-for-reporting-services.svg" pfName="Aspose.BarCode" subTitlepfName="for Reporting Services" downloadUrl="https://downloads.aspose.com/barcode/reportingservices" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.BarCode" subTitlepfName="for Reporting Services" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/barcode/aspose_barcode-for-reporting-services.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/barcode/reporting-services" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/barcode/reportingservices/release-notes/" installationsDocsLink="" nugetLink="" nugetPackageName="" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/barcode/reportingservices" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-reporting-services.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/barcode/reporting-services" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/barcode/reportingservices/release-notes/" installationsDocsLink="" nugetLink="" nugetPackageName="" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/barcode/reportingservices" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>
@@ -63,7 +63,7 @@ description: SQL Server Reporting Services rendering extension - Export Linear a
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="BarCode APIs for SSRS" src="https://www.aspose.cloud/templates/aspose/img/products/barcode/aspose_barcode-for-reporting-services.svg"/>
+  <img alt="BarCode APIs for SSRS" src="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-reporting-services.svg"/>
   <header>
    Aspose.BarCode
   </header>
@@ -118,7 +118,7 @@ description: SQL Server Reporting Services rendering extension - Export Linear a
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="Barcode SSRS API" src="https://www.aspose.cloud/templates/aspose/img/products/barcode/aspose_barcode-for-reporting-services.svg"/>
+  <img alt="Barcode SSRS API" src="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-reporting-services.svg"/>
   <header>
    Aspose.BarCode
   </header>
@@ -189,7 +189,7 @@ description: SQL Server Reporting Services rendering extension - Export Linear a
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="Barcode Generator for Reporting Services" src="https://www.aspose.cloud/templates/aspose/img/products/barcode/aspose_barcode-for-reporting-services.svg"/>
+  <img alt="Barcode Generator for Reporting Services" src="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-reporting-services.svg"/>
   <header>
    Aspose.BarCode
   </header>
@@ -468,15 +468,15 @@ description: SQL Server Reporting Services rendering extension - Export Linear a
 
 {{< blocks/products/pf/offers-section pfName="Aspose.BarCode" description="Aspose.BarCode offers individual Barcode generation and recognition APIs for other popular development environments as listed below:" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/barcode/net/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/barcode/aspose_barcode-for-net.svg" sdkName=".NET" >}}
-    {{< blocks/products/pf/offers-section-item link="/barcode/java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/barcode/aspose_barcode-for-java.svg" sdkName="Java" >}}
-    {{< blocks/products/pf/offers-section-item link="/barcode/cpp/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/barcode/aspose_barcode-for-cpp.svg" sdkName="C++" >}}
-    {{< blocks/products/pf/offers-section-item link="/barcode/android-java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/barcode/aspose_barcode-for-android-java.svg" sdkName="Android via Java" >}}
-    {{< blocks/products/pf/offers-section-item link="/barcode/sharepoint/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/barcode/aspose_barcode-for-sharepoint.svg" sdkName="SharePoint" >}}
-    {{< blocks/products/pf/offers-section-item link="/barcode/jasperreports/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/barcode/aspose_barcode-for-jasperreports.svg" sdkName="JasperReports" >}}
-    {{< blocks/products/pf/offers-section-item link="/barcode/php-java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/barcode/aspose_barcode-for-php-java.svg" sdkName="PHP via Java" >}}
-    {{< blocks/products/pf/offers-section-item link="/barcode/nodejs-java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/barcode/aspose_barcode-for-nodejs-java.svg" sdkName="Node.js via Java" >}}
-    {{< blocks/products/pf/offers-section-item link="/barcode/python-java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/barcode/aspose_barcode-for-python-java.svg" sdkName="Python via Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/barcode/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-net.svg" sdkName=".NET" >}}
+    {{< blocks/products/pf/offers-section-item link="/barcode/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-java.svg" sdkName="Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/barcode/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-cpp.svg" sdkName="C++" >}}
+    {{< blocks/products/pf/offers-section-item link="/barcode/android-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-android-java.svg" sdkName="Android via Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/barcode/sharepoint/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-sharepoint.svg" sdkName="SharePoint" >}}
+    {{< blocks/products/pf/offers-section-item link="/barcode/jasperreports/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-jasperreports.svg" sdkName="JasperReports" >}}
+    {{< blocks/products/pf/offers-section-item link="/barcode/php-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-php-java.svg" sdkName="PHP via Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/barcode/nodejs-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-nodejs-java.svg" sdkName="Node.js via Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/barcode/python-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-python-java.svg" sdkName="Python via Java" >}}
 
 {{< /blocks/products/pf/offers-section >}}
 
