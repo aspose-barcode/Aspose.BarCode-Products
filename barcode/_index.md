@@ -2,7 +2,7 @@
 title: On Premise, Cloud & App Based Solutions for Barcode Processing 
 weight: 1590
 url: /
-description: Build barcode generation & processing applications via On Premise APIs or Cloud-based SDKs. Use cross-platform apps for Barcode generation or recognition.
+description: Build barcode generation and processing applications via On Premise APIs or Cloud-based SDKs. Use cross-platform apps for Barcode generation or recognition.
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
