@@ -6,48 +6,48 @@ description: Barcode reader generator and scanner libraries for .NET Java Androi
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Generate & Recognize Barcodes" h2="Develop high-performance apps with the ability to create & scan 1D, 2D and Postal barcode labels." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/barcode/aspose_barcode.svg" pfName="Aspose.BarCode" downloadUrl="https://downloads.aspose.com/barcode" tryOnlineUrl="https://products.aspose.app/barcode" >}}
+{{< blocks/products/pf/upper-banner h1="Generate & Recognize Barcodes" h2="Develop high-performance apps with the ability to create & scan 1D, 2D and Postal barcode labels." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode.svg" pfName="Aspose.BarCode" downloadUrl="https://downloads.aspose.com/barcode" tryOnlineUrl="https://products.aspose.app/barcode" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.BarCode On Premise APIs Include" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.BarCode for" title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/barcode/aspose_barcode-for-net.svg" productLink="/barcode/net/" >}}
+{{< blocks/products/pf/product pfName="Aspose.BarCode for" title=".NET" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-net.svg" productLink="/barcode/net/" >}}
 Target Windows Forms, ASP.NET, WPF, WCF or any type of application based on .NET Framework 2.0 or later.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.BarCode for" title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/barcode/aspose_barcode-for-java.svg" productLink="/barcode/java/" >}}
+{{< blocks/products/pf/product pfName="Aspose.BarCode for" title="Java" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-java.svg" productLink="/barcode/java/" >}}
 Native Java APIs for the desktop, web or any kind of application based on Java SE or EE.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.BarCode for" title="C++" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/barcode/aspose_barcode-for-cpp.svg" productLink="/barcode/cpp/" >}}
+{{< blocks/products/pf/product pfName="Aspose.BarCode for" title="C++" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-cpp.svg" productLink="/barcode/cpp/" >}}
 Generate or recognize 1D & 2D barcode types from within C++ applications.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.BarCode for" title="Android via Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/barcode/aspose_barcode-for-android-java.svg" productLink="/barcode/android-java/" >}}
+{{< blocks/products/pf/product pfName="Aspose.BarCode for" title="Android via Java" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-android-java.svg" productLink="/barcode/android-java/" >}}
 Add barcode generation & recognition capabilities to your Android mobile apps.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.BarCode for" title="SharePoint" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/barcode/aspose_barcode-for-sharepoint.svg" productLink="/barcode/sharepoint/" >}}
+{{< blocks/products/pf/product pfName="Aspose.BarCode for" title="SharePoint" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-sharepoint.svg" productLink="/barcode/sharepoint/" >}}
 Add barcodes to lists in SharePoint Foundation and SharePoint Server.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.BarCode for" title="Reporting Services" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/barcode/aspose_barcode-for-reporting-services.svg" productLink="/barcode/reporting-services/" >}}
+{{< blocks/products/pf/product pfName="Aspose.BarCode for" title="Reporting Services" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-reporting-services.svg" productLink="/barcode/reporting-services/" >}}
 Render barcode images in SQL Server Reporting Services.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.BarCode for" title="JasperReports" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/barcode/aspose_barcode-for-jasperreports.svg" productLink="/barcode/jasperreports/" >}}
+{{< blocks/products/pf/product pfName="Aspose.BarCode for" title="JasperReports" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-jasperreports.svg" productLink="/barcode/jasperreports/" >}}
 Add barcode images in reports in JasperReports or JasperServer.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.BarCode for" title="PHP via Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/barcode/aspose_barcode-for-php-java.svg" productLink="/barcode/php-java/" >}}
+{{< blocks/products/pf/product pfName="Aspose.BarCode for" title="PHP via Java" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-php-java.svg" productLink="/barcode/php-java/" >}}
 Generate and recognize barcodes in PHP applications via JavaBridge.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.BarCode for" title="Node.js via Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/barcode/aspose_barcode-for-nodejs-java.svg" productLink="/barcode/nodejs-java/" >}}
+{{< blocks/products/pf/product pfName="Aspose.BarCode for" title="Node.js via Java" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-nodejs-java.svg" productLink="/barcode/nodejs-java/" >}}
 Manage barcode generation and recognition functionality within Node.js applications.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.BarCode for" title="Python via Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/barcode/aspose_barcode-for-python-java.svg" productLink="/barcode/python-java/" >}}
+{{< blocks/products/pf/product pfName="Aspose.BarCode for" title="Python via Java" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-python-java.svg" productLink="/barcode/python-java/" >}}
 Manage barcode generation and recognition functionality within Pytthon applications.
 {{< /blocks/products/pf/product >}}
 

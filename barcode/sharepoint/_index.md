@@ -6,11 +6,11 @@ description: Barcode SharePoint API to insert barcode labels in custom SharePoin
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Add Barcodes to Microsoft SharePoint Lists" h2="Barcode SharePoint App to add Linear, 2D & Postal barcode symbols to Microsoft SharePoint lists." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/barcode/headers/aspose_barcode-for-sharepoint.svg" pfName="Aspose.BarCode" subTitlepfName="for SharePoint" downloadUrl="https://downloads.aspose.com/barcode/sharepoint" >}}
+{{< blocks/products/pf/upper-banner h1="Add Barcodes to Microsoft SharePoint Lists" h2="Barcode SharePoint App to add Linear, 2D & Postal barcode symbols to Microsoft SharePoint lists." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/headers/aspose_barcode-for-sharepoint.svg" pfName="Aspose.BarCode" subTitlepfName="for SharePoint" downloadUrl="https://downloads.aspose.com/barcode/sharepoint" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.BarCode" subTitlepfName="for SharePoint" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/barcode/aspose_barcode-for-sharepoint.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/barcode/sharepoint" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/barcode/sharepoint/" installationsDocsLink="" nugetLink="" nugetPackageName="" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/barcode/sharepoint" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-sharepoint.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/barcode/sharepoint" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/barcode/sharepoint/" installationsDocsLink="" nugetLink="" nugetPackageName="" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/barcode/sharepoint" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>
@@ -50,7 +50,7 @@ description: Barcode SharePoint API to insert barcode labels in custom SharePoin
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="SharePoint Barcode Generator" src="https://www.aspose.cloud/templates/aspose/img/products/barcode/aspose_barcode-for-sharepoint.svg"/>
+  <img alt="SharePoint Barcode Generator" src="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-sharepoint.svg"/>
   <header>
    Aspose.BarCode
   </header>
@@ -100,7 +100,7 @@ description: Barcode SharePoint API to insert barcode labels in custom SharePoin
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="SharePoint Barcode App" src="https://www.aspose.cloud/templates/aspose/img/products/barcode/aspose_barcode-for-sharepoint.svg"/>
+  <img alt="SharePoint Barcode App" src="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-sharepoint.svg"/>
   <header>
    Aspose.BarCode
   </header>
@@ -177,7 +177,7 @@ description: Barcode SharePoint API to insert barcode labels in custom SharePoin
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="SharePoint Barcode App" src="https://www.aspose.cloud/templates/aspose/img/products/barcode/aspose_barcode-for-sharepoint.svg"/>
+  <img alt="SharePoint Barcode App" src="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-sharepoint.svg"/>
   <header>
    Aspose.BarCode
   </header>
@@ -472,7 +472,7 @@ description: Barcode SharePoint API to insert barcode labels in custom SharePoin
       <li>
        <div class="offer-products">
         <a href="/barcode/net">
-         <img alt="Aspose.BarCode for .NET" src="https://www.aspose.cloud/templates/aspose/img/products/barcode/aspose_barcode-for-net.svg"/>
+         <img alt="Aspose.BarCode for .NET" src="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-net.svg"/>
         </a>
         <h5>
          <a href="/barcode/net">
@@ -490,7 +490,7 @@ description: Barcode SharePoint API to insert barcode labels in custom SharePoin
       <li>
        <div class="offer-products">
         <a href="/barcode/java">
-         <img alt="Aspose.BarCode for Java" src="https://www.aspose.cloud/templates/aspose/img/products/barcode/aspose_barcode-for-java.svg"/>
+         <img alt="Aspose.BarCode for Java" src="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-java.svg"/>
         </a>
         <h5>
          <a href="/barcode/java">
@@ -508,7 +508,7 @@ description: Barcode SharePoint API to insert barcode labels in custom SharePoin
       <li>
        <div class="offer-products">
         <a href="/barcode/cpp">
-         <img alt="Aspose.BarCode for C++" src="https://www.aspose.cloud/templates/aspose/img/products/barcode/aspose_barcode-for-cpp.svg"/>
+         <img alt="Aspose.BarCode for C++" src="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-cpp.svg"/>
         </a>
         <h5>
          <a href="/barcode/cpp">
@@ -526,7 +526,7 @@ description: Barcode SharePoint API to insert barcode labels in custom SharePoin
       <li>
        <div class="offer-products">
         <a href="/barcode/android-java">
-         <img alt="Aspose.BarCode for Android via Java" src="https://www.aspose.cloud/templates/aspose/img/products/barcode/aspose_barcode-for-android-java.svg"/>
+         <img alt="Aspose.BarCode for Android via Java" src="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-android-java.svg"/>
         </a>
         <h5>
          <a href="/barcode/android-java">
@@ -544,7 +544,7 @@ description: Barcode SharePoint API to insert barcode labels in custom SharePoin
       <li>
        <div class="offer-products">
         <a href="/barcode/reporting-services">
-         <img alt="Aspose.BarCode for Reporting Services" src="https://www.aspose.cloud/templates/aspose/img/products/barcode/aspose_barcode-for-reporting-services.svg"/>
+         <img alt="Aspose.BarCode for Reporting Services" src="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-reporting-services.svg"/>
         </a>
         <h5>
          <a href="/barcode/reporting-services">
@@ -562,7 +562,7 @@ description: Barcode SharePoint API to insert barcode labels in custom SharePoin
       <li>
        <div class="offer-products">
         <a href="/barcode/jasperreports">
-         <img alt="Aspose.BarCode for JasperReports" src="https://www.aspose.cloud/templates/aspose/img/products/barcode/aspose_barcode-for-jasperreports.svg"/>
+         <img alt="Aspose.BarCode for JasperReports" src="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-jasperreports.svg"/>
         </a>
         <h5>
          <a href="/barcode/jasperreports">
@@ -580,7 +580,7 @@ description: Barcode SharePoint API to insert barcode labels in custom SharePoin
       <li>
        <div class="offer-products">
         <a href="/barcode/php-java">
-         <img alt="Aspose.BarCode for PHP via Java" src="https://www.aspose.cloud/templates/aspose/img/products/barcode/aspose_barcode-for-php-java.svg"/>
+         <img alt="Aspose.BarCode for PHP via Java" src="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-php-java.svg"/>
         </a>
         <h5>
          <a href="/barcode/php-java">
@@ -598,7 +598,7 @@ description: Barcode SharePoint API to insert barcode labels in custom SharePoin
       <li>
        <div class="offer-products">
         <a href="/barcode/nodejs-java">
-         <img alt="Aspose.BarCode for Node.js via Java" src="https://www.aspose.cloud/templates/aspose/img/products/barcode/aspose_barcode-for-nodejs-java.svg"/>
+         <img alt="Aspose.BarCode for Node.js via Java" src="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-nodejs-java.svg"/>
         </a>
         <h5>
          <a href="/barcode/nodejs-java">
@@ -648,15 +648,15 @@ description: Barcode SharePoint API to insert barcode labels in custom SharePoin
 
 {{< blocks/products/pf/offers-section pfName="Aspose.BarCode" description="Aspose.BarCode offers individual Barcode generation and recognition APIs for other popular development environments as listed below:" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/barcode/net/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/barcode/aspose_barcode-for-net.svg" sdkName=".NET" >}}
-    {{< blocks/products/pf/offers-section-item link="/barcode/java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/barcode/aspose_barcode-for-java.svg" sdkName="Java" >}}
-    {{< blocks/products/pf/offers-section-item link="/barcode/cpp/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/barcode/aspose_barcode-for-cpp.svg" sdkName="C++" >}}
-    {{< blocks/products/pf/offers-section-item link="/barcode/android-java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/barcode/aspose_barcode-for-android-java.svg" sdkName="Android via Java" >}}
-    {{< blocks/products/pf/offers-section-item link="/barcode/reporting-services/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/barcode/aspose_barcode-for-reporting-services.svg" sdkName="Reporting Services" >}}
-    {{< blocks/products/pf/offers-section-item link="/barcode/jasperreports/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/barcode/aspose_barcode-for-jasperreports.svg" sdkName="JasperReports" >}}
-    {{< blocks/products/pf/offers-section-item link="/barcode/php-java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/barcode/aspose_barcode-for-php-java.svg" sdkName="PHP via Java" >}}
-    {{< blocks/products/pf/offers-section-item link="/barcode/nodejs-java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/barcode/aspose_barcode-for-nodejs-java.svg" sdkName="Node.js via Java" >}}
-    {{< blocks/products/pf/offers-section-item link="/barcode/python-java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/barcode/aspose_barcode-for-python-java.svg" sdkName="Python via Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/barcode/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-net.svg" sdkName=".NET" >}}
+    {{< blocks/products/pf/offers-section-item link="/barcode/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-java.svg" sdkName="Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/barcode/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-cpp.svg" sdkName="C++" >}}
+    {{< blocks/products/pf/offers-section-item link="/barcode/android-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-android-java.svg" sdkName="Android via Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/barcode/reporting-services/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-reporting-services.svg" sdkName="Reporting Services" >}}
+    {{< blocks/products/pf/offers-section-item link="/barcode/jasperreports/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-jasperreports.svg" sdkName="JasperReports" >}}
+    {{< blocks/products/pf/offers-section-item link="/barcode/php-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-php-java.svg" sdkName="PHP via Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/barcode/nodejs-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-nodejs-java.svg" sdkName="Node.js via Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/barcode/python-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-python-java.svg" sdkName="Python via Java" >}}
 
 {{< /blocks/products/pf/offers-section >}}
 
