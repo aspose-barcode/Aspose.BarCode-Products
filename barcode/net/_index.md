@@ -13,14 +13,9 @@ description: Aspose.BarCode for .NET APIs to read create and recognize 1D 2D bar
 {{< blocks/products/pf/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-net.svg" liveDemosLink="https://products.aspose.app/barcode/family" PricingLink="https://purchase.aspose.com/pricing/barcode/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/barcode/net/" installationsDocsLink="https://docs.aspose.com/barcode/net/installation" nugetLink="https://www.nuget.org/packages/Aspose.BarCode/" nugetPackageName="Aspose.BarCode" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/barcode/net" >}}
 
 {{< blocks/products/pf/tab-content >}}
-<p>
- Aspose.BarCode for .NET is a powerful library to generate &amp; recognize 1D &amp; 2D barcodes from multiple image types at any angle. Developers can easily add the barcode generation and scanning functionality to their .NET applications. It also allows exporting the generated barcodes to different high-quality image formats.
-</p>
+<p>Aspose.BarCode for .NET is a powerful library to generate &amp; recognize 1D &amp; 2D barcodes from multiple image types at any angle. Developers can easily add the barcode generation and scanning functionality to their .NET applications. It also allows exporting the generated barcodes to different high-quality image formats.</p>
 
-<p>
- Aspose.BarCode for .NET supports to manipulate the appearance of the generated barcodes like background color, bar color, rotation angle, x-dimension, image quality, resolution, captions, size and much more. Moreover, API supports multiple types of recognition and imaging features as well as different types of symbologies.
-</p>
-
+<p>Aspose.BarCode for .NET supports to manipulate the appearance of the generated barcodes like background color, bar color, rotation angle, x-dimension, image quality, resolution, captions, size and much more. Moreover, API supports multiple types of recognition and imaging features as well as different types of symbologies.</p>
 {{< /blocks/products/pf/tab-content >}}
 
 <!--Diagrams Start-->
