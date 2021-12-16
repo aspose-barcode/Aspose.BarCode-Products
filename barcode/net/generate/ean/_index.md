@@ -71,7 +71,7 @@ PM> Install-Package Aspose.BarCode
 // The path to the documents directory.
 string dataDir = "directoryPath";
 // Instantiate object and set differnt barcode properties
-BarcodeGenerator  generator = new BarcodeGenerator (EncodeTypes.EAN13, "1234567");
+BarcodeGenerator  generator = new BarcodeGenerator (EncodeTypes.EAN13, "590123412345");
 generator.Parameters.Barcode.XDimension.Millimeters = 1f;
 
 // Save the image to your system and set its image format to Jpeg
