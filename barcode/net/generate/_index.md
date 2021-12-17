@@ -44,4 +44,3 @@ C# BarCode API supports Linear EAN 13 and EAN 8 symbologies. EAN-13 barcode havi
 {{% /blocks/products/pf/feature-page-code  %}}
 
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/feature-page-options pairs="html-to-bmp html-to-png html-to-jpeg html-to-tiff html-to-gif" >}}
