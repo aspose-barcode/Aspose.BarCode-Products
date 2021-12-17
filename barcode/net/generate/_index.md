@@ -33,7 +33,7 @@ C# BarCode API supports Linear EAN 13 and EAN 8 symbologies. EAN-13 barcode havi
 
 {{% blocks/products/pf/feature-page-section  h2="QR Code Generation" %}}
 
-.NET BarCode API also supports 2D symbologies including Aztec, DataMatrix, PDf417 and QR code. Process of creating QR code is almost same i.e create BarcodeGenerator class object, set the relevant parameters of the same object like QrEncodeMode, QrECIEncoding, XDimension etc. and finally save into the required image format. 
+.NET BarCode API also supports 2D symbologies including Aztec, DataMatrix, PDf417 and QR code. Process of creating QR code is almost same i.e create BarcodeGenerator class object, set the relevant parameters of the same object like QrEncodeMode, QrECIEncoding, XDimension etc. and finally save into the required image format. Developers can also generate many other popular barcode symbologies listed below. 
 
  
 
@@ -44,3 +44,5 @@ C# BarCode API supports Linear EAN 13 and EAN 8 symbologies. EAN-13 barcode havi
 {{% /blocks/products/pf/feature-page-code  %}}
 
 {{% /blocks/products/pf/feature-page-section %}}
+
+{{< blocks/products/pf/feature-page-options formats="all" afterslug="Barcode">}}
