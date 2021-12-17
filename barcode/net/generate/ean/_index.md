@@ -2,7 +2,7 @@
 title: Generate EAN 8 EAN 13 EAN 14 BarCode Images via .NET 
 weight: 2090
 url: /net/generate/ean/ 
-description: C# source code for EAN8 EAN13 EAN14 barcode image generation on .NET Framework, .NET Standard, COM Interloop for PHP, VBScript, Delphi, C++.
+description: C# source code for EAN8 EAN13 EAN14 barcode image generation using .NET Library.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -95,9 +95,9 @@ generator.Save(dataDir + "output.jpg", BarCodeImageFormat.Jpeg);
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Select EAN13 from the dropdown." >}}
         {{< blocks/products/pf/agp/democard icon="fa-download" text=" Instantly get the EAN13 label." >}}
 
-    {{% blocks/products/pf/agp/content h2="About Aspose.BarCode for .NET API" %}}
+    {{% blocks/products/pf/agp/content h2="" %}}
 
- Aspose.BarCode is a barcode reader and generation API. It can easily decode and generate 1D, 2D and postal barcodes of multiple symbologies. Developers can easily integrate it in any barcode generation and scanning application. Moreover, Generated barcodes can easily be exported to different high-quality image formats. Its a standalone library and does not require any additional software installation. ‎
+ .NET BarCode API is capable of barcode scanning and generation. It can easily decode and generate 1D, 2D and postal barcodes of multiple symbologies. Developers can easily integrate it in any barcode generation and recognizing application. Moreover, Generated barcodes can easily be exported to different high-quality image formats. Its a standalone library and does not require any additional software installation. ‎
 
 
 
