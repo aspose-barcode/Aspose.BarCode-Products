@@ -1,5 +1,5 @@
 ---
-title: C# BarCode Generation Samples
+title: C# BarCode Generation
 url: /net/generate/
 description: Create barcode images of various 1D and 2D symbologies with few lines of C# code via .NET library.
 ---
