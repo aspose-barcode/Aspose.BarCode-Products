@@ -23,6 +23,12 @@ description: Read barcode images of various 1D and 2D symbologies with few lines
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
+{{% blocks/products/pf/feature-page-code h3="C# Code to Read Multiple Symbologies in an Image" %}}
+
+{{< gist "aspose-com-gists" "c8556eabef70104ce3471fb0c8fb9e1c" "read-multiple-symbologies-in-image.cs" >}}
+
+{{% /blocks/products/pf/feature-page-code  %}}
+
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="QR Code Reader" %}}
