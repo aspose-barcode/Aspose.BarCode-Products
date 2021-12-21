@@ -1,11 +1,11 @@
 ---
-title: Java BarCode Generation
+title: Java Barcode Generation
 url: /java/generate/
 description: Create barcode images of various 1D and 2D symbologies via Java library
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Generate BarCode Images Via Java" h2="Create various Linear and 2D symbologies including Codabar, Code11, Code128, Code39, Code93, EAN, Aztec, DataMatrix, PDf417 and more to build cross-platform Java applications." >}}
+{{< blocks/products/pf/feature-page-header h1="Generate Barcode Images Via Java" h2="Create various Linear and 2D symbologies including Codabar, Code11, Code128, Code39, Code93, EAN, Aztec, DataMatrix, PDF417 and more to build cross-platform Java applications." >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

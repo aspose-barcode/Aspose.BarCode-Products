@@ -1,11 +1,11 @@
 ---
-title: Java BarCode Recognition
+title: Java Barcode Recognition
 url: /java/recognize/
 description: Read barcode images of different 1D and 2D symbologies via Java library
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Recognize BarCodes Via Java" h2="Read various Linear and 2D symbologies including  EAN, Codeblock, Code 128, Aztec, Data Matrix, PDF 417, QR, UPC and more to build cross-platform Java applications." >}}
+{{< blocks/products/pf/feature-page-header h1="Recognize Barcodes Via Java" h2="Read various Linear and 2D symbologies including  EAN, Codeblock, Code 128, Aztec, Data Matrix, PDF 417, QR, UPC and more to build cross-platform Java applications." >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 
@@ -13,7 +13,7 @@ description: Read barcode images of different 1D and 2D symbologies via Java lib
 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
-{{% blocks/products/pf/feature-page-section  h2="Recognize Code 128 barcode" %}}
+{{% blocks/products/pf/feature-page-section  h2="Recognize Code 128 Barcode" %}}
 
 **Java BarCode Scanner API** is capable of reading multiple symbologies from a single image. Process of reading or decoding Code-128 barcode images is, Use BarCodeReader class, having image containing Code128 code and [DecodeType](https://apireference.aspose.com/barcode/java/com.aspose.barcode.barcoderecognition/DecodeType).CODE_128 as parameters. Iterate through each code to get it.
 

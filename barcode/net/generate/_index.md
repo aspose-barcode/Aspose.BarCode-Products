@@ -1,15 +1,15 @@
 ---
-title: C# BarCode Generation
+title: C# Barcode Generation
 url: /net/generate/
 description: Create barcode images of various 1D and 2D symbologies with few lines of C# code via .NET library
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Generate BarCode Images Via C#" h2="Create various 1D and 2D symbologies including  EAN 13, EAN 8, Codeblock, Code 128, Aztec, PDF 417, QR, UPC and more to build cross-platform .NET applications." >}}
+{{< blocks/products/pf/feature-page-header h1="Generate Barcode Images Via C#" h2="Create various 1D and 2D symbologies including  EAN 13, EAN 8, Codeblock, Code 128, Aztec, PDF 417, QR, UPC and more to build cross-platform .NET applications." >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 
-**How to generate barcodes in C#**, .NET BarCode API can do it easily. Programmers can save generated barcode labels to a database, within a specified directory or can integrate the barcode generation feature into some external applications. API provides [BarcodeGenerator](https://apireference.aspose.com/barcode/net/aspose.barcode.generation/barcodegenerator), which supports different 1D symbologies including Codabar, Code 11, Code 39 (Standard, Extended), Code 93 (Standard, Extended), EAN13, EAN8 etc and 2D symbologies such as Aztec, DataMatrix, PDf417, QR code. 
+**How to generate barcodes in C#**, .NET Barcode API can do it easily. Programmers can save generated barcode labels to a database, within a specified directory or can integrate the barcode generation feature into some external applications. API provides [BarcodeGenerator](https://apireference.aspose.com/barcode/net/aspose.barcode.generation/barcodegenerator), which supports different 1D symbologies including Codabar, Code 11, Code 39 (Standard, Extended), Code 93 (Standard, Extended), EAN13, EAN8 etc and 2D symbologies such as Aztec, DataMatrix, PDf417, QR code. 
 
 {{% /blocks/products/pf/feature-page-summary  %}}
 

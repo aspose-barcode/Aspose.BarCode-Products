@@ -1,19 +1,19 @@
 ---
-title: C# BarCode Recognition
+title: C# Barcode Recognition
 url: /net/recognize/
 description: Read barcode images of various 1D and 2D symbologies with few lines of C# code via .NET library
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Recognize BarCodes Via C#" h2="Read various 1D and 2D symbologies including  EAN 13, EAN 8, Codeblock, Code 128, Aztec, PDF 417, QR, UPC and more to build cross-platform .NET applications." >}}
+{{< blocks/products/pf/feature-page-header h1="Recognize Barcodes Via C#" h2="Read various 1D and 2D symbologies including  EAN 13, EAN 8, Codeblock, Code 128, Aztec, PDF 417, QR, UPC and more to build cross-platform .NET applications." >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 
-**How to recognize barcodes in C#**, .NET BarCode API can do it easily. Programmers can read barcodes at any angle. API provides [BarCodeReader class](https://apireference.aspose.com/barcode/net/aspose.barcode.recognition/barcodegenerator), having the image containing code as parameter as well as developers can pass DecodeType as parameter. Get all codes via its [ReadBarCodes](https://apireference.aspose.com/barcode/net/aspose.barcode.barcoderecognition/barcodereader/methods/readbarcodes). Iterate through each code and get its type and text.  
+**How to recognize barcodes in C#**, .NET Barcode API can do it easily. Programmers can read barcodes at any angle. API provides [BarCodeReader class](https://apireference.aspose.com/barcode/net/aspose.barcode.recognition/barcodegenerator), having the image containing code as parameter as well as developers can pass DecodeType as parameter. Get all codes via its [ReadBarCodes](https://apireference.aspose.com/barcode/net/aspose.barcode.barcoderecognition/barcodereader/methods/readbarcodes). Iterate through each code and get its type and text.  
 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
-{{% blocks/products/pf/feature-page-section  h2="Recognize PDF417 barcode" %}}
+{{% blocks/products/pf/feature-page-section  h2="Recognize PDF417 Barcode" %}}
 
 **C# BarCode Scanner API** is capable of reading multiple symbologies from a single image. Process of reading or decoding PDF-417 barcode images is, Use BarCodeReader class, having image containing PDF 417 code and DecodeType.Pdf417 as parameters. Iterate through each code to get it.
 
