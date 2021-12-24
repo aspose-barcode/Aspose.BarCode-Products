@@ -62,7 +62,7 @@ PM> Install-Package Aspose.BarCode.Cpp
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Recognize DutchKIX - C++‎" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="Recognize DutchKIX - C++" offSpacer="" %}}
 
 ```cs
 // Create an instance of BarCodeReader, set image and DecodeType type to recognize
@@ -88,7 +88,7 @@ barCodeReader->Close();
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="Decode DutchKIX via Online App" sectionDescription="[Recognize DutchKIX](https://products.aspose.app/barcode/recognize/dutchkix) right now by visiting our Live Demos website.The live demo has the following benefits" >}}
+{{< blocks/products/pf/agp/demobox sectionTitle="Decode DutchKIX via Online App" sectionDescription="[Recognize DutchKIX](https://products.aspose.app/barcode/recognize/dutchkix) right now by visiting our Live Demos website.The live demo has the following benefits" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" No need to download Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" No need to write any code." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Just upload your image containing KIX-CODE barcodes, it will be scanned instantly." >}}
@@ -96,7 +96,7 @@ barCodeReader->Close();
 
     {{% blocks/products/pf/agp/content h2="About Aspose.BarCode for C++ API" %}}
 
- Aspose.BarCode is a barcode reader and generation API. It can easily decode and generate 1D, 2D and postal barcodes of multiple symbologies. Developers can easily integrate it in any barcode generation and scanning application. Moreover, Generated barcodes can easily be exported to different high-quality image formats. Its a standalone library and does not require any additional software installation. ‎
+ Aspose.BarCode is a barcode reader and generation API. It can easily decode and generate 1D, 2D and postal barcodes of multiple symbologies. Developers can easily integrate it in any barcode generation and scanning application. Moreover, Generated barcodes can easily be exported to different high-quality image formats. Its a standalone library and does not require any additional software installation. 
 
 
 

@@ -424,7 +424,7 @@ description: SQL Server Reporting Services rendering extension - Export Linear a
      Integration with SQL Server Reporting Services
     </h2>
     <p>
-     Aspose.BarCode for Reporting Services can easily be integrated with existing and new projects by just adding Aspose.BarCode for Reporting Services to Visual Studio's Toolbox. Once available in the Toolbox, you can easily drag and drop it onto the project wherever desired.
+     Aspose.BarCode for Reporting Services can easily be integrated with existing and new projects by just adding Aspose.BarCode for Reporting Services to Visual Studio's Toolbox. Once available in the Toolbox, you can easily drag and drop it onto the project wherever desired.
     </p>
    </div>
    <div class="col-lg-12">

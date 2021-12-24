@@ -6,7 +6,7 @@ description: Node.js barcode scanning and generation library for 1D, 2D and Post
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Node.js Barcode Generator and Scanner API" h2="Recognize or Generate 1D, 2D and Postal barcodes including Code128, Code93, Code39, QR Code from different images." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/headers/aspose_barcode-for-nodejs-java.svg" pfName="Aspose.BarCode" subTitlepfName="for Node.js via Java" downloadUrl="https://downloads.aspose.com/barcode/nodejs" >}}
+{{< blocks/products/pf/upper-banner h1="Node.js Barcode Generator and Scanner API" h2="Recognize or Generate 1D, 2D and Postal barcodes including Code128, Code93, Code39, QR Code from different images." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/headers/aspose_barcode-for-nodejs-java.svg" pfName="Aspose.BarCode" subTitlepfName="for Node.js via Java" downloadUrl="https://downloads.aspose.com/barcode/nodejs" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.BarCode" subTitlepfName="for Node.js via Java" >}}
 
@@ -192,7 +192,7 @@ description: Node.js barcode scanning and generation library for 1D, 2D and Post
   </div>
   <!--/left-->
   <div class="d1-col d1-right">
-   <!--<header><i class="fa  fa-mail-forward"> </i> Output Only</header>
+   <!--<header><i class="fa  fa-mail-forward"> </i> Output Only</header>
 
 <ul>
 
@@ -236,7 +236,7 @@ description: Node.js barcode scanning and generation library for 1D, 2D and Post
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
-    Advanced Node.js Barcode API Features
+    Advanced Node.js Barcode API Features
    </h2>
    <p>
    </p>
@@ -324,19 +324,19 @@ description: Node.js barcode scanning and generation library for 1D, 2D and Post
      Customize resolution
     </p>
    </div>
-   <!--<div class="col-lg-4"><em class="fa fa-circle ico-blue fa-2x col-lg-2"> </em>
+   <!--<div class="col-lg-4"><em class="fa fa-circle ico-blue fa-2x col-lg-2"> </em>
 
-<p class="col-lg-10">Obtain Barcode Region Information from the Image</p>
+<p class="col-lg-10">Obtain Barcode Region Information from the Image</p>
 
 </div>
 
-<div class="col-lg-4"><em class="fa fa-star ico-blue fa-2x col-lg-2"> </em>
+<div class="col-lg-4"><em class="fa fa-star ico-blue fa-2x col-lg-2"> </em>
 
 <p class="col-lg-10">Read Barcode from Specific Region</p>
 
 </div>
 
-<div class="col-lg-4"><em class="fa fa-arrows ico-blue fa-2x col-lg-2"> </em>
+<div class="col-lg-4"><em class="fa fa-arrows ico-blue fa-2x col-lg-2"> </em>
 
 <p class="col-lg-10">Switch Barcode Recognition Modes as of Requirement</p>
 
@@ -397,7 +397,7 @@ $builder-&gt;save($dataDir . "CreatingQRBarcode.jpg");
      Supported Barcode Symbologies
     </h2>
     <p>
-     Aspose.BarCode for Node.js via Java supports a large number of Numeric, Alpha Numeric and 2D bar code symbologies for both encoding and decoding.
+     Aspose.BarCode for Node.js via Java supports a large number of Numeric, Alpha Numeric and 2D bar code symbologies for both encoding and decoding.
     </p>
     <p>
      API supported Numeric Symbologies include:
@@ -574,7 +574,7 @@ $builder-&gt;save($dataDir . "CreatingQRBarcode.jpg");
 
 <h2 class="h2title">Imaging, Rotation & Sizing</h2>
 
-<p>Common manipulation features of the barcode library are modifying barcode image, border and background colors, bar color, margins, width of images and much more. Furthermore, PHP API can adjust the resolution for the resultant images and can rotate images at any angle for generating high-quality images with anti-aliasing.</p>
+<p>Common manipulation features of the barcode library are modifying barcode image, border and background colors, bar color, margins, width of images and much more. Furthermore, PHP API can adjust the resolution for the resultant images and can rotate images at any angle for generating high-quality images with anti-aliasing.</p>
 
 </div>
 

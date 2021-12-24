@@ -6,7 +6,7 @@ description: Using Aspose.BarCode for JasperReports - developers can generate ba
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Generate & Export Barcodes in JasperReports" h2="JasperReports & JasperServer API to Generate, Display and Export Linear, 2D and Postal barcodes to multiple formats." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/headers/aspose_barcode-for-jasperreports.svg" pfName="Aspose.BarCode" subTitlepfName="for JasperReports" downloadUrl="https://downloads.aspose.com/barcode/jasperreports" >}}
+{{< blocks/products/pf/upper-banner h1="Generate & Export Barcodes in JasperReports" h2="JasperReports & JasperServer API to Generate, Display and Export Linear, 2D and Postal barcodes to multiple formats." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/headers/aspose_barcode-for-jasperreports.svg" pfName="Aspose.BarCode" subTitlepfName="for JasperReports" downloadUrl="https://downloads.aspose.com/barcode/jasperreports" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.BarCode" subTitlepfName="for JasperReports" >}}
 
@@ -14,7 +14,7 @@ description: Using Aspose.BarCode for JasperReports - developers can generate ba
 
 {{< blocks/products/pf/tab-content >}}
 <p>
- Aspose.BarCode for JasperReports is a flexible JasperReports and JasperServer extension to create and show barcode labels in your applications. These barcode labels can be rendered in many popular image formats.
+ Aspose.BarCode for JasperReports is a flexible JasperReports and JasperServer extension to create and show barcode labels in your applications. These barcode labels can be rendered in many popular image formats.
 </p>
 
 {{< /blocks/products/pf/tab-content >}}
@@ -185,21 +185,21 @@ description: Using Aspose.BarCode for JasperReports - developers can generate ba
     <em class="fa fa-print ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Generate and print reports with barcodes
+     Generate and print reports with barcodes
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-server ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Increase application workflow by adding barcode functionality
+     Increase application workflow by adding barcode functionality
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-files-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Embed barcodes in files to aid traceability
+     Embed barcodes in files to aid traceability
     </p>
    </div>
    <div class="col-lg-4">
@@ -363,7 +363,7 @@ description: Using Aspose.BarCode for JasperReports - developers can generate ba
       Customize Barcode Images
      </h2>
      <p>
-      Aspose.BarCode for JasperReports permits to customize the barcodes by specifying a variety of options such as symbology type, text (code data that will be encoded as barcode image) as well as properties to tweak the appearance such as font, background and foreground colors.
+      Aspose.BarCode for JasperReports permits to customize the barcodes by specifying a variety of options such as symbology type, text (code data that will be encoded as barcode image) as well as properties to tweak the appearance such as font, background and foreground colors.
      </p>
      <p>
       You may also customize the barcode captions such as caption font, background/foreground color, alignment and location (hide, above, below) and so on.
@@ -374,7 +374,7 @@ description: Using Aspose.BarCode for JasperReports - developers can generate ba
       Easy Deployment
      </h2>
      <p>
-      Aspose.BarCode for JasperReports is coded purely in Java and is provided as a single JAR document and deployed easily to machines running JasperReports or JasperServer. In order to install the JasperReports Barcode extension, simply copy the JAR document to the right folder location, and you are ready to go.
+      Aspose.BarCode for JasperReports is coded purely in Java and is provided as a single JAR document and deployed easily to machines running JasperReports or JasperServer. In order to install the JasperReports Barcode extension, simply copy the JAR document to the right folder location, and you are ready to go.
      </p>
     </div>
    </div>

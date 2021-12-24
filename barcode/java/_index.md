@@ -14,7 +14,7 @@ description: Java barcode library to generate read recognize barcodes. Barcode S
 
 {{< blocks/products/pf/tab-content >}}
 <p>
- Aspose.BarCode for Java is a robust and reliable API providing the barcode generation and recognition features for Java applications. It supports the most established standards and specifications and allows to read 1D and 2D barcodes from different format images at multiple angles.
+ Aspose.BarCode for Java is a robust and reliable API providing the barcode generation and recognition features for Java applications. It supports the most established standards and specifications and allows to read 1D and 2D barcodes from different format images at multiple angles.
 </p>
 
 <p>
@@ -69,7 +69,7 @@ description: Java barcode library to generate read recognize barcodes. Barcode S
    </header>
    <ul>
     <li>
-     Linear, 2D and Postal
+     Linear, 2D and Postal
     </li>
     <li>
      Save to Stream or Image
@@ -249,19 +249,19 @@ description: Java barcode library to generate read recognize barcodes. Barcode S
    </h2>
    <p>
    </p>
-   <!--<div class="col-lg-4"><em class="fa fa-server ico-blue fa-2x col-lg-2"> </em>
+   <!--<div class="col-lg-4"><em class="fa fa-server ico-blue fa-2x col-lg-2"> </em>
 
 <p class="col-lg-10">Support for Checksum & Supplement data</p>
 
 </div>
 
-<div class="col-lg-4"><em class="fa fa-object-group ico-blue fa-2x col-lg-2"> </em>
+<div class="col-lg-4"><em class="fa fa-object-group ico-blue fa-2x col-lg-2"> </em>
 
 <p class="col-lg-10">Wide to Narrow Ratio for supported symbologies</p>
 
 </div>
 
-<div class="col-lg-4"><em class="fa fa-paint-brush ico-blue fa-2x col-lg-2"> </em>
+<div class="col-lg-4"><em class="fa fa-paint-brush ico-blue fa-2x col-lg-2"> </em>
 
 <p class="col-lg-10">Customizable caption & font styles</p>
 
@@ -319,7 +319,7 @@ description: Java barcode library to generate read recognize barcodes. Barcode S
     <em class="fa fa-bolt ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Support of X and Y-dimension for 2D type
+     Support of X and Y-dimension for 2D type
     </p>
    </div>
    <div class="col-lg-4">
@@ -334,7 +334,7 @@ description: Java barcode library to generate read recognize barcodes. Barcode S
      Manipulate Labels in Many Ways
     </h2>
     <p>
-     Aspose.BarCode for Java API provides the ability to manipulate image borders, style, margin, and width as well as image's background color and bar color. You can also rotate images to any angle and produce high-quality bar code images with anti-aliasing. In addition to this, image margins &amp; resolution can be customized.
+     Aspose.BarCode for Java API provides the ability to manipulate image borders, style, margin, and width as well as image's background color and bar color. You can also rotate images to any angle and produce high-quality bar code images with anti-aliasing. In addition to this, image margins &amp; resolution can be customized.
     </p>
    </div>
    <div class="col-lg-12">
@@ -342,7 +342,7 @@ description: Java barcode library to generate read recognize barcodes. Barcode S
      Recognize Barcodes from Images
     </h2>
     <p>
-     Java barcode library is capable of reading from different images. BarCodeReader class which is mainly responsible for the recognition feature supports many popular image formats including BMP, PNG, TIFF, JPEG &amp; GIF. The recognition process is highly configurable allowing you to set expected regions to find code labels on an image, apply manual recognition hints to optimize the scan &amp; apply binarization filters on the image.
+     Java barcode library is capable of reading from different images. BarCodeReader class which is mainly responsible for the recognition feature supports many popular image formats including BMP, PNG, TIFF, JPEG &amp; GIF. The recognition process is highly configurable allowing you to set expected regions to find code labels on an image, apply manual recognition hints to optimize the scan &amp; apply binarization filters on the image.
     </p>
     <div class="codeblock" id="code">
      <h3>
@@ -368,7 +368,7 @@ while (reader.read()) {
      Supported Barcode Symbologies
     </h2>
     <p>
-     Aspose.BarCode for Java API offers support for multiple 1D, 2D and postal symbologies having both encode and decode capabilities:
+     Aspose.BarCode for Java API offers support for multiple 1D, 2D and postal symbologies having both encode and decode capabilities:
     </p>
     <div class="col-lg-6">
      <ul class="unstyled">

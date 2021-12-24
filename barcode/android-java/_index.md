@@ -14,7 +14,7 @@ description: Android barcode scanner library to recognize different kinds of 1D,
 
 {{< blocks/products/pf/tab-content >}}
 <p>
- Aspose.BarCode for Android via Java is a set of barcode generation &amp; scanning APIs for Android applications. API supports 1D, 2D &amp; postal barcodes from different angles on images. Barcode generator API easily creates barcode images within multiple formats.  Moreover, It supports multiple imaging features such as manipulating image borders, image color, rotating images, customizing resolution and much more.
+ Aspose.BarCode for Android via Java is a set of barcode generation &amp; scanning APIs for Android applications. API supports 1D, 2D &amp; postal barcodes from different angles on images. Barcode generator API easily creates barcode images within multiple formats.  Moreover, It supports multiple imaging features such as manipulating image borders, image color, rotating images, customizing resolution and much more.
 </p>
 
 {{< /blocks/products/pf/tab-content >}}
@@ -42,7 +42,7 @@ description: Android barcode scanner library to recognize different kinds of 1D,
      Decode Non-English Characters
     </li>
    </ul>
-   <!--<header><i class="fa fa-print"> </i>Printing</header>
+   <!--<header><i class="fa fa-print"> </i>Printing</header>
 
 <ul>
 
@@ -106,7 +106,7 @@ description: Android barcode scanner library to recognize different kinds of 1D,
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Platform Independence" description="Use API on any platform where the Android Runtime Environment is available." >}}
+{{< blocks/products/pf/carousel-item h3="Platform Independence" description="Use API on any platform where the Android Runtime Environment is available." >}}
 <div class="diagram1 d1-android">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -223,7 +223,7 @@ description: Android barcode scanner library to recognize different kinds of 1D,
     <em class="fa fa-exchange ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Encode &amp; decode non-english characters in 2D types
+     Encode &amp; decode non-english characters in 2D types
     </p>
    </div>
    <div class="col-lg-4">
@@ -251,7 +251,7 @@ description: Android barcode scanner library to recognize different kinds of 1D,
     <em class="fa fa-book ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Linear, 2D and postal symbologies supported
+     Linear, 2D and postal symbologies supported
     </p>
    </div>
    <div class="col-lg-4">
@@ -296,7 +296,7 @@ while (rd.read()) {
      Supported Barcode Symbologies
     </h2>
     <p>
-     Aspose.BarCode for Android via Java supports different postal, 2D and linear bar code symbologies for both encoding and decoding.
+     Aspose.BarCode for Android via Java supports different postal, 2D and linear bar code symbologies for both encoding and decoding.
     </p>
     <p>
      API supported linear types include:
@@ -529,7 +529,7 @@ while (rd.read()) {
      Imaging, Rotation &amp; Sizing
     </h2>
     <p>
-     Common manipulation features of the barcode library are modifying barcode image, border and background colors, bar color, margins, width of images and much more. Furthermore, android API can adjust the resolution for the resultant images and can rotate images at any angle for generating high-quality images with anti-aliasing.
+     Common manipulation features of the barcode library are modifying barcode image, border and background colors, bar color, margins, width of images and much more. Furthermore, android API can adjust the resolution for the resultant images and can rotate images at any angle for generating high-quality images with anti-aliasing.
     </p>
    </div>
    <div class="col-lg-12">
@@ -537,7 +537,7 @@ while (rd.read()) {
      Customizing Symbologies &amp; Appearance
     </h2>
     <p>
-     Android barcode API permits developers to customize the codes by specifying different symbologies, adjusting code text and properties such as background color, foreground color, font as well as alignment and location (above, below, hide). You can also easily manage caption settings for the same properties.
+     Android barcode API permits developers to customize the codes by specifying different symbologies, adjusting code text and properties such as background color, foreground color, font as well as alignment and location (above, below, hide). You can also easily manage caption settings for the same properties.
     </p>
    </div>
   </div>

@@ -78,7 +78,7 @@ description: Java sample code to read and decode upc barcode on Java Runtime Env
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Recognize UPC Barcodes - Java‎" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="Recognize UPC Barcodes - Java" offSpacer="" %}}
 
 ```cs
 BarCodeReader reader = new BarCodeReader("barcode.png", DecodeType.UPCA);
@@ -108,7 +108,7 @@ for(BarCodeResult result : reader.readBarCodes()){
 
     {{% blocks/products/pf/agp/content h2="About Aspose.BarCode for Java API" %}}
 
- Aspose.BarCode is a barcode reader and generation API. It can easily decode and generate 1D, 2D and postal barcodes of multiple symbologies. Developers can easily integrate it in any barcode generation and scanning application. Moreover, Generated barcodes can easily be exported to different high-quality image formats. Its a standalone library and does not require any additional software installation. ‎
+ Aspose.BarCode is a barcode reader and generation API. It can easily decode and generate 1D, 2D and postal barcodes of multiple symbologies. Developers can easily integrate it in any barcode generation and scanning application. Moreover, Generated barcodes can easily be exported to different high-quality image formats. Its a standalone library and does not require any additional software installation. 
 
 
 

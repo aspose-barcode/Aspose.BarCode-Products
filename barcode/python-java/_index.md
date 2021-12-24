@@ -6,7 +6,7 @@ description: Python barcode reader library to recognize and generate mutiple typ
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Python Barcode Generator and Reader API" h2="Recognize or Generate 1D, 2D and Postal barcodes in any Python application." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/headers/aspose_barcode-for-python-java.svg" pfName="Aspose.BarCode" subTitlepfName="for Python via Java" downloadUrl="https://downloads.aspose.com/barcode/python" >}}
+{{< blocks/products/pf/upper-banner h1="Python Barcode Generator and Reader API" h2="Recognize or Generate 1D, 2D and Postal barcodes in any Python application." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/headers/aspose_barcode-for-python-java.svg" pfName="Aspose.BarCode" subTitlepfName="for Python via Java" downloadUrl="https://downloads.aspose.com/barcode/python" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.BarCode" subTitlepfName="for Python via Java" >}}
 
@@ -53,7 +53,7 @@ description: Python barcode reader library to recognize and generate mutiple typ
    </header>
    <ul>
     <li>
-     Linear and 2D Barcode
+     Linear and 2D Barcode
     </li>
     <li>
      Customize Label
@@ -171,7 +171,7 @@ description: Python barcode reader library to recognize and generate mutiple typ
   </div>
   <!--/left-->
   <div class="d1-col d1-right">
-   <!--<header><i class="fa  fa-mail-forward"> </i> Output Only</header>
+   <!--<header><i class="fa  fa-mail-forward"> </i> Output Only</header>
 
 <ul>
 
@@ -307,7 +307,7 @@ description: Python barcode reader library to recognize and generate mutiple typ
     <em class="fa fa-circle ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Obtain Barcode Region Information from the Image
+     Obtain Barcode Region Information from the Image
     </p>
    </div>
    <div class="col-lg-4">
@@ -349,7 +349,7 @@ generator.save("QR.png", "PNG")
 
 <h2 class="h2title">Supported Barcode Symbologies</h2>
 
-<p>Aspose.BarCode for Python via Java supports a large number of linear, 2D and postal bar code symbologies for both encoding and decoding.</p>
+<p>Aspose.BarCode for Python via Java supports a large number of linear, 2D and postal bar code symbologies for both encoding and decoding.</p>
 
 <p>API supported Alpha-Numeric Symbologies include:</p>
 
@@ -471,7 +471,7 @@ generator.save("QR.png", "PNG")
 
 <h2 class="h2title">Imaging, Rotation & Sizing</h2>
 
-<p>Common manipulation features of the barcode library are modifying barcode image, border and background colors, bar color, margins, width of images and much more. Furthermore, Python API can adjust the resolution for the resultant images and can rotate images at any angle for generating high-quality images with anti-aliasing.</p>
+<p>Common manipulation features of the barcode library are modifying barcode image, border and background colors, bar color, margins, width of images and much more. Furthermore, Python API can adjust the resolution for the resultant images and can rotate images at any angle for generating high-quality images with anti-aliasing.</p>
 
 </div>
 
