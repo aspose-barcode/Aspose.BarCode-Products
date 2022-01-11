@@ -113,7 +113,7 @@ description: Node.js barcode scanning and generation library for 1D, 2D and Post
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="Barcode Android Library" src="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-nodejs-java.svg"/>
+  <img width="70" height="75" alt="Barcode Android Library" src="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-nodejs-java.svg"/>
   <header>
    Aspose.BarCode
   </header>
@@ -148,7 +148,7 @@ description: Node.js barcode scanning and generation library for 1D, 2D and Post
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="Barcode Generator Android" src="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-nodejs-java.svg"/>
+  <img width="70" height="75" alt="Barcode Generator Android" src="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-nodejs-java.svg"/>
   <header>
    Aspose.BarCode
   </header>
@@ -208,7 +208,7 @@ description: Node.js barcode scanning and generation library for 1D, 2D and Post
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="Android Barcode Reader API" src="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-nodejs-java.svg"/>
+  <img width="70" height="75" alt="Android Barcode Reader API" src="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-nodejs-java.svg"/>
   <header>
    Aspose.BarCode
   </header>

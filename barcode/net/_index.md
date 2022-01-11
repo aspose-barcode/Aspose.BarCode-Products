@@ -94,7 +94,7 @@ description: Aspose.BarCode for .NET APIs to read create and recognize 1D 2D bar
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="Barcode .NET Library" src="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-net.svg"/>
+  <img width="70" height="75" alt="Barcode .NET Library" src="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-net.svg"/>
   <header>
    Aspose.BarCode
   </header>
@@ -160,7 +160,7 @@ description: Aspose.BarCode for .NET APIs to read create and recognize 1D 2D bar
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="Barcode Generator in C#" src="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-net.svg"/>
+  <img width="70" height="75" alt="Barcode Generator in C#" src="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-net.svg"/>
   <header>
    Aspose.BarCode
   </header>
@@ -228,7 +228,7 @@ description: Aspose.BarCode for .NET APIs to read create and recognize 1D 2D bar
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt=".NET Barcode Reader API" src="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-net.svg"/>
+  <img width="70" height="75" alt=".NET Barcode Reader API" src="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-net.svg"/>
   <header>
    Aspose.BarCode
   </header>

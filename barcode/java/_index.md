@@ -102,7 +102,7 @@ description: Java barcode library to generate read recognize barcodes. Barcode S
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="Barcode Java API" src="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-java.svg"/>
+  <img width="70" height="75" alt="Barcode Java API" src="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-java.svg"/>
   <header>
    Aspose.BarCode
   </header>
@@ -149,7 +149,7 @@ description: Java barcode library to generate read recognize barcodes. Barcode S
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="Java Barcode Reader" src="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-java.svg"/>
+  <img width="70" height="75" alt="Java Barcode Reader" src="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-java.svg"/>
   <header>
    Aspose.BarCode
   </header>
@@ -217,7 +217,7 @@ description: Java barcode library to generate read recognize barcodes. Barcode S
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="Java Barcode Generator" src="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-java.svg"/>
+  <img width="70" height="75" alt="Java Barcode Generator" src="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-java.svg"/>
   <header>
    Aspose.BarCode
   </header>
