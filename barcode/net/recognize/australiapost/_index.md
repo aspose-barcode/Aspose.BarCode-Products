@@ -2,7 +2,7 @@
 title: Read AUSTRALIAPOST BarCode via .NET 
 weight: 1110
 url: /net/recognize/australiapost/ 
-description: C# source code to read and decode australiapost barcode symbology on .NET Framework, .NET Standard, COM Interloop for PHP, VBScript, Delphi, C++.
+description: C# source code to read and decode Australia Post barcode symbology on .NET Framework, .NET Standard, COM Interloop for PHP, VBScript, Delphi, C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -47,7 +47,7 @@ PM> Install-Package Aspose.BarCode
 
 +  Create a new instance of Aspose.BarCode.BarCodeReader class
 +  Pass image path containing AustraliaPost barcode as parameter
-+  Pass appropriate DecodeType as second parameter
++  Pass appropriate DecodeType as the second parameter
 +  Loop through each result
 +  Get barcode text using CodeType property
 
@@ -97,7 +97,7 @@ using (BarCodeReader reader = new BarCodeReader("template.jpg", DecodeType.Austr
 
     {{% blocks/products/pf/agp/content h2="About Aspose.BarCode for .NET API" %}}
 
- Aspose.BarCode is a barcode reader and generation API. It can easily decode and generate 1D, 2D and postal barcodes of multiple symbologies. Developers can easily integrate it in any barcode generation and scanning application. Moreover, Generated barcodes can easily be exported to different high-quality image formats. Its a standalone library and does not require any additional software installation. 
+ Aspose.BarCode is a barcode reader and generation API. It can easily decode and generate 1D, 2D, and postal barcodes of multiple symbologies. Developers can easily integrate it in any barcode generation and scanning application. Moreover, Generated barcodes can easily be exported to different high-quality image formats. Its a standalone library and does not require any additional software installation. 
 
 
 
