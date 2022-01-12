@@ -88,7 +88,7 @@ description: Android barcode scanner library to recognize different kinds of 1D,
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="Barcode Android Library" src="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-android-java.svg"/>
+  <img width="70" height="75" alt="Barcode Android Library" src="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-android-java.svg"/>
   <header>
    Aspose.BarCode
   </header>
@@ -128,7 +128,7 @@ description: Android barcode scanner library to recognize different kinds of 1D,
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="Barcode Generator Android" src="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-android-java.svg"/>
+  <img width="70" height="75" alt="Barcode Generator Android" src="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-android-java.svg"/>
   <header>
    Aspose.BarCode
   </header>
@@ -187,7 +187,7 @@ description: Android barcode scanner library to recognize different kinds of 1D,
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="Android Barcode Reader API" src="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-android-java.svg"/>
+  <img width="70" height="75" alt="Android Barcode Reader API" src="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-android-java.svg"/>
   <header>
    Aspose.BarCode
   </header>

@@ -54,7 +54,7 @@ description: Using Aspose.BarCode for JasperReports - developers can generate ba
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="Jasper Reports Barcode Generator" src="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-jasperreports.svg"/>
+  <img width="70" height="75" alt="Jasper Reports Barcode Generator" src="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-jasperreports.svg"/>
   <header>
    Aspose.BarCode
   </header>
@@ -100,7 +100,7 @@ description: Using Aspose.BarCode for JasperReports - developers can generate ba
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="Generate Barcode in Jasper Report" src="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-jasperreports.svg"/>
+  <img width="70" height="75" alt="Generate Barcode in Jasper Report" src="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-jasperreports.svg"/>
   <header>
    Aspose.BarCode
   </header>
@@ -149,7 +149,7 @@ description: Using Aspose.BarCode for JasperReports - developers can generate ba
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="Barcode Generation in Jasper Report" src="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-jasperreports.svg"/>
+  <img width="70" height="75" alt="Barcode Generation in Jasper Report" src="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-jasperreports.svg"/>
   <header>
    Aspose.BarCode
   </header>

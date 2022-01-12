@@ -89,7 +89,7 @@ description: C++ barcode scanner and generator library for 1D and 2D barcodes. D
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="Barcode C++ Library" src="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-cpp.svg"/>
+  <img width="70" height="75" alt="Barcode C++ Library" src="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-cpp.svg"/>
   <header>
    Aspose.BarCode
   </header>
@@ -129,7 +129,7 @@ description: C++ barcode scanner and generator library for 1D and 2D barcodes. D
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="Barcode Generator in C++" src="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-cpp.svg"/>
+  <img width="70" height="75" alt="Barcode Generator in C++" src="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-cpp.svg"/>
   <header>
    Aspose.BarCode
   </header>
@@ -182,7 +182,7 @@ description: C++ barcode scanner and generator library for 1D and 2D barcodes. D
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="C++ Barcode Reader Library" src="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-cpp.svg"/>
+  <img width="70" height="75" alt="C++ Barcode Reader Library" src="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-cpp.svg"/>
   <header>
    Aspose.BarCode
   </header>

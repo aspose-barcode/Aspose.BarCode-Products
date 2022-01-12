@@ -50,7 +50,7 @@ description: Barcode SharePoint API to insert barcode labels in custom SharePoin
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="SharePoint Barcode Generator" src="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-sharepoint.svg"/>
+  <img width="70" height="75" alt="SharePoint Barcode Generator" src="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-sharepoint.svg"/>
   <header>
    Aspose.BarCode
   </header>
@@ -100,7 +100,7 @@ description: Barcode SharePoint API to insert barcode labels in custom SharePoin
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="SharePoint Barcode App" src="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-sharepoint.svg"/>
+  <img width="70" height="75" alt="SharePoint Barcode App" src="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-sharepoint.svg"/>
   <header>
    Aspose.BarCode
   </header>
@@ -177,7 +177,7 @@ description: Barcode SharePoint API to insert barcode labels in custom SharePoin
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="SharePoint Barcode App" src="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-sharepoint.svg"/>
+  <img width="70" height="75" alt="SharePoint Barcode App" src="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-sharepoint.svg"/>
   <header>
    Aspose.BarCode
   </header>

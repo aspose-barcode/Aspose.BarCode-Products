@@ -80,7 +80,7 @@ description: Python barcode reader library to recognize and generate mutiple typ
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="Barcode Python Library" src="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-python-java.svg"/>
+  <img width="70" height="75" alt="Barcode Python Library" src="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-python-java.svg"/>
   <header>
    Aspose.BarCode
   </header>
@@ -127,7 +127,7 @@ description: Python barcode reader library to recognize and generate mutiple typ
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="Barcode Generator in Python" src="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-python-java.svg"/>
+  <img width="70" height="75" alt="Barcode Generator in Python" src="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-python-java.svg"/>
   <header>
    Aspose.BarCode
   </header>
@@ -187,7 +187,7 @@ description: Python barcode reader library to recognize and generate mutiple typ
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="Python Barcode Reader API" src="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-python-java.svg"/>
+  <img width="70" height="75" alt="Python Barcode Reader API" src="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-python-java.svg"/>
   <header>
    Aspose.BarCode
   </header>

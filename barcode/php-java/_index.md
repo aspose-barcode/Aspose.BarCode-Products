@@ -88,7 +88,7 @@ description: PHP barcode reader library to recognize mutiple types of barcodes i
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="Barcode Android Library" src="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-php-java.svg"/>
+  <img width="70" height="75" alt="Barcode Android Library" src="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-php-java.svg"/>
   <header>
    Aspose.BarCode
   </header>
@@ -135,7 +135,7 @@ description: PHP barcode reader library to recognize mutiple types of barcodes i
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="Barcode Generator Android" src="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-php-java.svg"/>
+  <img width="70" height="75" alt="Barcode Generator Android" src="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-php-java.svg"/>
   <header>
    Aspose.BarCode
   </header>
@@ -195,7 +195,7 @@ description: PHP barcode reader library to recognize mutiple types of barcodes i
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="Android Barcode Reader API" src="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-php-java.svg"/>
+  <img width="70" height="75" alt="Android Barcode Reader API" src="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-php-java.svg"/>
   <header>
    Aspose.BarCode
   </header>

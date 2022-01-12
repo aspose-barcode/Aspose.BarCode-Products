@@ -63,7 +63,7 @@ description: SQL Server Reporting Services rendering extension - Export Linear a
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="BarCode APIs for SSRS" src="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-reporting-services.svg"/>
+  <img width="70" height="75" alt="BarCode APIs for SSRS" src="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-reporting-services.svg"/>
   <header>
    Aspose.BarCode
   </header>
@@ -118,7 +118,7 @@ description: SQL Server Reporting Services rendering extension - Export Linear a
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="Barcode SSRS API" src="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-reporting-services.svg"/>
+  <img width="70" height="75" alt="Barcode SSRS API" src="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-reporting-services.svg"/>
   <header>
    Aspose.BarCode
   </header>
@@ -189,7 +189,7 @@ description: SQL Server Reporting Services rendering extension - Export Linear a
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="Barcode Generator for Reporting Services" src="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-reporting-services.svg"/>
+  <img width="70" height="75" alt="Barcode Generator for Reporting Services" src="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-reporting-services.svg"/>
   <header>
    Aspose.BarCode
   </header>
