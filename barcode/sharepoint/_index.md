@@ -1,12 +1,12 @@
 ---
-title: SharePoint Barcode API - Insert Barcodes on SharePoint Lists 
+title: SharePoint Barcode API - Insert Barcodes into SharePoint Lists 
 weight: 220
 url: /sharepoint/ 
-description: Barcode SharePoint API to insert barcode labels in custom SharePoint Lists. Developers can use Service Markers to pick code text values or insert the text manually
+description: Barcode SharePoint API to insert barcode labels into custom SharePoint Lists. Developers can use Service Markers to pick barcode text values or insert the text manually
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Add Barcodes to Microsoft SharePoint Lists" h2="Barcode SharePoint App to add Linear, 2D & Postal barcode symbols to Microsoft SharePoint lists." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/headers/aspose_barcode-for-sharepoint.svg" pfName="Aspose.BarCode" subTitlepfName="for SharePoint" downloadUrl="https://downloads.aspose.com/barcode/sharepoint" >}}
+{{< blocks/products/pf/upper-banner h1="Add Barcodes to Microsoft SharePoint Lists" h2="Barcode SharePoint App to add Linear, 2D, and Postal barcodes to Microsoft SharePoint lists." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/headers/aspose_barcode-for-sharepoint.svg" pfName="Aspose.BarCode" subTitlepfName="for SharePoint" downloadUrl="https://downloads.aspose.com/barcode/sharepoint" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.BarCode" subTitlepfName="for SharePoint" >}}
 
@@ -14,7 +14,7 @@ description: Barcode SharePoint API to insert barcode labels in custom SharePoin
 
 {{< blocks/products/pf/tab-content >}}
 <p>
- Aspose.BarCode for SharePoint allows to add a large number of linear, 2D and postal barcode symbols to Microsoft SharePoint Foundation 2010 and Microsoft Office SharePoint Server 2010 (MOSS) lists. You may add barcodes to any list by specifying code text and symbology.
+ Aspose.BarCode for SharePoint allows adding a large number of linear, 2D, and postal barcode labels to Microsoft SharePoint Foundation 2010 and Microsoft Office SharePoint Server 2010 (MOSS) lists. You may insert barcodes into any list by specifying barcode text and the required symbology.
 </p>
 
 {{< /blocks/products/pf/tab-content >}}
@@ -33,10 +33,10 @@ description: Barcode SharePoint API to insert barcode labels in custom SharePoin
    </header>
    <ul>
     <li>
-     Set CodeText
+     Set Barcode Text
     </li>
     <li>
-     Set Symbology
+     Select Symbology
     </li>
     <li>
      Add Barcode to List
@@ -68,7 +68,7 @@ description: Barcode SharePoint API to insert barcode labels in custom SharePoin
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Supported Platform" description="Aspose.BarCode for SharePoint supports Microsoft SharePoint Foundation & SharePoint Server." >}}
+{{< blocks/products/pf/carousel-item h3="Supported Platforms" description="Aspose.BarCode for SharePoint supports Microsoft SharePoint Foundation and SharePoint Server." >}}
 <div class="diagram1 d1-sharepoint">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -118,7 +118,7 @@ description: Barcode SharePoint API to insert barcode labels in custom SharePoin
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Supported Barcode Types" description="Aspose.BarCode for SharePoint supports following [file formats](https://docs.aspose.com/barcode/sharepoint/supported-file-formats/)  :" >}}
+{{< blocks/products/pf/carousel-item h3="Supported Barcode Types" description="Aspose.BarCode for SharePoint supports the following [file formats](https://docs.aspose.com/barcode/sharepoint/supported-file-formats/)  :" >}}
 <div class="diagram1 d1-sharepoint">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -143,10 +143,7 @@ description: Barcode SharePoint API to insert barcode labels in custom SharePoin
     <li>
      GIF
     </li>
-    <li>
-     EXIF
-    </li>
-   </ul>
+    </ul>
   </div>
   <!--/left-->
   <div class="d1-col d1-right">
@@ -167,7 +164,7 @@ description: Barcode SharePoint API to insert barcode labels in custom SharePoin
 
 <ul>
 
-<li>Linear Barcode Types</li>
+<li>1D Barcode Types</li>
 
 <li>2D Barcode Types</li>
 
@@ -209,7 +206,7 @@ description: Barcode SharePoint API to insert barcode labels in custom SharePoin
      Add Barcode Type Column to SharePoint Lists
     </h2>
     <p>
-     Aspose.BarCode for SharePoint makes it easy to add a barcode type column to the SharePoint lists. This component also allows you to set the barcode code text using the GUI or by incorporating Service Markers.
+     Aspose.BarCode for SharePoint facilitates adding the barcode type column to SharePoint lists. This component also allows setting the barcode input text by using GUI controls or by incorporating Service Markers.
     </p>
    </div>
    <div class="col-lg-12">
@@ -217,7 +214,7 @@ description: Barcode SharePoint API to insert barcode labels in custom SharePoin
      Supported Barcode Symbologies
     </h2>
     <p>
-     SharePoint barcode app supports the most popular symbologies including:
+     SharePoint barcode app supports most popular symbologies, including the following barcode standards:
     </p>
     <div class="col-lg-3">
      <ul class="unstyled">
@@ -231,28 +228,28 @@ description: Barcode SharePoint API to insert barcode labels in custom SharePoin
        Aztec
       </li>
       <li>
-       BooklandEAN
+       EAN
       </li>
       <li>
-       Code11
+       Code 11
       </li>
       <li>
-       Code128
+       Code 128
       </li>
       <li>
-       Code39Extended
+       Code 39 Extended
       </li>
       <li>
-       Code39Standard
+       Code 39 Standard
       </li>
       <li>
-       Code93Extended
+       Code 93 Extended
       </li>
       <li>
-       Code93Standard
+       Code 93 Standard
       </li>
       <li>
-       CodeBar
+       Codebar
       </li>
       <li>
        DataMatrix
@@ -262,50 +259,47 @@ description: Barcode SharePoint API to insert barcode labels in custom SharePoin
     <div class="col-lg-3">
      <ul class="unstyled">
       <li>
-       DeutchePostalIdentificationCode
+       Deutsche Post Ident Code
       </li>
       <li>
-       DeutchePostalleitCode
+       Deutsche Post LetiCode
+      </li>
+       <li>
+       EAN 13
       </li>
       <li>
-       EAN128
+       EAN 14
       </li>
       <li>
-       EAN13
+       EAN 8
       </li>
       <li>
-       EAN14
-      </li>
-      <li>
-       EAN8
-      </li>
-      <li>
-       GS1DataMatrix
+       GS1 DataMatrix
       </li>
       <li>
        IATA2of5
       </li>
       <li>
-       Interleaved2of5
+       Interleaved 2-of-5
       </li>
       <li>
-       ItalianPost25
+       Italian Post 25
       </li>
      </ul>
     </div>
     <div class="col-lg-3">
      <ul class="unstyled">
       <li>
-       ITF14
+       ITF 14
       </li>
       <li>
-       ITF6
+       ITF 6
       </li>
       <li>
-       MacroPdf417
+       Macro PDF417
       </li>
       <li>
-       Matrix2of5
+       Matrix 2-of-5
       </li>
       <li>
        MSI
@@ -317,7 +311,7 @@ description: Barcode SharePoint API to insert barcode labels in custom SharePoin
        OPC
       </li>
       <li>
-       Pdf417
+       PDF417
       </li>
       <li>
        Planet
@@ -333,7 +327,7 @@ description: Barcode SharePoint API to insert barcode labels in custom SharePoin
        PZN
       </li>
       <li>
-       QR
+       QR Code
       </li>
       <li>
        RM4SCC
@@ -342,19 +336,19 @@ description: Barcode SharePoint API to insert barcode labels in custom SharePoin
        SCC14
       </li>
       <li>
-       SingaporePost
+       Singapore Post
       </li>
       <li>
-       SSCC18
+       SSCC 18
       </li>
       <li>
-       Standard2of5
+       Standard 2-of-5
       </li>
       <li>
-       UPCA
+       UPC-A
       </li>
       <li>
-       UPCE
+       UPC-E
       </li>
       <li>
        VIN
@@ -464,7 +458,7 @@ description: Barcode SharePoint API to insert barcode labels in custom SharePoin
    <div class="container">
     <div class="col-lg-12">
      <p>
-      Aspose.BarCode offers individual Barcode generation and recognition APIs for other popular development environments as listed below:
+      Aspose.BarCode offers dedicated barcode generation and recognition APIs for other popular development environments as listed below:
      </p>
     </div>
     <div class="bg-whitebox">

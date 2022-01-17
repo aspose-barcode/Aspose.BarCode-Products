@@ -2,11 +2,11 @@
 title: C++ Library for Barcodes | Aspose 
 weight: 1610
 url: /cpp/ 
-description: C++ barcode scanner and generator library for 1D and 2D barcodes. Detect read and write multiple barcodes like Data Matrix PDF 417 UPC EAN GS1 Interleaved etc
+description: C++ barcode scanning and generation library for 1D and 2D barcodes. Detect read and create barcodes of various symbologies including DataMatrix PDF417 UPC EAN GS1 Interleaved etc
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="C++ Barcode Processing API" h2="Create or Recognize 1D and 2D types as well as Export the generated barcodes to multiple image formats within C++ applications." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/headers/aspose_barcode-for-cpp.svg" pfName="Aspose.BarCode" subTitlepfName="for C++" downloadUrl="https://downloads.aspose.com/barcode/cpp" >}}
+{{< blocks/products/pf/upper-banner h1="C++ Barcode Processing API" h2="Create and Recognize 1D and 2D barcode types. Export generated barcodes to various image formats within C++ applications." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/headers/aspose_barcode-for-cpp.svg" pfName="Aspose.BarCode" subTitlepfName="for C++" downloadUrl="https://downloads.aspose.com/barcode/cpp" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.BarCode" subTitlepfName="for C++" >}}
 
@@ -14,11 +14,11 @@ description: C++ barcode scanner and generator library for 1D and 2D barcodes. D
 
 {{< blocks/products/pf/tab-content >}}
 <p>
- Aspose.BarCode for C++ is a rich-featured API to add barcode generation &amp; recognition capabilities as well as export the generated ones to different images with high quality. API provides barcode appearance manipulation such as bar color, background color, quality, rotation angle, x-dimension, size, captions, resolution and a lot more.
+ Aspose.BarCode for C++ is a multifunctional API aimed to add barcode generation and recognition features into C++ applications, as well as export generated barcodes to different high-quality image formats. This API enables the agjustment of barcode appearance parameters, such as bar color, background color, image quality, rotation angle, x-dimension, size, captions, resolution, and many others.
 </p>
 
 <p>
- Aspose.BarCode for C++ supports multiple imaging, rotation, sizing, and printing features. Moreover, It provides encoding and decoding features for multiple symbologies including but not limited to QR Code, Aztec, Data Matrix, ISBN, code 39 and 93, PDF417, UPC, EAN, and GS1 DataMatrix.
+ Aspose.BarCode for C++ supports various imaging, rotation, sizing, and printing capabilities. Moreover, it provides generation and reading features for multiple symbologies, including but not limited to QR Code, Aztec, DataMatrix, ISBN, Code 39 and 93, PDF417, UPC, EAN, and GS1 DataMatrix.
 </p>
 
 {{< /blocks/products/pf/tab-content >}}
@@ -37,10 +37,10 @@ description: C++ barcode scanner and generator library for 1D and 2D barcodes. D
    </header>
    <ul>
     <li>
-     Linear, 2D &amp; Postal
+     Linear, 2D, and Postal
     </li>
     <li>
-     Detect from Stream or Image
+     Read from Stream or Image
     </li>
     <li>
      Get Orientation
@@ -59,7 +59,7 @@ description: C++ barcode scanner and generator library for 1D and 2D barcodes. D
    </header>
    <ul>
     <li>
-     Linear, 2D &amp; Postal
+     Linear, 2D, and Postal
     </li>
     <li>
      Save to Stream or Image
@@ -161,7 +161,7 @@ description: C++ barcode scanner and generator library for 1D and 2D barcodes. D
      <strong>
       Raster Images:
      </strong>
-     JPEG, PNG, BMP, GIF, TIFF, EXIF
+     JPEG, PNG, BMP, GIF, TIFF
     </li>
    </ul>
   </div>
@@ -174,7 +174,7 @@ description: C++ barcode scanner and generator library for 1D and 2D barcodes. D
    </header>
    <ul>
     <li>
-     EMP, SVG
+     EMF, SVG
     </li>
    </ul>
   </div>
@@ -225,21 +225,21 @@ description: C++ barcode scanner and generator library for 1D and 2D barcodes. D
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Recognize codes from stream or image
+     Recognize barcodes from stream or image
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-exchange ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Encode and decode non-english characters in 2D types
+     Encode and decode non-English characters in 2D barcode types
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-object-group ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Control size &amp; orientation
+     Adjust barcode size and orientation
     </p>
    </div>
    <div class="col-lg-4">
@@ -260,7 +260,7 @@ description: C++ barcode scanner and generator library for 1D and 2D barcodes. D
     <em class="fa fa-book ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Support for 1D, 2D, and postal symbologies
+     Support 1D, 2D, and postal symbologies
     </p>
    </div>
    <div class="col-lg-12">
@@ -268,10 +268,10 @@ description: C++ barcode scanner and generator library for 1D and 2D barcodes. D
      Supported Barcode Symbologies
     </h2>
     <p>
-     Aspose.BarCode for C++ supports multiple 1D, 2D and postal symbologies with both decode and encode capabilities.
+     Aspose.BarCode for C++ supports multiple 1D, 2D, and postal symbologies for both decoding and encoding capabilities.
     </p>
     <p>
-     API supported linear types include:
+     API supported linear (1D) barcode types include:
     </p>
     <div class="col-lg-6">
      <ul class="unstyled">
@@ -288,10 +288,10 @@ description: C++ barcode scanner and generator library for 1D and 2D barcodes. D
        UPC E
       </li>
       <li>
-       Interleaved 2 of 5
+       Interleaved 2-of-5
       </li>
       <li>
-       Standard 2 of 5
+       Standard 2-of-5
       </li>
       <li>
        MSI
@@ -303,35 +303,35 @@ description: C++ barcode scanner and generator library for 1D and 2D barcodes. D
        Codabar
       </li>
       <li>
-       EAN14 (SCC14)
+       EAN 14 (SSCC 14)
       </li>
       <li>
-       SSCC18
+       SSCC 18
       </li>
       <li>
-       ITF14
+       ITF 14
       </li>
       <li>
-       Matrix 2 of 5
+       Matrix 2-of-5
       </li>
       <li>
        PZN
       </li>
       <li>
-       Code-128
+       Code 128
       </li>
       <li>
-       Code-39 Extended and Standard
+       Code 39 Extended and Standard
       </li>
       <li>
-       Code-93 Standard and Extended
+       Code 93 Standard and Extended
       </li>
      </ul>
     </div>
     <div class="col-lg-6">
      <ul class="unstyled">
       <li>
-       IATA 2of5
+       IATA 2-of-5
       </li>
       <li>
        OPC
@@ -349,7 +349,7 @@ description: C++ barcode scanner and generator library for 1D and 2D barcodes. D
        ISSN
       </li>
       <li>
-       ITF6
+       ITF 6
       </li>
       <li>
        VIN
@@ -358,25 +358,25 @@ description: C++ barcode scanner and generator library for 1D and 2D barcodes. D
        Pharmacode
       </li>
       <li>
-       Databar Omni Directional
+       DataBar Omnidirectional
       </li>
       <li>
-       Databar Truncated
+       DataBar Truncated
       </li>
       <li>
-       Databar Limited
+       DataBar Limited
       </li>
       <li>
-       Databar Expanded
+       DataBar Expanded
       </li>
       <li>
-       Databar Stacked Omni Directional
+       DataBar Stacked Omnidirectional
       </li>
       <li>
-       Databar Expanded Stacked
+       DataBar Expanded Stacked
       </li>
       <li>
-       Databar Stacked
+       DataBar Stacked
       </li>
       <li>
        Patch Code
@@ -398,13 +398,13 @@ description: C++ barcode scanner and generator library for 1D and 2D barcodes. D
        PDF417
       </li>
       <li>
-       Macro PDF 417
+       Macro PDF417
       </li>
       <li>
-       Micro PDF 417
+       Micro PDF417
       </li>
       <li>
-       Compact PDF 417 (Decode only)
+       Compact PDF417
       </li>
       <li>
        DataMatrix
@@ -417,16 +417,16 @@ description: C++ barcode scanner and generator library for 1D and 2D barcodes. D
     <div class="col-lg-6">
      <ul class="unstyled">
       <li>
-       QR
+       QR Code
       </li>
       <li>
-       Micro QR
+       Micro QR Code
       </li>
       <li>
        Italian Post 25
       </li>
       <li>
-       GS1 Data Matrix
+       GS1 DataMatrix
       </li>
       <li>
        Code 16K
@@ -470,10 +470,10 @@ description: C++ barcode scanner and generator library for 1D and 2D barcodes. D
        Singapore Post
       </li>
       <li>
-       Australian Poste Parcel
+       AustralianPostParcel
       </li>
       <li>
-       Swiss Post Parcel
+       SwissPostParcel
       </li>
      </ul>
     </div>
@@ -483,34 +483,34 @@ description: C++ barcode scanner and generator library for 1D and 2D barcodes. D
      Add Barcode Processing Features to C++ Applications
     </h2>
     <p>
-     Aspose.BarCode for C++ allows the developers to easily add generation &amp; recognition features to their own C++ applications. The barcode generation process only requires the text to encode and the type as well as the resultant image type to store the barcode label. It is really that simple!
+     Aspose.BarCode for C++ allows developers to easily add barcode generation and recognition features to their C++ applications. To generate a barcode, it is only required to input the text to encode and define the desired symbology along with the resulting image format to save the generated barcode label. It is really that simple!
     </p>
     <div class="codeblock" id="code">
      <h3>
-      Generate barcode of type GS1-128 AI 8102 coupon - C++
+      Generate a barcode of type GS1-128 AI 8102 coupon - C++
      </h3>
-     <pre><code class="cpp">// Create barcode generator
+     <pre><code class="cpp">// Create an instance of the BarcodeGenerator class
 
 System::SharedPtr&lt;BarcodeGenerator&gt; barcodeGenerator = System::MakeObject&lt;BarcodeGenerator&gt;(EncodeTypes::UpcaGs1Code128Coupon, u"codeText");
 
 barcodeGenerator-&gt;get_Parameters()-&gt;set_Resolution(300);
 
-// Generate barcode and save as image
+// Generate a barcode and save it as a JPEG image
 
 barcodeGenerator-&gt;Save(u"outputImage.jpg");</code></pre>
     </div>
     <p>
-     The barcode detection process is highly optimized for performance and provides the ability to recognize all supported 1D &amp; 2D types from images, regardless of their orientation or position on the image. Furthermore, the library can also be used to detect multiple barcodes from one image.
+     The barcode reading process is highly optimized in terms of performance and provides the ability to recognize all supported 1D &amp; 2D types from images, regardless of their orientation or position on the image. Furthermore, the library can also be used to detect multiple barcodes from one image.
     </p>
     <div class="codeblock" id="code">
      <h3>
       Read barcodes from an image - C++
      </h3>
-     <pre><code class="cpp">// load the image from disc while specifying expected code type
+     <pre><code class="cpp">// load an image from the file system and specify the target barcode type
 
 System::SharedPtr&lt;BarCodeReader&gt; reader = System::MakeObject&lt;BarCodeReader&gt;(dir + u"template.jpg", DecodeType::EAN13);
 
-// read all codes
+// read all barcodes
 
 while (reader-&gt;Read())
 
@@ -527,7 +527,7 @@ reader-&gt;Close();</code></pre>
 
 <h2 class="h2title">Imaging, Rotation & Sizing Support</h2>
 
-<p>Aspose.BarCode for C++ allows manipulating barcode label borders, border colors, style, margins, and width. It also provides the ability to modify background color and bar color as well as means to rotate barcode labels at any angle and produce high-quality images with anti-aliasing. In addition to this, developers can set customized resolutions for the resultant images while saving them to any of the supported image formats.</p>
+<p>Aspose.BarCode for C++ allows adjusting barcode label borders, border colors, style, margins, and width. It also provides the possibility to modify the background color and bar color of a barcode, as well as functionality to rotate barcode labels at any angle and produce high-quality images with anti-aliasing. In addition, developers can customize the resolution of resulting barcode images and save them to any of the supported image formats.</p>
 
 </div>-->
    <div class="col-lg-12">
@@ -535,7 +535,7 @@ reader-&gt;Close();</code></pre>
      Customizing Symbologies &amp; Appearance
     </h2>
     <p>
-     Customizing the barcodes is easy by setting text, adjusting appearance-related properties such as foreground and background color, font, alignment as well as specifying different kinds of symbologies of linear, 2D and postal types.
+     Barcode customization can be performed easily by setting the input text to encode, specifying the required symbology, and adjusting appearance-related properties, such as, for example, foreground and background colors, font, alignment, and others.
     </p>
    </div>
   </div>

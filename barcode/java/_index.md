@@ -1,12 +1,12 @@
 ---
-title: Java Barcode API - Generate or Scan 1D 2D & Postal Barcodes 
+title: Java API for Barcode Generation and Recognition 
 weight: 1570
 url: /java/ 
-description: Java barcode library to generate read recognize barcodes. Barcode SDK supports Linear & 2D barcodes as well as exports to JPG GIF PNG BMP and more image formats
+description: Java barcode library to generate and read barcodes. Barcode SDK supports Linear and 2D barcodes as well as exports to JPG GIF PNG BMP and other image formats
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Java Barcode Generation & Recognition API" h2="Generate, customize & recognize linear, 2D & postal barcode images from JPG, TIFF, PNG, BMP, GIF & EXIF files." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-java.svg" pfName="Aspose.BarCode" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/barcode/java" >}}
+{{< blocks/products/pf/upper-banner h1="Java Barcode Generation & Recognition API" h2="Generate, customize, and read linear, 2D, and postal barcodes from JPG, TIFF, PNG, BMP, and GIF files." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-java.svg" pfName="Aspose.BarCode" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/barcode/java" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.BarCode" subTitlepfName="for Java" >}}
 
@@ -14,11 +14,11 @@ description: Java barcode library to generate read recognize barcodes. Barcode S
 
 {{< blocks/products/pf/tab-content >}}
 <p>
- Aspose.BarCode for Java is a robust and reliable API providing the barcode generation and recognition features for Java applications. It supports the most established standards and specifications and allows to read 1D and 2D barcodes from different format images at multiple angles.
+ Aspose.BarCode for Java is a robust and reliable API providing barcode generation and recognition functionality for Java applications. It supports the most established standards and specifications and allows reading 1D and 2D barcodes from images of different formats at any angle.
 </p>
 
 <p>
- Aspose.BarCode for Java renders the labels in a verity of image formats with highly flexible imaging options. Moreover, the library provides printing as well as encoding and decoding of multiple symbologies.
+ Aspose.BarCode for Java can be used to render barcode labels in a variety of image formats with highly flexible imaging options. Moreover, the library enables printing, encoding, and decoding barcodes of various symbologies.
 </p>
 
 {{< /blocks/products/pf/tab-content >}}
@@ -26,7 +26,7 @@ description: Java barcode library to generate read recognize barcodes. Barcode S
 <!--Diagrams Start-->
 {{< blocks/products/pf/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="At a Glance" description="Some of the advanced capabilities of API." >}}
+{{< blocks/products/pf/carousel-item h3="At a Glance" description="Key capabilities of Java Barcode API." >}}
 <div class="diagram1 d1-java">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -69,7 +69,7 @@ description: Java barcode library to generate read recognize barcodes. Barcode S
    </header>
    <ul>
     <li>
-     Linear, 2D and Postal
+     Linear, 2D, and Postal
     </li>
     <li>
      Save to Stream or Image
@@ -78,7 +78,7 @@ description: Java barcode library to generate read recognize barcodes. Barcode S
      Customize Size
     </li>
     <li>
-     Customize image Orientation
+     Customize Image Orientation
     </li>
     <li>
      Encode Non-English Characters
@@ -120,7 +120,7 @@ description: Java barcode library to generate read recognize barcodes. Barcode S
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Platform Independence" description="Aspose.BarCode for Java can work with any Java-based application." >}}
+{{< blocks/products/pf/carousel-item h3="Platform Independence" description="Aspose.BarCode for Java is compatible with any Java-based application." >}}
 <div class="diagram1 d1-java">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -192,9 +192,6 @@ description: Java barcode library to generate read recognize barcodes. Barcode S
     <li>
      GIF
     </li>
-    <li>
-     EXIF
-    </li>
    </ul>
   </div>
   <!--/left-->
@@ -251,54 +248,54 @@ description: Java barcode library to generate read recognize barcodes. Barcode S
    </p>
    <!--<div class="col-lg-4"><em class="fa fa-server ico-blue fa-2x col-lg-2"> </em>
 
-<p class="col-lg-10">Support for Checksum & Supplement data</p>
+<p class="col-lg-10">Supporting checksum and supplement data</p>
 
 </div>
 
 <div class="col-lg-4"><em class="fa fa-object-group ico-blue fa-2x col-lg-2"> </em>
 
-<p class="col-lg-10">Wide to Narrow Ratio for supported symbologies</p>
+<p class="col-lg-10">Wide-to-Narrow Ratio for relevant symbologies</p>
 
 </div>
 
 <div class="col-lg-4"><em class="fa fa-paint-brush ico-blue fa-2x col-lg-2"> </em>
 
-<p class="col-lg-10">Customizable caption & font styles</p>
+<p class="col-lg-10">Customizable caption and font styles</p>
 
 </div>-->
    <div class="col-lg-4">
     <em class="fa fa-cogs ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Specify 1D, 2D and Postal symbologies
+     Choose from the variety of 1D, 2D, or postal symbologies
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-th ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Adjust and modify appearance-related properties of code text
+     Adjust and modify appearance-related properties of barcodes
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-align-right ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Manage caption &amp; font styles
+     Manage caption and font styles
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-asterisk ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Support for Checksum &amp; Supplement data
+     Supporting checksum and supplement data
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Generate barcode images to multiple image formats
+     Save generated barcode images in various image formats
     </p>
    </div>
    <div class="col-lg-4">
@@ -312,7 +309,7 @@ description: Java barcode library to generate read recognize barcodes. Barcode S
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Customize images height
+     Customize image height
     </p>
    </div>
    <div class="col-lg-4">
@@ -326,7 +323,7 @@ description: Java barcode library to generate read recognize barcodes. Barcode S
     <em class="fa fa-list-alt ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Optimize Code128 encoding
+     Optimize Code 128 encoding
     </p>
    </div>
    <div class="col-lg-12">
@@ -334,7 +331,7 @@ description: Java barcode library to generate read recognize barcodes. Barcode S
      Manipulate Labels in Many Ways
     </h2>
     <p>
-     Aspose.BarCode for Java API provides the ability to manipulate image borders, style, margin, and width as well as image's background color and bar color. You can also rotate images to any angle and produce high-quality bar code images with anti-aliasing. In addition to this, image margins &amp; resolution can be customized.
+     Aspose.BarCode for Java provides the ability to customize various appearance-related properties of a barcode image, such as borders, style, margin, width, background color, bar color, and many others. You can also rotate barcode labels at any angle and produce high-quality images with anti-aliasing. In addition, image resolution can be regulated.
     </p>
    </div>
    <div class="col-lg-12">
@@ -342,13 +339,13 @@ description: Java barcode library to generate read recognize barcodes. Barcode S
      Recognize Barcodes from Images
     </h2>
     <p>
-     Java barcode library is capable of reading from different images. BarCodeReader class which is mainly responsible for the recognition feature supports many popular image formats including BMP, PNG, TIFF, JPEG &amp; GIF. The recognition process is highly configurable allowing you to set expected regions to find code labels on an image, apply manual recognition hints to optimize the scan &amp; apply binarization filters on the image.
+     Aspose barcode library for Java enables reading barcodes from different images. Class BarCodeReader provides recognition features and supports many popular image formats, including BMP, PNG, TIFF, JPEG, and GIF. The recognition process can be configured with high flexibility. You can set target regions to identify barcode labels in an image, apply manual recognition hints to optimize the scanning process, and apply binarization filters to the source image.
     </p>
     <div class="codeblock" id="code">
      <h3>
-      Read barcode type &amp; text from image - Java
+      Get the barcode type and text from a barcode image - Java
      </h3>
-     <pre><code class="java">// initialize reader with image &amp; expected type
+     <pre><code class="java">// initialize reader with image and target barcode type
 
 BarCodeReader reader = new BarCodeReader(dir + "bcode.png", DecodeType.ALL_SUPPORTED_TYPES);
 
@@ -356,7 +353,7 @@ BarCodeReader reader = new BarCodeReader(dir + "bcode.png", DecodeType.ALL_SUPPO
 
 while (reader.read()) {
 
-	// print the code type &amp; text
+	// print the barcodecode type and decoded text
 
 	System.out.println("Type: " + reader.getCodeType() + " Text: " + reader.getCodeText());
 
@@ -368,15 +365,15 @@ while (reader.read()) {
      Supported Barcode Symbologies
     </h2>
     <p>
-     Aspose.BarCode for Java API offers support for multiple 1D, 2D and postal symbologies having both encode and decode capabilities:
+     Aspose.BarCode for Java API supports multiple 1D, 2D, and postal symbologies, providing both encoding and decoding capabilities:
     </p>
     <div class="col-lg-6">
      <ul class="unstyled">
       <li>
-       EAN-13
+       EAN 13
       </li>
       <li>
-       EAN-8
+       EAN 8
       </li>
       <li>
        UPC-A
@@ -385,62 +382,62 @@ while (reader.read()) {
        UPC-E
       </li>
       <li>
-       Interleaved 2 of 5
+       Interleaved 2-of-5
       </li>
       <li>
-       Standard 2 of 5
+       Standard 2-of-5
       </li>
       <li>
        MSI
       </li>
       <li>
-       Code-11
+       Code 11
       </li>
       <li>
        Codabar
       </li>
       <li>
-       EAN-14 (SCC14)
+       EAN 14 (SCC 14)
       </li>
       <li>
-       SSCC-18
+       SCC 18
       </li>
       <li>
-       ITF-14
+       ITF 14
       </li>
       <li>
-       Matrix 2 of 5
+       Matrix 2-of-5
       </li>
       <li>
        PZN
       </li>
       <li>
-       Code-128
+       Code 128
       </li>
       <li>
-       Code-39 Extended
+       Code 39 Extended
       </li>
       <li>
-       Code-39 Standard
+       Code 39 Standard
       </li>
       <li>
-       Code-93 Extended
+       Code 93 Extended
       </li>
      </ul>
     </div>
     <div class="col-lg-6">
      <ul class="unstyled">
       <li>
-       Code-93 Standard
+       Code 93 Standard
       </li>
       <li>
-       IATA 2 of 5
+       IATA 2-of-5
       </li>
       <li>
-       OPC
+       UPC
       </li>
       <li>
-       GS1 Code-128
+       GS1 Code 128
       </li>
       <li>
        ISBN
@@ -452,7 +449,7 @@ while (reader.read()) {
        ISSN
       </li>
       <li>
-       ITF-6
+       ITF 6
       </li>
       <li>
        VIN
@@ -461,22 +458,22 @@ while (reader.read()) {
        Pharmacode
       </li>
       <li>
-       Databar Omni Directional
+       DataBar Omnidirectional
       </li>
       <li>
-       Databar Limited
+       DataBar Limited
       </li>
       <li>
-       Databar Truncated
+       DataBar Truncated
       </li>
       <li>
-       Databar Expanded
+       DataBar Expanded
       </li>
       <li>
-       Patch Code (Decode only)
+       Patch Code
       </li>
       <li>
-       Supplement (Decode only)
+       Supplement
       </li>
      </ul>
     </div>
@@ -495,16 +492,16 @@ while (reader.read()) {
        DataMatrix
       </li>
       <li>
-       QR
+       QR Code
       </li>
       <li>
-       Aztec (Encode only)
+       Aztec
       </li>
       <li>
        Italian Post 25
       </li>
       <li>
-       GS1 Data Matrix
+       GS1 DataMatrix
       </li>
      </ul>
     </div>
@@ -540,13 +537,13 @@ while (reader.read()) {
         Singapore Post
        </li>
        <li>
-        Swiss Post Parcel
+        SwissPostParcel
        </li>
        <li>
         RM4SCC
        </li>
        <li>
-        Australian Poste Parcel
+        AustralianPostParcel
        </li>
       </ul>
      </div>
