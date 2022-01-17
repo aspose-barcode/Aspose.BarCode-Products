@@ -342,7 +342,7 @@ description: Aspose.BarCode for .NET APIs to read create and recognize 1D 2D bar
        Codabar
       </li>
       <li>
-       EAN 14 (SCC 14)
+       EAN 14 (SSCC 14)
       </li>
       <li>
        SSCC 18
