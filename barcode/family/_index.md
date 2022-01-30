@@ -9,7 +9,7 @@ description: Barcode reader generator and scanner libraries for .NET Java Androi
 {{< blocks/products/pf/upper-banner h1="Generate & Recognize Barcodes" h2="Develop high-performance apps with the ability to create & scan 1D, 2D and Postal barcode labels." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode.svg" pfName="Aspose.BarCode" downloadUrl="https://downloads.aspose.com/barcode" tryOnlineUrl="https://products.aspose.app/barcode" >}}
 
 {{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/product-card-row title="Aspose.BarCode On Premise APIs Include" >}}
+{{< blocks/products/pf/product-card-row title="Aspose.BarCode High Code APIs Include" >}}
 
 {{< blocks/products/pf/product pfName="Aspose.BarCode for" title=".NET" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-net.svg" productLink="/barcode/net/" >}}
 Target Windows Forms, ASP.NET, WPF, WCF or any type of application based on .NET Framework 2.0 or later.
