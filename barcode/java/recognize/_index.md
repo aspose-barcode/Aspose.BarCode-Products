@@ -1,11 +1,11 @@
 ---
 title: Java Barcode Recognition
 url: /java/recognize/
-description: Read barcode images of different 1D and 2D symbologies via Java library
+description: Read various Linear and 2D symbologies including  EAN, Code 128, Data Matrix, PDF 417, QR, UPC and more to build cross-platform Java applications
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Recognize Barcodes Via Java" h2="Read various Linear and 2D symbologies including  EAN, Codeblock, Code 128, Aztec, Data Matrix, PDF 417, QR, UPC and more to build cross-platform Java applications." >}}
+{{< blocks/products/pf/feature-page-header h1="Java Barcode Reader API" h2="Read barcode images of different 1D and 2D symbologies via Java library." >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

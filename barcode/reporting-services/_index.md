@@ -2,11 +2,11 @@
 title: Render Linear & 2D Barcode Images in SQL Server Reporting Services 
 weight: 790
 url: /reporting-services/ 
-description: SQL Server Reporting Services rendering extension - Export Linear and 2d Barcode images in SSRS. Render barcode labels in BMP JPEG GIF and PNG formats
+description: SQL Server Reporting Services rendering extension - Export Linear and 2D Barcode images in SSRS. Render barcode labels in BMP JPEG GIF and PNG formats
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Render Barcodes in SSRS Reports" h2="Generate Linear & 2D barcodes from within Microsoft SQL Server Reporting Services." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/headers/aspose_barcode-for-reporting-services.svg" pfName="Aspose.BarCode" subTitlepfName="for Reporting Services" downloadUrl="https://downloads.aspose.com/barcode/reportingservices" >}}
+{{< blocks/products/pf/upper-banner h1="SSRS Barcode APIs" h2="Generate Linear & 2D barcodes from within Microsoft SQL Server Reporting Services." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/headers/aspose_barcode-for-reporting-services.svg" pfName="Aspose.BarCode" subTitlepfName="for Reporting Services" downloadUrl="https://downloads.aspose.com/barcode/reportingservices" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.BarCode" subTitlepfName="for Reporting Services" >}}
 
@@ -226,28 +226,21 @@ description: SQL Server Reporting Services rendering extension - Export Linear a
      <em class="fa fa-barcode ico-blue fa-2x col-lg-2">
      </em>
      <p class="col-lg-10">
-      Generate and recognize EPC QR coded barcode
+      <a href="https://docs.aspose.com/barcode/reportingservices/dynamically-display-barcodes-in-table/">Dynamically display barcodes in table</a>
      </p>
     </div>
     <div class="col-lg-4">
      <em class="fa fa-cog ico-blue fa-2x col-lg-2">
      </em>
      <p class="col-lg-10">
-      MaxiCode and DotCode renderer added
+      <a href="https://docs.aspose.com/barcode/reportingservices/display-barcodes-from-dataset/">Display barcodes from Dataset</a>
      </p>
     </div>
     <div class="col-lg-4">
      <em class="fa fa-image ico-blue fa-2x col-lg-2">
      </em>
      <p class="col-lg-10">
-      Save barcode in any Vector image format
-     </p>
-    </div>
-    <div class="col-lg-4">
-     <em class="fa fa-save ico-blue fa-2x col-lg-2">
-     </em>
-     <p class="col-lg-10">
-      Save barcode in SVG
+      <a href="https://docs.aspose.com/barcode/reportingservices/barcode-types-and-image-formats/">Save barcode in any Vector image format</a>
      </p>
     </div>
     <h2 class="h2title">
@@ -452,7 +445,7 @@ description: SQL Server Reporting Services rendering extension - Export Linear a
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Product Support" tabId="support" >}}
-{{< blocks/products/pf/slr-element name="Free Support" href="https://forum.aspose.com/c/barcode" >}}
+{{< blocks/products/pf/slr-element name="Free Support" href="https://forum.aspose.com/c/barcode/" >}}
 {{< blocks/products/pf/slr-element name="Paid Support" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.com/category/barcode/" >}}
 {{< /blocks/products/pf/slr-tab >}}

@@ -1,5 +1,5 @@
 ---
-title: PHP Barcode Generator and Scanner API - Aspose 
+title: PHP Barcode Generator and Scanner API 
 weight: 830
 url: /php-java/ 
 description: PHP barcode reader library to recognize mutiple types of barcodes including 1D, 2D and Postal. Use API in core PHP or within framework like codeigniter, cakephp or laravel.
@@ -231,105 +231,105 @@ description: PHP barcode reader library to recognize mutiple types of barcodes i
     <em class="fa fa-exchange ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Generate multiple types of barcodes
+     <a href="https://docs.aspose.com/barcode/java/supported-file-formats/">Generate multiple types of barcodes</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-object-group ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Manage X and Y Dimensions
+     <a href="https://docs.aspose.com/barcode/java/manage-x-dimension-and-y-dimension-in-php/">Manage X and Y Dimensions</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-repeat ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Set Height of the Bars
+     <a href="https://docs.aspose.com/barcode/java/generate-barcode-by-specifying-custom-image-size-in-php/">Customize images size</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-refresh ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Set Start and Stop Symbols of Codabar
+     <a href="https://docs.aspose.com/barcode/java/set-start-and-stop-symbols-of-codabar-barcode-in-php/">Set Start and Stop Symbols of Codabar</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-cogs ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Control the Appearance of Code Text
+     <a href="https://docs.aspose.com/barcode/java/control-the-appearance-of-code-text-in-php/">Control the Appearance of Code Text</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-anchor ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Manage the Barcode Caption
+     <a href="https://docs.aspose.com/barcode/java/manage-the-barcode-caption-in-php/">Manage the Barcode Caption</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-text-width ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Set Code Text for Barcode
+     <a href="https://docs.aspose.com/barcode/java/set-code-text-for-barcode-in-php/">Set Code Text for Barcode</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-bolt ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Specify Symbologies for Barcodes
+     <a href="https://docs.aspose.com/barcode/java/specify-symbologies-for-barcodes-in-php/">Specify Symbologies for Barcodes</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-signal ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Recognize Multiple Symbologies in Single Image
+     <a href="https://docs.aspose.com/barcode/java/recognizing-multiple-symbologies-in-single-image-in-php/">Recognize Multiple Symbologies in Single Image</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-random ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Recognize Specific Barcode Symbology
+     <a href="https://docs.aspose.com/barcode/java/recognizing-specific-barcode-symbology-in-php/">Recognize Specific Barcode Symbology</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-barcode ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Recognize all 1D Barcodes from an Image
+     <a href="https://docs.aspose.com/barcode/java/get-all-possible-1d-barcodes-from-an-image-in-php/">Recognize all 1D Barcodes from an Image</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-percent ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Get BarCode Recognition Quality in Percent
+     <a href="https://docs.aspose.com/barcode/java/get-barcode-recognition-quality-in-percent-in-php/">Get BarCode Recognition Quality in Percent</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-circle ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Obtain Barcode Region Information from the Image
+     <a href="https://docs.aspose.com/barcode/java/getting-barcode-region-information-from-the-image-in-php/">Obtain Barcode Region Information from the Image</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-star ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Read Barcode from Specific Region
+     <a href="https://docs.aspose.com/barcode/java/read-barcode-from-specific-region-of-image-in-php/">Read Barcode from Specific Region</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-arrows ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Switch Barcode Recognition Modes as of Requirement
+     <a href="https://docs.aspose.com/barcode/java/switch-barcode-recognition-modes-according-to-the-requirement-in-php/">Switch Barcode Recognition Modes as of Requirement</a>
     </p>
    </div>
    <div class="col-lg-12">
@@ -536,7 +536,7 @@ $builder-&gt;save($dataDir . "CreatingQRBarcode.jpg");
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Product Support" tabId="support" >}}
-{{< blocks/products/pf/slr-element name="Free Support" href="https://forum.aspose.com/c/barcode" >}}
+{{< blocks/products/pf/slr-element name="Free Support" href="https://forum.aspose.com/c/barcode/" >}}
 {{< blocks/products/pf/slr-element name="Paid Support" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.com/category/barcode/" >}}
 {{< /blocks/products/pf/slr-tab >}}

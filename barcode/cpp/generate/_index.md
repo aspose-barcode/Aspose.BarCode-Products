@@ -1,11 +1,11 @@
 ---
 title: C++ Barcode Generation
 url: /cpp/generate/
-description: Create barcode images of various 1D and 2D symbologies via C++ library
+description: Generate different 1D and 2D symbologies including UPC, Code 128, EAN, QR, Aztec, DataMatrix, PDF 417 and more to build C++ applications.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Generate Barcode Images Via C++" h2="Generate different Linear and 2D symbologies including Codabar, Code 11, Code 128, Code 39, Code 93, EAN, QR, Aztec, DataMatrix, PDF 417 and more to build C++ applications." >}}
+{{< blocks/products/pf/feature-page-header h1="Generate Barcode Images Via C++" h2="Create barcode images of various 1D, 2D and Postal symbologies via C++ library." >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

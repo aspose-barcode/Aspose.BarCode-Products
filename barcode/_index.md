@@ -1,12 +1,12 @@
 ---
-title: On Premise, Cloud & App Based Solutions for Barcode Processing 
+title: On Premise, Cloud Barcode SDK 
 weight: 1590
 url: /
-description: Build barcode generation and processing applications via High Code APIs or Cloud-based SDKs. Use cross-platform apps for Barcode generation or recognition.
+description: Build barcode processing applications via High Code APIs or Cloud-based SDKs. Use cross-platform apps for Barcode generation or recognition.
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Barcode Generation & Recognition Solution" h2="On Premise, Cloud APIs & apps to create or read 1D (Linear), 2D, & Postal barcodes of 60+ symbologies, across popular platforms." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/headers/aspose_barcode-brand.svg" imageAlt="Aspose.BarCode Product Family" >}}
+{{< blocks/products/pf/upper-banner h1="Barcode Generation & Recognition SDK" h2="On Premise & Cloud APIs to create or read 1D & 2D barcodes across popular platforms." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/headers/aspose_barcode-brand.svg" imageAlt="Aspose.BarCode Product Family" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.BarCode High Code APIs Include" >}}

@@ -6,7 +6,7 @@ description: Barcode SharePoint API to insert barcode labels in custom SharePoin
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Add Barcodes to Microsoft SharePoint Lists" h2="Barcode SharePoint App to add Linear, 2D & Postal barcode symbols to Microsoft SharePoint lists." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/headers/aspose_barcode-for-sharepoint.svg" pfName="Aspose.BarCode" subTitlepfName="for SharePoint" downloadUrl="https://downloads.aspose.com/barcode/sharepoint" >}}
+{{< blocks/products/pf/upper-banner h1="SharePoint Barcode APIs" h2="Barcode SharePoint App to add Linear, 2D & Postal barcodes to Microsoft SharePoint lists." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/headers/aspose_barcode-for-sharepoint.svg" pfName="Aspose.BarCode" subTitlepfName="for SharePoint" downloadUrl="https://downloads.aspose.com/barcode/sharepoint" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.BarCode" subTitlepfName="for SharePoint" >}}
 
@@ -400,7 +400,7 @@ description: Barcode SharePoint API to insert barcode labels in custom SharePoin
        Product Support
       </li>
       <li>
-       <a href="https://forum.aspose.com/c/barcode">
+       <a href="https://forum.aspose.com/c/barcode/">
         Free Support
        </a>
       </li>
@@ -632,7 +632,7 @@ description: Barcode SharePoint API to insert barcode labels in custom SharePoin
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Product Support" tabId="support" >}}
-{{< blocks/products/pf/slr-element name="Free Support" href="https://forum.aspose.com/c/barcode" >}}
+{{< blocks/products/pf/slr-element name="Free Support" href="https://forum.aspose.com/c/barcode/" >}}
 {{< blocks/products/pf/slr-element name="Paid Support" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.com/category/barcode/" >}}
 {{< /blocks/products/pf/slr-tab >}}
