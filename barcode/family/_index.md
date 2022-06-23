@@ -1,5 +1,5 @@
 ---
-title: .NET Java C++ and Android Barcode APIs 
+title: .NET Java Python C++ Node.js PHP and Android Barcode Generation & Recognition Libraries 
 weight: 10
 url: /family
 description: Barcode reader generator and scanner libraries for .NET Java Android & C++. Add barcode capabilities to SharePoint SSRS JasperReports and JasperServer
