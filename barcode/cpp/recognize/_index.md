@@ -1,11 +1,11 @@
 ---
 title: C++ Barcode Recognition
 url: /cpp/recognize/
-description: Read barcode images of different 1D and 2D symbologies via C++ library
+description: Read various Linear and 2D symbologies including  EAN, Code 128, Data Matrix, PDF 417, QR, UPC and more to build cross-platform C++ applications.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Recognize Barcodes Via C++" h2="Read various Linear and 2D symbologies including  EAN, Codeblock, Code39, Code 128, Aztec, Data Matrix, PDF 417, QR, UPC and more to build cross-platform C++ applications." >}}
+{{< blocks/products/pf/feature-page-header h1="Barcodes Reader via C++" h2="Read barcode images of different 1D, 2D and Postal symbologies via C++ library." >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

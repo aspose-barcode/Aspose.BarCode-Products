@@ -1,12 +1,12 @@
 ---
-title: C++ Library for Barcodes | Aspose 
+title: C++ Barcode Processing API 
 weight: 1610
 url: /cpp/ 
-description: C++ barcode scanner and generator library for 1D and 2D barcodes. Detect read and write multiple barcodes like Data Matrix PDF 417 UPC EAN GS1 Interleaved etc
+description: C++ barcode scanner and generator library for 1D and 2D barcodes. Create and read different kinds of 1D, 2D and Postal barcodes.
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="C++ Barcode Processing API" h2="Create or Recognize 1D and 2D types as well as Export the generated barcodes to multiple image formats within C++ applications." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/headers/aspose_barcode-for-cpp.svg" pfName="Aspose.BarCode" subTitlepfName="for C++" downloadUrl="https://downloads.aspose.com/barcode/cpp" >}}
+{{< blocks/products/pf/upper-banner h1="C++ Barcode Library" h2="Recognize or create  barcodes and export to multiple image formats within C++ applications." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/headers/aspose_barcode-for-cpp.svg" pfName="Aspose.BarCode" subTitlepfName="for C++" downloadUrl="https://downloads.aspose.com/barcode/cpp" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.BarCode" subTitlepfName="for C++" >}}
 
@@ -218,49 +218,49 @@ description: C++ barcode scanner and generator library for 1D and 2D barcodes. D
     <em class="fa fa-barcode ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Save generated barcode images to stream or file
+     <a href="https://docs.aspose.com/barcode/cpp/generate-barcodes-with-aspose-barcode-apis/">Save generated barcode images to stream or file</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Recognize codes from stream or image
+     <a href="https://docs.aspose.com/barcode/cpp/read-barcodes-with-aspose-barcode-apis/">Recognize codes from stream or image</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-exchange ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Encode and decode non-english characters in 2D types
+     <a href="https://docs.aspose.com/barcode/cpp/qr-and-micro-qr-barcode/#qr-code-encoding-in-the-eci-mode">Encode and decode non-english characters in 2D types</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-object-group ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Control size &amp; orientation
+     <a href="https://docs.aspose.com/barcode/cpp/image-formatting-and-display-settings/">Control size &amp; orientation</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-repeat ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Rotate images to any angle
+     <a href="https://docs.aspose.com/barcode/cpp/image-formatting-and-display-settings/#rotate-barcode-image">Rotate images to any angle</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-arrows ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Major refactoring of generated image layout
+     <a href="https://docs.aspose.com/barcode/cpp/image-formatting-and-display-settings/">Control code's size, color &amp; code text</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-book ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Support for 1D, 2D, and postal symbologies
+     <a href="https://docs.aspose.com/barcode/cpp/product-overview/#supported-barcode-symbologies">Support for 1D, 2D, and postal symbologies
     </p>
    </div>
    <div class="col-lg-12">
@@ -555,7 +555,7 @@ reader-&gt;Close();</code></pre>
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Product Support" tabId="support" >}}
-{{< blocks/products/pf/slr-element name="Free Support" href="https://forum.aspose.com/c/barcode" >}}
+{{< blocks/products/pf/slr-element name="Free Support" href="https://forum.aspose.com/c/barcode/" >}}
 {{< blocks/products/pf/slr-element name="Paid Support" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.com/category/barcode/" >}}
 {{< blocks/products/pf/slr-element name="Release Notes" href="https://docs.aspose.com/barcode/cpp/release-notes/" >}}
@@ -563,7 +563,7 @@ reader-&gt;Close();</code></pre>
 
 {{< blocks/products/pf/slr-tab tabTitle="Why Aspose.BarCode for C++?" tabId="success-stories" >}}
 {{< blocks/products/pf/slr-element name="Customers List" href="https://about.aspose.com/customers" >}}
-{{< blocks/products/pf/slr-element name="Success Stories" href="https://about.aspose.com/customers/success-stories/aspose-barcode" >}}
+{{< blocks/products/pf/slr-element name="Success Stories" href="https://downloads.aspose.com/corporate/case-studies/aspose.barcode/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< /blocks/products/pf/support-learning-resources >}}

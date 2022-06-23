@@ -1,5 +1,5 @@
 ---
-title: Nodejs Barcode Scanner, Recognition and Generator API  - Aspose 
+title: Nodejs Barcode Scanner and Generator API 
 weight: 660
 url: /nodejs-java/ 
 description: Node.js barcode scanning and generation library for 1D, 2D and Postal types. Integrate in React Angular apps easily for QR Code maxicode Aztec Code128 EAN-128 and more
@@ -244,84 +244,56 @@ description: Node.js barcode scanning and generation library for 1D, 2D and Post
     <em class="fa fa-exchange ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Specify various kind of symbologies
+     <a href="https://docs.aspose.com/barcode/java/aspose-barcode-for-node-js-via-java-features/#supported-barcode-symbologies">Specify various kind of symbologies</a>
     </p>
    </div>
    <div class="col-lg-4">
-    <em class="fa fa-object-group ico-blue fa-2x col-lg-2">
+    <em class="fa fa-align-right ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Set code text and styles
+     <a href="https://docs.aspose.com/barcode/java/manage-the-barcode-caption/">Manage caption &amp; font styles</a>
     </p>
    </div>
    <div class="col-lg-4">
-    <em class="fa fa-text-width ico-blue fa-2x col-lg-2">
+    <em class="fa fa-asterisk ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Manage barcode caption
+     <a href="https://docs.aspose.com/barcode/java/use-checksum-and-supplement-data-for-barcodes/">Support for Checksum &amp; Supplement data</a>
     </p>
    </div>
    <div class="col-lg-4">
-    <em class="fa fa-refresh ico-blue fa-2x col-lg-2">
+    <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Customize bar height
+     <a href="https://docs.aspose.com/barcode/java/supported-file-formats/">Generate barcode images to multiple image formats</a>
     </p>
    </div>
    <div class="col-lg-4">
-    <em class="fa fa-cogs ico-blue fa-2x col-lg-2">
+    <em class="fa fa-server ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Adjust X and Y dimensions for 2D types
+     <a href="https://docs.aspose.com/barcode/java/advanced-barcode-recognition-features/">Read 1D and 2D types at any angle</a>
+    </p>
+   </div>
+      <div class="col-lg-4">
+    <em class="fa fa-bolt ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     <a href="https://docs.aspose.com/barcode/java/barcode-regions/">Scan barcode by specifying area</a>
     </p>
    </div>
    <div class="col-lg-4">
-    <em class="fa fa-anchor ico-blue fa-2x col-lg-2">
+    <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Recognize different barcode types
-    </p>
-   </div>
-   <div class="col-lg-4">
-    <em class="fa fa-repeat ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">
-     Generate multiple barcode types
+     <a href="https://docs.aspose.com/barcode/java/generate-barcode-by-specifying-custom-image-size/">Customize images size</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-bolt ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Scan barcode by specifying area
-    </p>
-   </div>
-   <div class="col-lg-4">
-    <em class="fa fa-signal ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">
-     Manipulate barcode image border styles
-    </p>
-   </div>
-   <div class="col-lg-4">
-    <em class="fa fa-random ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">
-     Rotate barcode images to any degree
-    </p>
-   </div>
-   <div class="col-lg-4">
-    <em class="fa fa-barcode ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">
-     Manage barcode image margins
-    </p>
-   </div>
-   <div class="col-lg-4">
-    <em class="fa fa-percent ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">
-     Customize resolution
+     <a href="https://docs.aspose.com/barcode/java/manage-x-dimension-and-y-dimension/">Support of X and Y-dimension for 2D type</a>
     </p>
    </div>
    <!--<div class="col-lg-4"><em class="fa fa-circle ico-blue fa-2x col-lg-2"> </em>
@@ -602,7 +574,7 @@ $builder-&gt;save($dataDir . "CreatingQRBarcode.jpg");
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Product Support" tabId="support" >}}
-{{< blocks/products/pf/slr-element name="Free Support" href="https://forum.aspose.com/c/barcode" >}}
+{{< blocks/products/pf/slr-element name="Free Support" href="https://forum.aspose.com/c/barcode/" >}}
 {{< blocks/products/pf/slr-element name="Paid Support" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.com/category/barcode/" >}}
 {{< /blocks/products/pf/slr-tab >}}

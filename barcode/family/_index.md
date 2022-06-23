@@ -6,7 +6,7 @@ description: Barcode reader generator and scanner libraries for .NET Java Androi
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Generate & Recognize Barcodes" h2="Develop high-performance apps with the ability to create & scan 1D, 2D and Postal barcode labels." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode.svg" pfName="Aspose.BarCode" downloadUrl="https://downloads.aspose.com/barcode" tryOnlineUrl="https://products.aspose.app/barcode" >}}
+{{< blocks/products/pf/upper-banner h1="Generate & Recognize Barcode SDK" h2="Develop high-performance apps with the ability to create & scan 1D, 2D & Postal barcodes." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode.svg" pfName="Aspose.BarCode" downloadUrl="https://downloads.aspose.com/barcode" tryOnlineUrl="https://products.aspose.app/barcode" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.BarCode High Code APIs Include" >}}
@@ -70,7 +70,7 @@ Manage barcode generation and recognition functionality within Pytthon applicati
 
 {{< blocks/products/pf/slr-tab tabTitle="Why Aspose.BarCode Product Famly?" tabId="success-stories" >}}
 {{< blocks/products/pf/slr-element name="Customers List" href="https://about.aspose.com/customers" >}}
-{{< blocks/products/pf/slr-element name="Success Stories" href="https://about.aspose.com/customers/success-stories/aspose-barcode" >}}
+{{< blocks/products/pf/slr-element name="Success Stories" href="https://downloads.aspose.com/corporate/case-studies/aspose.barcode/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< /blocks/products/pf/support-learning-resources >}}

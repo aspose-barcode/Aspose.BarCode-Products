@@ -1,12 +1,12 @@
 ---
-title: Python Barcode Generator and Scanner API - Aspose 
+title: Python Barcode Generator and Scanner API 
 weight: 830
 url: /python-java/ 
 description: Python barcode reader library to recognize and generate mutiple types of barcodes including 1D, 2D and Postal. Use API in Python applications.
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Python Barcode Generator and Reader API" h2="Recognize or Generate 1D, 2D and Postal barcodes in any Python application." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/headers/aspose_barcode-for-python-java.svg" pfName="Aspose.BarCode" subTitlepfName="for Python via Java" downloadUrl="https://downloads.aspose.com/barcode/python" >}}
+{{< blocks/products/pf/upper-banner h1="Python Barcode library" h2="Recognize or Generate 1D, 2D and Postal barcodes in any Python application." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/headers/aspose_barcode-for-python-java.svg" pfName="Aspose.BarCode" subTitlepfName="for Python via Java" downloadUrl="https://downloads.aspose.com/barcode/python" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.BarCode" subTitlepfName="for Python via Java" >}}
 
@@ -223,105 +223,105 @@ description: Python barcode reader library to recognize and generate mutiple typ
     <em class="fa fa-exchange ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Generate multiple types of barcodes
+     <a href="https://docs.aspose.com/barcode/java/supported-file-formats/">Generate multiple types of barcodes</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-object-group ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Manage X and Y Dimensions
+     <a href="https://docs.aspose.com/barcode/java/manage-x-dimension-and-y-dimension-in-jython/">Manage X and Y Dimensions</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-repeat ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Set Height of the Bars
+     <a href="https://docs.aspose.com/barcode/java/generate-barcode-by-specifying-custom-image-size-in-jython/">Customize images size</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-refresh ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Set Start and Stop Symbols of Codabar
+     <a href="https://docs.aspose.com/barcode/java/set-start-and-stop-symbols-of-codabar-barcode-in-jython/">Set Start and Stop Symbols of Codabar</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-cogs ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Control the Appearance of Code Text
+     <a href="https://docs.aspose.com/barcode/java/control-the-appearance-of-code-text-in-jython/">Control the Appearance of Code Text</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-anchor ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Manage the Barcode Caption
+     <a href="https://docs.aspose.com/barcode/java/manage-the-barcode-caption-in-jython/">Manage the Barcode Caption</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-text-width ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Set Code Text for Barcode
+     <a href="https://docs.aspose.com/barcode/java/set-code-text-for-barcode-in-jython/">Set Code Text for Barcode</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-bolt ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Specify Symbologies for Barcodes
+     <a href="https://docs.aspose.com/barcode/java/specify-symbologies-for-barcodes-in-jython/">Specify Symbologies for Barcodes</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-signal ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Recognize Multiple Symbologies in Single Image
+     <a href="https://docs.aspose.com/barcode/java/recognizing-multiple-symbologies-in-single-image-in-jython/">Recognize Multiple Symbologies in Single Image</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-random ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Recognize Specific Barcode Symbology
+     <a href="https://docs.aspose.com/barcode/java/recognizing-specific-barcode-symbology-in-jython/">Recognize Specific Barcode Symbology</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-barcode ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Recognize all 1D Barcodes from an Image
+     <a href="https://docs.aspose.com/barcode/java/get-all-possible-1d-barcodes-from-an-image-in-jython/">Recognize all 1D Barcodes from an Image</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-percent ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Get BarCode Recognition Quality in Percent
+     <a href="https://docs.aspose.com/barcode/java/get-barcode-recognition-quality-in-percent-in-jython/">Get BarCode Recognition Quality in Percent</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-circle ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Obtain Barcode Region Information from the Image
+     <a href="https://docs.aspose.com/barcode/java/getting-barcode-region-information-from-the-image-in-jython/">Obtain Barcode Region Information from the Image</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-star ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Read Barcode from Specific Region
+     <a href="https://docs.aspose.com/barcode/java/read-barcode-from-specific-region-of-image-in-jython/">Read Barcode from Specific Region</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-arrows ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Switch Barcode Recognition Modes as of Requirement
+     <a href="https://docs.aspose.com/barcode/java/switch-barcode-recognition-modes-according-to-the-requirement-in-jython/">Switch Barcode Recognition Modes as of Requirement</a>
     </p>
    </div>
    <div class="col-lg-12">
@@ -499,7 +499,7 @@ generator.save("QR.png", "PNG")
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Product Support" tabId="support" >}}
-{{< blocks/products/pf/slr-element name="Free Support" href="https://forum.aspose.com/c/barcode" >}}
+{{< blocks/products/pf/slr-element name="Free Support" href="https://forum.aspose.com/c/barcode/" >}}
 {{< blocks/products/pf/slr-element name="Paid Support" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.com/category/barcode/" >}}
 {{< /blocks/products/pf/slr-tab >}}

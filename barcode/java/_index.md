@@ -6,7 +6,7 @@ description: Java barcode library to generate read recognize barcodes. Barcode S
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Java Barcode Generation & Recognition API" h2="Generate, customize & recognize linear, 2D & postal barcode images from JPG, TIFF, PNG, BMP, GIF & EXIF files." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-java.svg" pfName="Aspose.BarCode" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/barcode/java" >}}
+{{< blocks/products/pf/upper-banner h1="Java Barcode Generation & Recognition API" h2="Generate, customize & recognize linear, 2D & postal barcodes within your Java application." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-java.svg" pfName="Aspose.BarCode" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/barcode/java" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.BarCode" subTitlepfName="for Java" >}}
 
@@ -266,67 +266,68 @@ description: Java barcode library to generate read recognize barcodes. Barcode S
 <p class="col-lg-10">Customizable caption & font styles</p>
 
 </div>-->
-   <div class="col-lg-4">
-    <em class="fa fa-cogs ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">
-     Specify 1D, 2D and Postal symbologies
-    </p>
-   </div>
+
    <div class="col-lg-4">
     <em class="fa fa-th ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Adjust and modify appearance-related properties of code text
+     <a href="https://docs.aspose.com/barcode/java/control-the-appearance-of-code-text/">Adjust and modify appearance-related properties of code text</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-align-right ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Manage caption &amp; font styles
+     <a href="https://docs.aspose.com/barcode/java/manage-the-barcode-caption/">Manage caption &amp; font styles</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-asterisk ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Support for Checksum &amp; Supplement data
+     <a href="https://docs.aspose.com/barcode/java/use-checksum-and-supplement-data-for-barcodes/">Support for Checksum &amp; Supplement data</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Generate barcode images to multiple image formats
+     <a href="https://docs.aspose.com/barcode/java/supported-file-formats/">Generate barcode images to multiple image formats</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-server ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Read 1D and 2D types at any angle
+     <a href="https://docs.aspose.com/barcode/java/advanced-barcode-recognition-features/">Read 1D and 2D types at any angle</a>
+    </p>
+   </div>
+      <div class="col-lg-4">
+    <em class="fa fa-bolt ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     <a href="https://docs.aspose.com/barcode/java/barcode-regions/">Scan barcode by specifying area</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Customize images height
+     <a href="https://docs.aspose.com/barcode/java/generate-barcode-by-specifying-custom-image-size/">Customize images size</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-bolt ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Support of X and Y-dimension for 2D type
+     <a href="https://docs.aspose.com/barcode/java/manage-x-dimension-and-y-dimension/">Support of X and Y-dimension for 2D type</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-list-alt ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Optimize Code128 encoding
+     <a href="https://docs.aspose.com/barcode/java/supported-file-formats/">Support for linear, 2D and postal symbologies</a>
     </p>
    </div>
    <div class="col-lg-12">
@@ -569,7 +570,7 @@ while (reader.read()) {
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Product Support" tabId="support" >}}
-{{< blocks/products/pf/slr-element name="Free Support" href="https://forum.aspose.com/c/barcode" >}}
+{{< blocks/products/pf/slr-element name="Free Support" href="https://forum.aspose.com/c/barcode/" >}}
 {{< blocks/products/pf/slr-element name="Paid Support" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.com/category/barcode/" >}}
 {{< blocks/products/pf/slr-element name="Release Notes" href="https://docs.aspose.com/barcode/java/release-notes/" >}}
@@ -577,7 +578,7 @@ while (reader.read()) {
 
 {{< blocks/products/pf/slr-tab tabTitle="Why Aspose.BarCode for Java?" tabId="success-stories" >}}
 {{< blocks/products/pf/slr-element name="Customers List" href="https://about.aspose.com/customers" >}}
-{{< blocks/products/pf/slr-element name="Success Stories" href="https://about.aspose.com/customers/success-stories/aspose-barcode" >}}
+{{< blocks/products/pf/slr-element name="Success Stories" href="https://downloads.aspose.com/corporate/case-studies/aspose.barcode/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< /blocks/products/pf/support-learning-resources >}}

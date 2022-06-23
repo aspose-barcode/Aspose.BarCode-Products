@@ -1,11 +1,11 @@
 ---
-title: C# Barcode Recognition
+title: Recognize Barcodes Via C#
 url: /net/recognize/
-description: Read barcode images of various 1D and 2D symbologies with few lines of C# code via .NET library
+description: Read various 1D and 2D symbologies including  EAN 13, EAN 8, Codeblock, Code 128, Aztec, PDF 417, QR, UPC and more to build cross-platform .NET applications
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Recognize Barcodes Via C#" h2="Read various 1D and 2D symbologies including  EAN 13, EAN 8, Codeblock, Code 128, Aztec, PDF 417, QR, UPC and more to build cross-platform .NET applications." >}}
+{{< blocks/products/pf/feature-page-header h1="C# Barcode Scanner SDK" h2="Read barcode images of various 1D and 2D symbologies with few lines of C# code via .NET library." >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

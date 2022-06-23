@@ -223,42 +223,42 @@ description: Android barcode scanner library to recognize different kinds of 1D,
     <em class="fa fa-exchange ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Encode &amp; decode non-english characters in 2D types
+     <a href="https://docs.aspose.com/barcode/net/qr-and-micro-qr-barcode/#data-encoding-modes">Encode &amp; decode non-english characters in 2D types</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-object-group ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Control code's size, color &amp; code text
+     <a href="https://docs.aspose.com/barcode/net/image-formatting-and-display-settings/">Control code's size, color &amp; code text</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-repeat ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Rotate code images at any angle
+     <a href="https://docs.aspose.com/barcode/net/image-formatting-and-display-settings/#barcode-rotation">Rotate code images at any angle</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-refresh ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Generate and recognize a multitude of types
+     <a href="https://docs.aspose.com/barcode/java/aspose-barcode-for-android-via-java-features/#supported-barcode-symbologies">Generate and recognize a multitude of types</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-book ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Linear, 2D and postal symbologies supported
+     <a href="https://docs.aspose.com/barcode/java/aspose-barcode-for-android-via-java-features/#supported-barcode-symbologies">Linear, 2D and postal symbologies supported</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-signal ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Export code labels to a verity of image formats
+     <a href="https://docs.aspose.com/barcode/java/aspose-barcode-for-android-via-java-features/#barcode-imaging-features">Export code labels to a verity of image formats</a>
     </p>
    </div>
    <div class="col-lg-12">
@@ -557,14 +557,14 @@ while (rd.read()) {
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Product Support" tabId="support" >}}
-{{< blocks/products/pf/slr-element name="Free Support" href="https://forum.aspose.com/c/barcode" >}}
+{{< blocks/products/pf/slr-element name="Free Support" href="https://forum.aspose.com/c/barcode/" >}}
 {{< blocks/products/pf/slr-element name="Paid Support" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.com/category/barcode/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Why Aspose.BarCode for Android via Java?" tabId="success-stories" >}}
 {{< blocks/products/pf/slr-element name="Customers List" href="https://about.aspose.com/customers" >}}
-{{< blocks/products/pf/slr-element name="Success Stories" href="https://about.aspose.com/customers/success-stories/aspose-barcode" >}}
+{{< blocks/products/pf/slr-element name="Success Stories" href="https://downloads.aspose.com/corporate/case-studies/aspose.barcode/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< /blocks/products/pf/support-learning-resources >}}

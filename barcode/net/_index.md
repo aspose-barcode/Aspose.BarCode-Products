@@ -2,11 +2,11 @@
 title: C# .NET Barcode API - Read Generate and Recognize Barcodes 
 weight: 440
 url: /net/ 
-description: Aspose.BarCode for .NET APIs to read create and recognize 1D 2D barcodes. Integrate within C# VB.NET ASP.NET applications to scan and print barcode labels
+description: Aspose.BarCode for .NET APIs to create and recognize 1D 2D barcodes. Integrate within C# VB.NET ASP.NET applications to scan and print barcode labels
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1=".NET APIs to Generate & Recognize Barcodes" h2="Create, & recognize barcodes of linear, 2D and postal types from multiple images within any .NET application." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/headers/aspose_barcode-for-net.svg" pfName="Aspose.BarCode" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/barcode/net" >}}
+{{< blocks/products/pf/upper-banner h1="Barcode generator and reader API" h2="Create, & recognize barcodes of linear, 2D and postal types within any .NET application." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/headers/aspose_barcode-for-net.svg" pfName="Aspose.BarCode" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/barcode/net" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.BarCode" subTitlepfName="for .NET" >}}
 
@@ -264,42 +264,42 @@ description: Aspose.BarCode for .NET APIs to read create and recognize 1D 2D bar
     <em class="fa fa-print ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Print barcode labels with ease
+     <a href="https://docs.aspose.com/barcode/net/saving-barcode-image/">Print barcode labels with ease</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-barcode ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Save to or load from stream or file
+     <a href="https://docs.aspose.com/barcode/net/read-barcodes-with-aspose-barcode-apis/#setting-barcode-recognition-source">Save to or load from stream or file</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-exchange ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Encode &amp; decode characters (non-english) in 2D types
+     <a href="https://docs.aspose.com/barcode/net/qr-and-micro-qr-barcode/#eciencoding-mode">Encode &amp; decode characters (non-english) in 2D types</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-repeat ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Rotate barcode images at any angle
+     <a href="https://docs.aspose.com/barcode/net/image-formatting-and-display-settings/">Rotate barcode images at any angle</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-file-image-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Scan barcodes from multi-page TIFF
+     <a href="https://docs.aspose.com/barcode/net/how-to-read-barcode-from-multi-page-tiff-images/">Scan barcodes from multi-page TIFF</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-book ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Support for linear, 2D and postal symbologies
+     <a href="https://docs.aspose.com/barcode/net/barcode-types-and-image-formats/">Support for linear, 2D and postal symbologies</a>
     </p>
    </div>
    <div class="col-lg-12">
@@ -646,7 +646,7 @@ generator.Save(dataDir + "output.jpg", BarCodeImageFormat.Jpeg);</code></pre>
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Product Support" tabId="support" >}}
-{{< blocks/products/pf/slr-element name="Free Support" href="https://forum.aspose.com/c/barcode" >}}
+{{< blocks/products/pf/slr-element name="Free Support" href="https://forum.aspose.com/c/barcode/" >}}
 {{< blocks/products/pf/slr-element name="Paid Support" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.com/category/barcode/" >}}
 {{< blocks/products/pf/slr-element name="Release Notes" href="https://docs.aspose.com/barcode/net/release-notes/" >}}
@@ -654,7 +654,7 @@ generator.Save(dataDir + "output.jpg", BarCodeImageFormat.Jpeg);</code></pre>
 
 {{< blocks/products/pf/slr-tab tabTitle="Why Aspose.BarCode for .NET?" tabId="success-stories" >}}
 {{< blocks/products/pf/slr-element name="Customers List" href="https://about.aspose.com/customers" >}}
-{{< blocks/products/pf/slr-element name="Success Stories" href="https://about.aspose.com/customers/success-stories/aspose-barcode" >}}
+{{< blocks/products/pf/slr-element name="Success Stories" href="https://downloads.aspose.com/corporate/case-studies/aspose.barcode/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< /blocks/products/pf/support-learning-resources >}}

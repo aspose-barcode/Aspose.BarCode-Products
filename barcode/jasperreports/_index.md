@@ -6,7 +6,7 @@ description: Using Aspose.BarCode for JasperReports - developers can generate ba
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Generate & Export Barcodes in JasperReports" h2="JasperReports & JasperServer API to Generate, Display and Export Linear, 2D and Postal barcodes to multiple formats." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/headers/aspose_barcode-for-jasperreports.svg" pfName="Aspose.BarCode" subTitlepfName="for JasperReports" downloadUrl="https://downloads.aspose.com/barcode/jasperreports" >}}
+{{< blocks/products/pf/upper-banner h1="Generate & Export Barcodes in JasperReports" h2="JasperReports & JasperServer API to Generate, Display and Export 1D, 2D & Postal barcodes." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/headers/aspose_barcode-for-jasperreports.svg" pfName="Aspose.BarCode" subTitlepfName="for JasperReports" downloadUrl="https://downloads.aspose.com/barcode/jasperreports" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.BarCode" subTitlepfName="for JasperReports" >}}
 
@@ -185,63 +185,42 @@ description: Using Aspose.BarCode for JasperReports - developers can generate ba
     <em class="fa fa-print ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Generate and print reports with barcodes
+     <a href="https://docs.aspose.com/barcode/jasperreports/quickstart-tutorial/">Generate and print reports with barcodes</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-server ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Increase application workflow by adding barcode functionality
+     <a href="https://docs.aspose.com/barcode/jasperreports/quickstart-tutorial/">Increase application workflow by adding barcode functionality</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-files-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Embed barcodes in files to aid traceability
+     <a href="https://docs.aspose.com/barcode/jasperreports/quickstart-tutorial/">Embed barcodes in files to aid traceability</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-cog ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Major refactoring of generated image layout
-    </p>
-   </div>
-   <div class="col-lg-4">
-    <em class="fa fa-barcode ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">
-     Recognition of a 3D-distorted and rotated 2D-barcodes
+     <a href="https://docs.aspose.com/barcode/jasperreports/barcode-image-basic-features/">Control code's size, color &amp; code text</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-qrcode ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Recognition of a 3D-distorted QR code
-    </p>
-   </div>
-   <div class="col-lg-4">
-    <em class="fa fa-plus-square ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">
-     MaxiCode and DotCode renderer added
+     <a href="https://docs.aspose.com/barcode/java/read-barcodes-with-aspose-barcode-apis/">Recognition of a 3D-distorted and rotated 2D-barcodes</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-arrows-h ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Interpolation AutoSize mode added in new renderers
-    </p>
-   </div>
-   <div class="col-lg-4">
-    <em class="fa fa-random ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">
-     Add termination by Timeout support for internal imaging and recognition filters
+     <a href="https://docs.aspose.com/barcode/jasperreports/generate-barcode-by-specifying-custom-image-size/">Create barcode images of specific size</a>
     </p>
    </div>
    <div class="col-lg-12">
@@ -395,7 +374,7 @@ description: Using Aspose.BarCode for JasperReports - developers can generate ba
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Product Support" tabId="support" >}}
-{{< blocks/products/pf/slr-element name="Free Support" href="https://forum.aspose.com/c/barcode" >}}
+{{< blocks/products/pf/slr-element name="Free Support" href="https://forum.aspose.com/c/barcode/" >}}
 {{< blocks/products/pf/slr-element name="Paid Support" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.com/category/barcode/" >}}
 {{< /blocks/products/pf/slr-tab >}}
