@@ -14,11 +14,11 @@ description: 1Dおよび2Dバーコード用のC++バーコードスキャナー
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.BarCode for C ++は、バーコード生成と追加を行うための豊富な機能を備えたAPIです。認識機能だけでなく、生成されたものを高品質のさまざまな画像にエクスポートします。 APIは、バーの色、背景色、品質、回転角、x寸法、サイズ、キャプション、解像度などのバーコードの外観操作を提供します。
+ Aspose.BarCode for C++は、バーコード生成と追加を行うための豊富な機能を備えたAPIです。認識機能だけでなく、生成されたものを高品質のさまざまな画像にエクスポートします。 APIは、バーの色、背景色、品質、回転角、x寸法、サイズ、キャプション、解像度などのバーコードの外観操作を提供します。
 </p>
 
 <p>
- Aspose.BarCode for C ++は、複数のイメージング、ローテーション、サイジング、および印刷機能をサポートしています。さらに、QRコード、Aztec、データマトリックス、ISBN、コード39および93、PDF417、UPC、EAN、およびGS1DataMatrixを含むがこれらに限定されない複数のシンボル体系のエンコードおよびデコード機能を提供します。
+ Aspose.BarCode for C++は、複数のイメージング、ローテーション、サイジング、および印刷機能をサポートしています。さらに、QRコード、Aztec、データマトリックス、ISBN、コード39および93、PDF417、UPC、EAN、およびGS1DataMatrixを含むがこれらに限定されない複数のシンボル体系のエンコードおよびデコード機能を提供します。
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -107,7 +107,7 @@ description: 1Dおよび2Dバーコード用のC++バーコードスキャナー
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="プラットフォームの独立性" description="Aspose.BarCode for C ++は、[システム要件]を持つ次のプラットフォームで開発されたC++アプリケーションを完全にサポートします。(https://docs.aspose.com/barcode/cpp/installation/#system-requirements)." >}}
+{{< blocks/products/pf/carousel-item h3="プラットフォームの独立性" description="Aspose.BarCode for C++は、[システム要件]を持つ次のプラットフォームで開発されたC++アプリケーションを完全にサポートします。(https://docs.aspose.com/barcode/cpp/installation/#system-requirements)." >}}
 <div class="diagram1 d1-cplus">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -147,7 +147,7 @@ description: 1Dおよび2Dバーコード用のC++バーコードスキャナー
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="サポートされているファイル形式" description="Aspose.BarCode for C ++は、最も一般的に使用される画像で機能します。" >}}
+{{< blocks/products/pf/carousel-item h3="サポートされているファイル形式" description="Aspose.BarCode for C++は、最も一般的に使用される画像で機能します。" >}}
 <div class="diagram1 d2 d1-cplus">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -268,7 +268,7 @@ description: 1Dおよび2Dバーコード用のC++バーコードスキャナー
      サポートされているバーコード記号
     </h2>
     <p>
-     Aspose.BarCode for C ++は、デコード機能とエンコード機能の両方を備えた複数の1D、2D、および郵便のシンボル体系をサポートしています。
+     Aspose.BarCode for C++は、デコード機能とエンコード機能の両方を備えた複数の1D、2D、および郵便のシンボル体系をサポートしています。
     </p>
     <p>
      APIでサポートされている線形タイプは次のとおりです。
@@ -483,7 +483,7 @@ description: 1Dおよび2Dバーコード用のC++バーコードスキャナー
      C++アプリケーションにバーコード処理機能を追加する
     </h2>
     <p>
-     Aspose.BarCode for C ++を使用すると、開発者は簡単に生成と生成を追加できます。独自のC++アプリケーションに対する認識機能。バーコード生成プロセスでは、エンコードするテキストと、バーコードラベルを保存するためのタイプと結果の画像タイプのみが必要です。本当に簡単です！
+     Aspose.BarCode for C++を使用すると、開発者は簡単に生成と生成を追加できます。独自のC++アプリケーションに対する認識機能。バーコード生成プロセスでは、エンコードするテキストと、バーコードラベルを保存するためのタイプと結果の画像タイプのみが必要です。本当に簡単です！
     </p>
     <div class="codeblock" id="code">
      <h3>

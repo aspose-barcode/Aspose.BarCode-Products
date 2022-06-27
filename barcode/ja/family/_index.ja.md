@@ -1,5 +1,5 @@
 ---
-title: .NET Java Python C ++Node.jsPHPおよびAndroidバーコード生成および認識ライブラリ 
+title: .NET Java Python C++Node.jsPHPおよびAndroidバーコード生成および認識ライブラリ 
 weight: 10
 url: /ja/family
 description: .NET Java Android＆C++用のバーコードリーダージェネレーターおよびスキャナーライブラリ。 SharePointSSRSJasperReportsおよびJasperServerにバーコード機能を追加します

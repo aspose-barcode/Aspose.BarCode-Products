@@ -1,5 +1,5 @@
 ---
-title: C # .NET Barcode API - อ่านสร้างและจดจำบาร์โค้ด 
+title: C# .NET Barcode API - อ่านสร้างและจดจำบาร์โค้ด 
 weight: 440
 url: /th/net/ 
 description: Aspose.BarCode สำหรับ .NET API เพื่ออ่านสร้างและจดจำบาร์โค้ด 1D 2D ผสานรวมภายในแอปพลิเคชัน C# VB.NET ASP.NET เพื่อสแกนและพิมพ์ฉลากบาร์โค้ด
@@ -160,7 +160,7 @@ description: Aspose.BarCode สำหรับ .NET API เพื่ออ่า
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img width="70" height="75" alt="เครื่องสร้างบาร์โค้ดใน C #" src="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-net.svg"/>
+  <img width="70" height="75" alt="เครื่องสร้างบาร์โค้ดใน C#" src="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-net.svg"/>
   <header>
    Aspose.BarCode
   </header>
@@ -544,7 +544,7 @@ description: Aspose.BarCode สำหรับ .NET API เพื่ออ่า
     </p>
     <div class="codeblock" id="code">
      <h3>
-      การสร้างบาร์โค้ด - C #
+      การสร้างบาร์โค้ด - C#
      </h3>
      <pre><code class="cs"> // เส้นทางไปยังไดเร็กทอรีเอกสาร
 
@@ -580,7 +580,7 @@ generator.Save(dataDir + "output.jpg", BarCodeImageFormat.Jpeg);</code></pre>
     </p>
     <div class="codeblock" id="code">
      <h3>
-      การรับรู้บาร์โค้ด - C #
+      การรับรู้บาร์โค้ด - C#
      </h3>
      <pre><code class="cs">using (BarCodeReader reader = new BarCodeReader(@"d:\template.jpg"))
 

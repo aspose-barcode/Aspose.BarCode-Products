@@ -1,8 +1,8 @@
 ---
-title: NET Java Python C ++ Node.js PHP ومكتبات Android Barcode Generation والتعرف عليها 
+title: NET Java Python C++ Node.js PHP ومكتبات Android Barcode Generation والتعرف عليها 
 weight: 10
 url: /ar/family
-description: مولد قارئ الباركود ومكتبات الماسح الضوئي لـ .NET Java Android & C ++. إضافة إمكانيات الباركود إلى SharePoint SSRS JasperReports و JasperServer
+description: مولد قارئ الباركود ومكتبات الماسح الضوئي لـ .NET Java Android & C++. إضافة إمكانيات الباركود إلى SharePoint SSRS JasperReports و JasperServer
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
@@ -20,7 +20,7 @@ description: مولد قارئ الباركود ومكتبات الماسح ال
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.BarCode for" title="C++" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-cpp.svg" productLink="/barcode/ar/cpp/" >}}
-قم بإنشاء أو التعرف على أنواع الباركود 1D و 2D من داخل تطبيقات C ++.
+قم بإنشاء أو التعرف على أنواع الباركود 1D و 2D من داخل تطبيقات C++.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.BarCode for" title="Android via Java" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-android-java.svg" productLink="/barcode/ar/android-java/" >}}

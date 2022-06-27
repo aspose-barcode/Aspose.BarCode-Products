@@ -1,8 +1,8 @@
 ---
-title: C # .NET Barcode API - قراءة إنشاء والتعرف على الرموز الشريطية 
+title: C# .NET Barcode API - قراءة إنشاء والتعرف على الرموز الشريطية 
 weight: 440
 url: /ar/net/ 
-description: Aspose.BarCode لـ .NET APIs لقراءة إنشاء والتعرف على الرموز الشريطية 1D 2D. التكامل مع تطبيقات C # VB.NET ASP.NET لمسح ملصقات الباركود ضوئيًا وطباعتها
+description: Aspose.BarCode لـ .NET APIs لقراءة إنشاء والتعرف على الرموز الشريطية 1D 2D. التكامل مع تطبيقات C# VB.NET ASP.NET لمسح ملصقات الباركود ضوئيًا وطباعتها
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
@@ -160,7 +160,7 @@ description: Aspose.BarCode لـ .NET APIs لقراءة إنشاء والتعر�
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img width="70" height="75" alt="مولد الباركود في C #" src="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-net.svg"/>
+  <img width="70" height="75" alt="مولد الباركود في C#" src="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-net.svg"/>
   <header>
    Aspose.BarCode
   </header>
@@ -544,7 +544,7 @@ description: Aspose.BarCode لـ .NET APIs لقراءة إنشاء والتعر�
     </p>
     <div class="codeblock" id="code">
      <h3>
-      إنشاء الباركود - C #
+      إنشاء الباركود - C#
      </h3>
      <pre><code class="cs"> // المسار إلى دليل المستندات.
 
@@ -580,7 +580,7 @@ generator.Save(dataDir + "output.jpg", BarCodeImageFormat.Jpeg);</code></pre>
     </p>
     <div class="codeblock" id="code">
      <h3>
-      التعرف على الرمز الشريطي - C #
+      التعرف على الرمز الشريطي - C#
      </h3>
      <pre><code class="cs">using (BarCodeReader reader = new BarCodeReader(@"d:\template.jpg"))
 

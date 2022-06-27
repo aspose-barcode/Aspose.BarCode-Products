@@ -1,12 +1,12 @@
 ---
-title: Thư viện C ++ cho mã vạch | Aspose 
+title: Thư viện C++ cho mã vạch | Aspose 
 weight: 1610
 url: /vi/cpp/ 
-description: Máy quét mã vạch C ++ và thư viện trình tạo cho mã vạch 1D và 2D. Phát hiện đọc và ghi nhiều mã vạch như Ma trận dữ liệu PDF 417 UPC EAN GS1 xen kẽ, v.v.
+description: Máy quét mã vạch C++ và thư viện trình tạo cho mã vạch 1D và 2D. Phát hiện đọc và ghi nhiều mã vạch như Ma trận dữ liệu PDF 417 UPC EAN GS1 xen kẽ, v.v.
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="API xử lý mã vạch C ++" h2="Tạo hoặc Nhận dạng các loại 1D và 2D cũng như Xuất mã vạch đã tạo sang nhiều định dạng hình ảnh trong các ứng dụng C ++." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/headers/aspose_barcode-for-cpp.svg" pfName="Aspose.BarCode" subTitlepfName="for C++" downloadUrl="https://downloads.aspose.com/barcode/cpp" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="API xử lý mã vạch C++" h2="Tạo hoặc Nhận dạng các loại 1D và 2D cũng như Xuất mã vạch đã tạo sang nhiều định dạng hình ảnh trong các ứng dụng C++." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/headers/aspose_barcode-for-cpp.svg" pfName="Aspose.BarCode" subTitlepfName="for C++" downloadUrl="https://downloads.aspose.com/barcode/cpp" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.BarCode" subTitlepfName="for C++" >}}
 
@@ -14,11 +14,11 @@ description: Máy quét mã vạch C ++ và thư viện trình tạo cho mã v�
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.BarCode cho C ++ là một API đa dạng tính năng để thêm tính năng tạo mã vạch & amp; khả năng nhận dạng cũng như xuất các ảnh được tạo ra thành các hình ảnh khác nhau với chất lượng cao. API cung cấp thao tác xuất hiện mã vạch như màu thanh, màu nền, chất lượng, góc xoay, kích thước x, kích thước, chú thích, độ phân giải và nhiều hơn nữa.
+ Aspose.BarCode cho C++ là một API đa dạng tính năng để thêm tính năng tạo mã vạch & amp; khả năng nhận dạng cũng như xuất các ảnh được tạo ra thành các hình ảnh khác nhau với chất lượng cao. API cung cấp thao tác xuất hiện mã vạch như màu thanh, màu nền, chất lượng, góc xoay, kích thước x, kích thước, chú thích, độ phân giải và nhiều hơn nữa.
 </p>
 
 <p>
- Aspose.BarCode cho C ++ hỗ trợ nhiều tính năng chụp ảnh, xoay, định cỡ và in. Hơn nữa, nó cung cấp các tính năng mã hóa và giải mã cho nhiều ký hiệu bao gồm nhưng không giới hạn ở Mã QR, Aztec, Ma trận dữ liệu, ISBN, mã 39 và 93, PDF417, UPC, EAN và GS1 DataMatrix.
+ Aspose.BarCode cho C++ hỗ trợ nhiều tính năng chụp ảnh, xoay, định cỡ và in. Hơn nữa, nó cung cấp các tính năng mã hóa và giải mã cho nhiều ký hiệu bao gồm nhưng không giới hạn ở Mã QR, Aztec, Ma trận dữ liệu, ISBN, mã 39 và 93, PDF417, UPC, EAN và GS1 DataMatrix.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -89,7 +89,7 @@ description: Máy quét mã vạch C ++ và thư viện trình tạo cho mã v�
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img width="70" height="75" alt="Thư viện mã vạch C ++" src="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-cpp.svg"/>
+  <img width="70" height="75" alt="Thư viện mã vạch C++" src="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-cpp.svg"/>
   <header>
    Aspose.BarCode
   </header>
@@ -107,7 +107,7 @@ description: Máy quét mã vạch C ++ và thư viện trình tạo cho mã v�
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Nền tảng độc lập" description="Aspose.BarCode for C ++ hỗ trợ đầy đủ các ứng dụng C ++ được phát triển trên các nền tảng sau có [yêu cầu hệ thống](https://docs.aspose.com/barcode/cpp/installation/#system-requirements)." >}}
+{{< blocks/products/pf/carousel-item h3="Nền tảng độc lập" description="Aspose.BarCode for C++ hỗ trợ đầy đủ các ứng dụng C++ được phát triển trên các nền tảng sau có [yêu cầu hệ thống](https://docs.aspose.com/barcode/cpp/installation/#system-requirements)." >}}
 <div class="diagram1 d1-cplus">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -129,7 +129,7 @@ description: Máy quét mã vạch C ++ và thư viện trình tạo cho mã v�
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img width="70" height="75" alt="Trình tạo mã vạch trong C ++" src="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-cpp.svg"/>
+  <img width="70" height="75" alt="Trình tạo mã vạch trong C++" src="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-cpp.svg"/>
   <header>
    Aspose.BarCode
   </header>
@@ -147,7 +147,7 @@ description: Máy quét mã vạch C ++ và thư viện trình tạo cho mã v�
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Các định dạng tệp được hỗ trợ" description="Aspose.BarCode cho C ++ hoạt động với các hình ảnh được sử dụng phổ biến nhất." >}}
+{{< blocks/products/pf/carousel-item h3="Các định dạng tệp được hỗ trợ" description="Aspose.BarCode cho C++ hoạt động với các hình ảnh được sử dụng phổ biến nhất." >}}
 <div class="diagram1 d2 d1-cplus">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -182,7 +182,7 @@ description: Máy quét mã vạch C ++ và thư viện trình tạo cho mã v�
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img width="70" height="75" alt="Thư viện đọc mã vạch C ++" src="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-cpp.svg"/>
+  <img width="70" height="75" alt="Thư viện đọc mã vạch C++" src="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-cpp.svg"/>
   <header>
    Aspose.BarCode
   </header>
@@ -210,7 +210,7 @@ description: Máy quét mã vạch C ++ và thư viện trình tạo cho mã v�
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
-    Tính năng API mã vạch C ++ nâng cao
+    Tính năng API mã vạch C++ nâng cao
    </h2>
    <p>
    </p>
@@ -268,7 +268,7 @@ description: Máy quét mã vạch C ++ và thư viện trình tạo cho mã v�
      Các ký hiệu mã vạch được hỗ trợ
     </h2>
     <p>
-     Aspose.BarCode cho C ++ hỗ trợ nhiều ký hiệu 1D, 2D và bưu chính với cả khả năng giải mã và mã hóa.
+     Aspose.BarCode cho C++ hỗ trợ nhiều ký hiệu 1D, 2D và bưu chính với cả khả năng giải mã và mã hóa.
     </p>
     <p>
      Các loại tuyến tính được hỗ trợ API bao gồm:
@@ -480,14 +480,14 @@ description: Máy quét mã vạch C ++ và thư viện trình tạo cho mã v�
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Thêm các tính năng xử lý mã vạch cho các ứng dụng C ++
+     Thêm các tính năng xử lý mã vạch cho các ứng dụng C++
     </h2>
     <p>
-     Aspose.BarCode cho C ++ cho phép các nhà phát triển dễ dàng thêm thế hệ & amp; các tính năng nhận dạng cho các ứng dụng C ++ của riêng họ. Quá trình tạo mã vạch chỉ yêu cầu văn bản để mã hóa và loại cũng như loại hình ảnh kết quả để lưu trữ nhãn mã vạch. Nó thực sự là đơn giản mà!
+     Aspose.BarCode cho C++ cho phép các nhà phát triển dễ dàng thêm thế hệ & amp; các tính năng nhận dạng cho các ứng dụng C++ của riêng họ. Quá trình tạo mã vạch chỉ yêu cầu văn bản để mã hóa và loại cũng như loại hình ảnh kết quả để lưu trữ nhãn mã vạch. Nó thực sự là đơn giản mà!
     </p>
     <div class="codeblock" id="code">
      <h3>
-      Tạo mã vạch của loại phiếu giảm giá GS1-128 AI 8102 - C ++
+      Tạo mã vạch của loại phiếu giảm giá GS1-128 AI 8102 - C++
      </h3>
      <pre><code class="cpp">// Tạo trình tạo mã vạch
 
@@ -504,7 +504,7 @@ barcodeGenerator-&gt;Save(u"outputImage.jpg");</code></pre>
     </p>
     <div class="codeblock" id="code">
      <h3>
-      Đọc mã vạch từ hình ảnh - C ++
+      Đọc mã vạch từ hình ảnh - C++
      </h3>
      <pre><code class="cpp">// tải hình ảnh từ đĩa trong khi chỉ định loại mã dự kiến
 
@@ -561,7 +561,7 @@ reader-&gt;Close();</code></pre>
 {{< blocks/products/pf/slr-element name="Release Notes" href="https://docs.aspose.com/barcode/cpp/release-notes/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="Tại sao Aspose.BarCode cho C ++?" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-tab tabTitle="Tại sao Aspose.BarCode cho C++?" tabId="success-stories" >}}
 {{< blocks/products/pf/slr-element name="Danh sách khách hàng" href="https://about.aspose.com/customers" >}}
 {{< blocks/products/pf/slr-element name="Câu chuyện thành công" href="https://about.aspose.com/customers/success-stories/aspose-barcode" >}}
 {{< /blocks/products/pf/slr-tab >}}

@@ -1,8 +1,8 @@
 ---
-title: API mã vạch C # .NET - Đọc tạo và nhận dạng mã vạch 
+title: API mã vạch C# .NET - Đọc tạo và nhận dạng mã vạch 
 weight: 440
 url: /vi/net/ 
-description: Aspose.BarCode dành cho các API .NET để đọc tạo và nhận dạng mã vạch 2D 1D. Tích hợp trong các ứng dụng C # VB.NET ASP.NET để quét và in nhãn mã vạch
+description: Aspose.BarCode dành cho các API .NET để đọc tạo và nhận dạng mã vạch 2D 1D. Tích hợp trong các ứng dụng C# VB.NET ASP.NET để quét và in nhãn mã vạch
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
@@ -160,7 +160,7 @@ description: Aspose.BarCode dành cho các API .NET để đọc tạo và nhậ
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img width="70" height="75" alt="Trình tạo mã vạch trong C #" src="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-net.svg"/>
+  <img width="70" height="75" alt="Trình tạo mã vạch trong C#" src="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-net.svg"/>
   <header>
    Aspose.BarCode
   </header>
@@ -544,7 +544,7 @@ description: Aspose.BarCode dành cho các API .NET để đọc tạo và nhậ
     </p>
     <div class="codeblock" id="code">
      <h3>
-      Tạo mã vạch - C #
+      Tạo mã vạch - C#
      </h3>
      <pre><code class="cs"> // Đường dẫn đến thư mục tài liệu.
 
@@ -580,7 +580,7 @@ generator.Save(dataDir + "output.jpg", BarCodeImageFormat.Jpeg);</code></pre>
     </p>
     <div class="codeblock" id="code">
      <h3>
-      Nhận dạng mã vạch - C #
+      Nhận dạng mã vạch - C#
      </h3>
      <pre><code class="cs">using (BarCodeReader reader = new BarCodeReader(@"d:\template.jpg"))
 

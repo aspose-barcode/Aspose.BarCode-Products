@@ -1,8 +1,8 @@
 ---
-title: .NET Java Python C ++ Node.js PHP và Android Barcode Generation & Recognition Libraries 
+title: .NET Java Python C++ Node.js PHP và Android Barcode Generation & Recognition Libraries 
 weight: 10
 url: /vi/family
-description: Trình tạo trình đọc mã vạch và thư viện máy quét cho .NET Java Android & C ++. Thêm khả năng mã vạch vào SharePoint SSRS JasperReports và JasperServer
+description: Trình tạo trình đọc mã vạch và thư viện máy quét cho .NET Java Android & C++. Thêm khả năng mã vạch vào SharePoint SSRS JasperReports và JasperServer
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
@@ -20,7 +20,7 @@ Các API Java gốc cho máy tính để bàn, web hoặc bất kỳ loại ứn
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.BarCode for" title="C++" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-cpp.svg" productLink="/barcode/vi/cpp/" >}}
-Tạo hoặc nhận dạng các loại mã vạch 1D & 2D từ bên trong các ứng dụng C ++.
+Tạo hoặc nhận dạng các loại mã vạch 1D & 2D từ bên trong các ứng dụng C++.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.BarCode for" title="Android via Java" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-android-java.svg" productLink="/barcode/vi/android-java/" >}}

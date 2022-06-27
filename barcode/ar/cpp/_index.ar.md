@@ -1,12 +1,12 @@
 ---
-title: مكتبة C ++ للرموز الشريطية | أسبوس 
+title: مكتبة C++ للرموز الشريطية | أسبوس 
 weight: 1610
 url: /ar/cpp/ 
-description: ماسح الباركود C ++ ومكتبة المولدات للباركود 1D و 2D. اكتشف قراءة وكتابة الرموز الشريطية المتعددة مثل Data Matrix PDF 417 UPC EAN GS1 Interleaved إلخ
+description: ماسح الباركود C++ ومكتبة المولدات للباركود 1D و 2D. اكتشف قراءة وكتابة الرموز الشريطية المتعددة مثل Data Matrix PDF 417 UPC EAN GS1 Interleaved إلخ
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="واجهة برمجة تطبيقات معالجة الباركود C ++" h2="قم بإنشاء أو التعرف على أنواع 1D و 2 D بالإضافة إلى تصدير الرموز الشريطية التي تم إنشاؤها إلى تنسيقات صور متعددة داخل تطبيقات C ++." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/headers/aspose_barcode-for-cpp.svg" pfName="Aspose.BarCode" subTitlepfName="for C++" downloadUrl="https://downloads.aspose.com/barcode/cpp" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="واجهة برمجة تطبيقات معالجة الباركود C++" h2="قم بإنشاء أو التعرف على أنواع 1D و 2 D بالإضافة إلى تصدير الرموز الشريطية التي تم إنشاؤها إلى تنسيقات صور متعددة داخل تطبيقات C++." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/headers/aspose_barcode-for-cpp.svg" pfName="Aspose.BarCode" subTitlepfName="for C++" downloadUrl="https://downloads.aspose.com/barcode/cpp" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.BarCode" subTitlepfName="for C++" >}}
 
@@ -14,11 +14,11 @@ description: ماسح الباركود C ++ ومكتبة المولدات للب
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.BarCode for C ++ هي واجهة برمجة تطبيقات غنية بالمميزات لإضافة إنشاء الباركود & amp؛ قدرات التعرف وكذلك تصدير الصور التي تم إنشاؤها إلى صور مختلفة بجودة عالية. يوفر API معالجة مظهر الرمز الشريطي مثل لون الشريط ولون الخلفية والجودة وزاوية الدوران والبعد x والحجم والتعليقات التوضيحية والدقة وغير ذلك الكثير.
+ Aspose.BarCode for C++ هي واجهة برمجة تطبيقات غنية بالمميزات لإضافة إنشاء الباركود & amp؛ قدرات التعرف وكذلك تصدير الصور التي تم إنشاؤها إلى صور مختلفة بجودة عالية. يوفر API معالجة مظهر الرمز الشريطي مثل لون الشريط ولون الخلفية والجودة وزاوية الدوران والبعد x والحجم والتعليقات التوضيحية والدقة وغير ذلك الكثير.
 </p>
 
 <p>
- يدعم Aspose.BarCode لـ C ++ ميزات التصوير والتدوير والتحجيم والطباعة المتعددة. علاوة على ذلك ، فإنه يوفر ميزات التشفير وفك التشفير للعديد من الرموز بما في ذلك على سبيل المثال لا الحصر رمز الاستجابة السريعة ، Aztec ، مصفوفة البيانات ، ISBN ، الكود 39 و 93 ، PDF417 ، UPC ، EAN ، و GS1 DataMatrix.
+ يدعم Aspose.BarCode لـ C++ ميزات التصوير والتدوير والتحجيم والطباعة المتعددة. علاوة على ذلك ، فإنه يوفر ميزات التشفير وفك التشفير للعديد من الرموز بما في ذلك على سبيل المثال لا الحصر رمز الاستجابة السريعة ، Aztec ، مصفوفة البيانات ، ISBN ، الكود 39 و 93 ، PDF417 ، UPC ، EAN ، و GS1 DataMatrix.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -89,7 +89,7 @@ description: ماسح الباركود C ++ ومكتبة المولدات للب
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img width="70" height="75" alt="مكتبة الباركود C ++" src="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-cpp.svg"/>
+  <img width="70" height="75" alt="مكتبة الباركود C++" src="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-cpp.svg"/>
   <header>
    Aspose.BarCode
   </header>
@@ -107,7 +107,7 @@ description: ماسح الباركود C ++ ومكتبة المولدات للب
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="منصة الاستقلال" description="Aspose.BarCode لـ C ++ يدعم بشكل كامل تطبيقات C ++ المطورة في الأنظمة الأساسية التالية التي لها [متطلبات النظام](https://docs.aspose.com/barcode/cpp/installation/#system-requirements)." >}}
+{{< blocks/products/pf/carousel-item h3="منصة الاستقلال" description="Aspose.BarCode لـ C++ يدعم بشكل كامل تطبيقات C++ المطورة في الأنظمة الأساسية التالية التي لها [متطلبات النظام](https://docs.aspose.com/barcode/cpp/installation/#system-requirements)." >}}
 <div class="diagram1 d1-cplus">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -129,7 +129,7 @@ description: ماسح الباركود C ++ ومكتبة المولدات للب
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img width="70" height="75" alt="مولد الباركود في C ++" src="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-cpp.svg"/>
+  <img width="70" height="75" alt="مولد الباركود في C++" src="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-cpp.svg"/>
   <header>
    Aspose.BarCode
   </header>
@@ -147,7 +147,7 @@ description: ماسح الباركود C ++ ومكتبة المولدات للب
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="تنسيقات الملفات المدعومة" description="يعمل Aspose.BarCode لـ C ++ مع الصور الأكثر استخدامًا." >}}
+{{< blocks/products/pf/carousel-item h3="تنسيقات الملفات المدعومة" description="يعمل Aspose.BarCode لـ C++ مع الصور الأكثر استخدامًا." >}}
 <div class="diagram1 d2 d1-cplus">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -182,7 +182,7 @@ description: ماسح الباركود C ++ ومكتبة المولدات للب
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img width="70" height="75" alt="مكتبة قارئ الباركود C ++" src="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-cpp.svg"/>
+  <img width="70" height="75" alt="مكتبة قارئ الباركود C++" src="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-cpp.svg"/>
   <header>
    Aspose.BarCode
   </header>
@@ -210,7 +210,7 @@ description: ماسح الباركود C ++ ومكتبة المولدات للب
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
-    ميزات API الباركود المتقدمة C ++
+    ميزات API الباركود المتقدمة C++
    </h2>
    <p>
    </p>
@@ -268,7 +268,7 @@ description: ماسح الباركود C ++ ومكتبة المولدات للب
      رموز الباركود المدعومة
     </h2>
     <p>
-     Aspose.BarCode لـ C ++ يدعم العديد من الرموز 1D ، 2D والبريدية مع قدرات فك التشفير والتشفير.
+     Aspose.BarCode لـ C++ يدعم العديد من الرموز 1D ، 2D والبريدية مع قدرات فك التشفير والتشفير.
     </p>
     <p>
      تشمل الأنواع الخطية المدعومة من API:
@@ -480,14 +480,14 @@ description: ماسح الباركود C ++ ومكتبة المولدات للب
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     أضف ميزات معالجة الباركود إلى تطبيقات C ++
+     أضف ميزات معالجة الباركود إلى تطبيقات C++
     </h2>
     <p>
-     Aspose.BarCode لـ C ++ يسمح للمطورين بإضافة جيل بسهولة & amp؛ ميزات التعرف على تطبيقات C ++ الخاصة بهم. تتطلب عملية إنشاء الرمز الشريطي فقط النص المطلوب ترميزه والنوع بالإضافة إلى نوع الصورة الناتجة لتخزين ملصق الرمز الشريطي. هي بالفعل بتلك البساطة!
+     Aspose.BarCode لـ C++ يسمح للمطورين بإضافة جيل بسهولة & amp؛ ميزات التعرف على تطبيقات C++ الخاصة بهم. تتطلب عملية إنشاء الرمز الشريطي فقط النص المطلوب ترميزه والنوع بالإضافة إلى نوع الصورة الناتجة لتخزين ملصق الرمز الشريطي. هي بالفعل بتلك البساطة!
     </p>
     <div class="codeblock" id="code">
      <h3>
-      إنشاء رمز شريطي من النوع GS1-128 AI 8102 coupon - C ++
+      إنشاء رمز شريطي من النوع GS1-128 AI 8102 coupon - C++
      </h3>
      <pre><code class="cpp">// إنشاء مولد الباركود
 
@@ -504,7 +504,7 @@ barcodeGenerator-&gt;Save(u"outputImage.jpg");</code></pre>
     </p>
     <div class="codeblock" id="code">
      <h3>
-      قراءة الباركود من صورة - C ++
+      قراءة الباركود من صورة - C++
      </h3>
      <pre><code class="cpp">// تحميل الصورة من القرص أثناء تحديد نوع الكود المتوقع
 
@@ -561,7 +561,7 @@ reader-&gt;Close();</code></pre>
 {{< blocks/products/pf/slr-element name="Release Notes" href="https://docs.aspose.com/barcode/cpp/release-notes/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="لماذا Aspose.BarCode لـ C ++؟" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-tab tabTitle="لماذا Aspose.BarCode لـ C++؟" tabId="success-stories" >}}
 {{< blocks/products/pf/slr-element name="قائمة العملاء" href="https://about.aspose.com/customers" >}}
 {{< blocks/products/pf/slr-element name="قصص نجاح" href="https://about.aspose.com/customers/success-stories/aspose-barcode" >}}
 {{< /blocks/products/pf/slr-tab >}}
