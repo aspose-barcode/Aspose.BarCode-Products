@@ -7,20 +7,20 @@ weight: 440
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Barcode generator and reader API" h2="Create, & recognize barcodes of linear, 2D and postal types within any .NET application." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/headers/aspose_barcode-for-net.svg" pfName="Aspose.BarCode" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/barcode/net" >}}
+{{< blocks/products/pf/upper-banner h1="Barcode generator and reader API" h2="Create & recognize barcodes of linear, 2D, and postal types within any .NET application." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/headers/aspose_barcode-for-net.svg" pfName="Aspose.BarCode" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/barcode/net" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.BarCode" subTitlepfName="for .NET" >}}
 
 {{< blocks/products/pf/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-net.svg" liveDemosLink="https://products.aspose.app/barcode/family" PricingLink="https://purchase.aspose.com/pricing/barcode/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/barcode/net/" installationsDocsLink="https://docs.aspose.com/barcode/net/installation" nugetLink="https://www.nuget.org/packages/Aspose.BarCode/" nugetPackageName="Aspose.BarCode" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/barcode/net" >}}
 
 {{< blocks/products/pf/tab-content >}}
-<p>Aspose.BarCode for .NET is a powerful library to generate &amp; recognize 1D &amp; 2D barcodes from multiple image types at any angle. Developers can easily add the barcode generation and scanning functionality to their .NET applications. It also allows exporting the generated barcodes to different high-quality image formats.</p><p>Aspose.BarCode for .NET supports to manipulate the appearance of the generated barcodes like background color, bar color, rotation angle, x-dimension, image quality, resolution, captions, size and much more. Moreover, API supports multiple types of recognition and imaging features as well as different types of symbologies.</p>
+<p>Aspose.BarCode for .NET is a powerful development library to generate &amp; recognize 1D &amp; 2D barcodes from various image types at any angle. Developers can easily add barcode generation and scanning functionality to their .NET applications. This API allows exporting generated barcodes to different high-quality image formats.</p><p>Aspose.BarCode for .NET enables modifying the appearance of generated barcodes and their parameters, such as background color, bar color, rotation angle, x-dimension, image quality, resolution, captions, size, and many others. It also provides rich barcode detecting and reading functionality and supports over 60 barcode types.</p>
 {{< /blocks/products/pf/tab-content >}}
 
 <!--Diagrams Start-->
 {{< blocks/products/pf/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="At a Glance" description="An overview of the barcode recognition & generation capabilities of API." >}}
+{{< blocks/products/pf/carousel-item h3="At a Glance" description="An overview of barcode recognition & generation features of API." >}}
 <div class='diagram1 d1-net'>
     <div class="d1-row">
         <div class="d1-col d1-left">
@@ -29,7 +29,7 @@ weight: 440
                 </i>
                 Recognition
             </header>
-            <ul><li>Linear, 2D &amp; Postal</li><li>Detect from Stream or Image</li><li>Get Orientation of Barcode</li><li>Decode Non-English Characters</li></ul>
+            <ul><li>Linear, 2D &amp; Postal</li><li>Detect from Stream or Image</li><li>Get Barcode Image Orientation</li><li>Decode Non-English Characters</li></ul>
             <header>
                 <i class="fa fa-print">
                 </i>
@@ -71,7 +71,7 @@ weight: 440
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Platform Independence" description="You can use library to build any type of a 32-bit or 64-bit .NET application including ASP.NET, WinForms, WPF, .NET Standard and more." >}}
+{{< blocks/products/pf/carousel-item h3="Platform Independence" description="You can use library to build any type of a 32-bit or 64-bit .NET application including ASP.NET, WinForms, WPF, .NET Standard, and others." >}}
 <div class='diagram1 d1-net'>
     <div class="d1-row">
         <div class="d1-col d1-left">
@@ -124,7 +124,7 @@ weight: 440
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Supported File Formats" description="Aspose.BarCode for .NET works with most commonly used image [file formats](https://docs.aspose.com/barcode/net/supported-file-formats/)." >}}
+{{< blocks/products/pf/carousel-item h3="Supported File Formats" description="Aspose.BarCode for .NET works with most common used [image file formats](https://docs.aspose.com/barcode/net/supported-file-formats/)." >}}
 <div class='diagram1 d2 d1-net'>
     <div class="d1-row">
         <div class="d1-col d1-left">
@@ -133,7 +133,7 @@ weight: 440
                 </i>
                 Input/Output
             </header>
-            <ul><li>JPEG</li><li>TIFF</li><li>PNG</li><li>BMP</li><li>GIF</li><li>EXIF</li></ul>
+            <ul><li>JPEG</li><li>TIFF</li><li>PNG</li><li>BMP</li><li>GIF</li></ul>
         </div>
          <!--/left-->
          <div class="d1-col d1-right">
@@ -195,7 +195,7 @@ weight: 440
                 <em class='fa fa-exchange ico-blue fa-2x col-lg-2'>
                 </em>
                 <p class="col-lg-10">
-                    <a href='https://docs.aspose.com/barcode/net/qr-and-micro-qr-barcode/#eciencoding-mode'>Encode &amp; decode characters (non-english) in 2D types</a>
+                    <a href='https://docs.aspose.com/barcode/net/qr-and-micro-qr-barcode/#eciencoding-mode'>Encode &amp; decode characters (also non-English ones) in 2D types</a>
                 </p>
             </div>
             <div class="col-lg-4">
@@ -216,7 +216,7 @@ weight: 440
                 <em class='fa fa-book ico-blue fa-2x col-lg-2'>
                 </em>
                 <p class="col-lg-10">
-                    <a href='https://docs.aspose.com/barcode/net/barcode-types-and-image-formats/'>Support for linear, 2D and postal symbologies</a>
+                    <a href='https://docs.aspose.com/barcode/net/barcode-types-and-image-formats/'>Support for linear, 2D, and postal barcode types</a>
                 </p>
             </div>
 <!--advancedFeaturesSection End-->
@@ -241,13 +241,13 @@ weight: 440
 </style>
 <div class="col-lg-12">
     <h2 class="h2title">
-        Supported Symbologies
+        Supported Barcode Types
     </h2>
     <p>
-        .NET barcode library supports multiple 1D, 2D and postal bar code symbologies for both encode and decode capabilities.
+        .NET barcode library supports 60+ 1D, 2D, and postal barcode types for both generation and reading.
     </p>
     <h4>
-        API supported linear types include:
+        Supported linear types include:
     </h4>
     <div class="adaptive_columns">
         <ul class="unstyled"><li>EAN 13</li><li>EAN 8</li><li>UPC A</li><li>UPC E</li><li>Interleaved 2 of 5</li><li>Standard 2 of 5</li><li>MSI</li><li>Code 11</li><li>Codabar</li><li>EAN 14 (SCC 14)</li><li>SSCC 18</li><li>ITF 14</li><li>Matrix 2 of 5</li><li>PZN</li><li>Code 128</li><li>Code 39 Extended</li><li>Code 39 Standard</li><li>Code 93 Extended</li><li>Code 93 Standard</li><li>IATA 2 of 5</li><li>OPC</li><li>GS1Code128</li><li>ISBN</li><li>ISMN</li><li>ISSN</li><li>ITF6</li><li>VIN</li><li>Pharmacode</li><li>GS1 Databar Family: DatabarOmniDirectional, DatabarTruncated, DatabarLimited, DatabarExpanded, DatabarStacked, DatabarExpandedStacked, DatabarStackedOmniDirectional</li><li>PatchCode</li><li>Supplement (Decode only)</li></ul>
@@ -274,7 +274,7 @@ weight: 440
                     Barcode Generation Live Example
                 </h2>
                 <p>
-                    Barcode generator API offers to create the barcodes by specifying various symbologies, setting code text (data to be encoded to barcode image) and appearance-related properties such as background foreground color, font as well as location(hide, above, below) and alignment. Moreover, one can create two-dimensional barcodes like PDF 417, Data Matrix, Aztec, QR and Micro QR barcode etc in the same way as of one dimensional.
+                    Barcode generator API enables developers to create barcodes by specifying the required barcode type, setting input text (data to be encoded in a barcode image), and customizing appearance-related properties, such as background and foreground color, font, text location (hide, above, or below), and alignment. Two-dimensional barcodes, such as QR Code, PDF417, Data Matrix, Aztec Code, etc. in the same way as of one-dimensional ones.
                 </p>
                 {{< blocks/products/pf/agp/feature-section2 >}}
 <!-- BEGIN LCS -->
@@ -676,13 +676,25 @@ weight: 440
 <!--simpleHeaderDescriptionSection1-->
             <div class="col-lg-12">
                 <h2 class="h2title">
-                    Imaging, Rotation &amp; Sizing Support
+                    Custom Barcode Appearance
                 </h2>
                 <p>
-                    Aspose.BarCode for .NET allows the manipulation of label borders, border colors, style, margins, and width. It also provides the ability to modify image color, background color, and bar color. You can also rotate barcode images to any angle and produce high-quality images with anti-aliasing. In addition to this, you can set customized resolutions for the resultant images while saving them to any of the supported image formats.
+                Aspose.BarCode for .NET allows developers to customize various appearance parameters of generated barcodes. You can adjust barcode color, border style, size, margins, rotation angle, captions, and bar width. It is possible to modify the color of background, text, and captions. Developers can generate barcode images without borders or select any of five available styles and set the required color. Barcode image size can be determimed manually or defined automatically. Generated barcode images might be rotated by the specified angle clockwise or counterclockwise. The API enables producing high-quality images with anti-aliasing and specifying the required resolution. 
                 </p>
             </div>
 <!--simpleHeaderDescriptionSection1 End-->
+
+<!--simpleHeaderDescriptionSection2-->
+            <div class="col-lg-12">
+                <h2 class="h2title">
+                    Barcode Reading Quality Presets
+                </h2>
+                <p>
+                 To optimize the barcode reading process depending of the known quality of scanned barcodes, Aspose.BarCode for .NET provides several presets, which customize reading parameters to increase decoding efficiency. Some presets allow improving recognition precision for small, low-quality, or damaged images, as well as barcodes scanned from complex text documents or rotated at some angle. Other presets can be used to increase barcode reading speed for high-quality images and linear barcodes.       
+                </p>
+            </div>
+<!--simpleHeaderDescriptionSection2 End-->
+
             <div class="col-lg-12">
                 <h2 class="h2title">
                     Barcode Recognition Live Example
@@ -1153,10 +1165,10 @@ weight: 440
 {{< /blocks/products/pf/main-container >}}
 
 <!--peoplesSayingSection-->
-{{< blocks/products/pf/testimonials title="What People Are Saying" subTitle="Don't just take our word for it. See what users have to say about APIs." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.barcode/" >}}
+{{< blocks/products/pf/testimonials title="What People Are Saying" subTitle="Don't just take our word for it. See what users have to say about barcode APIs." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.barcode/" >}}
 {{< blocks/products/pf/testimonials-quote >}}
 <p class="first">
- I have spent many years developing and enhancing my product and Aspose has allowed me to make my product much more friendly and useful, and therefore more marketable. <em>Kiel Diller | KD Solutions, Poland</em>
+ I have spent many years developing and enhancing my product, and Aspose has allowed me to make my product much more friendly and useful, and therefore, more marketable. <em>Kiel Diller | KD Solutions, Poland</em>
 </p>
 {{< /blocks/products/pf/testimonials-quote >}}
 {{< blocks/products/pf/testimonials-quote >}}

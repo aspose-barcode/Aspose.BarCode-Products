@@ -71,7 +71,7 @@ weight: 440
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Platform Independence" description="You can use library to build any type of a 32-bit or 64-bit .NET application including ASP.NET, WinForms, WPF, .NET Standard and more." >}}
+{{< blocks/products/pf/carousel-item h3="Platform Independence" description="You can use library to build any type of a 32-bit or 64-bit .NET application including ASP.NET, WinForms, WPF, .NET Standard, and others." >}}
 <div class='diagram1 d1-java'>
     <div class="d1-row">
         <div class="d1-col d1-left">
@@ -696,19 +696,31 @@ generator.generateBarCodeImage();
 <!--simpleHeaderDescriptionSection1-->
             <div class="col-lg-12">
                 <h2 class="h2title">
-                    Manipulate Barcode Labels in Many Ways
+                    Custom Barcode Size and Color
                 </h2>
                 <p>
-                    Aspose.BarCode for Java API provides the ability to manipulate image borders, style, margin, and width as well as image's background color and bar color. You can also rotate images to any angle and produce high-quality bar code images with anti-aliasing. In addition to this, image margins &amp; resolution can be customized.
+                    Aspose.BarCode for Java API provides rich functionality to generate barcode image with custom color and size. Developers can create Java applications to generate barcodes of any color or size depending on business needs. It is possible to customize the appearance all barcode elements, including colors of bars, background, borders, and text captions, as well as their positioning. Barcode can be generated with or without displaying input text, upper and/or lower caption, paddings, and borders. Barcode size can be set automatically depeding on the X-dimension or manually. It can be defined in various units, such as millimeters, inches, points, or pixels. If required, image proportions and resolution can be modified. The size of text font can be customized as well.  
                 </p>
             </div>
 <!--simpleHeaderDescriptionSection1 End-->
+
+<!--simpleHeaderDescriptionSection1-->
+            <div class="col-lg-12">
+                <h2 class="h2title">
+                    Read Damaged Barcodes
+                </h2>
+                <p>
+                    The barcode library supports various settings to scan and decode damaged or distorted barcodes. It allows successfully reading barcode images with various defects, such as Gaussian noise, inverted colors, white spots, visual artifacts, colored background, and missing bars. To improve barcode readability, the API enables special methods and mechanisms, including median filtering, "salt-and-paper" filtering, reducing image size, and others. Moreover, the barcode library benefits from advanced methods to decode industrial Data Matrix barcodes, read severely damaged QR codes, and even restore some data from incorrect barcodes.
+                </p>
+            </div>
+<!--simpleHeaderDescriptionSection1 End-->
+
             <div class="col-lg-12">
                 <h2 class="h2title">
                     Barcode Recognition Live Example
                 </h2>
                 <p>
-                    Java barcode library is capable of reading from different images. BarCodeReader class which is mainly responsible for the recognition feature supports many popular image formats including BMP, PNG, TIFF, JPEG &amp; GIF. The recognition process is highly configurable allowing you to set expected regions to find code labels on an image, apply manual recognition hints to optimize the scan &amp; apply binarization filters on the image.
+                    The Java barcode library is capable of reading from different image file formats. BarCodeReader class which is mainly responsible for the recognition feature supports many popular image formats including BMP, PNG, TIFF, JPEG &amp; GIF. The recognition process is highly configurable allowing you to set expected regions to find code labels on an image, apply manual recognition hints to optimize the scan &amp; apply binarization filters on the image.
                 </p>
                 {{< blocks/products/pf/agp/feature-section2 >}}
 <!-- BEGIN LCS -->

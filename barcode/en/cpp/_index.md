@@ -671,10 +671,21 @@ System::SharedPtr&lt;System::Drawing::Bitmap&gt; lBmp = generator-&gt;<span clas
 <!--simpleHeaderDescriptionSection1-->
             <div class="col-lg-12">
                 <h2 class="h2title">
-                    Customizing Symbologies &amp; Appearance
+                    Generate QR Codes and Other 2D Barcodes
                 </h2>
                 <p>
-                    Customizing the barcodes is easy by setting text, adjusting appearance-related properties such as foreground and background color, font, alignment as well as specifying different kinds of symbologies of linear, 2D and postal types.
+                2D barcodes correspond to the most advanced types with increased encoding capacity and improved error correction. Aspose.BarCode for C++ supports creating various 2D types, such as QR Code and Micro QR Code, Data Matrix, PDF417, Aztec Code, and many others. Developers can generate QR codes in their applications using the most advanced functionality, which supports 40 QR and 4 Micro QR versions, automatic sizing, encoding Unicode symbols, ECI encoding, FNC symbols, 4 error correction levels, and creating QR with structured append.    
+                </p>
+            </div>
+<!--simpleHeaderDescriptionSection1 End-->
+
+<!--simpleHeaderDescriptionSection2-->
+            <div class="col-lg-12">
+                <h2 class="h2title">
+                    Optimize Barcode Reading 
+                </h2>
+                <p>
+                The barcode library provides advanced settings to optimize the quality and speed of barcode detection. Special reading modes enable fast scanning of high-quality linear barcodes, specifying target scanning regions and barcode types, and detecting several barcodes in one image. Depending on the type and quality of scanned barcode images, developers can balance between improved recognition quality or detection speed.     
                 </p>
             </div>
 <!--simpleHeaderDescriptionSection1 End-->
