@@ -7,11 +7,11 @@ weight: 440
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Python Barcode library" h2="Recognize or Generate 1D, 2D and Postal barcodes in any Python application." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/headers/aspose_barcode-for-python-java.svg" pfName="Aspose.BarCode" subTitlepfName="for Python via Java" downloadUrl="https://downloads.aspose.com/barcode/python-java" >}}
+{{< blocks/products/pf/upper-banner h1="Python Barcode library" h2="Recognize or Generate 1D, 2D and Postal barcodes in any Python application." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/headers/aspose_barcode-for-python-java.svg" pfName="Aspose.BarCode" subTitlepfName="for Python via Java" downloadUrl="https://releases.aspose.com/barcode/python-java/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.BarCode" subTitlepfName="for Python via Java" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-python-java.svg" liveDemosLink="https://products.aspose.app/barcode/family" PricingLink="https://purchase.aspose.com/pricing/barcode/python-java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/barcode/python-java/" installationsDocsLink="https://docs.aspose.com/barcode/python-java/installation" nugetLink="" nugetPackageName="" mavenRepoLink="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-barcode" directDownloadLink="https://downloads.aspose.com/barcode/python-java" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-python-java.svg" liveDemosLink="https://products.aspose.app/barcode/family" PricingLink="https://purchase.aspose.com/pricing/barcode/python-java" buyLink="https://purchase.aspose.com/pricing/barcode/python-java" docsLink="https://docs.aspose.com/barcode/python-java/" installationsDocsLink="https://docs.aspose.com/barcode/python-java/installation" nugetLink="" nugetPackageName="" mavenRepoLink="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-barcode" directDownloadLink="https://releases.aspose.com/barcode/python-java/" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>Aspose.BarCode for Python via Java is a set of barcode generation and reading APIs for Python applications by using the python-java bridge. Developers can easily add barcode generation and recognition functionality. Python barcode API creates barcode images within various formats such as PNG, JPG, GIF, BMP. Moreover, It supports multiple imaging features like manipulating borders, color, rotating images, customizing resolution, and a lot more.</p>
@@ -44,7 +44,7 @@ weight: 440
                 </i>
                 Generation
             </header>
-            <ul><li>Linear, 2D &amp; Postal</li><li>Save to Stream or Image</li><li>Customize Appearance: Size, Color, Angle</li><li>Encode Non-English Characters</li></ul>
+            <ul><li>Linear, 2D &amp; Postal</li><li>Save to Stream or Image</li><li>Customize Appearance: Size, Color, and Angle</li><li>Encode Non-English Characters</li></ul>
             <header>
                 <i class="fa fa-qrcode">
                 </i>
@@ -654,8 +654,8 @@ barcodeGeneratorExamples.generateBarcodeImage()
                     Optimized Barcode Scanning and Decoding
                 </h2>
                 <p>
-                    The barcode API provides a useful feature for detecting and reading barcodes of over 60 popular 1D and 2D types. It only requires a few lines of code to scan barcodes, making it easy to integrate this functionality into your applications. This powerful feature allows you to quickly and accurately scan and read barcodes from a wide range of sources, such as images, documents, and other media. With the ability to detect and read so many different types of barcodes, this API is a valuable tool for a wide range of applications and industries. It can be used to automate and streamline processes, reduce the risk of errors and mistakes, and improve the overall efficiency and effectiveness of your operations. Whether you're working in retail, logistics, healthcare, or any other field, the barcode API can provide a valuable solution for your barcode detection and reading needs.
-                    The API provides a range of powerful features for optimizing barcode reading to meet the specific needs of your business. Developers can adjust the parameters of the recognition engine to enable fast barcode scanning or improve reading precision. Depending on the quality and parameters of the source barcode images, the library allows for customizing the recognition process. It includes several preset configurations of such parameters, which can be used to quickly scan high-quality barcode images or improve the chances of successfully decoding damaged or degraded barcodes. Additionally, there are special settings that can improve barcode reading for different types of distortions, such as Gaussian noise, white spots, and inverted colors. With the ability to fine-tune the recognition process, the API can be tailored to provide the most efficient barcode reading for a wide range of applications and scenarios. 
+                    The barcode API provides a useful feature for detecting and reading barcodes of over 60 popular 1D and 2D types. It only requires a few lines of code to scan barcodes, making it easy to integrate this functionality into your applications. This powerful feature allows you to quickly and accurately scan and read barcodes from a wide range of sources, such as images, documents, etc. With the ability to detect and read so many different types of barcodes, this API is a valuable tool for a wide range of applications and industries. It can be used to automate and streamline processes, reduce the risk of errors, and improve the overall efficiency of operations. Whether you need to develop applications for retail, logistics, healthcare, or any other field, this barcode API can provide a valuable solution for barcode detection and reading tasks.
+                    The API provides a range of powerful features for optimizing barcode reading to meet the specific needs of your business. Developers can adjust the parameters of the recognition engine to enable fast barcode scanning or improve reading precision. Depending on the quality and parameters of the source barcode images, the library allows customizing the recognition process. It includes several preset configurations of such parameters, which can be used to quickly scan high-quality barcode images or improve the chances of successfully decoding damaged or degraded barcodes. Additionally, there are special settings that can improve barcode reading for different types of distortions, such as Gaussian noise, white spots, and inverted colors. With the ability to fine-tune the recognition process, the API can be tailored to provide the most efficient barcode reading for a wide range of applications and scenarios. 
                 </p>
             </div>
 <!--simpleHeaderDescriptionSection1 End-->
@@ -664,7 +664,7 @@ barcodeGeneratorExamples.generateBarcodeImage()
                     Barcode Recognition Live Example
                 </h2>
                 <p>
-                    Barcode API contains another powerful feature to read or detect the most commonly used 1D and 2D barcodes, detecting them anywhere. Just few lines of code to detect the barcodes from the image.
+                    The barcode reading API enables developers to easily scan, detect, and read a wide range of 1D and 2D barcodes. It provides a simple and intuitive interface with just a few lines of code needed to detect barcodes in images. The API is capable of recognizing and decoding the most commonly used barcode types, including popular formats, such as QR Code, Data Matrix, PDF417, Aztec Code, and many others. It can used for implementing barcode reading capabilities in various Python applications.
                 </p>
                 {{< blocks/products/pf/agp/feature-section2 >}}
 <!-- BEGIN LCS -->
@@ -1134,14 +1134,14 @@ barcodeReaderExamples.readBarcodeImage()
 </div>
 <!-- END LCS -->
 {{< /blocks/products/pf/agp/feature-section2 >}}
+            
             </div>
             <div class="col-lg-12">
                 <h2 class="h2title">
-                    Customizing Symbologies & Appearance
+                    Create Custom Barcodes
                 </h2>
                 <p>
-                    Python barcode API allows you to easily customize the codes by specifying different kinds of symbologies, setting code text (data to be encoded to barcode image) and appearance-related properties like font, background color, foreground color, as well as alignment and location (hide, above, below). You can also easily manage caption settings such as font, background color, foreground color, alignment and location (hide, above, below).
-                </p>
+                    The barcode library for Python allows developers to customize some common barcode parameters, including the type of barcode, the data to be encoded, the barcode size, the font style and color, and the orientation angle. To generate a barcode, you need to select the required type of barcode to create, such as, for example, UPC or EAN. You also have to enter the data to be stored in the barcode, such as a product number or a URL. In addition, you can set the required sizing mode and adjust the color of barcode elements, resolution, border style, and other appearance-related parameters. It is possible to modify the width of the bars and spacing between them. These additional parameters can affect the readability and quality of barcodes, so it is important to understand their purpose and how to adjust them correctly.
             </div>
         </div>
     </div>
@@ -1166,9 +1166,9 @@ barcodeReaderExamples.readBarcodeImage()
 
 {{< blocks/products/pf/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="Learning Resources" tabId="resources" >}}
-{{< blocks/products/pf/slr-element name="Documentation" href="https://docs.aspose.com/barcode/{prod}/" >}}
-{{< blocks/products/pf/slr-element name="Source Code" href="https://github.com/aspose-barcode/Aspose.BarCode-for-.NET" >}}
-{{< blocks/products/pf/slr-element name="API References" href="https://apireference.aspose.com/{prod}/barcode" >}}
+{{< blocks/products/pf/slr-element name="Documentation" href="https://docs.aspose.com/barcode/pythonjava/" >}}
+{{< blocks/products/pf/slr-element name="Source Code" href="https://github.com/aspose-barcode/Aspose.BarCode-for-Python-via-Java" >}}
+{{< blocks/products/pf/slr-element name="API References" href="https://reference.aspose.com/barcode/python-java/hierarchy" >}}
 {{< blocks/products/pf/slr-element name="Tutorial Videos" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
@@ -1176,7 +1176,7 @@ barcodeReaderExamples.readBarcodeImage()
 {{< blocks/products/pf/slr-element name="Free Support" href="https://forum.aspose.com/c/barcode/" >}}
 {{< blocks/products/pf/slr-element name="Paid Support" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.com/category/barcode/" >}}
-{{< blocks/products/pf/slr-element name="Release Notes" href="https://docs.aspose.com/barcode/{prod}/release-notes/" >}}
+{{< blocks/products/pf/slr-element name="Release Notes" href="https://docs.aspose.com/barcode/python-java/release-notes/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Why Aspose.BarCode for Python via Java?" tabId="success-stories" >}}
@@ -1186,7 +1186,7 @@ barcodeReaderExamples.readBarcodeImage()
 
 {{< /blocks/products/pf/support-learning-resources >}}
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/barcode/python-java/" pricingInformationLink="https://purchase.aspose.com/pricing/barcode/python-java/" >}}
+{{< blocks/products/pf/download-section downloadFreeTrialLink="https://releases.aspose.com/barcode/python-java/" pricingInformationLink="https://purchase.aspose.com/pricing/barcode/python-java" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.BarCode" description="Aspose.BarCode offers individual Barcode generation and recognition APIs for other popular development environments as listed below:" >}}
 

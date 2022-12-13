@@ -14,7 +14,7 @@ weight: 440
 {{< blocks/products/pf/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-nodejs-java.svg" liveDemosLink="https://products.aspose.app/barcode/family" PricingLink="https://purchase.aspose.com/pricing/barcode/nodejs-java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/barcode/nodejs-java/" installationsDocsLink="https://docs.aspose.com/barcode/nodejs-java/installation" nugetLink="" nugetPackageName="" mavenRepoLink="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-barcode" directDownloadLink="https://downloads.aspose.com/barcode/nodejs-java" >}}
 
 {{< blocks/products/pf/tab-content >}}
-<p>Aspose.BarCode for Node.js via Java is an easily customizable barcode scanning and generation API. Developers can integrate it via nodejs-java bridge. It is a fast and simple barcode decoder API to decode common 1D, 2D barcodes anywhere at any angle from an image. One can easily specify an area in the image to scan the barcode. API generates barcode images within multiple formats such as JPG, PNG, GIF, BMP as well as supports multiple imaging features such as manipulating borders and styles, color, margins, rotating images, customizing resolution and a lot more.</p>
+<p>Aspose.BarCode for Node.js via Java is an easily customizable barcode scanning and generation API. Developers can integrate its barcode generating and reading functionality in their applications via the nodejs-java bridge. It is also a barcode decoder API to read common 1D, 2D, and postal barcodes from images at any angle. It allows developers to scan all barcodes presented in the source image or to specify target areas. This API allows generating barcode images of over 60 types and saving them in various formats, such as JPG, PNG, GIF, BMP, and TIFF. It supports customizing different imaging features, such as barcode border color and style, margins, rotation angle, resolution, and barcode color.</p>
 {{< /blocks/products/pf/tab-content >}}
 
 <!--Diagrams Start-->
@@ -27,15 +27,15 @@ weight: 440
             <header>
                 <i class="fa fa-search">
                 </i>
-                Recognition
+                Reading
             </header>
-            <ul><li>Linear, 2D &amp; Postal</li><li>Detect from Stream or Image</li><li>Get Orientation of Barcode</li><li>Decode Non-English Characters</li></ul>
+            <ul><li>Linear, 2D &amp; Postal</li><li>Scan Barcodes from Stream or Image</li><li>Get Barcode Orientation Angle</li><li>Decode Non-English Characters</li></ul>
             <header>
                 <i class="fa fa-print">
                 </i>
                 Printing
             </header>
-            <ul><li>Directly Print Barcode</li></ul>
+            <ul><li>Directly Print Barcodes</li></ul>
         </div>
         <!--/left-->
         <div class="d1-col d1-right">
@@ -44,11 +44,11 @@ weight: 440
                 </i>
                 Generation
             </header>
-            <ul><li>Linear, 2D &amp; Postal</li><li>Save to Stream or Image</li><li>Customize Appearance: Size, Color, Angle</li><li>Encode Non-English Characters</li></ul>
+            <ul><li>Linear, 2D, and Postal</li><li>Save to Stream or Image</li><li>Customize Barcode Appearance: Size, Color, and Resolution</li><li>Encode Non-English Characters</li></ul>
             <header>
                 <i class="fa fa-qrcode">
                 </i>
-                Types
+                Barcode Types
             </header>
             <ul><li>Linear</li><li>2D</li><li>Postal</li></ul>
         </div>
@@ -71,7 +71,7 @@ weight: 440
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Platform Independence" description="Aspose.BarCode for Node.js via Java is server-side JavaScript API based on Node.js. It can run on Windows, Unix/Linux & Mac platforms with JDK 1.7 or above." >}}
+{{< blocks/products/pf/carousel-item h3="Platform Independence" description="Aspose.BarCode for Node.js via Java is a server-side JavaScript API based on Node.js. It can run on Windows, Unix/Linux, or Mac platforms with JDK 1.7 or above." >}}
 <div class='diagram1 d1-nodejs'>
     <div class="d1-row">
         <div class="d1-col d1-left">
@@ -104,7 +104,7 @@ weight: 440
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Supported File Formats" description="Aspose.BarCode for Node.js via Java works with most commonly used image [file formats](https://docs.aspose.com/barcode/nodejs-java/supported-file-formats/)." >}}
+{{< blocks/products/pf/carousel-item h3="Supported File Formats" description="Aspose.BarCode for Node.js via Java works with the most commonly used [image file formats](https://docs.aspose.com/barcode/nodejs-java/supported-file-formats/)." >}}
 <div class='diagram1 d2 d1-nodejs'>
     <div class="d1-row">
         <div class="d1-col d1-left">
@@ -113,7 +113,7 @@ weight: 440
                 </i>
                 Input/Output
             </header>
-            <ul><li>JPEG</li><li>TIFF</li><li>PNG</li><li>BMP</li><li>GIF</li><li>EXIF</li></ul>
+            <ul><li>JPEG</li><li>TIFF</li><li>PNG</li><li>BMP</li><li>GIF</li></ul>
         </div>
          <!--/left-->
          <div class="d1-col d1-right">
@@ -203,13 +203,13 @@ weight: 440
         Supported Symbologies
     </h2>
     <p>
-        Aspose.BarCode for Node.js via Java supports a large number of Numeric, Alpha Numeric and 2D bar code symbologies for both encoding and decoding.
+        Aspose.BarCode for Node.js via Java supports a large variety of numeric, alphanumeric, and 2D barcode types for both generation and recognition.
     </p>
     <h4>
-        API supported linear types include:
+        Supported linear types include:
     </h4>
     <div class="adaptive_columns">
-        <ul class="unstyled"><li>EAN 13</li><li>EAN 8</li><li>UPC A</li><li>UPC E</li><li>Interleaved 2 of 5</li><li>Standard 2 of 5</li><li>MSI</li><li>Code 11</li><li>Codabar</li><li>EAN 14 (SCC 14)</li><li>SSCC 18</li><li>ITF 14</li><li>Matrix 2 of 5</li><li>PZN</li><li>Code 128</li><li>Code 39 Extended</li><li>Code 39 Standard</li><li>Code 93 Extended</li><li>Code 93 Standard</li><li>IATA 2 of 5</li><li>OPC</li><li>GS1Code128</li><li>ISBN</li><li>ISMN</li><li>ISSN</li><li>ITF6</li><li>VIN</li><li>Pharmacode</li><li>GS1 Databar Family: DatabarOmniDirectional, DatabarTruncated, DatabarLimited, DatabarExpanded, DatabarStacked, DatabarExpandedStacked, DatabarStackedOmniDirectional</li><li>PatchCode</li><li>Supplement (Decode only)</li></ul>
+        <ul class="unstyled"><li>EAN-13</li><li>EAN-8</li><li>UPC-A</li><li>UPC-E</li><li>Interleaved 2 of 5</li><li>Standard 2-of-5</li><li>MSI</li><li>Code 11</li><li>Codabar</li><li>EAN-14</li><li>SSCC-18</li><li>ITF-14</li><li>Matrix 2-of-5</li><li>PZN</li><li>Code 128</li><li>Code 39 Extended</li><li>Code 93 Extended</li><li>Code 93 Standard</li><li>IATA 2 of 5</li><li>OPC</li><li>GS1 Code 128</li><li>ISBN</li><li>ISMN</li><li>ISSN</li><li>ITF-6</li><li>VIN</li><li>Pharmacode</li><li>GS1 Databar Family: Databar Omnidirectional, Databar Truncated, Databar Limited, Databar Expanded, Databar Stacked, Databar Expanded Stacked, Databar Stacked Omnidirectional</li><li>PatchCode</li><li>Supplement</li></ul>
     </div>
 </div>
 <div class="col-lg-12">
@@ -217,7 +217,7 @@ weight: 440
         2D types include:
     </h4>
     <div class="adaptive_columns">
-        <ul class="unstyled"><li>PDF 417</li><li>Macro PDF 417</li><li>Micro PDF 417</li><li>Aztec</li><li>DataMatrix</li><li>Compact PDF 417 (Decode only)</li><li>QR</li><li>MicroQR</li><li>DotCode</li><li>MaxiCode</li><li>GS1DataMatrix</li><li>Italian Post 25</li><li>Code16K</li></ul>
+        <ul class="unstyled"><li>PDF417</li><li>Macro PDF417</li><li>Micro PDF417</li><li>Aztec Code</li><li>Data Matrix</li><li>Compact PDF417</li><li>QR</li><li>Micro QR Code</li><li>DotCode</li><li>MaxiCode</li><li>GS1 Data Matrix</li><li>Italian Post 25</li><li>Code16K</li></ul>
     </div>
 </div>
 <div class="col-lg-12">
@@ -233,7 +233,7 @@ weight: 440
                     QR Code Generation
                 </h2>
                 <p>
-                    API has the capability to create barcodes of multiple types including DataMatrix, Aztec, Pdf417, multiple MacroPdf417 barcodes for large or multiple code text values. Here is the code for QR code generation.
+                    The barcode library allows developers to generate a wide range of 2D barcodes, including Data Matrix, Aztec Code, PDF417, Macro PDF417, and others. It is especially useful for generating large or multiple barcodes that contain long or complex data values. The library provides a simple and intuitive interface for specifying the type of barcode to generate, entering the input data to store, and setting appearance-related parameters. This makes it a user-friendly and powerful tool for creating high-quality barcodes for various applications. The code sample below shows how to create QR codes.
                 </p>
                 {{< blocks/products/pf/agp/feature-section2 >}}
 <!-- BEGIN LCS -->
@@ -476,7 +476,7 @@ weight: 440
                 <option value="2" selected>Medium</option>
                 <option value="3">Large</option>
             </select>
-            <label class="custom-checkbox" onclick="selectCodetextPosition(this)">Show codetext
+            <label class="custom-checkbox" onclick="selectCodetextPosition(this)">Show input text
                 <input type="checkbox" class="barcode-gen-lcs-textloc" checked="checked">
                 <span class="checkmark"></span>
             </label>
@@ -492,17 +492,17 @@ weight: 440
 <span class="hljs-keyword">let</span> <span class="hljs-title class_">BarcodeGenerator</span> = aspose_barcode.<span class="hljs-property">BarcodeGenerator</span>;
 <span class="hljs-keyword">let</span> <span class="hljs-title class_">EncodeTypes</span> = aspose_barcode.<span class="hljs-property">EncodeTypes</span>;
 
-<span class="hljs-comment">// Create an instane of the BarcodeGenerator class</span>
+<span class="hljs-comment">// Create an instance of the BarcodeGenerator class</span>
 <span class="hljs-keyword">let</span> generator = <span class="hljs-keyword">new</span> <span class="hljs-title class_">BarcodeGenerator</span>(<span class="hljs-title class_">EncodeTypes</span>.<span class="barcode-gen-lcs-type-param hljs-property">QR</span>, <span class="hljs-string">&quot;<span class="hljs-string barcode-gen-lcs-codetext-param"></span>&quot;</span>);
 
 <span class="hljs-comment">// Specify the X-dimension </span>
 <span class="hljs-comment">// the smallest width of the unit of BarCode bars or spaces</span>
 generator.<span class="hljs-title function_">getParameters</span>().<span class="hljs-title function_">getBarcode</span>().<span class="hljs-title function_">getXDimension</span>().<span class="hljs-title function_">setMillimeteres</span>(<span class="hljs-variable constant barcode-gen-lcs-codesize-param">2</span>);
 
-<span class="hljs-comment">// Set codetext position</span>
+<span class="hljs-comment">// Set the text location</span>
 generator.<span class="hljs-title function_">getParameters</span>().<span class="hljs-title function_">getBarcode</span>().<span class="hljs-title function_">getCodeTextParameters</span>().<span class="hljs-title function_">setLocation</span>(<span class="hljs-title class_">CodeLocation</span>.<span class="hljs-variable constant_barcode-gen-lcs-codelocation-param">Below</span>);
 
-<span class="hljs-comment">// Generate and save image</span>
+<span class="hljs-comment">// Generate and save the barcode image</span>
 generator.<span class="hljs-title function_">save</span>(<span class="hljs-string">&quot;example.png&quot;</span>, aspose_barcode.<span class="hljs-property">BarCodeImageFormat</span>.<span class="hljs-property">PNG</span>);
 </code></pre></div>
     <div class="barcode-gen-lcs-result" onclick="BarcodeGenLcsCurtainClick(this)">
@@ -626,7 +626,7 @@ generator.<span class="hljs-title function_">save</span>(<span class="hljs-strin
                     Generate ECI QR Codes
                 </h2>
                 <p>
-                    Among various widely used barcode types, the API can be used to create barcodes with special parameters. One of such functions allows developers to generate ECI QR codes that encode Unicode symbols using extended channel interpretation (ECI), a special communication protocol. This protocol is useful to create QR Codes encoding non-English characters, such as Japanese, Cyrillic, Hebrew, Greek, Arabic, and others. When ECI is enabled, a QR code not only stores a set of digits as raw byte values, but it also includes an explanation to interpret these values. The barcode library supports all most widely used charset encodings, such as UTF8, ASCII, and many others. Generate QR codes to encode non-English symbols using the ECI mode.
+                    Among various widely used barcode types, the API can be used to create barcodes with special parameters. One of such functions allows developers to generate ECI QR codes that encode Unicode symbols using extended channel interpretation (ECI), a special communication protocol. It is a standard for encoding character sets in QR Codes. It allows QR Code readers to correctly interpret and display text in different languages and character sets, which may not be supported by the default QR Code character set. While scanning a QR code with an ECI designator, the reader can identify the correct character set to use for decoding and displaying the information encoded in this QR Code. This enables supporting a wide range of languages and character sets. This protocol is useful to create QR Codes encoding non-English characters, such as Japanese, Cyrillic, Hebrew, Greek, Arabic, and others. When ECI is enabled, a QR code not only stores a set of digits as raw byte values, but it also includes an explanation to interpret these values. The barcode library supports all most widely used charset encodings, such as UTF8, ASCII, and many others. Generate QR codes to encode non-English symbols using the ECI mode.
                 </p>
             </div>
 <!--simpleHeaderDescriptionSection1 End-->
@@ -827,10 +827,10 @@ generator.<span class="hljs-title function_">save</span>(<span class="hljs-strin
         <div class="barcode-read-lcs-mods">
             <select name=type onchange="selectType(this)">
                 <option value= "AllSupportedTypes">All types</option>
-                <option value="QR">QR code</option>
+                <option value="QR">QR Code</option>
                 <option value="Pdf417">PDF417</option>
-                <option value="DataMatrix">DataMatrix</option>
-                <option value="Aztec">Aztec</option>
+                <option value="DataMatrix">Data Matrix</option>
+                <option value="Aztec">Aztec Code</option>
                 <option value="Code128">Code 128</option>
                 <option value="UPC">UPC</option>
                 <option value="EAN">EAN</option>
@@ -1118,9 +1118,9 @@ reader.<span class="hljs-title function_">readBarCodes</span>().<span class="hlj
 
 {{< blocks/products/pf/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="Learning Resources" tabId="resources" >}}
-{{< blocks/products/pf/slr-element name="Documentation" href="https://docs.aspose.com/barcode/{prod}/" >}}
-{{< blocks/products/pf/slr-element name="Source Code" href="https://github.com/aspose-barcode/Aspose.BarCode-for-.NET" >}}
-{{< blocks/products/pf/slr-element name="API References" href="https://apireference.aspose.com/{prod}/barcode" >}}
+{{< blocks/products/pf/slr-element name="Documentation" href="https://docs.aspose.com/barcode/nodejs/" >}}
+{{< blocks/products/pf/slr-element name="Source Code" href="https://github.com/aspose-barcode/Aspose.BarCode-for-Java" >}}
+{{< blocks/products/pf/slr-element name="API References" href="https://reference.aspose.com/barcode/nodejs/" >}}
 {{< blocks/products/pf/slr-element name="Tutorial Videos" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
@@ -1128,17 +1128,17 @@ reader.<span class="hljs-title function_">readBarCodes</span>().<span class="hlj
 {{< blocks/products/pf/slr-element name="Free Support" href="https://forum.aspose.com/c/barcode/" >}}
 {{< blocks/products/pf/slr-element name="Paid Support" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.com/category/barcode/" >}}
-{{< blocks/products/pf/slr-element name="Release Notes" href="https://docs.aspose.com/barcode/{prod}/release-notes/" >}}
+{{< blocks/products/pf/slr-element name="Release Notes" href="https://docs.aspose.com/barcode/nodejs/release-notes/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Why Aspose.BarCode for Node.js via Java?" tabId="success-stories" >}}
 {{< blocks/products/pf/slr-element name="Customers List" href="https://about.aspose.com/customers" >}}
-{{< blocks/products/pf/slr-element name="Success Stories" href="https://downloads.aspose.com/corporate/case-studies/aspose.barcode/" >}}
+{{< blocks/products/pf/slr-element name="Success Stories" href="https://releases.aspose.com/corporate/success-stories/aspose.barcode/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< /blocks/products/pf/support-learning-resources >}}
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/barcode/nodejs-java/" pricingInformationLink="https://purchase.aspose.com/pricing/barcode/nodejs-java/" >}}
+{{< blocks/products/pf/download-section downloadFreeTrialLink="https://releases.aspose.com/barcode/nodejs/" pricingInformationLink="https://purchase.aspose.com/pricing/barcode/nodejs-java" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.BarCode" description="Aspose.BarCode offers individual Barcode generation and recognition APIs for other popular development environments as listed below:" >}}
 

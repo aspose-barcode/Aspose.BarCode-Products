@@ -7,20 +7,20 @@ weight: 440
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="SSRS Barcode APIs" h2="Generate Linear & 2D barcodes from within Microsoft SQL Server Reporting Services." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/headers/aspose_barcode-for-reporting-services.svg" pfName="Aspose.BarCode" subTitlepfName="for SQL Reporting Services" downloadUrl="https://downloads.aspose.com/barcode/reporting-services" >}}
+{{< blocks/products/pf/upper-banner h1="SSRS Barcode APIs" h2="Generate Linear & 2D barcodes from within Microsoft SQL Server Reporting Services." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/headers/aspose_barcode-for-reporting-services.svg" pfName="Aspose.BarCode" subTitlepfName="for SQL Reporting Services" downloadUrl="https://releases.aspose.com/barcode/reportingservices/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.BarCode" subTitlepfName="for SQL Reporting Services" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-reporting-services.svg" liveDemosLink="https://products.aspose.app/barcode/family" PricingLink="https://purchase.aspose.com/pricing/barcode/reporting-services" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/barcode/reporting-services/" installationsDocsLink="https://docs.aspose.com/barcode/reporting-services/installation" nugetLink="" nugetPackageName="" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/barcode/reporting-services" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-reporting-services.svg" liveDemosLink="https://products.aspose.app/barcode/family" PricingLink="https://purchase.aspose.com/pricing/barcode/reporting-services" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/barcode/reporting-services/" installationsDocsLink="https://docs.aspose.com/barcode/reporting-services/installation" nugetLink="" nugetPackageName="" mavenRepoLink="" directDownloadLink="https://releases.aspose.com/barcode/reportingservices/" >}}
 
 {{< blocks/products/pf/tab-content >}}
-<p>Aspose.BarCode for Reporting Services is a comprehensive solution for rendering linear and 2D barcodes within Microsoft SQL Server Reporting Services. Barcode labels can be encoded with Non-English characters and rendered in BMP, JPEG, GIF and PNG formats.</p>
+<p>Aspose.BarCode for Reporting Services is a comprehensive solution for rendering linear and 2D barcodes within Microsoft SQL Server Reporting Services. Barcode labels can be encoded with Non-English characters and rendered in BMP, JPEG, GIF, and PNG formats.</p>
 {{< /blocks/products/pf/tab-content >}}
 
 <!--Diagrams Start-->
 {{< blocks/products/pf/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="At a Glance" description="An overview of the barcode recognition & generation capabilities of API." >}}
+{{< blocks/products/pf/carousel-item h3="At a Glance" description="An overview of the barcode recognition & generation capabilities." >}}
 <div class='diagram1 d1-rs'>
     <div class="d1-row">
         <div class="d1-col d1-left">
@@ -29,13 +29,13 @@ weight: 440
                 </i>
                 Recognition
             </header>
-            <ul><li>Linear, 2D &amp; Postal</li><li>Detect from Stream or Image</li><li>Get Orientation of Barcode</li><li>Decode Non-English Characters</li></ul>
+            <ul><li>Linear, 2D, and Postal</li><li>Detect from Stream or Image</li><li>Get Barcode Orientation Angle</li><li>Decode Non-English Characters</li></ul>
             <header>
                 <i class="fa fa-print">
                 </i>
                 Printing
             </header>
-            <ul><li>Directly Print Barcode</li></ul>
+            <ul><li>Directly Print Barcodes</li></ul>
         </div>
         <!--/left-->
         <div class="d1-col d1-right">
@@ -44,7 +44,7 @@ weight: 440
                 </i>
                 Generation
             </header>
-            <ul><li>Linear, 2D &amp; Postal</li><li>Save to Stream or Image</li><li>Customize Appearance: Size, Color, Angle</li><li>Encode Non-English Characters</li></ul>
+            <ul><li>Linear, 2D, and Postal</li><li>Save to Stream or Image</li><li>Customize Appearance: Size, Color, and Angle</li><li>Encode Non-English Characters</li></ul>
             <header>
                 <i class="fa fa-qrcode">
                 </i>
@@ -104,7 +104,7 @@ weight: 440
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Supported File Formats" description="Aspose.BarCode for SQL Reporting Services works with most commonly used image [file formats](https://docs.aspose.com/barcode/reporting-services/supported-file-formats/)." >}}
+{{< blocks/products/pf/carousel-item h3="Supported File Formats" description="Aspose.BarCode for SQL Reporting Services works with the most commonly used [image file formats](https://docs.aspose.com/barcode/reporting-services/supported-file-formats/)." >}}
 <div class='diagram1 d2 d1-rs'>
     <div class="d1-row">
         <div class="d1-col d1-left">
@@ -113,7 +113,7 @@ weight: 440
                 </i>
                 Input/Output
             </header>
-            <ul><li>JPEG</li><li>TIFF</li><li>PNG</li><li>BMP</li><li>GIF</li><li>EXIF</li></ul>
+            <ul><li>JPEG</li><li>TIFF</li><li>PNG</li><li>BMP</li><li>GIF</li></ul>
         </div>
          <!--/left-->
          <div class="d1-col d1-right">
@@ -161,21 +161,21 @@ weight: 440
                 <em class='fa fa-print ico-blue fa-2x col-lg-2'>
                 </em>
                 <p class="col-lg-10">
-                    <a href='https://docs.aspose.com/barcode/reportingservices/dynamically-display-barcodes-in-table/'>Dynamically display barcodes in table</a>
+                    <a href='https://docs.aspose.com/barcode/reportingservices/dynamically-display-barcodes-in-table/'>Dynamically display barcodes in tables</a>
                 </p>
             </div>
             <div class="col-lg-4">
                 <em class='fa fa-barcode ico-blue fa-2x col-lg-2'>
                 </em>
                 <p class="col-lg-10">
-                    <a href='https://docs.aspose.com/barcode/reportingservices/display-barcodes-from-dataset/'>Display barcodes from dataset</a>
+                    <a href='https://docs.aspose.com/barcode/reportingservices/display-barcodes-from-dataset/'>Display barcodes from datasets</a>
                 </p>
             </div>
             <div class="col-lg-4">
                 <em class='fa fa-exchange ico-blue fa-2x col-lg-2'>
                 </em>
                 <p class="col-lg-10">
-                    <a href='https://docs.aspose.com/barcode/reportingservices/barcode-types-and-image-formats/'>Save barcode in vector image formats</a>
+                    <a href='https://docs.aspose.com/barcode/reportingservices/barcode-types-and-image-formats/'>Save barcodes in vector image formats</a>
                 </p>
             </div>
 <!--advancedFeaturesSection End-->
@@ -203,26 +203,26 @@ weight: 440
         Supported Symbologies
     </h2>
     <p>
-        Aspose.BarCode for Reporting Services supports over 40 most popular barcode symbologies including:
+        Aspose.BarCode for Reporting Services supports over 60 most widely used barcode types, including:
     </p>
     <h4>
-        API supported linear types include:
+        Supported linear types:
     </h4>
     <div class="adaptive_columns">
-        <ul class="unstyled"><li>EAN 13</li><li>EAN 8</li><li>UPC A</li><li>UPC E</li><li>Interleaved 2 of 5</li><li>Standard 2 of 5</li><li>MSI</li><li>Code 11</li><li>Codabar</li><li>EAN 14 (SCC 14)</li><li>SSCC 18</li><li>ITF 14</li><li>Matrix 2 of 5</li><li>PZN</li><li>Code 128</li><li>Code 39 Extended</li><li>Code 39 Standard</li><li>Code 93 Extended</li><li>Code 93 Standard</li><li>IATA 2 of 5</li><li>OPC</li><li>GS1Code128</li><li>ISBN</li><li>ISMN</li><li>ISSN</li><li>ITF6</li><li>VIN</li><li>Pharmacode</li><li>GS1 Databar Family: DatabarOmniDirectional, DatabarTruncated, DatabarLimited, DatabarExpanded, DatabarStacked, DatabarExpandedStacked, DatabarStackedOmniDirectional</li><li>PatchCode</li><li>Supplement (Decode only)</li></ul>
+        <ul class="unstyled"><li>EAN-13</li><li>EAN-8</li><li>UPC-A</li><li>UPC-E</li><li>Interleaved 2-of-5</li><li>Standard 2-of-5</li><li>MSI</li><li>Code 11</li><li>Codabar</li><li>EAN-14</li><li>SSCC-18</li><li>ITF-14</li><li>Matrix 2-of-5</li><li>PZN</li><li>Code 128</li><li>Code 39 Extended</li><li>Code 93 Extended</li><li>Code 93 Standard</li><li>IATA 2-of-5</li><li>OPC</li><li>GS1 Code 128</li><li>ISBN</li><li>ISMN</li><li>ISSN</li><li>ITF-6</li><li>VIN</li><li>Pharmacode</li><li>GS1 Databar Family: Databar Omnidirectional, Databar Truncated, Databar Limited, Databar Expanded, Databar Stacked, Databar Expanded Stacked, Databar Stacked Omnidirectional</li><li>PatchCode</li><li>Supplement</li></ul>
     </div>
 </div>
 <div class="col-lg-12">
     <h4>
-        2D types include:
+        2D types:
     </h4>
     <div class="adaptive_columns">
-        <ul class="unstyled"><li>PDF 417</li><li>Macro PDF 417</li><li>Micro PDF 417</li><li>Aztec</li><li>DataMatrix</li><li>Compact PDF 417 (Decode only)</li><li>QR</li><li>MicroQR</li><li>DotCode</li><li>MaxiCode</li><li>GS1DataMatrix</li><li>Italian Post 25</li><li>Code16K</li></ul>
+        <ul class="unstyled"><li>PDF417</li><li>Macro PDF417</li><li>Micro PDF417</li><li>Aztec Code</li><li>Data Matrix</li><li>Compact PDF417</li><li>QR Code</li><li>Micro QR Code</li><li>DotCode</li><li>MaxiCode</li><li>GS1 Data Matrix</li><li>Italian Post 25</li><li>Code16K</li></ul>
     </div>
 </div>
 <div class="col-lg-12">
     <h4>
-        Postal types include:
+        Postal types:
     </h4>
     <div class="adaptive_columns">
         <ul class="unstyled"><li>Postnet</li><li>Planet</li><li>Australia Post</li><li>USPS OneCode</li><li>Deutsche Post Identcode</li><li>RM4SCC</li><li>Deutsche Post Leticode</li><li>SingaporePost</li><li>AustralianPosteParcel</li><li>SwissPostParcel</li><li>UpcaGs1DatabarCoupon</li></ul>
@@ -233,7 +233,7 @@ weight: 440
                     Barcode Generation Live Example
                 </h2>
                 <p>
-                    Barcode generator API offers to create the barcodes by specifying various symbologies, setting code text (data to be encoded to barcode image) and appearance-related properties such as background foreground color, font as well as location(hide, above, below) and alignment. Moreover, one can create two-dimensional barcodes like PDF 417, Data Matrix, Aztec, QR and Micro QR barcode etc in the same way as of one dimensional.
+                    The barcode API is a powerful tool that allows developers to generate high-quality barcodes by setting the barcode type, the input data to encode, and custom appearance-related properties. It provides a variety of options for fine-tuning the appearance of the generated barcodes, including the background and foreground colors, font, size, resolution, and text captions. It supports creating both 1D and 2D barcodes, including popular types, such as PDF417, Data Matrix, Aztec Code, QR Code, and Micro QR Code, using the similar procedure. 
                 </p>
                 {{< blocks/products/pf/agp/feature-section2 >}}
 <!-- BEGIN LCS -->
@@ -472,11 +472,11 @@ weight: 440
         </div>
         <div class="barcode-gen-lcs-mods">
             <select onchange="selectGenType(this)" class="barcode-gen-lcs-type">
-                <option value="QR">QR code</option>
-                <option value="GS1QR">GS1 QR</option>
+                <option value="QR">QR Code</option>
+                <option value="GS1QR">GS1 QR Code</option>
                 <option value="Pdf417">PDF417</option>
-                <option value="DataMatrix">DataMatrix</option>
-                <option value="Aztec">Aztec</option>
+                <option value="DataMatrix">Data Matrix</option>
+                <option value="Aztec">Aztec Code</option>
                 <option value="Code128">Code 128</option>
                 <option value="GS1Code128">GS1 Code 128</option>
                 <option value="UPCA">UPC-A</option>
@@ -638,19 +638,7 @@ weight: 440
                     Generate Swiss QR Code
                 </h2>
                 <p>
-                    Swiss QR codes are a type of QR (Quick Response) code that are used in Switzerland for facilitating payments between businesses and individuals. QR codes are two-dimensional barcodes that can be scanned with a smartphone or other device to quickly and easily access information or perform an action. Swiss QR codes are a national standard for electronic payments in Switzerland, and they are used by businesses to receive payments from customers. When a customer scans a Swiss QR code, they are provided with payment information and can initiate a payment from their mobile banking app. This provides a convenient and secure way for businesses to accept payments from their customers. Swiss QR codes are commonly used in a variety of industries, including retail, hospitality, and healthcare. To generate a Swiss QR code, you will need to provide the necessary information, such as your business name, bank account details, and the amount of the payment. The QR code generator will use this information to create a Swiss QR code that can be scanned by your customers to initiate a payment. Once the QR code is generated, you can download it and use it in your business to accept payments from your customers.
-
-                    Swiss QR codes provide a number of advantages for businesses and customers in Switzerland. Some of the key benefits of Swiss QR codes include:
-
-                    - Convenience: Swiss QR codes provide a convenient way for businesses to accept payments from their customers. Customers can quickly and easily scan the QR code with their mobile banking app to initiate a payment, without the need for cash or card payments. This can save time and hassle for both businesses and customers.
-
-                    - Security: Swiss QR codes are a secure way to make payments. They use encrypted data and secure communication channels, which helps to protect against fraud and other security threats.
-
-                    - Efficiency: Swiss QR codes can help to improve the efficiency of payment processes. They allow businesses to process payments quickly and easily, without the need for additional hardware or equipment. This can reduce processing times and streamline operations.
-
-                    - Compatibility: Swiss QR codes are compatible with many different mobile banking apps and payment systems. This makes it easy for businesses to accept payments from a wide range of customers, regardless of the payment app they use.
-
-                    - Standardization: Swiss QR codes are a national standard for electronic payments in Switzerland. This means that businesses and customers can use the same QR code format for all payments, which can make it easier to process and manage transactions.
+                    Besides 2D barcodes and QR codes, the barcode library enables generating and reading Swiss QR codes. They are a type of QR (Quick Response) code that are used in Switzerland to facilitate payments between businesses and individuals. QR codes are two-dimensional barcodes that can be scanned with a smartphone or other device to quickly and easily access information or perform an action. Swiss QR codes are a national standard for electronic payments in Switzerland. They are used by businesses to receive payments from customers. When a customer scans a Swiss QR code, they are provided with payment information and can initiate a payment from their mobile banking app. This provides a convenient and secure way for businesses to accept payments from their customers. Swiss QR codes are commonly used in a variety of industries, including retail, hospitality, and healthcare. To generate a Swiss QR code, you will need to provide the necessary information, such as your business name, bank account details, and the amount of the payment. The Aspose QR Code generator will use this information to create a Swiss QR code that can be then scanned by your customers to initiate a payment. Once the QR code is generated, you can download it and use it in your business to accept payments from your customers.
                     
                 </p>
             </div>
@@ -660,7 +648,7 @@ weight: 440
                     Barcode Recognition Live Example
                 </h2>
                 <p>
-                   The Barcode API offers a powerful feature for detecting and reading a wide range of popular 1D and 2D barcodes. This feature can be easily integrated into your applications with just a few lines of code, making it quick and easy to add barcode detection capabilities to your app. The API supports the detection of over 60 different types of barcodes, including many common 1D and 2D barcode formats. This makes it a valuable tool for a wide range of applications and industries. With the ability to quickly and accurately detect and read barcodes, the API can provide a convenient and efficient way to automate and streamline processes, reduce the risk of errors, and improve the overall efficiency of your operations.
+                   The Barcode API offers a powerful feature for detecting and reading a wide range of popular 1D and 2D barcodes. This feature can be easily integrated into your applications with just a few lines of code, making it quick and easy to add barcode detection capabilities to your app. The API supports the detection of over 60 different types of barcodes, including many common 1D and 2D barcode formats. This makes it a valuable tool for a wide range of applications and industries. With the ability to quickly and accurately detect and read barcodes, the API can provide a convenient and efficient way to automate and streamline processes, reduce the risk of errors, and improve the overall efficiency of operations.
                 </p>
                 {{< blocks/products/pf/agp/feature-section2 >}}
 <!-- BEGIN LCS -->
@@ -852,10 +840,10 @@ weight: 440
         <div class="barcode-read-lcs-mods">
             <select name=type onchange="selectType(this)">
                 <option value= "AllSupportedTypes">All types</option>
-                <option value="QR">QR code</option>
+                <option value="QR">QR Code</option>
                 <option value="Pdf417">PDF417</option>
-                <option value="DataMatrix">DataMatrix</option>
-                <option value="Aztec">Aztec</option>
+                <option value="DataMatrix">Data Matrix</option>
+                <option value="Aztec">Aztec Code</option>
                 <option value="Code128">Code 128</option>
                 <option value="UPC">UPC</option>
                 <option value="EAN">EAN</option>
@@ -1157,9 +1145,9 @@ weight: 440
 
 {{< blocks/products/pf/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="Learning Resources" tabId="resources" >}}
-{{< blocks/products/pf/slr-element name="Documentation" href="https://docs.aspose.com/barcode/{prod}/" >}}
-{{< blocks/products/pf/slr-element name="Source Code" href="https://github.com/aspose-barcode/Aspose.BarCode-for-.NET" >}}
-{{< blocks/products/pf/slr-element name="API References" href="https://apireference.aspose.com/{prod}/barcode" >}}
+{{< blocks/products/pf/slr-element name="Documentation" href="https://docs.aspose.com/barcode/reportingservices/" >}}
+{{< blocks/products/pf/slr-element name="Source Code" href="https://github.com/aspose-barcode/" >}}
+{{< blocks/products/pf/slr-element name="API References" href="https://reference.aspose.com/barcode/" >}}
 {{< blocks/products/pf/slr-element name="Tutorial Videos" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
@@ -1167,7 +1155,7 @@ weight: 440
 {{< blocks/products/pf/slr-element name="Free Support" href="https://forum.aspose.com/c/barcode/" >}}
 {{< blocks/products/pf/slr-element name="Paid Support" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.com/category/barcode/" >}}
-{{< blocks/products/pf/slr-element name="Release Notes" href="https://docs.aspose.com/barcode/{prod}/release-notes/" >}}
+{{< blocks/products/pf/slr-element name="Release Notes" href="https://docs.aspose.com/barcode/reportingservices/release-notes/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Why Aspose.BarCode for SQL Reporting Services?" tabId="success-stories" >}}
@@ -1177,7 +1165,7 @@ weight: 440
 
 {{< /blocks/products/pf/support-learning-resources >}}
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/barcode/reporting-services/" pricingInformationLink="https://purchase.aspose.com/pricing/barcode/reporting-services/" >}}
+{{< blocks/products/pf/download-section downloadFreeTrialLink="https://releases.aspose.com/barcode/reportingservices/" pricingInformationLink="https://purchase.aspose.com/pricing/barcode/reporting-services/" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.BarCode" description="Aspose.BarCode offers individual Barcode generation and recognition APIs for other popular development environments as listed below:" >}}
 

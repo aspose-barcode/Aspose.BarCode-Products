@@ -7,20 +7,20 @@ weight: 440
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Generate & Export Barcodes in JasperReports" h2="JasperReports & JasperServer API to Generate, Display and Export 1D, 2D & Postal barcodes." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/headers/aspose_barcode-for-jasperreports.svg" pfName="Aspose.BarCode" subTitlepfName="for JasperReports" downloadUrl="https://downloads.aspose.com/barcode/jasperreports" >}}
+{{< blocks/products/pf/upper-banner h1="Generate & Export Barcodes in JasperReports" h2="JasperReports & JasperServer API to Generate, Display and Export 1D, 2D & Postal barcodes." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/headers/aspose_barcode-for-jasperreports.svg" pfName="Aspose.BarCode" subTitlepfName="for JasperReports" downloadUrl="https://releases.aspose.com/barcode/jasperreports/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.BarCode" subTitlepfName="for JasperReports" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-jasperreports.svg" liveDemosLink="https://products.aspose.app/barcode/family" PricingLink="https://purchase.aspose.com/pricing/barcode/jasperreports" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/barcode/jasperreports/" installationsDocsLink="https://docs.aspose.com/barcode/jasperreports/installation" nugetLink="" nugetPackageName="" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/barcode/jasperreports" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-jasperreports.svg" liveDemosLink="https://products.aspose.app/barcode/family" PricingLink="https://purchase.aspose.com/pricing/barcode/jasperreports" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/barcode/jasperreports/" installationsDocsLink="https://docs.aspose.com/barcode/jasperreports/installation" nugetLink="" nugetPackageName="" mavenRepoLink="" directDownloadLink="https://releases.aspose.com/barcode/jasperreports/" >}}
 
 {{< blocks/products/pf/tab-content >}}
-<p>Aspose.BarCode for JasperReports is a flexible JasperReports and JasperServer extension to create and show barcode labels in your applications. These barcode labels can be rendered in many popular image formats.</p>
+<p>Aspose.BarCode for JasperReports is a flexible JasperReports and JasperServer extension to create and display barcode labels in your applications. These barcode labels can be rendered in many popular image formats.</p>
 {{< /blocks/products/pf/tab-content >}}
 
 <!--Diagrams Start-->
 {{< blocks/products/pf/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="At a Glance" description="An overview of the barcode recognition & generation capabilities of API." >}}
+{{< blocks/products/pf/carousel-item h3="At a Glance" description="An overview of the barcode recognition & generation capabilities" >}}
 <div class='diagram1 d1-jasper'>
     <div class="d1-row">
         <div class="d1-col d1-left">
@@ -29,7 +29,7 @@ weight: 440
                 </i>
                 Recognition
             </header>
-            <ul><li>Linear, 2D &amp; Postal</li><li>Detect from Stream or Image</li><li>Get Orientation of Barcode</li><li>Decode Non-English Characters</li></ul>
+            <ul><li>Linear, 2D, and Postal Types</li><li>Detect Barcodes from Stream or Image</li><li>Get Barcode Orientation</li><li>Decode Non-English Characters</li></ul>
             <header>
                 <i class="fa fa-print">
                 </i>
@@ -44,7 +44,7 @@ weight: 440
                 </i>
                 Generation
             </header>
-            <ul><li>Linear, 2D &amp; Postal</li><li>Save to Stream or Image</li><li>Customize Appearance: Size, Color, Angle</li><li>Encode Non-English Characters</li></ul>
+            <ul><li>Linear, 2D, and Postal</li><li>Save to Stream or Image</li><li>Customize Barcode Appearance: Size, Color, and Orientation Angle</li><li>Encode Non-English Characters</li></ul>
             <header>
                 <i class="fa fa-qrcode">
                 </i>
@@ -117,7 +117,7 @@ weight: 440
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Supported File Formats" description="Aspose.BarCode for JasperReports works with most commonly used image [file formats](https://docs.aspose.com/barcode/jasperreports/supported-file-formats/)." >}}
+{{< blocks/products/pf/carousel-item h3="Supported File Formats" description="Aspose.BarCode for JasperReports works with the most widely used [image file formats](https://docs.aspose.com/barcode/jasperreports/supported-file-formats/)." >}}
 <div class='diagram1 d2 d1-jasper'>
     <div class="d1-row">
         <div class="d1-col d1-left">
@@ -126,7 +126,7 @@ weight: 440
                 </i>
                 Input/Output
             </header>
-            <ul><li>JPEG</li><li>TIFF</li><li>PNG</li><li>BMP</li><li>GIF</li><li>EXIF</li></ul>
+            <ul><li>JPEG</li><li>TIFF</li><li>PNG</li><li>BMP</li><li>GIF</li></ul>
         </div>
          <!--/left-->
          <div class="d1-col d1-right">
@@ -166,7 +166,7 @@ weight: 440
         <div class="container">
 <!--advancedFeaturesSection-->
             <h2 class="pr-ft">
-                Advanced JasperReports to Barcode Export Features
+                Advanced JasperReports Barcode Export Features
             </h2>
             <p>
             </p>
@@ -202,7 +202,7 @@ weight: 440
                 <em class='fa fa-file-image-o ico-blue fa-2x col-lg-2'>
                 </em>
                 <p class="col-lg-10">
-                    <a href='https://docs.aspose.com/barcode/java/read-barcodes-with-aspose-barcode-apis/'>Read distorted and rotated barcodes</a>
+                    <a href='https://docs.aspose.com/barcode//jasperreports/printing-barcodes-in-a-report-that-uses-a-data-source/'>Print barcodes in reports</a>
                 </p>
             </div>
             <div class="col-lg-4">
@@ -237,26 +237,26 @@ weight: 440
         Supported Symbologies
     </h2>
     <p>
-        Aspose.BarCode for JasperReports supports over 40 most popular barcode symbologies including:
+        Aspose.BarCode for JasperReports supports over 60 most popular barcode types, including:
     </p>
     <h4>
-        API supported linear types include:
+        Linear Types:
     </h4>
     <div class="adaptive_columns">
-        <ul class="unstyled"><li>EAN 13</li><li>EAN 8</li><li>UPC A</li><li>UPC E</li><li>Interleaved 2 of 5</li><li>Standard 2 of 5</li><li>MSI</li><li>Code 11</li><li>Codabar</li><li>EAN 14 (SCC 14)</li><li>SSCC 18</li><li>ITF 14</li><li>Matrix 2 of 5</li><li>PZN</li><li>Code 128</li><li>Code 39 Extended</li><li>Code 39 Standard</li><li>Code 93 Extended</li><li>Code 93 Standard</li><li>IATA 2 of 5</li><li>OPC</li><li>GS1Code128</li><li>ISBN</li><li>ISMN</li><li>ISSN</li><li>ITF6</li><li>VIN</li><li>Pharmacode</li><li>GS1 Databar Family: DatabarOmniDirectional, DatabarTruncated, DatabarLimited, DatabarExpanded, DatabarStacked, DatabarExpandedStacked, DatabarStackedOmniDirectional</li><li>PatchCode</li><li>Supplement (Decode only)</li></ul>
+        <ul class="unstyled"><li>EAN-13</li><li>EAN-8</li><li>UPC-A</li><li>UPC-E</li><li>Interleaved 2-of-5</li><li>Standard 2-of-5</li><li>MSI</li><li>Code 11</li><li>Codabar</li><li>EAN-14</li><li>SSCC-18</li><li>ITF-14</li><li>Matrix 2-of-5</li><li>PZN</li><li>Code 128</li><li>Code 39 Extended</li><li>Code 93 Extended</li><li>Code 93 Standard</li><li>IATA 2-of-5</li><li>OPC</li><li>GS1 Code1 28</li><li>ISBN</li><li>ISMN</li><li>ISSN</li><li>ITF6</li><li>VIN</li><li>Pharmacode</li><li>GS1 Databar Family: Databar Omnidirectional, Databar Truncated, Databar Limited, Databar Expanded, Databar Stacked, Databar Expanded Stacked, Databar Stacked Omnidirectional</li><li>PatchCode</li><li>Supplement</li></ul>
     </div>
 </div>
 <div class="col-lg-12">
     <h4>
-        2D types include:
+        2D types:
     </h4>
     <div class="adaptive_columns">
-        <ul class="unstyled"><li>PDF 417</li><li>Macro PDF 417</li><li>Micro PDF 417</li><li>Aztec</li><li>DataMatrix</li><li>Compact PDF 417 (Decode only)</li><li>QR</li><li>MicroQR</li><li>DotCode</li><li>MaxiCode</li><li>GS1DataMatrix</li><li>Italian Post 25</li><li>Code16K</li></ul>
+        <ul class="unstyled"><li>PDF417</li><li>Macro PDF417</li><li>Micro PDF417</li><li>Aztec Code</li><li>Data Matrix</li><li>Compact PDF417</li><li>QR Code</li><li>Micro QR Code</li><li>DotCode</li><li>MaxiCode</li><li>GS1 Data Matrix</li><li>Italian Post 25</li><li>Code16K</li></ul>
     </div>
 </div>
 <div class="col-lg-12">
     <h4>
-        Postal types include:
+        Postal types:
     </h4>
     <div class="adaptive_columns">
         <ul class="unstyled"><li>Postnet</li><li>Planet</li><li>Australia Post</li><li>USPS OneCode</li><li>Deutsche Post Identcode</li><li>RM4SCC</li><li>Deutsche Post Leticode</li><li>SingaporePost</li><li>AustralianPosteParcel</li><li>SwissPostParcel</li><li>UpcaGs1DatabarCoupon</li></ul>
@@ -267,7 +267,7 @@ weight: 440
                     Barcode Generation Live Example
                 </h2>
                 <p>
-                    Barcode generator API offers to create the barcodes by specifying various symbologies, setting code text (data to be encoded to barcode image) and appearance-related properties such as background foreground color, font as well as location(hide, above, below) and alignment. Moreover, one can create two-dimensional barcodes like PDF 417, Data Matrix, Aztec, QR and Micro QR barcode etc in the same way as of one dimensional.
+                    The barcode generator library allows developers to easily create barcodes by specifying the type of barcode they want to generate, entering the data to encode and setting custom appearance-related properties. This includes various options, such as background and foreground color, font, size, resolution, and text captions. The API is capable of generating both 1D and 2D barcodes, including PDF417, Data Matrix, Aztec Code, QR Code, and Micro QR Code, using the same base approach. This makes it a convenient and user-friendly tool for generating a wide range of barcode types for various applications, including JasperReports.
                 </p>
                 {{< blocks/products/pf/agp/feature-section2 >}}
 <!-- BEGIN LCS -->
@@ -506,11 +506,11 @@ weight: 440
         </div>
         <div class="barcode-gen-lcs-mods">
             <select onchange="selectGenType(this)" class="barcode-gen-lcs-type">
-                <option value="QR">QR code</option>
-                <option value="GS1QR">GS1 QR</option>
+                <option value="QR">QR Code</option>
+                <option value="GS1QR">GS1 QR Code</option>
                 <option value="Pdf417">PDF417</option>
-                <option value="DataMatrix">DataMatrix</option>
-                <option value="Aztec">Aztec</option>
+                <option value="DataMatrix">Data Matrix</option>
+                <option value="Aztec">Aztec Code</option>
                 <option value="Code128">Code 128</option>
                 <option value="GS1Code128">GS1 Code 128</option>
                 <option value="UPCA">UPC-A</option>
@@ -536,7 +536,7 @@ weight: 440
     <p class="barcode-gen-lcs-disclaimer">* By uploading your files or using the service you agree with our <a href="https://about.aspose.com/legal/terms-of-use" rel="nofollow noreferrer" target="_blank">Terms of use</a> and <a href="https://about.aspose.com/legal/privacy-policy" rel="nofollow noreferrer" target="_blank">Privacy Policy</a>.</p>
 <div id="code" class="codeblock"><h3>Code to be executed - Java</h3><pre>
 <code class='java hljs'>
-<span class="hljs-comment">// Create an instane of the BarcodeGenerator class</span>
+<span class="hljs-comment">// Create an instance of the BarcodeGenerator class</span>
 <span class="hljs-type">BarcodeGenerator</span> <span class="hljs-variable">generator</span> <span class="hljs-operator">=</span> <span class="hljs-keyword">new</span> <span class="hljs-title class_">BarcodeGenerator</span>(EncodeTypes.<span class="barcode-gen-lcs-type-param">QR</span>);
 
 <span class="hljs-comment">// Specify the code text</span>
@@ -677,7 +677,7 @@ generator.generateBarCodeImage();
                     Insert Barcodes into JasperReports
                 </h2>
                 <p>
-                    JasperReports is a popular open-source reporting engine for Java applications. It is used to generate reports in a variety of formats, such as PDF, HTML, Excel, and more. JasperReports allows developers to create reports from data stored in a variety of sources, such as databases, CSV files, and XML documents. It provides a wide range of features for designing, formatting, and exporting reports, and it can be easily integrated into Java applications. Some common uses for JasperReports include generating invoices, receipts, financial statements, and other types of business reports. In some cases, it may be useful to insert barcodes into JasperReports in order to provide a convenient way to access and manage the information in the reports. For example, you could use barcodes to quickly and accurately scan and update the information in a JasperReport, such as by scanning a barcode on an invoice to quickly retrieve and display the associated data. This could make it easier to track and manage information, and it could reduce the risk of errors or discrepancies. Additionally, you could use barcodes to quickly access and view information in a JasperReport, such as by scanning a barcode to quickly display a specific item or record in the report. There are many potential uses for barcodes in JasperReports, and they can provide a convenient and efficient way to manage and access data in these reports.
+                    The barcode library provides a special set of tools to work with barcodes in JasperReports. Using this API, developers can scan barcodes placed in existing reports or add them to new reports. JasperReports is a popular open-source reporting engine for Java applications. It is used to generate reports in a variety of formats, such as PDF, HTML, Excel, and others. JasperReports allows developers to create reports based on data stored in a variety of sources, such as databases, CSV files, and XML documents. It provides a wide range of features for designing, formatting, and exporting reports, which can be easily integrated into Java applications. Some common uses for JasperReports include generating invoices, receipts, financial statements, and other types of business reports. It may be useful to insert barcodes into JasperReports to facilitate accessing and managing the information in reports. For example, barcodes can be used to quickly and accurately scan and update the information in a JasperReport, namely, by scanning a barcode on an invoice to retrieve and display the associated data. This could make it easier to track and manage information and reduce the risk of errors or discrepancies. Barcode can also serve to display specific items or records in the report.
                 </p>
             </div>
 <!--simpleHeaderDescriptionSection1 End-->
@@ -1141,13 +1141,14 @@ generator.generateBarCodeImage();
 </div>
 <!-- END LCS -->
 {{< /blocks/products/pf/agp/feature-section2 >}}
+            
             </div>
             <div class="col-lg-12">
                 <h2 class="h2title">
                     Easy Deployment
                 </h2>
                 <p>
-                    Aspose.BarCode for JasperReports is coded purely in Java and is provided as a single JAR document and deployed easily to machines running JasperReports or JasperServer. In order to install the JasperReports Barcode extension, simply copy the JAR document to the right folder location, and you are ready to go.
+                    Aspose.BarCode for JasperReports is coded purely in Java and is provided as a single JAR document and can be easily deployed on machines with JasperReports or JasperServer installed. To install the JasperReports barcode extension, simply copy the JAR document to the right folder location and start working.
                 </p>
             </div>
         </div>
@@ -1173,9 +1174,9 @@ generator.generateBarCodeImage();
 
 {{< blocks/products/pf/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="Learning Resources" tabId="resources" >}}
-{{< blocks/products/pf/slr-element name="Documentation" href="https://docs.aspose.com/barcode/{prod}/" >}}
-{{< blocks/products/pf/slr-element name="Source Code" href="https://github.com/aspose-barcode/Aspose.BarCode-for-.NET" >}}
-{{< blocks/products/pf/slr-element name="API References" href="https://apireference.aspose.com/{prod}/barcode" >}}
+{{< blocks/products/pf/slr-element name="Documentation" href="https://docs.aspose.com/barcode/jasperreports/" >}}
+{{< blocks/products/pf/slr-element name="Source Code" href="https://github.com/aspose-barcode/Aspose.BarCode-for-Java" >}}
+{{< blocks/products/pf/slr-element name="API References" href="https://reference.aspose.com/barcode/java/" >}}
 {{< blocks/products/pf/slr-element name="Tutorial Videos" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
@@ -1183,7 +1184,7 @@ generator.generateBarCodeImage();
 {{< blocks/products/pf/slr-element name="Free Support" href="https://forum.aspose.com/c/barcode/" >}}
 {{< blocks/products/pf/slr-element name="Paid Support" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.com/category/barcode/" >}}
-{{< blocks/products/pf/slr-element name="Release Notes" href="https://docs.aspose.com/barcode/{prod}/release-notes/" >}}
+{{< blocks/products/pf/slr-element name="Release Notes" href="https://docs.aspose.com/barcode/jasperreports/release-notes/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Why Aspose.BarCode for JasperReports?" tabId="success-stories" >}}
@@ -1193,7 +1194,7 @@ generator.generateBarCodeImage();
 
 {{< /blocks/products/pf/support-learning-resources >}}
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/barcode/jasperreports/" pricingInformationLink="https://purchase.aspose.com/pricing/barcode/jasperreports/" >}}
+{{< blocks/products/pf/download-section downloadFreeTrialLink="https://releases.aspose.com/barcode/jasperreports/" pricingInformationLink="https://purchase.aspose.com/pricing/barcode/jasperreports" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.BarCode" description="Aspose.BarCode offers individual Barcode generation and recognition APIs for other popular development environments as listed below:" >}}
 

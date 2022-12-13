@@ -14,13 +14,13 @@ weight: 440
 {{< blocks/products/pf/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-php-java.svg" liveDemosLink="https://products.aspose.app/barcode/family" PricingLink="https://purchase.aspose.com/pricing/barcode/php-java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/barcode/php-java/" installationsDocsLink="https://docs.aspose.com/barcode/php-java/installation" nugetLink="" nugetPackageName="" mavenRepoLink="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-barcode" directDownloadLink="https://downloads.aspose.com/barcode/php-java" >}}
 
 {{< blocks/products/pf/tab-content >}}
-<p>Aspose.BarCode for PHP via Java is a set of barcode generation and reading APIs for PHP applications and scripts. Developers can easily read 1D, 2D and postal barcodes from images at different angles. Barcode generator API creates barcode images within various formats such as JPG, PNG, GIF, BMP.  Moreover, It supports multiple imaging features like manipulating borders, color, rotating images, customizing resolution and a lot more.</p>
+<p>Aspose.BarCode for PHP via Java is a set of barcode generation and reading APIs for PHP applications and scripts. Developers can easily read and create 1D, 2D, and postal barcodes from images at different angles. This barcode generator API creates barcode images in various formats, such as JPG, PNG, GIF, BMP, and TIFF.  Moreover, it allows customizing various appearance-related properties, including size, border style, color, rotation angle, resolution, and many others.</p>
 {{< /blocks/products/pf/tab-content >}}
 
 <!--Diagrams Start-->
 {{< blocks/products/pf/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="At a Glance" description="An overview of the barcode recognition & generation capabilities of API." >}}
+{{< blocks/products/pf/carousel-item h3="At a Glance" description="An overview of the barcode recognition & generation capabilities." >}}
 <div class='diagram1 d1-php-java'>
     <div class="d1-row">
         <div class="d1-col d1-left">
@@ -29,13 +29,13 @@ weight: 440
                 </i>
                 Recognition
             </header>
-            <ul><li>Linear, 2D &amp; Postal</li><li>Detect from Stream or Image</li><li>Get Orientation of Barcode</li><li>Decode Non-English Characters</li></ul>
+            <ul><li>Linear, 2D, and Postal Types</li><li>Read Barcodes from Stream or Image</li><li>Get Barcode Orientation Angle</li><li>Decode Non-English Characters</li></ul>
             <header>
                 <i class="fa fa-print">
                 </i>
                 Printing
             </header>
-            <ul><li>Directly Print Barcode</li></ul>
+            <ul><li>Directly Print Barcodes</li></ul>
         </div>
         <!--/left-->
         <div class="d1-col d1-right">
@@ -44,7 +44,7 @@ weight: 440
                 </i>
                 Generation
             </header>
-            <ul><li>Linear, 2D &amp; Postal</li><li>Save to Stream or Image</li><li>Customize Appearance: Size, Color, Angle</li><li>Encode Non-English Characters</li></ul>
+            <ul><li>Linear, 2D, and Postal</li><li>Save Generated Barcodes to Stream or Image</li><li>Customize Barcode Appearance: Size, Color, and  Orientation Angle</li><li>Encode Non-English Characters</li></ul>
             <header>
                 <i class="fa fa-qrcode">
                 </i>
@@ -71,7 +71,7 @@ weight: 440
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Platform Independence" description="Aspose.Barcode for PHP via Java requires PHP 5.3 (or above) and JavaBridge. It can run on any platform where these requirements can be met." >}}
+{{< blocks/products/pf/carousel-item h3="Platform Independence" description="Aspose.Barcode for PHP via Java requires installing PHP 5.3 (or above) and JavaBridge. It can run on any platform where these requirements can be met." >}}
 <div class='diagram1 d1-php-java'>
     <div class="d1-row">
         <div class="d1-col d1-left">
@@ -118,7 +118,7 @@ weight: 440
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Supported File Formats" description="Aspose.BarCode for PHP via Java works with most commonly used image [file formats](https://docs.aspose.com/barcode/php-java/supported-file-formats/)." >}}
+{{< blocks/products/pf/carousel-item h3="Supported File Formats" description="Aspose.BarCode for PHP via Java supports the most widely used [image file formats](https://docs.aspose.com/barcode/phpjava/supported-barcode-types-and-file-formats/)." >}}
 <div class='diagram1 d2 d1-php-java'>
     <div class="d1-row">
         <div class="d1-col d1-left">
@@ -244,7 +244,7 @@ weight: 440
         Supported linear types include:
     </h4>
     <div class="adaptive_columns">
-        <ul class="unstyled"><li>EAN 13</li><li>EAN 8</li><li>UPC A</li><li>UPC E</li><li>Interleaved 2 of 5</li><li>Standard 2 of 5</li><li>MSI</li><li>Code 11</li><li>Codabar</li><li>EAN 14 (SCC 14)</li><li>SSCC 18</li><li>ITF 14</li><li>Matrix 2 of 5</li><li>PZN</li><li>Code 128</li><li>Code 39 Extended</li><li>Code 39 Standard</li><li>Code 93 Extended</li><li>Code 93 Standard</li><li>IATA 2 of 5</li><li>OPC</li><li>GS1 Code128</li><li>ISBN</li><li>ISMN</li><li>ISSN</li><li>ITF6</li><li>VIN</li><li>Pharmacode</li><li>GS1 Databar Family: Databar Omnidirectional, Databar Truncated, Data barLimited, Databar Expanded, Databar Stacked, Databar Expanded Stacked, Databar Stacked Omnidirectional</li><li>PatchCode</li><li>Supplement</li></ul>
+        <ul class="unstyled"><li>EAN-13</li><li>EAN-8</li><li>UPC-A</li><li>UPC-E</li><li>Interleaved 2-of-5</li><li>Standard 2-of-5</li><li>MSI</li><li>Code 11</li><li>Codabar</li><li>EAN-14</li><li>SSCC-18</li><li>ITF-14</li><li>Matrix 2-of-5</li><li>PZN</li><li>Code 128</li><li>Code 39 Extended</li><li>Code 93 Extended</li><li>Code 93 Standard</li><li>IATA 2-of-5</li><li>OPC</li><li>GS1 Code 128</li><li>ISBN</li><li>ISMN</li><li>ISSN</li><li>ITF6</li><li>VIN</li><li>Pharmacode</li><li>GS1 Databar Family: Databar Omnidirectional, Databar Truncated, Data barLimited, Databar Expanded, Databar Stacked, Databar Expanded Stacked, Databar Stacked Omnidirectional</li><li>PatchCode</li><li>Supplement</li></ul>
     </div>
 </div>
 <div class="col-lg-12">
@@ -268,7 +268,7 @@ weight: 440
                     QR Code Generation
                 </h2>
                 <p>
-                    API has the capability to create barcodes of multiple types, including DataMatrix, Aztec, Pdf417, multiple MacroPdf417 barcodes for large or multiple code text values. The following code sample demonstrates how to generate QR codes.
+                    The API provides the capability to create barcodes of various 2D types, including Data Matrix, Aztec Code, and PDF417, which are suitable for large or complex input data to be encoded. The following code sample demonstrates how to generate QR codes.
                 </p>
                 {{< blocks/products/pf/agp/feature-section2 >}}
 <!-- BEGIN LCS -->
@@ -511,7 +511,7 @@ weight: 440
                 <option value="2" selected>Medium</option>
                 <option value="3">Large</option>
             </select>
-            <label class="custom-checkbox" onclick="selectCodetextPosition(this)">Show codetext
+            <label class="custom-checkbox" onclick="selectCodetextPosition(this)">Show input text
                 <input type="checkbox" class="barcode-gen-lcs-textloc" checked="checked">
                 <span class="checkmark"></span>
             </label>
@@ -521,17 +521,17 @@ weight: 440
     <p class="barcode-gen-lcs-disclaimer">* By uploading your files or using the service you agree with our <a href="https://about.aspose.com/legal/terms-of-use" rel="nofollow noreferrer" target="_blank">Terms of use</a> and <a href="https://about.aspose.com/legal/privacy-policy" rel="nofollow noreferrer" target="_blank">Privacy Policy</a>.</p>
 <div id="code" class="codeblock"><h3>Code to be executed - PHP</h3><pre>
 <code class='php hljs'>
-<span class="hljs-comment">// Create an instane of the BarcodeGenerator class</span>
+<span class="hljs-comment">// Create an instance of the BarcodeGenerator class</span>
 <span class="hljs-variable">$generator</span> = <span class="hljs-keyword">new</span> <span class="hljs-title class_">BarcodeGenerator</span>(<span class="hljs-title class_">EncodeTypes</span>::<span class="hljs-variable constant_"><span class="barcode-gen-lcs-type-param">QR</span></span>, <span class="hljs-string">&quot;<span class="hljs-string barcode-gen-lcs-codetext-param"></span>&quot;</span>);
 
 <span class="hljs-comment">// Specify the X-dimension </span>
 <span class="hljs-comment">// the smallest width of the unit of BarCode bars or spaces</span>
 <span class="hljs-variable">$generator</span>-&gt;<span class="hljs-title function_ invoke__">getParameters</span>()-&gt;<span class="hljs-title function_ invoke__">getBarcode</span>()-&gt;<span class="hljs-title function_ invoke__">getXDimension</span>()-&gt;<span class="hljs-title function_ invoke__">setMillimeteres</span>(<span class="hljs-number barcode-gen-lcs-codesize-param">2</span>);
 
-<span class="hljs-comment">// Set codetext position</span>
+<span class="hljs-comment">// Set the text location</span>
 <span class="hljs-variable">$generator</span>-&gt;<span class="hljs-title function_ invoke__">getParameters</span>()-&gt;<span class="hljs-title function_ invoke__">getCodeTextParameters</span>()-&gt;<span class="hljs-title function_ invoke__">setLocation</span>(<span class="hljs-title class_">CodeLocation</span>::<span class="hljs-variable constant_"><span class="barcode-gen-lcs-codelocation-param">Below</span></span>);
 
-<span class="hljs-comment">// Generate and save image</span>
+<span class="hljs-comment">// Generate and save a barcode image</span>
 <span class="hljs-variable">$generator</span>-&gt;<span class="hljs-title function_ invoke__">save</span>(<span class="hljs-string">&quot;example.png&quot;</span>, <span class="hljs-title class_">BarCodeImageFormat</span>::<span class="hljs-variable constant_">PNG</span>);
 </code></pre></div>
     <div class="barcode-gen-lcs-result" onclick="BarcodeGenLcsCurtainClick(this)">
@@ -655,10 +655,10 @@ weight: 440
                     Save Barcodes in Various Formats
                 </h2>
                 <p>
-                    The barcode library provides various options to save generate barcodes not only using popular raster image formats but also to stream or vector. Barcodes can be downloaded using one of the five most widely used image formats or two vector formats. It is also possible to load barcodes as files, streams, or bitmaps. Developers can customize the process of barcode generation and saving according to specific business needs by setting the required output mode. The API supports the following file formats: BMP, PNG, GIF, JPEG, and TIFF for input/output; EMF and SVG for output.  
-                    Developers can save barcodes as vector images, such as EMF and SVG files, to scale them without resolution losses.    
-                    It is possible to output generated barcodes as streams (using the binary format). Stream can be defined as an abstract byte sequence (for example, files, TCP/IP sockets, or inter-process communication pipes). This mode can be used to abstract from the use of specific operating systems and particular output devices. Saving barcodes as data streams can provide a number of benefits, including flexibility, efficiency, compatibility, and scalability. These benefits can make data streams a useful way to save and transmit barcodes in a wide range of applications and scenarios. 
-                    The API also enables first saving barcodes as bitmap objects and then downloading them in the required file format or processing further. A bitmap object is a data structure that represents a bitmap image. A bitmap is a type of digital image that uses a grid of pixels to represent an image. Each pixel in a bitmap is represented by a binary value, which specifies whether the pixel is filled or empty. Bitmap objects are used to store and manipulate bitmap images in computer memory. They provide a convenient way to represent and manipulate images, and they are commonly used in graphics and imaging software. Bitmaps can be used to display images on a screen, print them on a printer, or save them to a file.
+                    The barcode library provides various options to save generated barcodes not only using popular raster image formats but also to stream or vector. Barcodes can be downloaded using one of the five most widely used image formats or two vector formats. It is also possible to load barcodes as files, streams, or bitmaps. Developers can customize the process of barcode generation and saving according to specific business needs by setting the required output mode. The API supports the following file formats: BMP, PNG, GIF, JPEG, and TIFF for input/output; EMF and SVG for output.  
+                    Developers can save barcodes as vector images, such as EMF and SVG files, to scale them without losses in resolution.    
+                    It is possible to output generated barcodes as streams (using the binary format). Stream can be defined as an abstract byte sequence (for example, files, TCP/IP sockets, or inter-process communication pipes). This mode can be used to abstract from the use of specific operating systems and particular output devices. Saving barcodes as data streams can provide a variety of benefits, including flexibility, efficiency, compatibility, and scalability. These benefits make data streams a useful way to save and transmit barcodes in a wide range of applications and scenarios. 
+                    The API also enables firstly saving barcodes as bitmap objects and then downloading them in the required file format or processing further. A bitmap object is a data structure that represents a bitmap image. Such objects use a grid of pixels to represent an image. Each pixel in a bitmap is represented by a binary value, which specifies whether the pixel is filled or empty. Bitmap objects serve to represent and manipulate images. They are commonly used in graphics and imaging software. 
 
                 </p>
             </div>
@@ -668,7 +668,7 @@ weight: 440
                     Barcode Recognition Live Example
                 </h2>
                 <p>
-                    Barcode API contains another powerful feature to read or detect the most commonly used 1D and 2D barcodes, detecting them anywhere. Just few lines of code to detect the barcodes from the image.
+                    The barcode reader API provides a set of features for scanning, detecting, and reading 1D, 2D, and postal barcodes. With just a few lines of code, developers can easily integrate this functionality into their applications and use it to detect and decode a wide range of commonly used barcodes. The API is designed to be user-friendly and intuitive, making it easy for developers to quickly and easily add barcode scanning capabilities to their PHP applications. 
                 </p>
                 {{< blocks/products/pf/agp/feature-section2 >}}
 <!-- BEGIN LCS -->
@@ -1132,13 +1132,14 @@ weight: 440
 </div>
 <!-- END LCS -->
 {{< /blocks/products/pf/agp/feature-section2 >}}
-            </div>
+
+</div>
             <div class="col-lg-12">
                 <h2 class="h2title">
-                    Customizing Symbologies & Appearance
+                    Customize Barcode Types and Appearance
                 </h2>
                 <p>
-                    PHP barcode API allows you to easily customize the codes by specifying different kinds of symbologies, setting code text (data to be encoded to barcode image) and appearance-related properties like font, background color, foreground color, as well as alignment and location (hide, above, below). You can also easily manage caption settings such as font, background color, foreground color, alignment and location (hide, above, below).
+                    The barcode API for PHP allows developers to fine-tune the appearance of generated barcodes by specifying the barcode type, input text, font style, background and foreground colors, caption alignment and location, and other properties. You can modify the caption by setting its visibility for upper and lower captions, the font, colors, and alignment. 
                 </p>
             </div>
         </div>
@@ -1164,9 +1165,9 @@ weight: 440
 
 {{< blocks/products/pf/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="Learning Resources" tabId="resources" >}}
-{{< blocks/products/pf/slr-element name="Documentation" href="https://docs.aspose.com/barcode/{prod}/" >}}
-{{< blocks/products/pf/slr-element name="Source Code" href="https://github.com/aspose-barcode/Aspose.BarCode-for-.NET" >}}
-{{< blocks/products/pf/slr-element name="API References" href="https://apireference.aspose.com/{prod}/barcode" >}}
+{{< blocks/products/pf/slr-element name="Documentation" href="https://docs.aspose.com/barcode/phphjava/" >}}
+{{< blocks/products/pf/slr-element name="Source Code" href="https://github.com/aspose-barcode/Aspose.BarCode-for-PHP-via-Java" >}}
+{{< blocks/products/pf/slr-element name="API References" href="https://reference.aspose.com/barcode/php" >}}
 {{< blocks/products/pf/slr-element name="Tutorial Videos" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
@@ -1174,7 +1175,7 @@ weight: 440
 {{< blocks/products/pf/slr-element name="Free Support" href="https://forum.aspose.com/c/barcode/" >}}
 {{< blocks/products/pf/slr-element name="Paid Support" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.com/category/barcode/" >}}
-{{< blocks/products/pf/slr-element name="Release Notes" href="https://docs.aspose.com/barcode/{prod}/release-notes/" >}}
+{{< blocks/products/pf/slr-element name="Release Notes" href="https://docs.aspose.com/barcode/phpjava/release-notes/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Why Aspose.BarCode for PHP via Java?" tabId="success-stories" >}}
@@ -1184,7 +1185,7 @@ weight: 440
 
 {{< /blocks/products/pf/support-learning-resources >}}
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/barcode/php-java/" pricingInformationLink="https://purchase.aspose.com/pricing/barcode/php-java/" >}}
+{{< blocks/products/pf/download-section downloadFreeTrialLink="https://releases.aspose.com/barcode/php/" pricingInformationLink="https://purchase.aspose.com/pricing/barcode/python-java" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.BarCode" description="Aspose.BarCode offers individual Barcode generation and recognition APIs for other popular development environments as listed below:" >}}
 
