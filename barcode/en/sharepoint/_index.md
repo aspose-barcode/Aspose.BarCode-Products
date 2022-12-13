@@ -615,10 +615,10 @@ weight: 440
 <!--simpleHeaderDescriptionSection1-->
             <div class="col-lg-12">
                 <h2 class="h2title">
-                    Imaging, Rotation &amp; Sizing Support
+                    Add Barcodes to Sharepoint Lists
                 </h2>
                 <p>
-                    Aspose.BarCode for SharePoint allows the manipulation of label borders, border colors, style, margins, and width. It also provides the ability to modify image color, background color, and bar color. You can also rotate barcode images to any angle and produce high-quality images with anti-aliasing. In addition to this, you can set customized resolutions for the resultant images while saving them to any of the supported image formats.
+                    Aspose.BarCode for SharePoint provides rich and convenient functionality to add barcodes to SharePoint lists. Such lists can be used to store and organize data in a structured format. It is a convenient way to manage a wide range of information, such as contacts, tasks, calendar events, and more. They provide multiple features for organizing, sorting, filtering, and sharing data. It may be useful to add barcodes to SharePoint lists to facilitate accessing and managing the information in the list. If a SharePoint list is created to track inventory items, developers can add barcodes to quickly and accurately scan and update the information in the list. This could make it easier to track and manage inventory, and it could reduce the risk of errors or discrepancies. Additionally, you could use barcodes to quickly access and view information in a SharePoint list, such as by scanning a barcode to quickly display a specific item or record in the list. There are many potential uses for barcodes in SharePoint lists, and they can provide a convenient and efficient way to manage and access data in these lists.
                 </p>
             </div>
 <!--simpleHeaderDescriptionSection1 End-->
@@ -627,7 +627,7 @@ weight: 440
                     Barcode Recognition Live Example
                 </h2>
                 <p>
-                    Barcode API contains another powerful feature to read or detect the most commonly used 1D and 2D barcodes, detecting them anywhere. Just few lines of code to detect the barcodes from the image.
+                    The Barcode API includes a powerful and useful feature for detecting and reading a wide range of popular 1D and 2D barcodes. This feature can be easily integrated into your applications with just a few lines of code, providing a convenient and efficient way to add barcode detection capabilities to your app. The API supports the detection of over 60 different types of 1D and 2D barcodes, including popular formats such as QR codes, UPC codes, and EAN codes. With its fast and accurate detection capabilities, the API is a valuable tool for a wide range of applications and industries. Whether you're working in retail, logistics, healthcare, or any other field, the barcode API can provide a valuable solution for your barcode detection and reading needs.
                 </p>
                 {{< blocks/products/pf/agp/feature-section2 >}}
 <!-- BEGIN LCS -->
@@ -821,8 +821,8 @@ weight: 440
                 <option value= "AllSupportedTypes">All types</option>
                 <option value="QR">QR code</option>
                 <option value="Pdf417">PDF417</option>
-                <option value="DataMatrix">DataMatrix</option>
-                <option value="Aztec">Aztec</option>
+                <option value="DataMatrix">Data Matrix</option>
+                <option value="Aztec">Aztec Code</option>
                 <option value="Code128">Code 128</option>
                 <option value="UPC">UPC</option>
                 <option value="EAN">EAN</option>

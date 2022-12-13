@@ -127,7 +127,7 @@ weight: 440
                 </i>
                 Input/Output
             </header>
-            <ul><li>JPEG</li><li>TIFF</li><li>PNG</li><li>BMP</li><li>GIF</li><li>EXIF</li></ul>
+            <ul><li>JPEG</li><li>TIFF</li><li>PNG</li><li>BMP</li><li>GIF</li></ul>
         </div>
          <!--/left-->
          <div class="d1-col d1-right">
@@ -175,42 +175,42 @@ weight: 440
                 <em class='fa fa-print ico-blue fa-2x col-lg-2'>
                 </em>
                 <p class="col-lg-10">
-                    <a href='https://docs.aspose.com/barcode/java/manage-x-dimension-and-y-dimension-in-php/'>Manage X and Y Dimensions</a>
+                    <a href='https://docs.aspose.com/barcode/phpjava/set-barcode-parameters/'>Manage barcode parameters</a>
                 </p>
             </div>
             <div class="col-lg-4">
                 <em class='fa fa-barcode ico-blue fa-2x col-lg-2'>
                 </em>
                 <p class="col-lg-10">
-                    <a href='https://docs.aspose.com/barcode/java/generate-barcode-by-specifying-custom-image-size-in-php/'>Customize images size</a>
+                    <a href='https://docs.aspose.com/barcode/phpjava/customize-barcodes/'>Customize barcode size</a>
                 </p>
             </div>
             <div class="col-lg-4">
                 <em class='fa fa-exchange ico-blue fa-2x col-lg-2'>
                 </em>
                 <p class="col-lg-10">
-                    <a href='https://docs.aspose.com/barcode/java/set-start-and-stop-symbols-of-codabar-barcode-in-php/'>Set Start and Stop Symbols of Codabar</a>
+                    <a href='https://docs.aspose.com/barcode/phpjava/generate-codabar/'>Generate Codabar</a>
                 </p>
             </div>
             <div class="col-lg-4">
                 <em class='fa fa-repeat ico-blue fa-2x col-lg-2'>
                 </em>
                 <p class="col-lg-10">
-                    <a href='https://docs.aspose.com/barcode/java/control-the-appearance-of-code-text-in-php/'>Control the Appearance of Code Text</a>
+                    <a href='https://docs.aspose.com/barcode/phpjava/set-barcode-text/'>Customize Text Captions</a>
                 </p>
             </div>
             <div class="col-lg-4">
                 <em class='fa fa-file-image-o ico-blue fa-2x col-lg-2'>
                 </em>
                 <p class="col-lg-10">
-                    <a href='https://docs.aspose.com/barcode/java/manage-the-barcode-caption-in-php/'>Manage the Barcode Caption</a>
+                    <a href='https://docs.aspose.com/barcode/barcode-reading-presets/'>Barcode Reading Presets</a>
                 </p>
             </div>
             <div class="col-lg-4">
                 <em class='fa fa-book ico-blue fa-2x col-lg-2'>
                 </em>
                 <p class="col-lg-10">
-                    <a href='https://docs.aspose.com/barcode/java/set-code-text-for-barcode-in-php/'>Set Code Text for Barcode</a>
+                    <a href='https://docs.aspose.com/barcode/read-damaged-barcodes/'>Read Damaged Barcodes</a>
                 </p>
             </div>
 <!--advancedFeaturesSection End-->
@@ -238,13 +238,13 @@ weight: 440
         Supported Symbologies
     </h2>
     <p>
-        Aspose.BarCode for PHP via Java supports a large number of linear, 2D and postal bar code symbologies for both encoding and decoding.
+        Aspose.BarCode for PHP via Java supports over 60 linear, 2D, and postal barcode types for both reading and generation.
     </p>
     <h4>
-        API supported linear types include:
+        Supported linear types include:
     </h4>
     <div class="adaptive_columns">
-        <ul class="unstyled"><li>EAN 13</li><li>EAN 8</li><li>UPC A</li><li>UPC E</li><li>Interleaved 2 of 5</li><li>Standard 2 of 5</li><li>MSI</li><li>Code 11</li><li>Codabar</li><li>EAN 14 (SCC 14)</li><li>SSCC 18</li><li>ITF 14</li><li>Matrix 2 of 5</li><li>PZN</li><li>Code 128</li><li>Code 39 Extended</li><li>Code 39 Standard</li><li>Code 93 Extended</li><li>Code 93 Standard</li><li>IATA 2 of 5</li><li>OPC</li><li>GS1Code128</li><li>ISBN</li><li>ISMN</li><li>ISSN</li><li>ITF6</li><li>VIN</li><li>Pharmacode</li><li>GS1 Databar Family: DatabarOmniDirectional, DatabarTruncated, DatabarLimited, DatabarExpanded, DatabarStacked, DatabarExpandedStacked, DatabarStackedOmniDirectional</li><li>PatchCode</li><li>Supplement (Decode only)</li></ul>
+        <ul class="unstyled"><li>EAN 13</li><li>EAN 8</li><li>UPC A</li><li>UPC E</li><li>Interleaved 2 of 5</li><li>Standard 2 of 5</li><li>MSI</li><li>Code 11</li><li>Codabar</li><li>EAN 14 (SCC 14)</li><li>SSCC 18</li><li>ITF 14</li><li>Matrix 2 of 5</li><li>PZN</li><li>Code 128</li><li>Code 39 Extended</li><li>Code 39 Standard</li><li>Code 93 Extended</li><li>Code 93 Standard</li><li>IATA 2 of 5</li><li>OPC</li><li>GS1 Code128</li><li>ISBN</li><li>ISMN</li><li>ISSN</li><li>ITF6</li><li>VIN</li><li>Pharmacode</li><li>GS1 Databar Family: Databar Omnidirectional, Databar Truncated, Data barLimited, Databar Expanded, Databar Stacked, Databar Expanded Stacked, Databar Stacked Omnidirectional</li><li>PatchCode</li><li>Supplement</li></ul>
     </div>
 </div>
 <div class="col-lg-12">
@@ -252,7 +252,7 @@ weight: 440
         2D types include:
     </h4>
     <div class="adaptive_columns">
-        <ul class="unstyled"><li>PDF 417</li><li>Macro PDF 417</li><li>Micro PDF 417</li><li>Aztec</li><li>DataMatrix</li><li>Compact PDF 417 (Decode only)</li><li>QR</li><li>MicroQR</li><li>DotCode</li><li>MaxiCode</li><li>GS1DataMatrix</li><li>Italian Post 25</li><li>Code16K</li></ul>
+        <ul class="unstyled"><li>PDF417</li><li>Macro PDF417</li><li>Micro PDF417</li><li>Aztec Code</li><li>Data Matrix</li><li>Compact PDF417</li><li>QR Code</li><li>Micro QR Code</li><li>DotCode</li><li>MaxiCode</li><li>GS1 Data Matrix</li><li>Italian Post 25</li><li>Code16K</li></ul>
     </div>
 </div>
 <div class="col-lg-12">
@@ -268,7 +268,7 @@ weight: 440
                     QR Code Generation
                 </h2>
                 <p>
-                    API has the capability to create barcodes of multiple types including DataMatrix, Aztec, Pdf417, multiple MacroPdf417 barcodes for large or multiple code text values. Here is the code for QR code generation.
+                    API has the capability to create barcodes of multiple types, including DataMatrix, Aztec, Pdf417, multiple MacroPdf417 barcodes for large or multiple code text values. The following code sample demonstrates how to generate QR codes.
                 </p>
                 {{< blocks/products/pf/agp/feature-section2 >}}
 <!-- BEGIN LCS -->
@@ -648,13 +648,18 @@ weight: 440
 <!-- END LCS -->
 {{< /blocks/products/pf/agp/feature-section2 >}}
             </div>
+
 <!--simpleHeaderDescriptionSection1-->
             <div class="col-lg-12">
                 <h2 class="h2title">
-                    Imaging, Rotation & Sizing
+                    Save Barcodes in Various Formats
                 </h2>
                 <p>
-                    Common manipulation features of the barcode library are modifying barcode image, border and background colors, bar color, margins, width of images and much more. Furthermore, PHP API can adjust the resolution for the resultant images and can rotate images at any angle for generating high-quality images with anti-aliasing.
+                    The barcode library provides various options to save generate barcodes not only using popular raster image formats but also to stream or vector. Barcodes can be downloaded using one of the five most widely used image formats or two vector formats. It is also possible to load barcodes as files, streams, or bitmaps. Developers can customize the process of barcode generation and saving according to specific business needs by setting the required output mode. The API supports the following file formats: BMP, PNG, GIF, JPEG, and TIFF for input/output; EMF and SVG for output.  
+                    Developers can save barcodes as vector images, such as EMF and SVG files, to scale them without resolution losses.    
+                    It is possible to output generated barcodes as streams (using the binary format). Stream can be defined as an abstract byte sequence (for example, files, TCP/IP sockets, or inter-process communication pipes). This mode can be used to abstract from the use of specific operating systems and particular output devices. Saving barcodes as data streams can provide a number of benefits, including flexibility, efficiency, compatibility, and scalability. These benefits can make data streams a useful way to save and transmit barcodes in a wide range of applications and scenarios. 
+                    The API also enables first saving barcodes as bitmap objects and then downloading them in the required file format or processing further. A bitmap object is a data structure that represents a bitmap image. A bitmap is a type of digital image that uses a grid of pixels to represent an image. Each pixel in a bitmap is represented by a binary value, which specifies whether the pixel is filled or empty. Bitmap objects are used to store and manipulate bitmap images in computer memory. They provide a convenient way to represent and manipulate images, and they are commonly used in graphics and imaging software. Bitmaps can be used to display images on a screen, print them on a printer, or save them to a file.
+
                 </p>
             </div>
 <!--simpleHeaderDescriptionSection1 End-->

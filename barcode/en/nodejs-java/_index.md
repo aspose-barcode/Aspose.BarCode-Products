@@ -161,21 +161,21 @@ weight: 440
                 <em class='fa fa-print ico-blue fa-2x col-lg-2'>
                 </em>
                 <p class="col-lg-10">
-                    <a href='https://docs.aspose.com/barcode/java/aspose-barcode-for-node-js-via-java-features/#supported-barcode-symbologies'>Specify various kind of symbologies</a>
+                    <a href='https://docs.aspose.com/barcode/'>Generate 60+ barcode types</a>
                 </p>
             </div>
             <div class="col-lg-4">
                 <em class='fa fa-barcode ico-blue fa-2x col-lg-2'>
                 </em>
                 <p class="col-lg-10">
-                    <a href='https://docs.aspose.com/barcode/java/manage-the-barcode-caption/'>Manage caption &amp; font styles</a>
+                    <a href='https://docs.aspose.com/barcode/nodejsjava/set-barcode-text/nodejsjava/barcode-types/'>Customize barcode caption &amp; font styles</a>
                 </p>
             </div>
             <div class="col-lg-4">
                 <em class='fa fa-exchange ico-blue fa-2x col-lg-2'>
                 </em>
                 <p class="col-lg-10">
-                    <a href='https://docs.aspose.com/barcode/java/use-checksum-and-supplement-data-for-barcodes/'>Support for Checksum &amp; Supplement data</a>
+                    <a href='https://docs.aspose.com/barcode/nodejsjava/barcode-reading-settings/'>Perform Checksum Validation</a>
                 </p>
             </div>
 <!--advancedFeaturesSection End-->
@@ -619,13 +619,14 @@ generator.<span class="hljs-title function_">save</span>(<span class="hljs-strin
 <!-- END LCS -->
 {{< /blocks/products/pf/agp/feature-section2 >}}
             </div>
+
 <!--simpleHeaderDescriptionSection1-->
             <div class="col-lg-12">
                 <h2 class="h2title">
-                    Imaging, Rotation & Sizing
+                    Generate ECI QR Codes
                 </h2>
                 <p>
-                    Common manipulation features of the barcode library are modifying barcode image, border and background colors, bar color, margins, width of images and much more. Furthermore, PHP API can adjust the resolution for the resultant images and can rotate images at any angle for generating high-quality images with anti-aliasing.
+                    Among various widely used barcode types, the API can be used to create barcodes with special parameters. One of such functions allows developers to generate ECI QR codes that encode Unicode symbols using extended channel interpretation (ECI), a special communication protocol. This protocol is useful to create QR Codes encoding non-English characters, such as Japanese, Cyrillic, Hebrew, Greek, Arabic, and others. When ECI is enabled, a QR code not only stores a set of digits as raw byte values, but it also includes an explanation to interpret these values. The barcode library supports all most widely used charset encodings, such as UTF8, ASCII, and many others. Generate QR codes to encode non-English symbols using the ECI mode.
                 </p>
             </div>
 <!--simpleHeaderDescriptionSection1 End-->
@@ -634,7 +635,7 @@ generator.<span class="hljs-title function_">save</span>(<span class="hljs-strin
                     Barcode Recognition Live Example
                 </h2>
                 <p>
-                    Barcode API contains another powerful feature to read or detect the most commonly used 1D and 2D barcodes, detecting them anywhere. Just few lines of code to detect the barcodes from the image.
+                    The barcode library has a powerful feature that allows developers to scan and decode a wide range of 1D, 2D, and postal barcode types. This functionality can be easily embedded into Node.js applications with just a few lines of code. It makes it quick and easy to read barcodes from image files, providing a convenient way to add barcode scanning capabilities to your apps
                 </p>
                 {{< blocks/products/pf/agp/feature-section2 >}}
 <!-- BEGIN LCS -->

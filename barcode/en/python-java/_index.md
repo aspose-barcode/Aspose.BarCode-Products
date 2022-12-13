@@ -175,42 +175,42 @@ weight: 440
                 <em class='fa fa-print ico-blue fa-2x col-lg-2'>
                 </em>
                 <p class="col-lg-10">
-                    <a href='https://docs.aspose.com/barcode/java/manage-x-dimension-and-y-dimension-in-jython/'>Manage X and Y Dimensions</a>
+                    <a href='https://docs.aspose.com/barcode/python-java/set-barcode-parameters/'>Manage barcode parameters</a>
                 </p>
             </div>
             <div class="col-lg-4">
                 <em class='fa fa-barcode ico-blue fa-2x col-lg-2'>
                 </em>
                 <p class="col-lg-10">
-                    <a href='https://docs.aspose.com/barcode/java/generate-barcode-by-specifying-custom-image-size-in-jython/'>Customize images size</a>
+                    <a href='https://docs.aspose.com/barcode/python-java/manage-barcode-appearance/'>Customize barcode size</a>
                 </p>
             </div>
             <div class="col-lg-4">
                 <em class='fa fa-exchange ico-blue fa-2x col-lg-2'>
                 </em>
                 <p class="col-lg-10">
-                    <a href='https://docs.aspose.com/barcode/java/set-start-and-stop-symbols-of-codabar-barcode-in-jython/'>Set Start and Stop Symbols of Codabar</a>
+                    <a href='https://docs.aspose.com/barcode/python-java/generate-qr-code/'>Generate QR Codes</a>
                 </p>
             </div>
             <div class="col-lg-4">
                 <em class='fa fa-repeat ico-blue fa-2x col-lg-2'>
                 </em>
                 <p class="col-lg-10">
-                    <a href='https://docs.aspose.com/barcode/java/control-the-appearance-of-code-text-in-jython/'>Control the Appearance of Code Text</a>
+                    <a href='https://docs.aspose.com/barcode/python-java/barcode-text-settings/'>Customize Text Captions</a>
                 </p>
             </div>
             <div class="col-lg-4">
                 <em class='fa fa-file-image-o ico-blue fa-2x col-lg-2'>
                 </em>
                 <p class="col-lg-10">
-                    <a href='https://docs.aspose.com/barcode/java/manage-the-barcode-caption-in-jython/'>Manage the Barcode Caption</a>
+                    <a href='https://docs.aspose.com/barcode/python-java/save-generated-barcodes/'>Save barcodes in various formats</a>
                 </p>
             </div>
             <div class="col-lg-4">
                 <em class='fa fa-book ico-blue fa-2x col-lg-2'>
                 </em>
                 <p class="col-lg-10">
-                    <a href='https://docs.aspose.com/barcode/java/set-code-text-for-barcode-in-jython/'>Set Code Text for Barcode</a>
+                    <a href='https://docs.aspose.com/barcode/python-java/read-barcode-properties/'>Read Barcode Properties</a>
                 </p>
             </div>
 <!--advancedFeaturesSection End-->
@@ -238,13 +238,13 @@ weight: 440
         Supported Symbologies
     </h2>
     <p>
-        Aspose.BarCode for Python via Java supports a large number of linear, 2D and postal bar code symbologies for both encoding and decoding.
+        Aspose.BarCode for Python via Java enables generating and reading over 60 linear, 2D, and postal barcode types.
     </p>
     <h4>
-        API supported linear types include:
+        Supported linear types include:
     </h4>
     <div class="adaptive_columns">
-        <ul class="unstyled"><li>EAN 13</li><li>EAN 8</li><li>UPC A</li><li>UPC E</li><li>Interleaved 2 of 5</li><li>Standard 2 of 5</li><li>MSI</li><li>Code 11</li><li>Codabar</li><li>EAN 14 (SCC 14)</li><li>SSCC 18</li><li>ITF 14</li><li>Matrix 2 of 5</li><li>PZN</li><li>Code 128</li><li>Code 39 Extended</li><li>Code 39 Standard</li><li>Code 93 Extended</li><li>Code 93 Standard</li><li>IATA 2 of 5</li><li>OPC</li><li>GS1Code128</li><li>ISBN</li><li>ISMN</li><li>ISSN</li><li>ITF6</li><li>VIN</li><li>Pharmacode</li><li>GS1 Databar Family: DatabarOmniDirectional, DatabarTruncated, DatabarLimited, DatabarExpanded, DatabarStacked, DatabarExpandedStacked, DatabarStackedOmniDirectional</li><li>PatchCode</li><li>Supplement (Decode only)</li></ul>
+        <ul class="unstyled"><li>EAN-13</li><li>EAN-8</li><li>UPC-A</li><li>UPC-E</li><li>Interleaved 2-of-5</li><li>Standard 2-of-5</li><li>MSI</li><li>Code 11</li><li>Codabar</li><li>EAN-14</li><li>SSCC-18</li><li>ITF-14</li><li>Matrix 2-of-5</li><li>PZN</li><li>Code 128</li><li>Code 39 Extended</li><li>Code 93 Extended</li><li>Code 93 Standard</li><li>IATA 2-of-5</li><li>OPC</li><li>GS1 Code 128</li><li>ISBN</li><li>ISMN</li><li>ISSN</li><li>ITF-6</li><li>VIN</li><li>Pharmacode</li><li>GS1 Databar Family: Databar Omnidirectional, Databar Truncated, Databar Limited, Databar Expanded, Databar Stacked, Databar Expanded Stacked, Databar Stacked Omnidirectional</li><li>PatchCode</li><li>Supplement</li></ul>
     </div>
 </div>
 <div class="col-lg-12">
@@ -647,13 +647,15 @@ barcodeGeneratorExamples.generateBarcodeImage()
 <!-- END LCS -->
 {{< /blocks/products/pf/agp/feature-section2 >}}
             </div>
+
 <!--simpleHeaderDescriptionSection1-->
             <div class="col-lg-12">
                 <h2 class="h2title">
-                    Imaging, Rotation & Sizing
+                    Optimized Barcode Scanning and Decoding
                 </h2>
                 <p>
-                    Common manipulation features of the barcode library are modifying barcode image, border and background colors, bar color, margins, width of images and much more. Furthermore, PHP API can adjust the resolution for the resultant images and can rotate images at any angle for generating high-quality images with anti-aliasing.
+                    The barcode API provides a useful feature for detecting and reading barcodes of over 60 popular 1D and 2D types. It only requires a few lines of code to scan barcodes, making it easy to integrate this functionality into your applications. This powerful feature allows you to quickly and accurately scan and read barcodes from a wide range of sources, such as images, documents, and other media. With the ability to detect and read so many different types of barcodes, this API is a valuable tool for a wide range of applications and industries. It can be used to automate and streamline processes, reduce the risk of errors and mistakes, and improve the overall efficiency and effectiveness of your operations. Whether you're working in retail, logistics, healthcare, or any other field, the barcode API can provide a valuable solution for your barcode detection and reading needs.
+                    The API provides a range of powerful features for optimizing barcode reading to meet the specific needs of your business. Developers can adjust the parameters of the recognition engine to enable fast barcode scanning or improve reading precision. Depending on the quality and parameters of the source barcode images, the library allows for customizing the recognition process. It includes several preset configurations of such parameters, which can be used to quickly scan high-quality barcode images or improve the chances of successfully decoding damaged or degraded barcodes. Additionally, there are special settings that can improve barcode reading for different types of distortions, such as Gaussian noise, white spots, and inverted colors. With the ability to fine-tune the recognition process, the API can be tailored to provide the most efficient barcode reading for a wide range of applications and scenarios. 
                 </p>
             </div>
 <!--simpleHeaderDescriptionSection1 End-->
@@ -854,9 +856,9 @@ barcodeGeneratorExamples.generateBarcodeImage()
         <div class="barcode-read-lcs-mods">
             <select name=type onchange="selectType(this)">
                 <option value= "AllSupportedTypes">All types</option>
-                <option value="QR">QR code</option>
+                <option value="QR">QR Code</option>
                 <option value="Pdf417">PDF417</option>
-                <option value="DataMatrix">DataMatrix</option>
+                <option value="DataMatrix">Data Matrix</option>
                 <option value="Aztec">Aztec</option>
                 <option value="Code128">Code 128</option>
                 <option value="UPC">UPC</option>
