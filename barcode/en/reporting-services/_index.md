@@ -7,11 +7,11 @@ weight: 440
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="SSRS Barcode APIs" h2="Generate Linear & 2D barcodes from within Microsoft SQL Server Reporting Services." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/headers/aspose_barcode-for-reporting-services.svg" pfName="Aspose.BarCode" subTitlepfName="for SQL Reporting Services" downloadUrl="https://downloads.aspose.com/barcode/reporting-services" >}}
+{{< blocks/products/pf/upper-banner h1="SSRS Barcode APIs" h2="Generate Linear & 2D barcodes from within Microsoft SQL Server Reporting Services." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/headers/aspose_barcode-for-reporting-services.svg" pfName="Aspose.BarCode" subTitlepfName="for SQL Reporting Services" downloadUrl="https://releases.aspose.com/barcode/reportingservices/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.BarCode" subTitlepfName="for SQL Reporting Services" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-reporting-services.svg" liveDemosLink="https://products.aspose.app/barcode/family" PricingLink="https://purchase.aspose.com/pricing/barcode/reporting-services" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/barcode/reporting-services/" installationsDocsLink="https://docs.aspose.com/barcode/reporting-services/installation" nugetLink="" nugetPackageName="" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/barcode/reporting-services" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-reporting-services.svg" liveDemosLink="https://products.aspose.app/barcode/family" PricingLink="https://purchase.aspose.com/pricing/barcode/reporting-services" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/barcode/reportingservices/" installationsDocsLink="https://docs.aspose.com/barcode/reporting-services/installation" nugetLink="" nugetPackageName="" mavenRepoLink="" directDownloadLink="https://releases.aspose.com/barcode/reportingservices/" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>Aspose.BarCode for Reporting Services is a comprehensive solution for rendering linear and 2D barcodes within Microsoft SQL Server Reporting Services. Barcode labels can be encoded with Non-English characters and rendered in BMP, JPEG, GIF and PNG formats.</p>
@@ -104,7 +104,7 @@ weight: 440
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Supported File Formats" description="Aspose.BarCode for SQL Reporting Services works with most commonly used image [file formats](https://docs.aspose.com/barcode/reporting-services/supported-file-formats/)." >}}
+{{< blocks/products/pf/carousel-item h3="Supported File Formats" description="Aspose.BarCode for SQL Reporting Services works with most commonly used image file formats." >}}
 <div class='diagram1 d2 d1-rs'>
     <div class="d1-row">
         <div class="d1-col d1-left">
@@ -161,73 +161,34 @@ weight: 440
                 <em class='fa fa-print ico-blue fa-2x col-lg-2'>
                 </em>
                 <p class="col-lg-10">
-                    <a href='https://docs.aspose.com/barcode/reportingservices/dynamically-display-barcodes-in-table/'>Dynamically display barcodes in table</a>
+                    <a href='https://docs.aspose.com/barcode/reportingservices/dynamically-display-barcodes-in-table/'>Dynamically display barcodes in tables</a>
                 </p>
             </div>
             <div class="col-lg-4">
                 <em class='fa fa-barcode ico-blue fa-2x col-lg-2'>
                 </em>
                 <p class="col-lg-10">
-                    <a href='https://docs.aspose.com/barcode/reportingservices/display-barcodes-from-dataset/'>Display barcodes from Dataset</a>
+                    <a href='https://docs.aspose.com/barcode/reportingservices/display-barcodes-from-dataset/'>Display barcodes from datasets</a>
                 </p>
             </div>
             <div class="col-lg-4">
                 <em class='fa fa-exchange ico-blue fa-2x col-lg-2'>
                 </em>
                 <p class="col-lg-10">
-                    <a href='https://docs.aspose.com/barcode/reportingservices/barcode-types-and-image-formats/'>Save barcode in any Vector image format</a>
+                    <a href='https://docs.aspose.com/barcode/reportingservices/barcode-types-and-image-formats/'>Save barcodes in vector image formats</a>
                 </p>
             </div>
 <!--advancedFeaturesSection End-->
-<!--supportedSymbologiesSection-->
-<style>
-    .adaptive_columns
-    {
-        -moz-column-width: 20em;
-        -webkit-column-width: 20em;
-        column-width: 20em;
-    }
-    .adaptive_columns ul
-    {
-        margin: 0;
-        padding: 0;
-        list-style-type: none;
-    }
-    .adaptive_columns ul li:first-child
-    {
-        margin-top:0px;
-    }
-</style>
-<div class="col-lg-12">
-    <h2 class="h2title">
-        Supported Symbologies
-    </h2>
-    <p>
-        Aspose.BarCode for Reporting Services supports over 40 most popular barcode symbologies including:
-    </p>
-    <h4>
-        API supported linear types include:
-    </h4>
-    <div class="adaptive_columns">
-        <ul class="unstyled"><li>EAN 13</li><li>EAN 8</li><li>UPC A</li><li>UPC E</li><li>Interleaved 2 of 5</li><li>Standard 2 of 5</li><li>MSI</li><li>Code 11</li><li>Codabar</li><li>EAN 14 (SCC 14)</li><li>SSCC 18</li><li>ITF 14</li><li>Matrix 2 of 5</li><li>PZN</li><li>Code 128</li><li>Code 39 Extended</li><li>Code 39 Standard</li><li>Code 93 Extended</li><li>Code 93 Standard</li><li>IATA 2 of 5</li><li>OPC</li><li>GS1Code128</li><li>ISBN</li><li>ISMN</li><li>ISSN</li><li>ITF6</li><li>VIN</li><li>Pharmacode</li><li>GS1 Databar Family: DatabarOmniDirectional, DatabarTruncated, DatabarLimited, DatabarExpanded, DatabarStacked, DatabarExpandedStacked, DatabarStackedOmniDirectional</li><li>PatchCode</li><li>Supplement (Decode only)</li></ul>
-    </div>
-</div>
-<div class="col-lg-12">
-    <h4>
-        2D types include:
-    </h4>
-    <div class="adaptive_columns">
-        <ul class="unstyled"><li>PDF 417</li><li>Macro PDF 417</li><li>Micro PDF 417</li><li>Aztec</li><li>DataMatrix</li><li>Compact PDF 417 (Decode only)</li><li>QR</li><li>MicroQR</li><li>DotCode</li><li>MaxiCode</li><li>GS1DataMatrix</li><li>Italian Post 25</li><li>Code16K</li></ul>
-    </div>
-</div>
-<div class="col-lg-12">
-    <h4>
-        Postal types include:
-    </h4>
-    <div class="adaptive_columns">
-        <ul class="unstyled"><li>Postnet</li><li>Planet</li><li>Australia Post</li><li>USPS OneCode</li><li>Deutsche Post Identcode</li><li>RM4SCC</li><li>Deutsche Post Leticode</li><li>SingaporePost</li><li>AustralianPosteParcel</li><li>SwissPostParcel</li><li>UpcaGs1DatabarCoupon</li></ul>
-    </div>
-</div><!--supportedSymbologiesSection End-->
+<!--simpleHeaderDescriptionSection1-->
+            <div class="col-lg-12">
+                <h2 class="h2title">
+                    Integration with SQL Server Reporting Services
+                </h2>
+                <p>
+                    Aspose.BarCode for Reporting Services can easily be integrated with existing and new projects by just adding Aspose.BarCode for Reporting Services to Visual Studio's Toolbox. Once available in the Toolbox, you can easily drag and drop it onto the project wherever desired.
+                </p>
+            </div>
+<!--simpleHeaderDescriptionSection1 End-->
                 <div class="col-lg-12">
                 <h2 class="h2title">
                     Barcode Generation Live Example
@@ -287,6 +248,7 @@ weight: 440
         .barcode-gen-lcs-mods {
             display: flex;
             flex-direction: column;
+            margin-bottom: 15px;
         }
         .barcode-gen-lcs-mods select {
 			margin-bottom: 7px;
@@ -479,11 +441,19 @@ weight: 440
                 <option value="Aztec">Aztec</option>
                 <option value="Code128">Code 128</option>
                 <option value="GS1Code128">GS1 Code 128</option>
+                <option value="Code39">Code 39</option>
+                <option value="DatabarOmniDirectional">DataBar Omnidirectional</option>
+                <option value="DatabarTruncated">DataBar Truncated</option>
+                <option value="DatabarLimited">DataBar Limited</option>
+                <option value="DatabarExpanded">DataBar Expanded</option>
+                <option value="DatabarExpandedStacked">DataBar Expanded Stacked</option>
+                <option value="DatabarStacked">DataBar Stacked</option>
+                <option value="DatabarStackedOmniDirectional">DataBar Stacked Omnidirectional</option>
                 <option value="UPCA">UPC-A</option>
                 <option value="UPCE">UPC-E</option>
-                <option value="EAN8">EAN-8</option>
                 <option value="EAN13">EAN-13</option>
                 <option value="EAN14">EAN-14</option>
+                <option value="EAN8">EAN-8</option>
                 <option value="ITF14">ITF-14</option>
                 <option value="Mailmark">Royal Mailmark</option>
             </select>
@@ -499,7 +469,6 @@ weight: 440
             <input id="generate-button" type="button" value="Run code" class="barcode-gen-lcs-disabled" onclick="generateBarcodeAsync()" />
         </div>
     </div>
-    <p class="barcode-gen-lcs-disclaimer">* By uploading your files or using the service you agree with our <a href="https://about.aspose.com/legal/terms-of-use" rel="nofollow noreferrer" target="_blank">Terms of use</a> and <a href="https://about.aspose.com/legal/privacy-policy" rel="nofollow noreferrer" target="_blank">Privacy Policy</a>.</p>
 <div id="code" class="codeblock"><h3>Code to be executed - C#</h3><pre>
 <code class="cs hljs">
 <span class="hljs-comment">// Initialize barcode generator</span>
@@ -632,22 +601,20 @@ weight: 440
 {{< /blocks/products/pf/agp/feature-section2 >}}
             </div>
     
-<!--simpleHeaderDescriptionSection1-->
             <div class="col-lg-12">
                 <h2 class="h2title">
-                    Barcode Label Customization
+                    Custom Barcode Size and Color
                 </h2>
                 <p>
-                    Barcodes generated by Aspose.BarCode for Reporting Services can be customized in various ways for example - size, forecolor, back color, code-text location, angle, caption (color, location and size) etc. It is ideal for generating barcodes for the most common application needs.
+                    Aspose.BarCode for SQL Reporting Services API provides rich functionality to generate barcode image with custom color and size. Developers can create Java applications to generate barcodes of any color or size depending on business needs. It is possible to customize the appearance all barcode elements, including colors of bars, background, borders, and text captions, as well as their positioning. Barcode can be generated with or without displaying input text, upper and/or lower caption, paddings, and borders. Barcode size can be set automatically depeding on the X-dimension or manually. It can be defined in various units, such as millimeters, inches, points, or pixels. If required, image proportions and resolution can be modified. The size of text font can be customized as well.
                 </p>
             </div>
-<!--simpleHeaderDescriptionSection1 End-->
             <div class="col-lg-12">
                 <h2 class="h2title">
                     Barcode Recognition Live Example
                 </h2>
                 <p>
-                    Barcode API contains another powerful feature to read or detect the most commonly used 1D and 2D barcodes, detecting them anywhere. Just few lines of code to detect the barcodes from the image.
+                    The barcode reader API provides a set of features for scanning, detecting, and reading 1D, 2D, and postal barcodes. With just a few lines of code, developers can easily integrate this functionality into their applications and use it to detect and decode a wide range of commonly used barcodes. The API is designed to be user-friendly and intuitive, making it easy for developers to quickly and easily add barcode scanning capabilities to their PHP applications.
                 </p>
                 {{< blocks/products/pf/agp/feature-section2 >}}
 <!-- BEGIN LCS -->
@@ -844,6 +811,8 @@ weight: 440
                 <option value="DataMatrix">DataMatrix</option>
                 <option value="Aztec">Aztec</option>
                 <option value="Code128">Code 128</option>
+                <option value="Code128">Code 39</option>
+                <option value="DataBar">DataBar</option>
                 <option value="UPC">UPC</option>
                 <option value="EAN">EAN</option>
                 <option value="ITF">ITF</option>
@@ -1107,20 +1076,63 @@ weight: 440
             </div>
             <div class="col-lg-12">
                 <h2 class="h2title">
-                    Integration with SQL Server Reporting Services
-                </h2>
-                <p>
-                    Aspose.BarCode for Reporting Services can easily be integrated with existing and new projects by just adding Aspose.BarCode for Reporting Services to Visual Studio's Toolbox. Once available in the Toolbox, you can easily drag and drop it onto the project wherever desired.
-                </p>
-            </div>
-            <div class="col-lg-12">
-                <h2 class="h2title">
                     Barcode Designer for Visual Studio
                 </h2>
                 <p>
                     The layout of the barcode labels can be altered by using the fully-integrated Barcode Designer for Visual Studio. Developers can preview and adjust the barcode images at design-time. The designer also allows customizing various settings to adjust the appearance of barcode images.
                 </p>
             </div>
+<!--supportedSymbologiesSection-->
+<style>
+    .adaptive_columns
+    {
+        -moz-column-width: 20em;
+        -webkit-column-width: 20em;
+        column-width: 20em;
+    }
+    .adaptive_columns ul
+    {
+        margin: 0;
+        padding: 0;
+        list-style-type: none;
+    }
+    .adaptive_columns ul li:first-child
+    {
+        margin-top:0px;
+    }
+</style>
+<div class="col-lg-12" style="margin-bottom: 40px;">
+    <div class="col-lg-12">
+        <h2 class="h2title">
+            Supported Symbologies
+        </h2>
+        <p>
+            Aspose.BarCode for Reporting Services supports over 40 most popular barcode symbologies including:
+        </p>
+        <h4>
+            Supported linear types:
+        </h4>
+        <div class="adaptive_columns">
+            <ul class="unstyled"><li>EAN-13</li><li>EAN-8</li><li>UPC-A</li><li>UPC-E</li><li>Interleaved 2-of-5</li><li>Standard 2-of-5</li><li>MSI</li><li>Code 11</li><li>Codabar</li><li>EAN-14</li><li>SSCC-18</li><li>ITF-14</li><li>Matrix 2-of-5</li><li>PZN</li><li>Code 128</li><li>Code 39 Extended</li><li>Code 93 Extended</li><li>Code 93 Standard</li><li>IATA 2-of-5</li><li>OPC</li><li>GS1 Code 128</li><li>ISBN</li><li>ISMN</li><li>ISSN</li><li>ITF-6</li><li>VIN</li><li>Pharmacode</li><li>GS1 Databar Family: Databar Omnidirectional, Databar Truncated, Databar Limited, Databar Expanded, Databar Stacked, Databar Expanded Stacked, Databar Stacked Omnidirectional</li><li>PatchCode</li><li>Supplement</li></ul>
+        </div>
+    </div>
+    <div class="col-lg-12">
+        <h4>
+            2D types:
+        </h4>
+        <div class="adaptive_columns">
+            <ul class="unstyled"><li>PDF417</li><li>Macro PDF417</li><li>Micro PDF417</li><li>Aztec Code</li><li>Data Matrix</li><li>Compact PDF417</li><li>QR Code</li><li>Micro QR Code</li><li>DotCode</li><li>MaxiCode</li><li>GS1 Data Matrix</li><li>Italian Post 25</li><li>Code16K</li></ul>
+        </div>
+    </div>
+    <div class="col-lg-12">
+        <h4>
+            Postal types:
+        </h4>
+        <div class="adaptive_columns">
+            <ul class="unstyled"><li>Postnet</li><li>Planet</li><li>Australia Post</li><li>USPS OneCode</li><li>Deutsche Post Identcode</li><li>Royal Mailmark</li><li>RM4SCC</li><li>Deutsche Post Leticode</li><li>SingaporePost</li><li>AustralianPost eParcel</li><li>SwissPost Parcel</li></ul>
+        </div>
+    </div>
+</div><!--supportedSymbologiesSection End-->
         </div>
     </div>
 </div>
@@ -1144,9 +1156,9 @@ weight: 440
 
 {{< blocks/products/pf/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="Learning Resources" tabId="resources" >}}
-{{< blocks/products/pf/slr-element name="Documentation" href="https://docs.aspose.com/barcode/{prod}/" >}}
+{{< blocks/products/pf/slr-element name="Documentation" href="https://docs.aspose.com/barcode/reportingservices/" >}}
 {{< blocks/products/pf/slr-element name="Source Code" href="https://github.com/aspose-barcode/Aspose.BarCode-for-.NET" >}}
-{{< blocks/products/pf/slr-element name="API References" href="https://apireference.aspose.com/{prod}/barcode" >}}
+{{< blocks/products/pf/slr-element name="API References" href="https://reference.aspose.com/barcode/net/" >}}
 {{< blocks/products/pf/slr-element name="Tutorial Videos" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
@@ -1154,7 +1166,7 @@ weight: 440
 {{< blocks/products/pf/slr-element name="Free Support" href="https://forum.aspose.com/c/barcode/" >}}
 {{< blocks/products/pf/slr-element name="Paid Support" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.com/category/barcode/" >}}
-{{< blocks/products/pf/slr-element name="Release Notes" href="https://docs.aspose.com/barcode/{prod}/release-notes/" >}}
+{{< blocks/products/pf/slr-element name="Release Notes" href="https://docs.aspose.com/barcode/reportingservices/release-notes/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Why Aspose.BarCode for SQL Reporting Services?" tabId="success-stories" >}}
@@ -1164,7 +1176,7 @@ weight: 440
 
 {{< /blocks/products/pf/support-learning-resources >}}
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/barcode/reporting-services/" pricingInformationLink="https://purchase.aspose.com/pricing/barcode/reporting-services/" >}}
+{{< blocks/products/pf/download-section downloadFreeTrialLink="https://releases.aspose.com/barcode/reportingservices/" pricingInformationLink="https://purchase.aspose.com/pricing/barcode/reporting-services" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.BarCode" description="Aspose.BarCode offers individual Barcode generation and recognition APIs for other popular development environments as listed below:" >}}
 

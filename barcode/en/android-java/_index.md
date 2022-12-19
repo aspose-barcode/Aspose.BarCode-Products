@@ -7,11 +7,11 @@ weight: 440
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Android APIs for Barcode Generation & Recognition" h2="Create or read 1D, 2D and postal barcodes from images in any Android mobile app." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/headers/aspose_barcode-for-android-java.svg" pfName="Aspose.BarCode" subTitlepfName="for Android via Java" downloadUrl="https://downloads.aspose.com/barcode/android-java" >}}
+{{< blocks/products/pf/upper-banner h1="Android APIs for Barcode Generation & Recognition" h2="Create or read 1D, 2D and postal barcodes from images in any Android mobile app." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/headers/aspose_barcode-for-android-java.svg" pfName="Aspose.BarCode" subTitlepfName="for Android via Java" downloadUrl="https://releases.aspose.com/barcode/androidjava/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.BarCode" subTitlepfName="for Android via Java" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-android-java.svg" liveDemosLink="https://products.aspose.app/barcode/family" PricingLink="https://purchase.aspose.com/pricing/barcode/android-java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/barcode/android-java/" installationsDocsLink="https://docs.aspose.com/barcode/android-java/installation" nugetLink="" nugetPackageName="" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/barcode/android-java" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-android-java.svg" liveDemosLink="https://products.aspose.app/barcode/family" PricingLink="https://purchase.aspose.com/pricing/barcode/android-java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/barcode/java/" installationsDocsLink="https://docs.aspose.com/barcode/android-java/installation" nugetLink="" nugetPackageName="" mavenRepoLink="" directDownloadLink="https://releases.aspose.com/barcode/androidjava/" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>Aspose.BarCode for Android via Java is a set of barcode generation &amp; scanning APIs for Android applications. API supports 1D, 2D &amp; postal barcodes from different angles on images. Barcode generator API easily creates barcode images within multiple formats.  Moreover, It supports multiple imaging features such as manipulating image borders, image color, rotating images, customizing resolution and much more.</p>
@@ -111,7 +111,7 @@ weight: 440
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Supported File Formats" description="Aspose.BarCode for Android via Java works with most commonly used image [file formats](https://docs.aspose.com/barcode/android-java/supported-file-formats/)." >}}
+{{< blocks/products/pf/carousel-item h3="Supported File Formats" description="Aspose.BarCode for Android via Java works with most commonly used image file formats." >}}
 <div class='diagram1 d2 d1-android'>
     <div class="d1-row">
         <div class="d1-col d1-left">
@@ -168,94 +168,55 @@ weight: 440
                 <em class='fa fa-print ico-blue fa-2x col-lg-2'>
                 </em>
                 <p class="col-lg-10">
-                    <a href='https://docs.aspose.com/barcode/net/qr-and-micro-qr-barcode/#data-encoding-modes'>Encode &amp; decode non-english characters in 2D types</a>
+                    <a href='https://docs.aspose.com/barcode/androidjava/qr-code-generation/'>Encode non-english characters in QR codes</a>
                 </p>
             </div>
             <div class="col-lg-4">
                 <em class='fa fa-barcode ico-blue fa-2x col-lg-2'>
                 </em>
                 <p class="col-lg-10">
-                    <a href='https://docs.aspose.com/barcode/net/image-formatting-and-display-settings/'>Control code's size, color &amp; code text</a>
+                    <a href='https://docs.aspose.com/barcode/androidjava/barcode-color-modification/'>Modify barcode color scheme</a>
                 </p>
             </div>
             <div class="col-lg-4">
                 <em class='fa fa-exchange ico-blue fa-2x col-lg-2'>
                 </em>
                 <p class="col-lg-10">
-                    <a href='https://docs.aspose.com/barcode/net/image-formatting-and-display-settings/#barcode-rotation'>Rotate code images at any angle</a>
+                    <a href='https://docs.aspose.com/barcode/androidjava/barcode-appearance-customization/'>Rotate barcode images at any angle</a>
                 </p>
             </div>
             <div class="col-lg-4">
                 <em class='fa fa-repeat ico-blue fa-2x col-lg-2'>
                 </em>
                 <p class="col-lg-10">
-                    <a href='https://docs.aspose.com/barcode/java/aspose-barcode-for-android-via-java-features/#supported-barcode-symbologies'>Generate and recognize a multitude of types</a>
+                    <a href='https://docs.aspose.com/barcode/androidjava/working-with-barcode-types/'>Generate and recognize barcodes of 60+ types</a>
                 </p>
             </div>
             <div class="col-lg-4">
                 <em class='fa fa-file-image-o ico-blue fa-2x col-lg-2'>
                 </em>
                 <p class="col-lg-10">
-                    <a href='https://docs.aspose.com/barcode/java/aspose-barcode-for-android-via-java-features/#supported-barcode-symbologies'>Linear, 2D and postal symbologies supported</a>
+                    <a href='https://docs.aspose.com/barcode/androidjava/recognition-settings/'>Read barcodes from images</a>
                 </p>
             </div>
             <div class="col-lg-4">
                 <em class='fa fa-book ico-blue fa-2x col-lg-2'>
                 </em>
                 <p class="col-lg-10">
-                    <a href='https://docs.aspose.com/barcode/java/aspose-barcode-for-android-via-java-features/#barcode-imaging-features'>Export code labels to a verity of image formats</a>
+                    <a href='https://docs.aspose.com/barcode/androidjava/barcode-image-saving/'>Export barcodes in various image formats</a>
                 </p>
             </div>
 <!--advancedFeaturesSection End-->
-<!--supportedSymbologiesSection-->
-<style>
-    .adaptive_columns
-    {
-        -moz-column-width: 20em;
-        -webkit-column-width: 20em;
-        column-width: 20em;
-    }
-    .adaptive_columns ul
-    {
-        margin: 0;
-        padding: 0;
-        list-style-type: none;
-    }
-    .adaptive_columns ul li:first-child
-    {
-        margin-top:0px;
-    }
-</style>
-<div class="col-lg-12">
-    <h2 class="h2title">
-        Supported Symbologies
-    </h2>
-    <p>
-        Aspose.BarCode for Android via Java supports different postal, 2D and linear bar code symbologies for both encoding and decoding.
-    </p>
-    <h4>
-        API supported linear types include:
-    </h4>
-    <div class="adaptive_columns">
-        <ul class="unstyled"><li>EAN 13</li><li>EAN 8</li><li>UPC A</li><li>UPC E</li><li>Interleaved 2 of 5</li><li>Standard 2 of 5</li><li>MSI</li><li>Code 11</li><li>Codabar</li><li>EAN 14 (SCC 14)</li><li>SSCC 18</li><li>ITF 14</li><li>Matrix 2 of 5</li><li>PZN</li><li>Code 128</li><li>Code 39 Extended</li><li>Code 39 Standard</li><li>Code 93 Extended</li><li>Code 93 Standard</li><li>IATA 2 of 5</li><li>OPC</li><li>GS1Code128</li><li>ISBN</li><li>ISMN</li><li>ISSN</li><li>ITF6</li><li>VIN</li><li>Pharmacode</li><li>GS1 Databar Family: DatabarOmniDirectional, DatabarTruncated, DatabarLimited, DatabarExpanded, DatabarStacked, DatabarExpandedStacked, DatabarStackedOmniDirectional</li><li>PatchCode</li><li>Supplement (Decode only)</li></ul>
-    </div>
-</div>
-<div class="col-lg-12">
-    <h4>
-        2D types include:
-    </h4>
-    <div class="adaptive_columns">
-        <ul class="unstyled"><li>PDF 417</li><li>Macro PDF 417</li><li>Micro PDF 417</li><li>Aztec</li><li>DataMatrix</li><li>Compact PDF 417 (Decode only)</li><li>QR</li><li>MicroQR</li><li>DotCode</li><li>MaxiCode</li><li>GS1DataMatrix</li><li>Italian Post 25</li><li>Code16K</li></ul>
-    </div>
-</div>
-<div class="col-lg-12">
-    <h4>
-        Postal types include:
-    </h4>
-    <div class="adaptive_columns">
-        <ul class="unstyled"><li>Postnet</li><li>Planet</li><li>Australia Post</li><li>USPS OneCode</li><li>Deutsche Post Identcode</li><li>RM4SCC</li><li>Deutsche Post Leticode</li><li>SingaporePost</li><li>AustralianPosteParcel</li><li>SwissPostParcel</li><li>UpcaGs1DatabarCoupon</li></ul>
-    </div>
-</div><!--supportedSymbologiesSection End-->
+<!--simpleHeaderDescriptionSection1-->
+            <div class="col-lg-12">
+                <h2 class="h2title">
+                    Create Custom Barcodes
+                </h2>
+                <p>
+                    The barcode library for Android via Java allows developers to customize some common barcode parameters, including the type of barcode, the data to be encoded, the barcode size, the font style and color, and the orientation angle. To generate a barcode, you need to select the required type of barcode to create, such as, for example, UPC or EAN. You also have to enter the data to be stored in the barcode, such as a product number or a URL. In addition, you can set the required sizing mode and adjust the color of barcode elements, resolution, border style, and other appearance-related parameters. It is possible to modify the width of the bars and spacing between them. These additional parameters can affect the readability and quality of barcodes, so it is important to understand their purpose and how to adjust them correctly.
+                </p>
+            </div>
+<!--simpleHeaderDescriptionSection1 End-->
                 <div class="col-lg-12">
                 <h2 class="h2title">
                     Barcode Generation Live Example
@@ -315,6 +276,7 @@ weight: 440
         .barcode-gen-lcs-mods {
             display: flex;
             flex-direction: column;
+            margin-bottom: 15px;
         }
         .barcode-gen-lcs-mods select {
 			margin-bottom: 7px;
@@ -507,11 +469,19 @@ weight: 440
                 <option value="Aztec">Aztec</option>
                 <option value="Code128">Code 128</option>
                 <option value="GS1Code128">GS1 Code 128</option>
+                <option value="Code39">Code 39</option>
+                <option value="DatabarOmniDirectional">DataBar Omnidirectional</option>
+                <option value="DatabarTruncated">DataBar Truncated</option>
+                <option value="DatabarLimited">DataBar Limited</option>
+                <option value="DatabarExpanded">DataBar Expanded</option>
+                <option value="DatabarExpandedStacked">DataBar Expanded Stacked</option>
+                <option value="DatabarStacked">DataBar Stacked</option>
+                <option value="DatabarStackedOmniDirectional">DataBar Stacked Omnidirectional</option>
                 <option value="UPCA">UPC-A</option>
                 <option value="UPCE">UPC-E</option>
-                <option value="EAN8">EAN-8</option>
                 <option value="EAN13">EAN-13</option>
                 <option value="EAN14">EAN-14</option>
+                <option value="EAN8">EAN-8</option>
                 <option value="ITF14">ITF-14</option>
                 <option value="Mailmark">Royal Mailmark</option>
             </select>
@@ -527,7 +497,6 @@ weight: 440
             <input id="generate-button" type="button" value="Run code" class="barcode-gen-lcs-disabled" onclick="generateBarcodeAsync()" />
         </div>
     </div>
-    <p class="barcode-gen-lcs-disclaimer">* By uploading your files or using the service you agree with our <a href="https://about.aspose.com/legal/terms-of-use" rel="nofollow noreferrer" target="_blank">Terms of use</a> and <a href="https://about.aspose.com/legal/privacy-policy" rel="nofollow noreferrer" target="_blank">Privacy Policy</a>.</p>
 <div id="code" class="codeblock"><h3>Code to be executed - Java</h3><pre>
 <code class='java hljs'>
 <span class="hljs-comment">// Create an instane of the BarcodeGenerator class</span>
@@ -665,22 +634,20 @@ generator.generateBarCodeImage();
 {{< /blocks/products/pf/agp/feature-section2 >}}
             </div>
     
-<!--simpleHeaderDescriptionSection1-->
             <div class="col-lg-12">
                 <h2 class="h2title">
-                    Imaging, Rotation &amp; Sizing Support
+                    Optimized Barcode Scanning and Decoding
                 </h2>
                 <p>
-                    Common manipulation features of the barcode library are modifying barcode image, border and background colors, bar color, margins, width of images and much more. Furthermore, android API can adjust the resolution for the resultant images and can rotate images at any angle for generating high-quality images with anti-aliasing.
+                    The barcode API provides a useful feature for detecting and reading barcodes of over 60 popular 1D and 2D types. It only requires a few lines of code to scan barcodes, making it easy to integrate this functionality into your applications. This powerful feature allows you to quickly and accurately scan and read barcodes from a wide range of sources, such as images, documents, etc. With the ability to detect and read so many different types of barcodes, this API is a valuable tool for a wide range of applications and industries. It can be used to automate and streamline processes, reduce the risk of errors, and improve the overall efficiency of operations. Whether you need to develop applications for retail, logistics, healthcare, or any other field, this barcode API can provide a valuable solution for barcode detection and reading tasks.<br>The API provides a range of powerful features for optimizing barcode reading to meet the specific needs of your business. Developers can adjust the parameters of the recognition engine to enable fast barcode scanning or improve reading precision. Depending on the quality and parameters of the source barcode images, the library allows customizing the recognition process. It includes several preset configurations of such parameters, which can be used to quickly scan high-quality barcode images or improve the chances of successfully decoding damaged or degraded barcodes. Additionally, there are special settings that can improve barcode reading for different types of distortions, such as Gaussian noise, white spots, and inverted colors. With the ability to fine-tune the recognition process, the API can be tailored to provide the most efficient barcode reading for a wide range of applications and scenarios.
                 </p>
             </div>
-<!--simpleHeaderDescriptionSection1 End-->
             <div class="col-lg-12">
                 <h2 class="h2title">
                     Barcode Recognition Live Example
                 </h2>
                 <p>
-                    Barcode API contains another powerful feature to read or detect the most commonly used 1D and 2D barcodes, detecting them anywhere. Just few lines of code to detect the barcodes from the image.
+                    The barcode reader API provides a set of features for scanning, detecting, and reading 1D, 2D, and postal barcodes. With just a few lines of code, developers can easily integrate this functionality into their applications and use it to detect and decode a wide range of commonly used barcodes. The API is designed to be user-friendly and intuitive, making it easy for developers to quickly and easily add barcode scanning capabilities to their PHP applications.
                 </p>
                 {{< blocks/products/pf/agp/feature-section2 >}}
 <!-- BEGIN LCS -->
@@ -877,6 +844,8 @@ generator.generateBarCodeImage();
                 <option value="DataMatrix">DataMatrix</option>
                 <option value="Aztec">Aztec</option>
                 <option value="Code128">Code 128</option>
+                <option value="Code128">Code 39</option>
+                <option value="DataBar">DataBar</option>
                 <option value="UPC">UPC</option>
                 <option value="EAN">EAN</option>
                 <option value="ITF">ITF</option>
@@ -1136,6 +1105,57 @@ generator.generateBarCodeImage();
 <!-- END LCS -->
 {{< /blocks/products/pf/agp/feature-section2 >}}
             </div>
+<!--supportedSymbologiesSection-->
+<style>
+    .adaptive_columns
+    {
+        -moz-column-width: 20em;
+        -webkit-column-width: 20em;
+        column-width: 20em;
+    }
+    .adaptive_columns ul
+    {
+        margin: 0;
+        padding: 0;
+        list-style-type: none;
+    }
+    .adaptive_columns ul li:first-child
+    {
+        margin-top:0px;
+    }
+</style>
+<div class="col-lg-12" style="margin-bottom: 40px;">
+    <div class="col-lg-12">
+        <h2 class="h2title">
+            Supported Symbologies
+        </h2>
+        <p>
+            Aspose.BarCode for Android via Java supports different postal, 2D and linear bar code symbologies for both encoding and decoding.
+        </p>
+        <h4>
+            Supported linear types:
+        </h4>
+        <div class="adaptive_columns">
+            <ul class="unstyled"><li>EAN-13</li><li>EAN-8</li><li>UPC-A</li><li>UPC-E</li><li>Interleaved 2-of-5</li><li>Standard 2-of-5</li><li>MSI</li><li>Code 11</li><li>Codabar</li><li>EAN-14</li><li>SSCC-18</li><li>ITF-14</li><li>Matrix 2-of-5</li><li>PZN</li><li>Code 128</li><li>Code 39 Extended</li><li>Code 93 Extended</li><li>Code 93 Standard</li><li>IATA 2-of-5</li><li>OPC</li><li>GS1 Code 128</li><li>ISBN</li><li>ISMN</li><li>ISSN</li><li>ITF-6</li><li>VIN</li><li>Pharmacode</li><li>GS1 Databar Family: Databar Omnidirectional, Databar Truncated, Databar Limited, Databar Expanded, Databar Stacked, Databar Expanded Stacked, Databar Stacked Omnidirectional</li><li>PatchCode</li><li>Supplement</li></ul>
+        </div>
+    </div>
+    <div class="col-lg-12">
+        <h4>
+            2D types:
+        </h4>
+        <div class="adaptive_columns">
+            <ul class="unstyled"><li>PDF417</li><li>Macro PDF417</li><li>Micro PDF417</li><li>Aztec Code</li><li>Data Matrix</li><li>Compact PDF417</li><li>QR Code</li><li>Micro QR Code</li><li>DotCode</li><li>MaxiCode</li><li>GS1 Data Matrix</li><li>Italian Post 25</li><li>Code16K</li></ul>
+        </div>
+    </div>
+    <div class="col-lg-12">
+        <h4>
+            Postal types:
+        </h4>
+        <div class="adaptive_columns">
+            <ul class="unstyled"><li>Postnet</li><li>Planet</li><li>Australia Post</li><li>USPS OneCode</li><li>Deutsche Post Identcode</li><li>Royal Mailmark</li><li>RM4SCC</li><li>Deutsche Post Leticode</li><li>SingaporePost</li><li>AustralianPost eParcel</li><li>SwissPost Parcel</li></ul>
+        </div>
+    </div>
+</div><!--supportedSymbologiesSection End-->
         </div>
     </div>
 </div>
@@ -1159,9 +1179,9 @@ generator.generateBarCodeImage();
 
 {{< blocks/products/pf/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="Learning Resources" tabId="resources" >}}
-{{< blocks/products/pf/slr-element name="Documentation" href="https://docs.aspose.com/barcode/{prod}/" >}}
-{{< blocks/products/pf/slr-element name="Source Code" href="https://github.com/aspose-barcode/Aspose.BarCode-for-.NET" >}}
-{{< blocks/products/pf/slr-element name="API References" href="https://apireference.aspose.com/{prod}/barcode" >}}
+{{< blocks/products/pf/slr-element name="Documentation" href="https://docs.aspose.com/barcode/java/" >}}
+{{< blocks/products/pf/slr-element name="Source Code" href="https://github.com/aspose-barcode/Android-Library-Usage-Examples" >}}
+{{< blocks/products/pf/slr-element name="API References" href="https://reference.aspose.com/barcode/androidjava/" >}}
 {{< blocks/products/pf/slr-element name="Tutorial Videos" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
@@ -1169,7 +1189,7 @@ generator.generateBarCodeImage();
 {{< blocks/products/pf/slr-element name="Free Support" href="https://forum.aspose.com/c/barcode/" >}}
 {{< blocks/products/pf/slr-element name="Paid Support" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.com/category/barcode/" >}}
-{{< blocks/products/pf/slr-element name="Release Notes" href="https://docs.aspose.com/barcode/{prod}/release-notes/" >}}
+{{< blocks/products/pf/slr-element name="Release Notes" href="https://docs.aspose.com/barcode/java/android-via-java-release-notes/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Why Aspose.BarCode for Android via Java?" tabId="success-stories" >}}
@@ -1179,7 +1199,7 @@ generator.generateBarCodeImage();
 
 {{< /blocks/products/pf/support-learning-resources >}}
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/barcode/android-java/" pricingInformationLink="https://purchase.aspose.com/pricing/barcode/android-java/" >}}
+{{< blocks/products/pf/download-section downloadFreeTrialLink="https://releases.aspose.com/barcode/androidjava/" pricingInformationLink="https://purchase.aspose.com/pricing/barcode/android-java" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.BarCode" description="Aspose.BarCode offers individual Barcode generation and recognition APIs for other popular development environments as listed below:" >}}
 

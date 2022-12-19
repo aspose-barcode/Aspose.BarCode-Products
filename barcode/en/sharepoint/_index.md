@@ -7,11 +7,11 @@ weight: 440
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="SharePoint Barcode APIs" h2="Barcode SharePoint App to add Linear, 2D & Postal barcodes to Microsoft SharePoint lists." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/headers/aspose_barcode-for-sharepoint.svg" pfName="Aspose.BarCode" subTitlepfName="for SharePoint" downloadUrl="https://downloads.aspose.com/barcode/sharepoint" >}}
+{{< blocks/products/pf/upper-banner h1="SharePoint Barcode APIs" h2="Barcode SharePoint App to add Linear, 2D & Postal barcodes to Microsoft SharePoint lists." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/headers/aspose_barcode-for-sharepoint.svg" pfName="Aspose.BarCode" subTitlepfName="for SharePoint" downloadUrl="https://releases.aspose.com/barcode/sharepoint/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.BarCode" subTitlepfName="for SharePoint" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-sharepoint.svg" liveDemosLink="https://products.aspose.app/barcode/family" PricingLink="https://purchase.aspose.com/pricing/barcode/sharepoint" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/barcode/sharepoint/" installationsDocsLink="https://docs.aspose.com/barcode/sharepoint/installation" nugetLink="" nugetPackageName="" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/barcode/sharepoint" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-sharepoint.svg" liveDemosLink="https://products.aspose.app/barcode/family" PricingLink="https://purchase.aspose.com/pricing/barcode/sharepoint" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/barcode/sharepoint/" installationsDocsLink="https://docs.aspose.com/barcode/sharepoint/installation" nugetLink="" nugetPackageName="" mavenRepoLink="" directDownloadLink="https://releases.aspose.com/barcode/sharepoint/" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>Aspose.BarCode for SharePoint allows to add a large number of linear, 2D and postal barcode symbols to Microsoft SharePoint Foundation 2010 and Microsoft Office SharePoint Server 2010 (MOSS) lists. You may add barcodes to any list by specifying code text and symbology.</p>
@@ -110,7 +110,7 @@ weight: 440
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Supported File Formats" description="Aspose.BarCode for SharePoint works with most commonly used image [file formats](https://docs.aspose.com/barcode/sharepoint/supported-file-formats/)." >}}
+{{< blocks/products/pf/carousel-item h3="Supported File Formats" description="Aspose.BarCode for SharePoint works with most commonly used image file formats." >}}
 <div class='diagram1 d2 d1-sharepoint'>
     <div class="d1-row">
         <div class="d1-col d1-left">
@@ -159,55 +159,16 @@ weight: 440
         <div class="container">
 <!--advancedFeaturesSection-->
 <!--advancedFeaturesSection End-->
-<!--supportedSymbologiesSection-->
-<style>
-    .adaptive_columns
-    {
-        -moz-column-width: 20em;
-        -webkit-column-width: 20em;
-        column-width: 20em;
-    }
-    .adaptive_columns ul
-    {
-        margin: 0;
-        padding: 0;
-        list-style-type: none;
-    }
-    .adaptive_columns ul li:first-child
-    {
-        margin-top:0px;
-    }
-</style>
-<div class="col-lg-12">
-    <h2 class="h2title">
-        Supported Symbologies
-    </h2>
-    <p>
-        Aspose.BarCode for Android via Java supports different postal, 2D and linear bar code symbologies for both encoding and decoding.
-    </p>
-    <h4>
-        API supported linear types include:
-    </h4>
-    <div class="adaptive_columns">
-        <ul class="unstyled"><li>EAN 13</li><li>EAN 8</li><li>UPC A</li><li>UPC E</li><li>Interleaved 2 of 5</li><li>Standard 2 of 5</li><li>MSI</li><li>Code 11</li><li>Codabar</li><li>EAN 14 (SCC 14)</li><li>SSCC 18</li><li>ITF 14</li><li>Matrix 2 of 5</li><li>PZN</li><li>Code 128</li><li>Code 39 Extended</li><li>Code 39 Standard</li><li>Code 93 Extended</li><li>Code 93 Standard</li><li>IATA 2 of 5</li><li>OPC</li><li>GS1Code128</li><li>ISBN</li><li>ISMN</li><li>ISSN</li><li>ITF6</li><li>VIN</li><li>Pharmacode</li><li>GS1 Databar Family: DatabarOmniDirectional, DatabarTruncated, DatabarLimited, DatabarExpanded, DatabarStacked, DatabarExpandedStacked, DatabarStackedOmniDirectional</li><li>PatchCode</li><li>Supplement (Decode only)</li></ul>
-    </div>
-</div>
-<div class="col-lg-12">
-    <h4>
-        2D types include:
-    </h4>
-    <div class="adaptive_columns">
-        <ul class="unstyled"><li>PDF 417</li><li>Macro PDF 417</li><li>Micro PDF 417</li><li>Aztec</li><li>DataMatrix</li><li>Compact PDF 417 (Decode only)</li><li>QR</li><li>MicroQR</li><li>DotCode</li><li>MaxiCode</li><li>GS1DataMatrix</li><li>Italian Post 25</li><li>Code16K</li></ul>
-    </div>
-</div>
-<div class="col-lg-12">
-    <h4>
-        Postal types include:
-    </h4>
-    <div class="adaptive_columns">
-        <ul class="unstyled"><li>Postnet</li><li>Planet</li><li>Australia Post</li><li>USPS OneCode</li><li>Deutsche Post Identcode</li><li>RM4SCC</li><li>Deutsche Post Leticode</li><li>SingaporePost</li><li>AustralianPosteParcel</li><li>SwissPostParcel</li><li>UpcaGs1DatabarCoupon</li></ul>
-    </div>
-</div><!--supportedSymbologiesSection End-->
+<!--simpleHeaderDescriptionSection1-->
+            <div class="col-lg-12">
+                <h2 class="h2title">
+                    Add Barcodes to Sharepoint Lists
+                </h2>
+                <p>
+                    Aspose.BarCode for SharePoint provides rich functionality to add barcodes to SharePoint lists. Such lists can be used to store and organize data in a structured format. It is a convenient way to manage a wide range of information, such as contacts, tasks, calendar events, and more. They provide multiple features for organizing, sorting, filtering, and sharing data. It may be useful to add barcodes to SharePoint lists to facilitate accessing and managing the information in the list. If a SharePoint list is created to track inventory items, developers can add barcodes to quickly and accurately scan and update the information in the list. This could facilitate tracking and managing inventory, as well as reduce the risk of discrepancies. Barcodes can serve to quickly access and view information in a SharePoint list, for example, by scanning barcodes to quickly display specific items or records in the list.
+                </p>
+            </div>
+<!--simpleHeaderDescriptionSection1 End-->
                 <div class="col-lg-12">
                 <h2 class="h2title">
                     Barcode Generation Live Example
@@ -267,6 +228,7 @@ weight: 440
         .barcode-gen-lcs-mods {
             display: flex;
             flex-direction: column;
+            margin-bottom: 15px;
         }
         .barcode-gen-lcs-mods select {
 			margin-bottom: 7px;
@@ -459,11 +421,19 @@ weight: 440
                 <option value="Aztec">Aztec</option>
                 <option value="Code128">Code 128</option>
                 <option value="GS1Code128">GS1 Code 128</option>
+                <option value="Code39">Code 39</option>
+                <option value="DatabarOmniDirectional">DataBar Omnidirectional</option>
+                <option value="DatabarTruncated">DataBar Truncated</option>
+                <option value="DatabarLimited">DataBar Limited</option>
+                <option value="DatabarExpanded">DataBar Expanded</option>
+                <option value="DatabarExpandedStacked">DataBar Expanded Stacked</option>
+                <option value="DatabarStacked">DataBar Stacked</option>
+                <option value="DatabarStackedOmniDirectional">DataBar Stacked Omnidirectional</option>
                 <option value="UPCA">UPC-A</option>
                 <option value="UPCE">UPC-E</option>
-                <option value="EAN8">EAN-8</option>
                 <option value="EAN13">EAN-13</option>
                 <option value="EAN14">EAN-14</option>
+                <option value="EAN8">EAN-8</option>
                 <option value="ITF14">ITF-14</option>
                 <option value="Mailmark">Royal Mailmark</option>
             </select>
@@ -479,7 +449,6 @@ weight: 440
             <input id="generate-button" type="button" value="Run code" class="barcode-gen-lcs-disabled" onclick="generateBarcodeAsync()" />
         </div>
     </div>
-    <p class="barcode-gen-lcs-disclaimer">* By uploading your files or using the service you agree with our <a href="https://about.aspose.com/legal/terms-of-use" rel="nofollow noreferrer" target="_blank">Terms of use</a> and <a href="https://about.aspose.com/legal/privacy-policy" rel="nofollow noreferrer" target="_blank">Privacy Policy</a>.</p>
 <div id="code" class="codeblock"><h3>Code to be executed - C#</h3><pre>
 <code class="cs hljs">
 <span class="hljs-comment">// Initialize barcode generator</span>
@@ -612,22 +581,20 @@ weight: 440
 {{< /blocks/products/pf/agp/feature-section2 >}}
             </div>
     
-<!--simpleHeaderDescriptionSection1-->
             <div class="col-lg-12">
                 <h2 class="h2title">
-                    Imaging, Rotation &amp; Sizing Support
+                    Save Barcodes in Various Formats
                 </h2>
                 <p>
-                    Aspose.BarCode for SharePoint allows the manipulation of label borders, border colors, style, margins, and width. It also provides the ability to modify image color, background color, and bar color. You can also rotate barcode images to any angle and produce high-quality images with anti-aliasing. In addition to this, you can set customized resolutions for the resultant images while saving them to any of the supported image formats.
+                    The barcode library provides various options to save generated barcodes not only using popular raster image formats but also to stream or vector. Barcodes can be downloaded using one of the five most widely used image formats or two vector formats. It is also possible to load barcodes as files, streams, or bitmaps. Developers can customize the process of barcode generation and saving according to specific business needs by setting the required output mode. The API supports the following file formats: BMP, PNG, GIF, JPEG, and TIFF for input/output; EMF and SVG for output.<br>Developers can save barcodes as vector images, such as EMF and SVG files, to scale them without losses in resolution.<br>It is possible to output generated barcodes as streams (using the binary format). Stream can be defined as an abstract byte sequence (for example, files, TCP/IP sockets, or inter-process communication pipes). This mode can be used to abstract from the use of specific operating systems and particular output devices. Saving barcodes as data streams can provide a variety of benefits, including flexibility, efficiency, compatibility, and scalability. These benefits make data streams a useful way to save and transmit barcodes in a wide range of applications and scenarios.<br>The API also enables firstly saving barcodes as bitmap objects and then downloading them in the required file format or processing further. A bitmap object is a data structure that represents a bitmap image. Such objects use a grid of pixels to represent an image. Each pixel in a bitmap is represented by a binary value, which specifies whether the pixel is filled or empty. Bitmap objects serve to represent and manipulate images. They are commonly used in graphics and imaging software.
                 </p>
             </div>
-<!--simpleHeaderDescriptionSection1 End-->
             <div class="col-lg-12">
                 <h2 class="h2title">
                     Barcode Recognition Live Example
                 </h2>
                 <p>
-                    Barcode API contains another powerful feature to read or detect the most commonly used 1D and 2D barcodes, detecting them anywhere. Just few lines of code to detect the barcodes from the image.
+                    The barcode reader API provides a set of features for scanning, detecting, and reading 1D, 2D, and postal barcodes. With just a few lines of code, developers can easily integrate this functionality into their applications and use it to detect and decode a wide range of commonly used barcodes. The API is designed to be user-friendly and intuitive, making it easy for developers to quickly and easily add barcode scanning capabilities to their PHP applications.
                 </p>
                 {{< blocks/products/pf/agp/feature-section2 >}}
 <!-- BEGIN LCS -->
@@ -824,6 +791,8 @@ weight: 440
                 <option value="DataMatrix">DataMatrix</option>
                 <option value="Aztec">Aztec</option>
                 <option value="Code128">Code 128</option>
+                <option value="Code128">Code 39</option>
+                <option value="DataBar">DataBar</option>
                 <option value="UPC">UPC</option>
                 <option value="EAN">EAN</option>
                 <option value="ITF">ITF</option>
@@ -1085,6 +1054,57 @@ weight: 440
 <!-- END LCS -->
 {{< /blocks/products/pf/agp/feature-section2 >}}
             </div>
+<!--supportedSymbologiesSection-->
+<style>
+    .adaptive_columns
+    {
+        -moz-column-width: 20em;
+        -webkit-column-width: 20em;
+        column-width: 20em;
+    }
+    .adaptive_columns ul
+    {
+        margin: 0;
+        padding: 0;
+        list-style-type: none;
+    }
+    .adaptive_columns ul li:first-child
+    {
+        margin-top:0px;
+    }
+</style>
+<div class="col-lg-12" style="margin-bottom: 40px;">
+    <div class="col-lg-12">
+        <h2 class="h2title">
+            Supported Symbologies
+        </h2>
+        <p>
+            SharePoint supports over 60 most widely used barcode types, including:
+        </p>
+        <h4>
+            Supported linear types:
+        </h4>
+        <div class="adaptive_columns">
+            <ul class="unstyled"><li>EAN-13</li><li>EAN-8</li><li>UPC-A</li><li>UPC-E</li><li>Interleaved 2-of-5</li><li>Standard 2-of-5</li><li>MSI</li><li>Code 11</li><li>Codabar</li><li>EAN-14</li><li>SSCC-18</li><li>ITF-14</li><li>Matrix 2-of-5</li><li>PZN</li><li>Code 128</li><li>Code 39 Extended</li><li>Code 93 Extended</li><li>Code 93 Standard</li><li>IATA 2-of-5</li><li>OPC</li><li>GS1 Code 128</li><li>ISBN</li><li>ISMN</li><li>ISSN</li><li>ITF-6</li><li>VIN</li><li>Pharmacode</li><li>GS1 Databar Family: Databar Omnidirectional, Databar Truncated, Databar Limited, Databar Expanded, Databar Stacked, Databar Expanded Stacked, Databar Stacked Omnidirectional</li><li>PatchCode</li><li>Supplement</li></ul>
+        </div>
+    </div>
+    <div class="col-lg-12">
+        <h4>
+            2D types:
+        </h4>
+        <div class="adaptive_columns">
+            <ul class="unstyled"><li>PDF417</li><li>Macro PDF417</li><li>Micro PDF417</li><li>Aztec Code</li><li>Data Matrix</li><li>Compact PDF417</li><li>QR Code</li><li>Micro QR Code</li><li>DotCode</li><li>MaxiCode</li><li>GS1 Data Matrix</li><li>Italian Post 25</li><li>Code16K</li></ul>
+        </div>
+    </div>
+    <div class="col-lg-12">
+        <h4>
+            Postal types:
+        </h4>
+        <div class="adaptive_columns">
+            <ul class="unstyled"><li>Postnet</li><li>Planet</li><li>Australia Post</li><li>USPS OneCode</li><li>Deutsche Post Identcode</li><li>Royal Mailmark</li><li>RM4SCC</li><li>Deutsche Post Leticode</li><li>SingaporePost</li><li>AustralianPost eParcel</li><li>SwissPost Parcel</li></ul>
+        </div>
+    </div>
+</div><!--supportedSymbologiesSection End-->
         </div>
     </div>
 </div>
@@ -1108,9 +1128,9 @@ weight: 440
 
 {{< blocks/products/pf/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="Learning Resources" tabId="resources" >}}
-{{< blocks/products/pf/slr-element name="Documentation" href="https://docs.aspose.com/barcode/{prod}/" >}}
+{{< blocks/products/pf/slr-element name="Documentation" href="https://docs.aspose.com/barcode/sharepoint/" >}}
 {{< blocks/products/pf/slr-element name="Source Code" href="https://github.com/aspose-barcode/Aspose.BarCode-for-.NET" >}}
-{{< blocks/products/pf/slr-element name="API References" href="https://apireference.aspose.com/{prod}/barcode" >}}
+{{< blocks/products/pf/slr-element name="API References" href="https://reference.aspose.com/barcode/net/" >}}
 {{< blocks/products/pf/slr-element name="Tutorial Videos" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
@@ -1118,7 +1138,7 @@ weight: 440
 {{< blocks/products/pf/slr-element name="Free Support" href="https://forum.aspose.com/c/barcode/" >}}
 {{< blocks/products/pf/slr-element name="Paid Support" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.com/category/barcode/" >}}
-{{< blocks/products/pf/slr-element name="Release Notes" href="https://docs.aspose.com/barcode/{prod}/release-notes/" >}}
+{{< blocks/products/pf/slr-element name="Release Notes" href="https://docs.aspose.com/barcode/sharepoint/release-notes/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Why Aspose.BarCode for SharePoint?" tabId="success-stories" >}}
@@ -1128,7 +1148,7 @@ weight: 440
 
 {{< /blocks/products/pf/support-learning-resources >}}
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/barcode/sharepoint/" pricingInformationLink="https://purchase.aspose.com/pricing/barcode/sharepoint/" >}}
+{{< blocks/products/pf/download-section downloadFreeTrialLink="https://releases.aspose.com/barcode/sharepoint/" pricingInformationLink="https://purchase.aspose.com/pricing/barcode/sharepoint" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.BarCode" description="Aspose.BarCode offers individual Barcode generation and recognition APIs for other popular development environments as listed below:" >}}
 

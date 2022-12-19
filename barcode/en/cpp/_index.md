@@ -7,11 +7,11 @@ weight: 440
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="C++ Barcode Library" h2="Create, & recognize barcodes of linear, 2D and postal types within any C++ application." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/headers/aspose_barcode-for-cpp.svg" pfName="Aspose.BarCode" subTitlepfName="for C++" downloadUrl="https://downloads.aspose.com/barcode/cpp" >}}
+{{< blocks/products/pf/upper-banner h1="C++ Barcode Library" h2="Create, & recognize barcodes of linear, 2D and postal types within any C++ application." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/headers/aspose_barcode-for-cpp.svg" pfName="Aspose.BarCode" subTitlepfName="for C++" downloadUrl="https://releases.aspose.com/barcode/cpp/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.BarCode" subTitlepfName="for C++" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-cpp.svg" liveDemosLink="https://products.aspose.app/barcode/family" PricingLink="https://purchase.aspose.com/pricing/barcode/cpp" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/barcode/cpp/" installationsDocsLink="https://docs.aspose.com/barcode/cpp/installation" nugetLink="" nugetPackageName="" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/barcode/cpp" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-cpp.svg" liveDemosLink="https://products.aspose.app/barcode/family" PricingLink="https://purchase.aspose.com/pricing/barcode/cpp" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/barcode/cpp/" installationsDocsLink="https://docs.aspose.com/barcode/cpp/installation" nugetLink="" nugetPackageName="" mavenRepoLink="" directDownloadLink="https://releases.aspose.com/barcode/cpp/" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>Aspose.BarCode for C++ is a rich-featured API to add barcode generation &amp; recognition capabilities as well as export the generated ones to different images with high quality. API provides barcode appearance manipulation such as bar color, background color, quality, rotation angle, x-dimension, size, captions, resolution and a lot more.</p><p>Aspose.BarCode for C++ supports multiple imaging, rotation, sizing, and printing features. Moreover, It provides encoding and decoding features for multiple symbologies including but not limited to QR Code, Aztec, Data Matrix, ISBN, code 39 and 93, PDF417, UPC, EAN, and GS1 DataMatrix.</p>
@@ -110,7 +110,7 @@ weight: 440
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Supported File Formats" description="Aspose.BarCode for C++ works with most commonly used image [file formats](https://docs.aspose.com/barcode/cpp/supported-file-formats/)." >}}
+{{< blocks/products/pf/carousel-item h3="Supported File Formats" description="Aspose.BarCode for C++ works with most commonly used image file formats." >}}
 <div class='diagram1 d2 d1-cplus'>
     <div class="d1-row">
         <div class="d1-col d1-left">
@@ -213,55 +213,16 @@ weight: 440
                 </p>
             </div>
 <!--advancedFeaturesSection End-->
-<!--supportedSymbologiesSection-->
-<style>
-    .adaptive_columns
-    {
-        -moz-column-width: 20em;
-        -webkit-column-width: 20em;
-        column-width: 20em;
-    }
-    .adaptive_columns ul
-    {
-        margin: 0;
-        padding: 0;
-        list-style-type: none;
-    }
-    .adaptive_columns ul li:first-child
-    {
-        margin-top:0px;
-    }
-</style>
-<div class="col-lg-12">
-    <h2 class="h2title">
-        Supported Symbologies
-    </h2>
-    <p>
-        Aspose.BarCode for C++ API offers support for multiple 1D, 2D and postal symbologies having both encode and decode capabilities:
-    </p>
-    <h4>
-        API supported linear types include:
-    </h4>
-    <div class="adaptive_columns">
-        <ul class="unstyled"><li>EAN 13</li><li>EAN 8</li><li>UPC A</li><li>UPC E</li><li>Interleaved 2 of 5</li><li>Standard 2 of 5</li><li>MSI</li><li>Code 11</li><li>Codabar</li><li>EAN 14 (SCC 14)</li><li>SSCC 18</li><li>ITF 14</li><li>Matrix 2 of 5</li><li>PZN</li><li>Code 128</li><li>Code 39 Extended</li><li>Code 39 Standard</li><li>Code 93 Extended</li><li>Code 93 Standard</li><li>IATA 2 of 5</li><li>OPC</li><li>GS1Code128</li><li>ISBN</li><li>ISMN</li><li>ISSN</li><li>ITF6</li><li>VIN</li><li>Pharmacode</li><li>GS1 Databar Family: DatabarOmniDirectional, DatabarTruncated, DatabarLimited, DatabarExpanded, DatabarStacked, DatabarExpandedStacked, DatabarStackedOmniDirectional</li><li>PatchCode</li><li>Supplement (Decode only)</li></ul>
-    </div>
-</div>
-<div class="col-lg-12">
-    <h4>
-        2D types include:
-    </h4>
-    <div class="adaptive_columns">
-        <ul class="unstyled"><li>PDF 417</li><li>Macro PDF 417</li><li>Micro PDF 417</li><li>Aztec</li><li>DataMatrix</li><li>Compact PDF 417 (Decode only)</li><li>QR</li><li>MicroQR</li><li>DotCode</li><li>MaxiCode</li><li>GS1DataMatrix</li><li>Italian Post 25</li><li>Code16K</li></ul>
-    </div>
-</div>
-<div class="col-lg-12">
-    <h4>
-        Postal types include:
-    </h4>
-    <div class="adaptive_columns">
-        <ul class="unstyled"><li>Postnet</li><li>Planet</li><li>Australia Post</li><li>USPS OneCode</li><li>Deutsche Post Identcode</li><li>RM4SCC</li><li>Deutsche Post Leticode</li><li>SingaporePost</li><li>AustralianPosteParcel</li><li>SwissPostParcel</li><li>UpcaGs1DatabarCoupon</li></ul>
-    </div>
-</div><!--supportedSymbologiesSection End-->
+<!--simpleHeaderDescriptionSection1-->
+            <div class="col-lg-12">
+                <h2 class="h2title">
+                    Custom Barcode Appearance
+                </h2>
+                <p>
+                    Aspose.BarCode for C++ allows developers to customize various appearance parameters of generated barcodes. You can adjust barcode color, border style, size, margins, rotation angle, captions, and bar width. It is possible to modify the color of background, text, and captions. Developers can generate barcode images without borders or select any of five available styles and set the required color. Barcode image size can be determimed manually or defined automatically. Generated barcode images might be rotated by the specified angle clockwise or counterclockwise. The API enables producing high-quality images with anti-aliasing and specifying the required resolution.
+                </p>
+            </div>
+<!--simpleHeaderDescriptionSection1 End-->
                 <div class="col-lg-12">
                 <h2 class="h2title">
                     Barcode Generation Live Example
@@ -321,6 +282,7 @@ weight: 440
         .barcode-gen-lcs-mods {
             display: flex;
             flex-direction: column;
+            margin-bottom: 15px;
         }
         .barcode-gen-lcs-mods select {
 			margin-bottom: 7px;
@@ -513,11 +475,19 @@ weight: 440
                 <option value="Aztec">Aztec</option>
                 <option value="Code128">Code 128</option>
                 <option value="GS1Code128">GS1 Code 128</option>
+                <option value="Code39">Code 39</option>
+                <option value="DatabarOmniDirectional">DataBar Omnidirectional</option>
+                <option value="DatabarTruncated">DataBar Truncated</option>
+                <option value="DatabarLimited">DataBar Limited</option>
+                <option value="DatabarExpanded">DataBar Expanded</option>
+                <option value="DatabarExpandedStacked">DataBar Expanded Stacked</option>
+                <option value="DatabarStacked">DataBar Stacked</option>
+                <option value="DatabarStackedOmniDirectional">DataBar Stacked Omnidirectional</option>
                 <option value="UPCA">UPC-A</option>
                 <option value="UPCE">UPC-E</option>
-                <option value="EAN8">EAN-8</option>
                 <option value="EAN13">EAN-13</option>
                 <option value="EAN14">EAN-14</option>
+                <option value="EAN8">EAN-8</option>
                 <option value="ITF14">ITF-14</option>
                 <option value="Mailmark">Royal Mailmark</option>
             </select>
@@ -533,7 +503,6 @@ weight: 440
             <input id="generate-button" type="button" value="Run code" class="barcode-gen-lcs-disabled" onclick="generateBarcodeAsync()" />
         </div>
     </div>
-    <p class="barcode-gen-lcs-disclaimer">* By uploading your files or using the service you agree with our <a href="https://about.aspose.com/legal/terms-of-use" rel="nofollow noreferrer" target="_blank">Terms of use</a> and <a href="https://about.aspose.com/legal/privacy-policy" rel="nofollow noreferrer" target="_blank">Privacy Policy</a>.</p>
 <div id="code" class="codeblock"><h3>Code to be executed - C++</h3><pre>
 <code class='cpp hljs'>
 <span class="hljs-comment">// Initialize a BarcodeGenerator class object and Set CodeText &amp; Symbology Type</span>
@@ -668,16 +637,14 @@ System::SharedPtr&lt;System::Drawing::Bitmap&gt; lBmp = generator-&gt;<span clas
 {{< /blocks/products/pf/agp/feature-section2 >}}
             </div>
     
-<!--simpleHeaderDescriptionSection1-->
             <div class="col-lg-12">
                 <h2 class="h2title">
-                    Customizing Symbologies &amp; Appearance
+                    Read Damaged Barcodes
                 </h2>
                 <p>
-                    Customizing the barcodes is easy by setting text, adjusting appearance-related properties such as foreground and background color, font, alignment as well as specifying different kinds of symbologies of linear, 2D and postal types.
+                    The barcode library supports various settings to scan and decode damaged or distorted barcodes. It allows successfully reading barcode images with various defects, such as Gaussian noise, inverted colors, white spots, visual artifacts, colored background, and missing bars. To improve barcode readability, the API enables special methods and mechanisms, including median filtering, "salt-and-paper" filtering, reducing image size, and others. Moreover, the barcode library benefits from advanced methods to decode industrial Data Matrix barcodes, read severely damaged QR codes, and even restore some data from incorrect barcodes.
                 </p>
             </div>
-<!--simpleHeaderDescriptionSection1 End-->
             <div class="col-lg-12">
                 <h2 class="h2title">
                     Barcode Recognition Live Example
@@ -880,6 +847,8 @@ System::SharedPtr&lt;System::Drawing::Bitmap&gt; lBmp = generator-&gt;<span clas
                 <option value="DataMatrix">DataMatrix</option>
                 <option value="Aztec">Aztec</option>
                 <option value="Code128">Code 128</option>
+                <option value="Code128">Code 39</option>
+                <option value="DataBar">DataBar</option>
                 <option value="UPC">UPC</option>
                 <option value="EAN">EAN</option>
                 <option value="ITF">ITF</option>
@@ -1147,6 +1116,57 @@ System::SharedPtr&lt;System::Drawing::Bitmap&gt; lBmp = generator-&gt;<span clas
 <!-- END LCS -->
 {{< /blocks/products/pf/agp/feature-section2 >}}
             </div>
+<!--supportedSymbologiesSection-->
+<style>
+    .adaptive_columns
+    {
+        -moz-column-width: 20em;
+        -webkit-column-width: 20em;
+        column-width: 20em;
+    }
+    .adaptive_columns ul
+    {
+        margin: 0;
+        padding: 0;
+        list-style-type: none;
+    }
+    .adaptive_columns ul li:first-child
+    {
+        margin-top:0px;
+    }
+</style>
+<div class="col-lg-12" style="margin-bottom: 40px;">
+    <div class="col-lg-12">
+        <h2 class="h2title">
+            Supported Symbologies
+        </h2>
+        <p>
+            Aspose.BarCode for C++ API offers support for multiple 1D, 2D and postal symbologies having both encode and decode capabilities:
+        </p>
+        <h4>
+            Supported linear types:
+        </h4>
+        <div class="adaptive_columns">
+            <ul class="unstyled"><li>EAN-13</li><li>EAN-8</li><li>UPC-A</li><li>UPC-E</li><li>Interleaved 2-of-5</li><li>Standard 2-of-5</li><li>MSI</li><li>Code 11</li><li>Codabar</li><li>EAN-14</li><li>SSCC-18</li><li>ITF-14</li><li>Matrix 2-of-5</li><li>PZN</li><li>Code 128</li><li>Code 39 Extended</li><li>Code 93 Extended</li><li>Code 93 Standard</li><li>IATA 2-of-5</li><li>OPC</li><li>GS1 Code 128</li><li>ISBN</li><li>ISMN</li><li>ISSN</li><li>ITF-6</li><li>VIN</li><li>Pharmacode</li><li>GS1 Databar Family: Databar Omnidirectional, Databar Truncated, Databar Limited, Databar Expanded, Databar Stacked, Databar Expanded Stacked, Databar Stacked Omnidirectional</li><li>PatchCode</li><li>Supplement</li></ul>
+        </div>
+    </div>
+    <div class="col-lg-12">
+        <h4>
+            2D types:
+        </h4>
+        <div class="adaptive_columns">
+            <ul class="unstyled"><li>PDF417</li><li>Macro PDF417</li><li>Micro PDF417</li><li>Aztec Code</li><li>Data Matrix</li><li>Compact PDF417</li><li>QR Code</li><li>Micro QR Code</li><li>DotCode</li><li>MaxiCode</li><li>GS1 Data Matrix</li><li>Italian Post 25</li><li>Code16K</li></ul>
+        </div>
+    </div>
+    <div class="col-lg-12">
+        <h4>
+            Postal types:
+        </h4>
+        <div class="adaptive_columns">
+            <ul class="unstyled"><li>Postnet</li><li>Planet</li><li>Australia Post</li><li>USPS OneCode</li><li>Deutsche Post Identcode</li><li>Royal Mailmark</li><li>RM4SCC</li><li>Deutsche Post Leticode</li><li>SingaporePost</li><li>AustralianPost eParcel</li><li>SwissPost Parcel</li></ul>
+        </div>
+    </div>
+</div><!--supportedSymbologiesSection End-->
         </div>
     </div>
 </div>
@@ -1170,9 +1190,9 @@ System::SharedPtr&lt;System::Drawing::Bitmap&gt; lBmp = generator-&gt;<span clas
 
 {{< blocks/products/pf/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="Learning Resources" tabId="resources" >}}
-{{< blocks/products/pf/slr-element name="Documentation" href="https://docs.aspose.com/barcode/{prod}/" >}}
-{{< blocks/products/pf/slr-element name="Source Code" href="https://github.com/aspose-barcode/Aspose.BarCode-for-.NET" >}}
-{{< blocks/products/pf/slr-element name="API References" href="https://apireference.aspose.com/{prod}/barcode" >}}
+{{< blocks/products/pf/slr-element name="Documentation" href="https://docs.aspose.com/barcode/cpp/" >}}
+{{< blocks/products/pf/slr-element name="Source Code" href="https://github.com/aspose-barcode/Aspose.Barcode-for-C" >}}
+{{< blocks/products/pf/slr-element name="API References" href="https://reference.aspose.com/barcode/cpp/" >}}
 {{< blocks/products/pf/slr-element name="Tutorial Videos" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
@@ -1180,7 +1200,7 @@ System::SharedPtr&lt;System::Drawing::Bitmap&gt; lBmp = generator-&gt;<span clas
 {{< blocks/products/pf/slr-element name="Free Support" href="https://forum.aspose.com/c/barcode/" >}}
 {{< blocks/products/pf/slr-element name="Paid Support" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.com/category/barcode/" >}}
-{{< blocks/products/pf/slr-element name="Release Notes" href="https://docs.aspose.com/barcode/{prod}/release-notes/" >}}
+{{< blocks/products/pf/slr-element name="Release Notes" href="https://docs.aspose.com/barcode/cpp/release-notes/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Why Aspose.BarCode for C++?" tabId="success-stories" >}}
@@ -1190,7 +1210,7 @@ System::SharedPtr&lt;System::Drawing::Bitmap&gt; lBmp = generator-&gt;<span clas
 
 {{< /blocks/products/pf/support-learning-resources >}}
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/barcode/cpp/" pricingInformationLink="https://purchase.aspose.com/pricing/barcode/cpp/" >}}
+{{< blocks/products/pf/download-section downloadFreeTrialLink="https://releases.aspose.com/barcode/cpp/" pricingInformationLink="https://purchase.aspose.com/pricing/barcode/cpp" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.BarCode" description="Aspose.BarCode offers individual Barcode generation and recognition APIs for other popular development environments as listed below:" >}}
 
