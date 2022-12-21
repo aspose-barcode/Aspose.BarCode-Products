@@ -1,7 +1,6 @@
 ---
-title: On Premise, Cloud Barcode SDK 
-weight: 1590
 url: /
+title: On Premise, Cloud Barcode SDK
 description: Build barcode processing applications via High Code APIs or Cloud-based SDKs. Use cross-platform apps for Barcode generation or recognition.
 ---
 
@@ -55,8 +54,8 @@ Recognize 1D & 2D barcodes from images. Supports various symbologies. Recognizes
 Enter data and instantly generate 1D or 2D barcodes from various symbologies.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.BarCode " title="Embed" imgSrc="https://cms.admin.containerize.com/templates/asposeapp/images/products/logo/aspose_embed-app.png" productLink="https://products.aspose.app/barcode/embed" >}}
-Embed barcodes of any type for your site with your own text and size.
+{{< blocks/products/pf/product pfName="Aspose.BarCode " title="Generate Wi-Fi QR code" imgSrc="https://cms.admin.containerize.com/templates/asposeapp/images/products/logo/aspose_wifi-qr-app.png" productLink="https://products.aspose.app/barcode/wifi-qr" >}}
+Generate Wi-Fi QR Codes. Enter SSID and the password for your network, choose the network security type 
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/center-button href="https://products.aspose.app/barcode/family" innerText="View All No Code Apps" >}}
@@ -65,29 +64,20 @@ Embed barcodes of any type for your site with your own text and size.
 
 {{< /blocks/products/pf/main-container >}}
 
+<!--peoplesSayingSection-->
 {{< blocks/products/pf/testimonials title="What People Are Saying" subTitle="Don't just take our word for it. See what users have to say about Aspose.BarCode." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.barcode/" >}}
-
 {{< blocks/products/pf/testimonials-quote >}}
 <p class="first">
- The barcode control allowed me to shorten the time between scanning a file, and making it searchable within the system by allowing me to manipulate files as soon as they were scanned.
- <em>
-  Kiel Diller | KD Solutions
- </em>
+ The barcode control allowed me to shorten the time between scanning a file, and making it searchable within the system by allowing me to manipulate files as soon as they were scanned. <em>Kiel Diller | KD Solutions</em>
 </p>
-
 {{< /blocks/products/pf/testimonials-quote >}}
-
 {{< blocks/products/pf/testimonials-quote >}}
 <p class="second">
- Aspose.BarCode is truly written managed code and gives us a variety of barcode types to handle all kinds of document recognition and further processing.
- <em>
-  Dennis Alexander Petrasch | Head Developer at Keil IT
- </em>
+ Aspose.BarCode is truly written managed code and gives us a variety of barcode types to handle all kinds of document recognition and further processing. <em>Dennis Alexander Petrasch | Head Developer at Keil IT</em>
 </p>
-
 {{< /blocks/products/pf/testimonials-quote >}}
-
 {{< /blocks/products/pf/testimonials >}}
+<!--peoplesSayingSection End-->
 
 {{< /blocks/products/pf/main-wrap-class >}}
 

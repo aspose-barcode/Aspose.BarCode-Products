@@ -220,7 +220,7 @@ weight: 440
                     Generate ECI QR Codes
                 </h2>
                 <p>
-                    Among various widely used barcode types, the API can be used to create barcodes with special parameters. One of such functions allows developers to generate ECI QR codes that encode Unicode symbols using extended channel interpretation (ECI), a special communication protocol. It is a standard for encoding character sets in QR Codes. It allows QR Code readers to correctly interpret and display text in different languages and character sets, which may not be supported by the default QR Code character set. While scanning a QR code with an ECI designator, the reader can identify the correct character set to use for decoding and displaying the information encoded in this QR Code. This enables supporting a wide range of languages and character sets. This protocol is useful to create QR Codes encoding non-English characters, such as Japanese, Cyrillic, Hebrew, Greek, Arabic, and others. When ECI is enabled, a QR code not only stores a set of digits as raw byte values, but it also includes an explanation to interpret these values. The barcode library supports all most widely used charset encodings, such as UTF8, ASCII, and many others. Generate QR codes to encode non-English symbols using the ECI mode.
+                    Among various popular barcode types, the API can be used to create barcodes with special parameters. One of such functions allows developers to generate ECI QR codes that encode Unicode symbols using extended channel interpretation (ECI), a special communication protocol. It is a standard for encoding character sets in QR Codes. It allows QR Code readers to correctly interpret and display text in different languages and character sets, which may not be supported by the default QR Code character set. While scanning a QR code with an ECI designator, the reader can identify the correct character set to use for decoding and displaying the information encoded in this QR Code. This enables supporting a wide range of languages and character sets. This protocol is useful to create QR Codes encoding non-English characters, such as Japanese, Cyrillic, Hebrew, Greek, Arabic, and others. When ECI is enabled, a QR code not only stores a set of digits as raw byte values, but it also includes an explanation to interpret these values. The barcode library supports all most widely used charset encodings, such as UTF8, ASCII, and many others. Generate QR codes to encode non-English symbols using the ECI mode.
                 </p>
             </div>
 <!--simpleHeaderDescriptionSection1 End-->
@@ -229,7 +229,7 @@ weight: 440
                     QR Code Generation
                 </h2>
                 <p>
-                    API has the capability to create barcodes of multiple types including DataMatrix, Aztec, Pdf417, multiple MacroPdf417 barcodes for large or multiple code text values. Here is the code for QR code generation.
+                    API has the capability to create barcodes of various types, including Data Matrix, Aztec Code, PDF417, and others, for large or non-standard input text values. Here is the code sample for QR Code generation.
                 </p>
                 {{< blocks/products/pf/agp/feature-section2 >}}
 <!-- BEGIN LCS -->
@@ -1114,7 +1114,7 @@ weight: 440
             Supported Symbologies
         </h2>
         <p>
-            Aspose.BarCode for PHP via Java supports a large number of linear, 2D and postal bar code symbologies for both encoding and decoding.
+            Aspose.BarCode for PHP via Java supports a large number of linear, 2D, and postal barcode types for both encoding and decoding.
         </p>
         <h4>
             Supported linear types:

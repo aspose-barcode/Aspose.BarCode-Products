@@ -14,7 +14,7 @@ weight: 440
 {{< blocks/products/pf/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-java.svg" liveDemosLink="https://products.aspose.app/barcode/family" PricingLink="https://purchase.aspose.com/pricing/barcode/java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/barcode/java/" installationsDocsLink="https://docs.aspose.com/barcode/java/installation" nugetLink="" nugetPackageName="" mavenRepoLink="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-barcode" directDownloadLink="https://releases.aspose.com/barcode/java/" >}}
 
 {{< blocks/products/pf/tab-content >}}
-<p>Aspose.BarCode for Java is a robust and reliable API providing the barcode generation and recognition features for Java applications. It supports the most established standards and specifications and allows to read 1D and 2D barcodes from different format images at multiple angles.</p><p>Aspose.BarCode for Java renders the labels in a verity of image formats with highly flexible imaging options. Moreover, the library provides printing as well as encoding and decoding of multiple symbologies.</p>
+<p>Aspose.BarCode for Java is a robust and reliable API providing the barcode generation and recognition features for Java applications. It supports the most established standards and specifications and allows developers to read 1D and 2D barcodes from different image files at any angles. Aspose.BarCode for Java renders barcode images in a variety of image formats with highly flexible imaging options. The library supports encoding and decoding over 60 barcode types and enables direct printing of barcode images.</p>
 {{< /blocks/products/pf/tab-content >}}
 
 <!--Diagrams Start-->
@@ -250,7 +250,7 @@ weight: 440
                     Barcode Generation Live Example
                 </h2>
                 <p>
-                    Barcode generator API offers to create the barcodes by specifying various symbologies, setting code text (data to be encoded to barcode image) and appearance-related properties such as background foreground color, font as well as location(hide, above, below) and alignment. Moreover, one can create two-dimensional barcodes like PDF 417, Data Matrix, Aztec, QR and Micro QR barcode etc in the same way as of one dimensional.
+                    The barcode API enables developers to easily generate high-quality barcode images in their applications. It supports a wide range of barcode types, including widely used ones like QR Code and Code 128, as well as more specialized types like Aztec Code and Data Matrix. The API allows developers to customize the appearance of the generated barcodes, including the foreground and background colors, font, and caption alignment. Using the API, developers can easily generate 2D barcodes in the same way as they would generate one-dimensional barcodes.
                 </p>
                 {{< blocks/products/pf/agp/feature-section2 >}}
 <!-- BEGIN LCS -->
@@ -675,7 +675,7 @@ generator.generateBarCodeImage();
                     Barcode Recognition Live Example
                 </h2>
                 <p>
-                    Java barcode library is capable of reading from different images. BarCodeReader class which is mainly responsible for the recognition feature supports many popular image formats including BMP, PNG, TIFF, JPEG &amp; GIF. The recognition process is highly configurable allowing you to set expected regions to find code labels on an image, apply manual recognition hints to optimize the scan &amp; apply binarization filters on the image.
+                    The Java barcode library is a powerful tool for working with barcodes in Java applications. One of its key features is the ability to read barcodes from different image file formats. The BarCodeReader class, which is the main class responsible for barcode recognition, supports many popular image formats, including BMP, PNG, TIFF, JPEG, and GIF. This makes it easy to integrate barcode recognition functionality into a wide range of applications.
                 </p>
                 {{< blocks/products/pf/agp/feature-section2 >}}
 <!-- BEGIN LCS -->
@@ -1166,7 +1166,7 @@ generator.generateBarCodeImage();
             Supported Symbologies
         </h2>
         <p>
-            Aspose.BarCode for Java API offers support for multiple 1D, 2D and postal symbologies having both encode and decode capabilities:
+            Aspose.BarCode for Java API supports over 60 1D, 2D, and postal barcode types providing encoding and decoding capabilities:
         </p>
         <h4>
             Supported linear types:

@@ -2,7 +2,7 @@
 
 url: /python-java/
 title: Python Barcode Generator and Scanner API
-description: Python barcode reader library to recognize and generate mutiple types of barcodes including 1D, 2D and Postal. Use API in Python applications.
+description: Python barcode reader library to recognize and generate mutiple types of barcodes, including 1D, 2D, and Postal types. Use API in Python applications.
 weight: 440
 ---
 
@@ -14,7 +14,7 @@ weight: 440
 {{< blocks/products/pf/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-python-java.svg" liveDemosLink="https://products.aspose.app/barcode/family" PricingLink="https://purchase.aspose.com/pricing/barcode/python-java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/barcode/python-java/" installationsDocsLink="https://docs.aspose.com/barcode/python-java/installation" nugetLink="" nugetPackageName="" mavenRepoLink="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-barcode" directDownloadLink="https://releases.aspose.com/barcode/python-java/" >}}
 
 {{< blocks/products/pf/tab-content >}}
-<p>Aspose.BarCode for Python via Java is a set of barcode generation and reading APIs for Python applications by using the python-java bridge. Developers can easily add barcode generation and recognition functionality. Python barcode API creates barcode images within various formats such as PNG, JPG, GIF, BMP. Moreover, It supports multiple imaging features like manipulating borders, color, rotating images, customizing resolution, and a lot more.</p>
+<p>Aspose.BarCode for Python via Java is a set of barcode generation and reading APIs to be integrated in Python applications by using the python-java bridge. Developers can easily add barcode generation and recognition functionality. This barcode API based on Python creates barcode images and save them in various formats, such as PNG, JPG, GIF, BMP, and TIFF. It supports various imaging features like customizing borders, color scheme, rotating angle, resolution, and a lot more.</p>
 {{< /blocks/products/pf/tab-content >}}
 
 <!--Diagrams Start-->
@@ -71,7 +71,7 @@ weight: 440
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Platform Independence" description="Aspose.Barcode for Python via Java using python-java bridge and available for Python 3.6 and higher." >}}
+{{< blocks/products/pf/carousel-item h3="Platform Independence" description="Aspose.Barcode for Python via Java uses the python-java bridge and is available for Python 3.6 and higher." >}}
 <div class='diagram1 d1-python'>
     <div class="d1-row">
         <div class="d1-col d1-left">
@@ -217,10 +217,10 @@ weight: 440
 <!--simpleHeaderDescriptionSection1-->
             <div class="col-lg-12">
                 <h2 class="h2title">
-                    Generate ECI QR Codes
+                    Save Barcodes in Various Formats
                 </h2>
                 <p>
-                    Among various widely used barcode types, the API can be used to create barcodes with special parameters. One of such functions allows developers to generate ECI QR codes that encode Unicode symbols using extended channel interpretation (ECI), a special communication protocol. It is a standard for encoding character sets in QR Codes. It allows QR Code readers to correctly interpret and display text in different languages and character sets, which may not be supported by the default QR Code character set. While scanning a QR code with an ECI designator, the reader can identify the correct character set to use for decoding and displaying the information encoded in this QR Code. This enables supporting a wide range of languages and character sets. This protocol is useful to create QR Codes encoding non-English characters, such as Japanese, Cyrillic, Hebrew, Greek, Arabic, and others. When ECI is enabled, a QR code not only stores a set of digits as raw byte values, but it also includes an explanation to interpret these values. The barcode library supports all most widely used charset encodings, such as UTF8, ASCII, and many others. Generate QR codes to encode non-English symbols using the ECI mode.
+                    The barcode library provides various options to save generated barcodes not only using popular raster image formats but also to stream or vector. Barcodes can be downloaded using one of the five most widely used image formats or two vector formats. It is also possible to load barcodes as files, streams, or bitmaps. Developers can customize the process of barcode generation and saving according to specific business needs by setting the required output mode. The API supports the following file formats: BMP, PNG, GIF, JPEG, and TIFF for input/output; EMF and SVG for output. Developers can save barcodes as vector images, such as EMF and SVG files, to scale them without losses in resolution. It is possible to output generated barcodes as streams (using the binary format). This mode can be used to abstract from the use of specific operating systems and particular output devices. The API also enables firstly saving barcodes as bitmap objects and then downloading them in the required file format or processing further. Such objects use a grid of pixels to represent an image. Each pixel in a bitmap is represented by a binary value, which specifies whether the pixel is filled or empty. Bitmap objects serve to represent and manipulate images. They are commonly used in graphics and imaging software. 
                 </p>
             </div>
 <!--simpleHeaderDescriptionSection1 End-->
@@ -229,7 +229,7 @@ weight: 440
                     QR Code Generation
                 </h2>
                 <p>
-                    API has the capability to create barcodes of multiple types including DataMatrix, Aztec, Pdf417, multiple MacroPdf417 barcodes for large or multiple code text values. Here is the code for QR code generation.
+                    This barcode API has the capability to generate barcodes of the mostly used 2D types, including Data Matrix, Aztec Code, PDF417, and so on, for large or non-standard values to be encoded. The following code sample describes QR Code generation.
                 </p>
                 {{< blocks/products/pf/agp/feature-section2 >}}
 <!-- BEGIN LCS -->
@@ -613,7 +613,7 @@ barcodeGeneratorExamples.generateBarcodeImage()
                     Optimized Barcode Scanning and Decoding
                 </h2>
                 <p>
-                    The barcode API provides a useful feature for detecting and reading barcodes of over 60 popular 1D and 2D types. It only requires a few lines of code to scan barcodes, making it easy to integrate this functionality into your applications. This powerful feature allows you to quickly and accurately scan and read barcodes from a wide range of sources, such as images, documents, etc. With the ability to detect and read so many different types of barcodes, this API is a valuable tool for a wide range of applications and industries. It can be used to automate and streamline processes, reduce the risk of errors, and improve the overall efficiency of operations. Whether you need to develop applications for retail, logistics, healthcare, or any other field, this barcode API can provide a valuable solution for barcode detection and reading tasks.<br>The API provides a range of powerful features for optimizing barcode reading to meet the specific needs of your business. Developers can adjust the parameters of the recognition engine to enable fast barcode scanning or improve reading precision. Depending on the quality and parameters of the source barcode images, the library allows customizing the recognition process. It includes several preset configurations of such parameters, which can be used to quickly scan high-quality barcode images or improve the chances of successfully decoding damaged or degraded barcodes. Additionally, there are special settings that can improve barcode reading for different types of distortions, such as Gaussian noise, white spots, and inverted colors. With the ability to fine-tune the recognition process, the API can be tailored to provide the most efficient barcode reading for a wide range of applications and scenarios.
+                    One of the features of Aspose.BarCode for Python via Java is the ability to customize the barcode reading process by using different presets. These are pre-defined sets of reading parameters that are optimized for different scenarios and can help improve the accuracy and speed of barcode recognition. For example, some presets can be used to improve the recognition of small, low-quality, or damaged barcodes, as well as barcodes that are scanned from complex text documents or that are rotated at an angle. Other presets can be used to increase the reading speed for high-quality images and linear barcodes. Using these presets, developers can fine-tune the barcode reading process to maximize recognition accuracy and efficiency for their specific use cases. This can improve the overall performance of their applications and provide a better user experience for their customers.
                 </p>
             </div>
             <div class="col-lg-12">
@@ -621,7 +621,7 @@ barcodeGeneratorExamples.generateBarcodeImage()
                     Barcode Recognition Live Example
                 </h2>
                 <p>
-                    The barcode reader API provides a set of features for scanning, detecting, and reading 1D, 2D, and postal barcodes. With just a few lines of code, developers can easily integrate this functionality into their applications and use it to detect and decode a wide range of commonly used barcodes. The API is designed to be user-friendly and intuitive, making it easy for developers to quickly and easily add barcode scanning capabilities to their PHP applications.
+                    The barcode reader API provides a set of features for scanning, detecting, and reading 1D, 2D, and postal barcodes. With just a few lines of code, developers can easily integrate this functionality into their applications and use it to detect and decode a wide range of commonly used barcodes. The API is designed to be user-friendly and intuitive, making it easy for developers to add barcode scanning capabilities to their Python applications quickly and easily.
                 </p>
                 {{< blocks/products/pf/agp/feature-section2 >}}
 <!-- BEGIN LCS -->
@@ -1119,7 +1119,7 @@ barcodeReaderExamples.readBarcodeImage()
             Supported Symbologies
         </h2>
         <p>
-            Aspose.BarCode for Python via Java supports a large number of linear, 2D and postal barcode symbologies for both encoding and decoding.
+            Aspose.BarCode for Python via Java supports a large number of linear, 2D and postal barcode types for both encoding and decoding.
         </p>
         <h4>
             Supported linear types:

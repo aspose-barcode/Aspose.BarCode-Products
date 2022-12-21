@@ -14,7 +14,7 @@ weight: 440
 {{< blocks/products/pf/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-nodejs-java.svg" liveDemosLink="https://products.aspose.app/barcode/family" PricingLink="https://purchase.aspose.com/pricing/barcode/nodejs-java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/barcode/nodejsjava/" installationsDocsLink="https://docs.aspose.com/barcode/nodejs-java/installation" nugetLink="" nugetPackageName="" mavenRepoLink="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-barcode" directDownloadLink="https://releases.aspose.com/barcode/nodejs/" >}}
 
 {{< blocks/products/pf/tab-content >}}
-<p>Aspose.BarCode for Node.js via Java is an easily customizable barcode scanning and generation API. Developers can integrate it via nodejs-java bridge. It is a fast and simple barcode decoder API to decode common 1D, 2D barcodes anywhere at any angle from an image. One can easily specify an area in the image to scan the barcode. API generates barcode images within multiple formats such as JPG, PNG, GIF, BMP as well as supports multiple imaging features such as manipulating borders and styles, color, margins, rotating images, customizing resolution and a lot more.</p>
+<p>Aspose.BarCode for Node.js via Java is an easily customizable barcode generator and decoder API. Developers can integrate its barcode generating and reading functionality in their applications via the nodejs-java bridge. It can be used to read common 1D, 2D, and postal barcodes from images at any angle. This barcode library allows developers to generate barcode images of over 60 types and saving them in various formats, such as JPG, PNG, GIF, BMP, and TIFF. It supports customizing different imaging features, such as barcode border color and style, margins, rotation angle, resolution, and barcode color.</p>
 {{< /blocks/products/pf/tab-content >}}
 
 <!--Diagrams Start-->
@@ -71,7 +71,7 @@ weight: 440
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Platform Independence" description="Aspose.BarCode for Node.js via Java is server-side JavaScript API based on Node.js. It can run on Windows, Unix/Linux & Mac platforms with JDK 1.7 or above." >}}
+{{< blocks/products/pf/carousel-item h3="Platform Independence" description="Aspose.BarCode for Node.js via Java is a server-side JavaScript API based on Node.js. It can run on Windows, Unix/Linux, & Mac platforms with JDK 1.7 or above." >}}
 <div class='diagram1 d1-nodejs'>
     <div class="d1-row">
         <div class="d1-col d1-left">
@@ -185,7 +185,7 @@ weight: 440
                     Generate Swiss QR Code
                 </h2>
                 <p>
-                    Besides 2D barcodes and QR codes, the barcode library enables generating and reading Swiss QR codes. They are a type of QR (Quick Response) code that are used in Switzerland to facilitate payments between businesses and individuals. QR codes are two-dimensional barcodes that can be scanned with a smartphone or other device to quickly and easily access information or perform an action. Swiss QR codes are a national standard for electronic payments in Switzerland. They are used by businesses to receive payments from customers. When a customer scans a Swiss QR code, they are provided with payment information and can initiate a payment from their mobile banking app. This provides a convenient and secure way for businesses to accept payments from their customers. Swiss QR codes are commonly used in a variety of industries, including retail, hospitality, and healthcare. To generate a Swiss QR code, you will need to provide the necessary information, such as your business name, bank account details, and the amount of the payment. The Aspose QR Code generator will use this information to create a Swiss QR code that can be then scanned by your customers to initiate a payment. Once the QR code is generated, you can download it and use it in your business to accept payments from your customers.
+                    Besides 2D barcodes and QR codes, the barcode library enables generating and reading Swiss QR codes. They are based on the QR (Quick Response) code specification and are used in Switzerland to facilitate payments between businesses and individuals. QR codes are two-dimensional barcodes that can be scanned with a smartphone or other device to quickly and easily access information or perform an action. Swiss QR codes are a national standard for electronic payments in Switzerland. They are used by businesses to receive payments from customers. When a customer scans a Swiss QR code, they are provided with payment information and can initiate a payment from their mobile banking app. This provides a convenient and secure way for businesses to accept payments from their customers. Swiss QR codes are commonly used in a variety of industries, including retail, hospitality, and healthcare. To generate a Swiss QR code, you will need to provide the necessary information, such as your business name, bank account details, and the amount of the payment. The Aspose QR Code generator will use this information to create a Swiss QR code that can be then scanned by your customers to initiate a payment. Once the QR code is generated, you can download it and use it in your business to accept payments from your customers.
                 </p>
             </div>
 <!--simpleHeaderDescriptionSection1 End-->
@@ -582,10 +582,10 @@ generator.<span class="hljs-title function_">save</span>(<span class="hljs-strin
             </div>
             <div class="col-lg-12">
                 <h2 class="h2title">
-                    Scan Barcodes from PDF Documents
+                    Optimize Barcode Reading
                 </h2>
                 <p>
-                    Besides reading barcodes from image files, the barcode library can be used to scan barcodes from PDF files. Developers can implement fast barcode detection in PDF documents with multiple pages. The API provides several ways to do it. The recommended way is to convert document pages to raster images and then apply barcode reading mechanisms. To render page contents into raster images is suggested as the easiest and the most efficient approach. Otherwise, barcode images can be first detected and extracted from the source PDF document. This method facilitates reading barcodes with original resolution. Aspose.BarCode API allows processing multipage PDF files to detect and recognize all barcodes presented in a document.
+                    Aspose.Barcode for C++ is a comprehensive barcode library for working with barcodes in a wide range of applications. One of its key features is the ability to fine-tune the recognition process to optimize both the quality and speed of barcode detection. The library offers several advanced settings that can be used to optimize barcode scanning depending on the specific needs of an application. For example, the library provides special reading modes that enable fast scanning of high-quality linear barcodes. This can be useful in applications that need to quickly process large volumes of barcode data. Additionally, the library allows developers to specify target scanning regions and barcode types, which can improve the accuracy of the scan by focusing on the most relevant areas of the image. The API also supports detecting multiple barcodes in a single image, which can be useful in applications that need to process multiple barcodes simultaneously.
                 </p>
             </div>
             <div class="col-lg-12">

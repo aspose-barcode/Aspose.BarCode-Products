@@ -14,7 +14,7 @@ weight: 440
 {{< blocks/products/pf/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-net.svg" liveDemosLink="https://products.aspose.app/barcode/family" PricingLink="https://purchase.aspose.com/pricing/barcode/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/barcode/net/" installationsDocsLink="https://docs.aspose.com/barcode/net/installation" nugetLink="https://www.nuget.org/packages/Aspose.BarCode/" nugetPackageName="Aspose.BarCode" mavenRepoLink="" directDownloadLink="https://releases.aspose.com/barcode/net/" >}}
 
 {{< blocks/products/pf/tab-content >}}
-<p>Aspose.BarCode for .NET is a powerful library to generate &amp; recognize 1D &amp; 2D barcodes from multiple image types at any angle. Developers can easily add the barcode generation and scanning functionality to their .NET applications. It also allows exporting the generated barcodes to different high-quality image formats.</p><p>Aspose.BarCode for .NET supports to manipulate the appearance of the generated barcodes like background color, bar color, rotation angle, x-dimension, image quality, resolution, captions, size and much more. Moreover, API supports multiple types of recognition and imaging features as well as different types of symbologies.</p>
+<p>Aspose.BarCode for .NET is a powerful development library to generate &amp; recognize 1D &amp; 2D barcodes from various image types at any angle. Developers can easily add barcode generation and scanning functionality to their .NET applications. This API allows exporting generated barcodes to different high-quality image formats.</p><p>Aspose.BarCode for .NET enables modifying the appearance of generated barcodes and their parameters, such as background color, bar color, rotation angle, x-dimension, image quality, resolution, captions, size, and many others. It also provides rich barcode detecting and reading functionality and supports over 60 barcode types.</p>
 {{< /blocks/products/pf/tab-content >}}
 
 <!--Diagrams Start-->
@@ -235,7 +235,7 @@ weight: 440
                     Barcode Generation Live Example
                 </h2>
                 <p>
-                    Barcode generator API offers to create the barcodes by specifying various symbologies, setting code text (data to be encoded to barcode image) and appearance-related properties such as background foreground color, font as well as location(hide, above, below) and alignment. Moreover, one can create two-dimensional barcodes like PDF 417, Data Matrix, Aztec, QR and Micro QR barcode etc in the same way as of one dimensional.
+                    Barcode generator API enables developers to create barcodes by specifying the required barcode type, setting input text (data to be encoded in a barcode image), and customizing appearance-related properties, such as background and foreground color, font, text location (hide, above, or below), and alignment. Two-dimensional barcodes, such as QR Code, PDF417, Data Matrix, Aztec Code, etc. in the same way as of one-dimensional ones.
                 </p>
                 {{< blocks/products/pf/agp/feature-section2 >}}
 <!-- BEGIN LCS -->
@@ -1140,7 +1140,7 @@ weight: 440
             Supported Symbologies
         </h2>
         <p>
-            .NET barcode library supports multiple 1D, 2D and postal bar code symbologies for both encode and decode capabilities.
+            .NET barcode library supports 60+ 1D, 2D and postal barcode types to perform encoding and decoding.
         </p>
         <h4>
             Supported linear types:

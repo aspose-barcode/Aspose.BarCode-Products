@@ -2,7 +2,7 @@
 
 url: /sharepoint/
 title: SharePoint Barcode API - Insert Barcodes on SharePoint Lists
-description: Barcode SharePoint API to insert barcode labels in custom SharePoint Lists. Developers can use Service Markers to pick code text values or insert the text manually.
+description: Barcode SharePoint API to insert barcode labels in custom SharePoint Lists. Developers can use Service Markers to pick input text values or insert the text manually.
 weight: 440
 ---
 
@@ -14,7 +14,7 @@ weight: 440
 {{< blocks/products/pf/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-sharepoint.svg" liveDemosLink="https://products.aspose.app/barcode/family" PricingLink="https://purchase.aspose.com/pricing/barcode/sharepoint" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/barcode/sharepoint/" installationsDocsLink="https://docs.aspose.com/barcode/sharepoint/installation" nugetLink="" nugetPackageName="" mavenRepoLink="" directDownloadLink="https://releases.aspose.com/barcode/sharepoint/" >}}
 
 {{< blocks/products/pf/tab-content >}}
-<p>Aspose.BarCode for SharePoint allows to add a large number of linear, 2D and postal barcode symbols to Microsoft SharePoint Foundation 2010 and Microsoft Office SharePoint Server 2010 (MOSS) lists. You may add barcodes to any list by specifying code text and symbology.</p>
+<p>Aspose.BarCode for SharePoint allows developers to add a large variety of linear, 2D, and postal barcodes to Microsoft SharePoint Foundation 2010 and Microsoft Office SharePoint Server 2010 (MOSS) lists. You may create and then insert barcodes to any list by specifying input text and type.</p>
 {{< /blocks/products/pf/tab-content >}}
 
 <!--Diagrams Start-->
@@ -174,7 +174,7 @@ weight: 440
                     Barcode Generation Live Example
                 </h2>
                 <p>
-                    Barcode generator API offers to create the barcodes by specifying various symbologies, setting code text (data to be encoded to barcode image) and appearance-related properties such as background foreground color, font as well as location(hide, above, below) and alignment. Moreover, one can create two-dimensional barcodes like PDF 417, Data Matrix, Aztec, QR and Micro QR barcode etc in the same way as of one dimensional.
+                    The barcode library is a powerful tool that allows developers to easily generate barcodes by specifying the target barcode type, inserting the input data to store the barcode, and customizing appearance-related properties. The library provides a variety of options for fine-tuning the appearance of the generated barcodes, including options for setting the background and foreground colors, font, size, resolution, and text captions. 
                 </p>
                 {{< blocks/products/pf/agp/feature-section2 >}}
 <!-- BEGIN LCS -->
@@ -586,7 +586,7 @@ weight: 440
                     Save Barcodes in Various Formats
                 </h2>
                 <p>
-                    The barcode library provides various options to save generated barcodes not only using popular raster image formats but also to stream or vector. Barcodes can be downloaded using one of the five most widely used image formats or two vector formats. It is also possible to load barcodes as files, streams, or bitmaps. Developers can customize the process of barcode generation and saving according to specific business needs by setting the required output mode. The API supports the following file formats: BMP, PNG, GIF, JPEG, and TIFF for input/output; EMF and SVG for output.<br>Developers can save barcodes as vector images, such as EMF and SVG files, to scale them without losses in resolution.<br>It is possible to output generated barcodes as streams (using the binary format). Stream can be defined as an abstract byte sequence (for example, files, TCP/IP sockets, or inter-process communication pipes). This mode can be used to abstract from the use of specific operating systems and particular output devices. Saving barcodes as data streams can provide a variety of benefits, including flexibility, efficiency, compatibility, and scalability. These benefits make data streams a useful way to save and transmit barcodes in a wide range of applications and scenarios.<br>The API also enables firstly saving barcodes as bitmap objects and then downloading them in the required file format or processing further. A bitmap object is a data structure that represents a bitmap image. Such objects use a grid of pixels to represent an image. Each pixel in a bitmap is represented by a binary value, which specifies whether the pixel is filled or empty. Bitmap objects serve to represent and manipulate images. They are commonly used in graphics and imaging software.
+                    The barcode library provides various options to save generated barcodes not only using popular raster image formats but also to stream or vector. Barcodes can be downloaded using one of the five most widely used image formats or two vector formats. It is also possible to load barcodes as files, streams, or bitmaps. Developers can customize the process of barcode generation and saving according to specific business needs by setting the required output mode. The API supports the following file formats: BMP, PNG, GIF, JPEG, and TIFF for input/output; EMF and SVG for output.<br>Developers can save barcodes as vector images, such as EMF and SVG files, to scale them without losses in resolution.
                 </p>
             </div>
             <div class="col-lg-12">
@@ -594,7 +594,7 @@ weight: 440
                     Barcode Recognition Live Example
                 </h2>
                 <p>
-                    The barcode reader API provides a set of features for scanning, detecting, and reading 1D, 2D, and postal barcodes. With just a few lines of code, developers can easily integrate this functionality into their applications and use it to detect and decode a wide range of commonly used barcodes. The API is designed to be user-friendly and intuitive, making it easy for developers to quickly and easily add barcode scanning capabilities to their PHP applications.
+                    The Barcode API includes various features for detecting and reading a wide range of popular 1D and 2D barcodes. These features can be easily integrated into your applications with just a few lines of code, providing a convenient and efficient way to add barcode detection capabilities to your applications.
                 </p>
                 {{< blocks/products/pf/agp/feature-section2 >}}
 <!-- BEGIN LCS -->

@@ -185,7 +185,7 @@ weight: 440
                     Integration with SQL Server Reporting Services
                 </h2>
                 <p>
-                    Aspose.BarCode for Reporting Services can easily be integrated with existing and new projects by just adding Aspose.BarCode for Reporting Services to Visual Studio's Toolbox. Once available in the Toolbox, you can easily drag and drop it onto the project wherever desired.
+                    Aspose.BarCode for Reporting Services can be easily integrated into existing or new projects by adding Aspose.BarCode for Reporting Services to Visual Studio Toolbox. Once available in the Toolbox, you can drag and drop it onto the project wherever desired.
                 </p>
             </div>
 <!--simpleHeaderDescriptionSection1 End-->
@@ -194,7 +194,7 @@ weight: 440
                     Barcode Generation Live Example
                 </h2>
                 <p>
-                    Barcode generator API offers to create the barcodes by specifying various symbologies, setting code text (data to be encoded to barcode image) and appearance-related properties such as background foreground color, font as well as location(hide, above, below) and alignment. Moreover, one can create two-dimensional barcodes like PDF 417, Data Matrix, Aztec, QR and Micro QR barcode etc in the same way as of one dimensional.
+                    This barcode API allows developers to generate high-quality barcodes by setting the barcode type, the input data to encode, and custom appearance-related properties. It provides a variety of options for fine-tuning the appearance of the generated barcodes, including the background and foreground colors, font, size, resolution, and text captions.
                 </p>
                 {{< blocks/products/pf/agp/feature-section2 >}}
 <!-- BEGIN LCS -->
@@ -606,7 +606,7 @@ weight: 440
                     Custom Barcode Size and Color
                 </h2>
                 <p>
-                    Aspose.BarCode for SQL Reporting Services API provides rich functionality to generate barcode image with custom color and size. Developers can create Java applications to generate barcodes of any color or size depending on business needs. It is possible to customize the appearance all barcode elements, including colors of bars, background, borders, and text captions, as well as their positioning. Barcode can be generated with or without displaying input text, upper and/or lower caption, paddings, and borders. Barcode size can be set automatically depeding on the X-dimension or manually. It can be defined in various units, such as millimeters, inches, points, or pixels. If required, image proportions and resolution can be modified. The size of text font can be customized as well.
+                    Aspose.BarCode for SQL Reporting Services API provides rich functionality to generate barcode images with custom parameters. Developers can create applications to generate barcodes of any color or size depending on business needs. It is possible to customize the appearance of all barcode elements, including colors of bars, background, borders, and text captions, as well as their positioning. Barcode can be generated with or without displaying input text, upper and/or lower caption, paddings, and borders. Barcode size can be set automatically depeding on the X-dimension or manually. It can be defined in various units, such as millimeters, inches, points, or pixels. If required, image proportions and resolution can be modified. The size of text font can be customized as well.
                 </p>
             </div>
             <div class="col-lg-12">
@@ -1107,7 +1107,7 @@ weight: 440
             Supported Symbologies
         </h2>
         <p>
-            Aspose.BarCode for Reporting Services supports over 40 most popular barcode symbologies including:
+            Aspose.BarCode for Reporting Services supports over 60 most popular barcode symbologies including:
         </p>
         <h4>
             Supported linear types:

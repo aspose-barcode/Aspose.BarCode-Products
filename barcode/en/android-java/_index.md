@@ -2,7 +2,7 @@
 
 url: /android-java/
 title: Barcode Android API | Scan or Generate Barcodes
-description: Android barcode scanner library to recognize different kinds of 1D, 2D and Postal barcodes. Scan barcodes at any angle from Android apps.
+description: Android barcode scanner library to recognize different kinds of 1D, 2D, and postal barcodes. Scan barcodes at any angle in Android apps.
 weight: 440
 ---
 
@@ -14,7 +14,7 @@ weight: 440
 {{< blocks/products/pf/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-android-java.svg" liveDemosLink="https://products.aspose.app/barcode/family" PricingLink="https://purchase.aspose.com/pricing/barcode/android-java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/barcode/java/" installationsDocsLink="https://docs.aspose.com/barcode/android-java/installation" nugetLink="" nugetPackageName="" mavenRepoLink="" directDownloadLink="https://releases.aspose.com/barcode/androidjava/" >}}
 
 {{< blocks/products/pf/tab-content >}}
-<p>Aspose.BarCode for Android via Java is a set of barcode generation &amp; scanning APIs for Android applications. API supports 1D, 2D &amp; postal barcodes from different angles on images. Barcode generator API easily creates barcode images within multiple formats.  Moreover, It supports multiple imaging features such as manipulating image borders, image color, rotating images, customizing resolution and much more.</p>
+<p>Aspose.BarCode for Android via Java is a barcode generation &amp; reading API for Android applications. Its supports scanning 1D, 2D, and postal barcodes from images at different angles. The barcode generator API can easily create barcode images and save them in various formats. It also provides rich imaging functionality, such as customizing barcode borders, color, rotation angle, resolution, and much more.</p>
 {{< /blocks/products/pf/tab-content >}}
 
 <!--Diagrams Start-->
@@ -222,7 +222,7 @@ weight: 440
                     Barcode Generation Live Example
                 </h2>
                 <p>
-                    Barcode generator API offers to create the barcodes by specifying various symbologies, setting code text (data to be encoded to barcode image) and appearance-related properties such as background foreground color, font as well as location(hide, above, below) and alignment. Moreover, one can create two-dimensional barcodes like PDF 417, Data Matrix, Aztec, QR and Micro QR barcode etc in the same way as of one dimensional.
+                    The barcode generator API can create barcodes by specifying the required type, setting input text (data to be encoded in a barcode), and customizing appearance-related properties, such as background and foreground color, font, and text captions. Two-dimensional barcodes, such as PDF417, Data Matrix, Aztec Code, QR Code, and Micro QR Code can be generated in the same way as 1D types.
                 </p>
                 {{< blocks/products/pf/agp/feature-section2 >}}
 <!-- BEGIN LCS -->
@@ -636,10 +636,10 @@ generator.generateBarCodeImage();
     
             <div class="col-lg-12">
                 <h2 class="h2title">
-                    Optimized Barcode Scanning and Decoding
+                    Barcode Scanner and Decoder
                 </h2>
                 <p>
-                    The barcode API provides a useful feature for detecting and reading barcodes of over 60 popular 1D and 2D types. It only requires a few lines of code to scan barcodes, making it easy to integrate this functionality into your applications. This powerful feature allows you to quickly and accurately scan and read barcodes from a wide range of sources, such as images, documents, etc. With the ability to detect and read so many different types of barcodes, this API is a valuable tool for a wide range of applications and industries. It can be used to automate and streamline processes, reduce the risk of errors, and improve the overall efficiency of operations. Whether you need to develop applications for retail, logistics, healthcare, or any other field, this barcode API can provide a valuable solution for barcode detection and reading tasks.<br>The API provides a range of powerful features for optimizing barcode reading to meet the specific needs of your business. Developers can adjust the parameters of the recognition engine to enable fast barcode scanning or improve reading precision. Depending on the quality and parameters of the source barcode images, the library allows customizing the recognition process. It includes several preset configurations of such parameters, which can be used to quickly scan high-quality barcode images or improve the chances of successfully decoding damaged or degraded barcodes. Additionally, there are special settings that can improve barcode reading for different types of distortions, such as Gaussian noise, white spots, and inverted colors. With the ability to fine-tune the recognition process, the API can be tailored to provide the most efficient barcode reading for a wide range of applications and scenarios.
+                    The barcode API enables detecting and reading barcodes of over 60 popular 1D and 2D types. It only requires a few lines of code to scan barcodes, making it easy to integrate this functionality into your applications. This powerful feature allows you to scan and read barcodes from a wide range of sources, such as images, documents, etc. It can be used to automate processes, reduce the risk of errors, and improve the overall efficiency of operations. Whether you need to develop applications for retail, logistics, healthcare, or any other field, this barcode API can provide a solution for barcode detection and reading tasks.
                 </p>
             </div>
             <div class="col-lg-12">
@@ -1130,7 +1130,7 @@ generator.generateBarCodeImage();
             Supported Symbologies
         </h2>
         <p>
-            Aspose.BarCode for Android via Java supports different postal, 2D and linear bar code symbologies for both encoding and decoding.
+            Aspose.BarCode for Android via Java supports different postal, 2D, and linear barcode types for both encoding and decoding.
         </p>
         <h4>
             Supported linear types:

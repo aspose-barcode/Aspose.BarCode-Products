@@ -14,7 +14,7 @@ weight: 440
 {{< blocks/products/pf/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-cpp.svg" liveDemosLink="https://products.aspose.app/barcode/family" PricingLink="https://purchase.aspose.com/pricing/barcode/cpp" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/barcode/cpp/" installationsDocsLink="https://docs.aspose.com/barcode/cpp/installation" nugetLink="" nugetPackageName="" mavenRepoLink="" directDownloadLink="https://releases.aspose.com/barcode/cpp/" >}}
 
 {{< blocks/products/pf/tab-content >}}
-<p>Aspose.BarCode for C++ is a rich-featured API to add barcode generation &amp; recognition capabilities as well as export the generated ones to different images with high quality. API provides barcode appearance manipulation such as bar color, background color, quality, rotation angle, x-dimension, size, captions, resolution and a lot more.</p><p>Aspose.BarCode for C++ supports multiple imaging, rotation, sizing, and printing features. Moreover, It provides encoding and decoding features for multiple symbologies including but not limited to QR Code, Aztec, Data Matrix, ISBN, code 39 and 93, PDF417, UPC, EAN, and GS1 DataMatrix.</p>
+<p>Aspose.BarCode for C++ is a barcode API to add barcode generation &amp; recognition capabilities, as well as export generated barcodes using different high-quality image formats. This API allows customizing barcode appearance parameters, such as bar color, background color, quality, rotation angle, x-dimension, size, captions, resolution, and a lot more. It provides encoding and decoding features for 60+ barcode types, including but not limited to QR Code, Aztec Code, Data Matrix, ISBN, Code 39, Code 93, PDF417, UPC, EAN, and GS1 Data Matrix.</p>
 {{< /blocks/products/pf/tab-content >}}
 
 <!--Diagrams Start-->
@@ -219,7 +219,7 @@ weight: 440
                     Custom Barcode Appearance
                 </h2>
                 <p>
-                    Aspose.BarCode for C++ allows developers to customize various appearance parameters of generated barcodes. You can adjust barcode color, border style, size, margins, rotation angle, captions, and bar width. It is possible to modify the color of background, text, and captions. Developers can generate barcode images without borders or select any of five available styles and set the required color. Barcode image size can be determimed manually or defined automatically. Generated barcode images might be rotated by the specified angle clockwise or counterclockwise. The API enables producing high-quality images with anti-aliasing and specifying the required resolution.
+                    Aspose.BarCode for C++ allows developers to customize various appearance parameters of generated barcodes. You can adjust barcode color, border style, size, margins, rotation angle, captions, and bar width. It is possible to modify the color of background, text, and captions. Developers can generate barcode images without borders or select any of five available styles and set the required color. Barcode image size can be determined manually or defined automatically. Generated barcode images might be rotated by the specified angle clockwise or counterclockwise. The API enables producing high-quality images with anti-aliasing and specifying the required resolution.
                 </p>
             </div>
 <!--simpleHeaderDescriptionSection1 End-->
@@ -228,7 +228,7 @@ weight: 440
                     Barcode Generation Live Example
                 </h2>
                 <p>
-                    Barcode generator API offers to create the barcodes by specifying various symbologies, setting code text (data to be encoded to barcode image) and appearance-related properties such as background foreground color, font as well as location(hide, above, below) and alignment. Moreover, one can create two-dimensional barcodes like PDF 417, Data Matrix, Aztec, QR and Micro QR barcode etc in the same way as of one dimensional.
+                    Aspose.Barcode for C++ is a powerful API that enables developers to generate high-quality barcode images within their applications. It supports a wide range of barcode types, including linear, postal, and two-dimensional barcodes. The API allows for customization of various barcode appearance parameters. To generate barcodes, developers need to specify the required symbology, information to be encoded, and various properties. This includes setting the foreground and background colors, font, and caption alignment, as well as mane other parameters.
                 </p>
                 {{< blocks/products/pf/agp/feature-section2 >}}
 <!-- BEGIN LCS -->
@@ -650,7 +650,7 @@ System::SharedPtr&lt;System::Drawing::Bitmap&gt; lBmp = generator-&gt;<span clas
                     Barcode Recognition Live Example
                 </h2>
                 <p>
-                    C++ barcode library is capable of reading from different images. BarCodeReader class which is mainly responsible for the recognition feature supports many popular image formats including BMP, PNG, TIFF, JPEG &amp; GIF. The recognition process is highly configurable allowing you to set expected regions to find code labels on an image, apply manual recognition hints to optimize the scan &amp; apply binarization filters on the image.
+                    The barcode API provides a useful feature for detecting and reading barcodes of over 60 popular 1D and 2D types. It only requires a few lines of code to scan barcodes, making it easy to integrate this functionality into your applications. This powerful feature allows you to scan and read barcodes from a wide range of sources, such as images, documents, etc. With the ability to detect and read so many different types of barcodes, this API is a valuable tool for a wide range of applications and industries. It can be used to automate and streamline processes, reduce the risk of errors, and improve the overall efficiency of operations. Whether you need to develop applications for retail, logistics, healthcare, or any other field, this barcode API can provide a valuable solution for barcode detection and reading tasks.
                 </p>
                 {{< blocks/products/pf/agp/feature-section2 >}}
 <!-- BEGIN LCS -->
@@ -1141,7 +1141,7 @@ System::SharedPtr&lt;System::Drawing::Bitmap&gt; lBmp = generator-&gt;<span clas
             Supported Symbologies
         </h2>
         <p>
-            Aspose.BarCode for C++ API offers support for multiple 1D, 2D and postal symbologies having both encode and decode capabilities:
+            Aspose.BarCode for C++ API supports over 60 1D, 2D, and postal barcode types providing both encode and decode capabilities:
         </p>
         <h4>
             Supported linear types:
