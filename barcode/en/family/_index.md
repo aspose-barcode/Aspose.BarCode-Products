@@ -20,7 +20,7 @@ Native Java APIs for the desktop, web or any kind of application based on Java S
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.BarCode for" title="C++" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-cpp.svg" productLink="/barcode/cpp/" >}}
-Generate or recognize 1D & 2D barcode types from within C++ applications.
+Generate or recognize 1D & 2D barcode types within C++ applications.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.BarCode for" title="Android via Java" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-android-java.svg" productLink="/barcode/android-java/" >}}
@@ -47,8 +47,12 @@ Generate and recognize barcodes in PHP applications via JavaBridge.
 Manage barcode generation and recognition functionality within Node.js applications.
 {{< /blocks/products/pf/product >}}
 
+{{< blocks/products/pf/product pfName="Aspose.BarCode for" title="Python via .NET" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-python-net.svg" productLink="/barcode/python-net/" >}}
+Generate and recognize barcodes within Python applications.
+{{< /blocks/products/pf/product >}}
+
 {{< blocks/products/pf/product pfName="Aspose.BarCode for" title="Python via Java" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-python-java.svg" productLink="/barcode/python-java/" >}}
-Manage barcode generation and recognition functionality within Pytthon applications.
+Manage barcode generation and recognition functionality within Python applications.
 {{< /blocks/products/pf/product >}}
 
 {{< /blocks/products/pf/product-card-row >}}
