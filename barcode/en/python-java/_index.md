@@ -1,6 +1,4 @@
 ---
-
-url: /python-java/
 title: Python Barcode Generator and Scanner API
 description: Python barcode reader library to recognize and generate mutiple types of barcodes, including 1D, 2D, and Postal types. Use API in Python applications.
 weight: 440
@@ -44,7 +42,7 @@ weight: 440
                 </i>
                 Generation
             </header>
-            <ul><li>Linear, 2D &amp; Postal</li><li>Save to Stream or Image</li><li>Customize Appearance: Size, Color, Angle</li><li>Encode Non-English Characters</li></ul>
+            <ul><li>Linear, 2D &amp; Postal</li><li>Save to Stream or Image</li><li>Customize Appearance&colon; Size, Color, Angle</li><li>Encode Non-English Characters</li></ul>
             <header>
                 <i class="fa fa-qrcode">
                 </i>
@@ -220,7 +218,7 @@ weight: 440
                     Save Barcodes in Various Formats
                 </h2>
                 <p>
-                    The barcode library provides various options to save generated barcodes not only using popular raster image formats but also to stream or vector. Barcodes can be downloaded using one of the five most widely used image formats or two vector formats. It is also possible to load barcodes as files, streams, or bitmaps. Developers can customize the process of barcode generation and saving according to specific business needs by setting the required output mode. The API supports the following file formats: BMP, PNG, GIF, JPEG, and TIFF for input/output; EMF and SVG for output. Developers can save barcodes as vector images, such as EMF and SVG files, to scale them without losses in resolution. It is possible to output generated barcodes as streams (using the binary format). This mode can be used to abstract from the use of specific operating systems and particular output devices. The API also enables firstly saving barcodes as bitmap objects and then downloading them in the required file format or processing further. Such objects use a grid of pixels to represent an image. Each pixel in a bitmap is represented by a binary value, which specifies whether the pixel is filled or empty. Bitmap objects serve to represent and manipulate images. They are commonly used in graphics and imaging software. 
+                    The barcode library provides various options to save generated barcodes not only using popular raster image formats but also to stream or vector. Barcodes can be downloaded using one of the five most widely used image formats or two vector formats. It is also possible to load barcodes as files, streams, or bitmaps. Developers can customize the process of barcode generation and saving according to specific business needs by setting the required output mode. The API supports the following file formats&colon; BMP, PNG, GIF, JPEG, and TIFF for input/output; EMF and SVG for output. Developers can save barcodes as vector images, such as EMF and SVG files, to scale them without losses in resolution. It is possible to output generated barcodes as streams (using the binary format). This mode can be used to abstract from the use of specific operating systems and particular output devices. The API also enables firstly saving barcodes as bitmap objects and then downloading them in the required file format or processing further. Such objects use a grid of pixels to represent an image. Each pixel in a bitmap is represented by a binary value, which specifies whether the pixel is filled or empty. Bitmap objects serve to represent and manipulate images. They are commonly used in graphics and imaging software. 
                 </p>
             </div>
 <!--simpleHeaderDescriptionSection1 End-->
@@ -353,25 +351,23 @@ weight: 440
             font-size: 12px !important;
         }
         .barcode-gen-lcs-result {
-            position: fixed;
-            top: 0px;
-            right: 0px;
-            bottom: 0px;
-            left: 0px;
-            background: rgba(0,0,0,0.8);
+            width: 100%;
+            height: 100%;
+            top: 0;
+            position: absolute;
+            display: none;
             z-index: 9998;
             -webkit-transition: opacity 400ms ease-in;
             -moz-transition: opacity 400ms ease-in;
             transition: opacity 400ms ease-in;
-            display: none;
         }
         .barcode-gen-lcs-result > div {
-            display: inline-block;
-            width: 90vw;
             position: relative;
-            margin: 10% auto;
+            margin: 0 auto;
+            top: 25%;
             padding: 5px 20px 13px 20px;
             border-radius: 10px;
+            box-shadow: 20px 20px 7px rgba(88,88,88,0.8);
             background: #ffffff;
             pointer-events: auto;
         }
@@ -480,7 +476,7 @@ weight: 440
             <input id="generate-button" type="button" value="Run code" class="barcode-gen-lcs-disabled" onclick="generateBarcodeAsync()" />
         </div>
     </div>
-<div id="code" class="codeblock"><h3>Code to be executed - Python</h3><pre>
+<div id="code" class="codablock"><h3>Code to be executed - Python</h3><pre>
 <code class='py hljs'>
 <span class="hljs-keyword">from</span> asposebarcode <span class="hljs-keyword">import</span> Generation
 
@@ -500,7 +496,7 @@ barcodeGeneratorExamples.generateBarcodeImage()
                 <span>Generation result</span>
                 <i class="fa fa-times" onclick="BarcodeGenLcsCloseResult(this);"></i>
             </header>
-            <article><div><img id="generatedImage" styles="max-width: 300px;max-height: 300px;"></img></div><div id="generationResult"></div></article>
+            <article><div><img id="generatedImage" style="min-width: 350px; max-width: 450px;"></img></div><div id="generationResult"></div></article>
         </div>
     </div>
     <script>
@@ -589,7 +585,7 @@ barcodeGeneratorExamples.generateBarcodeImage()
         function showGenerationResult(imgBase64) {
             let button = $("#generate-button");
             let resultDialog = button.closest(".barcode-gen-lcs").find(".barcode-gen-lcs-result");
-            resultDialog.find("#generatedImage").attr('src', 'data:image/png;base64,' + imgBase64);
+            resultDialog.find("#generatedImage").attr('src', 'data:image/svg+xml;base64,' + imgBase64);
             resultDialog.slideDown(200);
         }
         function cancelAsyncGenerationProcess() {
@@ -747,25 +743,23 @@ barcodeGeneratorExamples.generateBarcodeImage()
             font-size: 12px !important;
         }
         .barcode-read-lcs-result {
-            position: fixed;
-            top: 0px;
-            right: 0px;
-            bottom: 0px;
-            left: 0px;
-            background: rgba(0,0,0,0.8);
+            width: 100%;
+            height: 100%;
+            top: 0;
+            position: absolute;
+            display: none;
             z-index: 9998;
             -webkit-transition: opacity 400ms ease-in;
             -moz-transition: opacity 400ms ease-in;
             transition: opacity 400ms ease-in;
-            display: none;
         }
         .barcode-read-lcs-result > div {
-            display: inline-block;
-            width: 90vw;
             position: relative;
-            margin: 10% auto;
+            margin: 0 auto;
+            top: 25%;
             padding: 5px 20px 13px 20px;
             border-radius: 10px;
+            box-shadow: 20px 20px 7px rgba(88,88,88,0.8);
             background: #ffffff;
             pointer-events: auto;
         }
@@ -812,24 +806,42 @@ barcodeGeneratorExamples.generateBarcodeImage()
         </div>
         <div class="barcode-read-lcs-mods">
             <select name=type onchange="selectType(this)">
-                <option value= "AllSupportedTypes">All types</option>
-                <option value="QR">QR code</option>
-                <option value="Pdf417">PDF417</option>
-                <option value="DataMatrix">DataMatrix</option>
-                <option value="Aztec">Aztec</option>
-                <option value="Code128">Code 128</option>
-                <option value="Code128">Code 39</option>
-                <option value="DataBar">DataBar</option>
-                <option value="UPC">UPC</option>
-                <option value="EAN">EAN</option>
-                <option value="ITF">ITF</option>
-                <option value="Mailmark">Royal Mailmark</option>
+                <option value="AllSupportedTypes">All types</option>
+                <option value="Pdf417 ">PDF417</option>
+                <option value="QR ">QR</option>
+                <option value="EAN ">EAN</option>
+                <option value="UPC ">UPC</option>
+                <option value="Code128 ">GS1 Code 128</option>
+                <option value="Code39 ">Code 39</option>
+                <option value="DataMatrix ">Data Matrix</option>
+                <option value="Aztec ">Aztec</option>
+                <option value="Databar ">GS1 DataBar</option>
+                <option value="ITF ">ITF</option>
+                <option value="Mailmark ">Royal Mail</option>
+                <option value=" ">Swiss QR</option>
+                <option value="CodablockF ">Codablock-F</option>
+                <option value="Code16K ">Code 16K</option>
+                <option value="Code32 ">Code 32</option>
+                <option value="Code93 ">Code 93</option>
+                <option value="OneCode ">USPS OneCode</option>
+                <option value="AustraliaPost ">Australia Post</option>
+                <option value="DeutschePost ">Deutsche Post</option>
+                <option value="RM4SCC ">RM4SCC</option>
+                <option value="Postnet ">Postnet</option>
+                <option value="SingaporePost ">Singapore Post</option>
+                <option value="SwissPostParcel ">Swiss Post Parcel</option>
+                <option value="DotCode ">DotCode</option>
+                <option value="Standard2of5 ">Standard 2 of 5</option>
+                <option value="ISBN ">ISBN</option>
+                <option value="ISMN ">ISMN</option>
+                <option value="ISSN ">ISSN</option>
+                <option value="HIBC ">HIBC</option>
             </select>
             <input id="recognize-button" type="button" value="Run code" class="barcode-read-lcs-recognize barcode-read-lcs-disabled" onclick="recognizeBarcodeAsync()" />
         </div>
     </div>
     <p class="barcode-read-lcs-disclaimer">* By uploading your files or using the service you agree with our <a href='https://about.aspose.com/legal/terms-of-use' rel='nofollow noreferrer' target='_blank'>Terms of use</a> and <a href='https://about.aspose.com/legal/privacy-policy' rel='nofollow noreferrer' target='_blank'>Privacy Policy</a>.</p>
-<div id="code" class="codeblock"><h3>Code to be executed - Python</h3><pre>
+<div id="code" class="codablock"><h3>Code to be executed - Python</h3><pre>
     <code class='py hljs'>
 <span class="hljs-keyword">import</span> os
 <span class="hljs-keyword">import</span> base64
@@ -837,7 +849,7 @@ barcodeGeneratorExamples.generateBarcodeImage()
 
 <span class="hljs-keyword">class</span> <span class="hljs-title class_">BarcodeReaderExamples</span>():
     <span class="hljs-keyword">def</span> <span class="hljs-title function_">readBarcodeImage</span>(<span class="hljs-params">self</span>):
-        image_data_base64 = ta.load_image_base64_from_path(<span class="hljs-string"><span class="barcode-read-lcs-code-filename-placeholder">&lt;file name&gt;</span><span class="barcode-read-lcs-code-filename-actual"></span></span>)
+        image_data_base64 = ta.load_image_base64_from_path(<span class="hljs-string">"<span class="barcode-read-lcs-code-filename-placeholder">&lt;file name&gt;</span><span class="barcode-read-lcs-code-filename-actual"></span>"</span>)
         reader = Recognition.BarcodeReader(image_data_base64, <span class="hljs-literal">None</span>, Recognition.DecodeType.<span class="barcode-read-lcs-type">AllSupportedTypes</span>)
         recognized_results = reader.readBarCodes()
         <span class="hljs-keyword">for</span> x <span class="hljs-keyword">in</span> recognized_results:
@@ -1095,56 +1107,49 @@ barcodeReaderExamples.readBarcodeImage()
 {{< /blocks/products/pf/agp/feature-section2 >}}
             </div>
 <!--supportedSymbologiesSection-->
-<style>
-    .adaptive_columns
-    {
-        -moz-column-width: 20em;
-        -webkit-column-width: 20em;
-        column-width: 20em;
-    }
-    .adaptive_columns ul
-    {
-        margin: 0;
-        padding: 0;
-        list-style-type: none;
-    }
-    .adaptive_columns ul li:first-child
-    {
-        margin-top:0px;
-    }
-</style>
-<div class="col-lg-12" style="margin-bottom: 40px;">
-    <div class="col-lg-12">
-        <h2 class="h2title">
-            Supported Symbologies
-        </h2>
-        <p>
-            Aspose.BarCode for Python via Java supports a large number of linear, 2D and postal barcode types for both encoding and decoding.
-        </p>
-        <h4>
-            Supported linear types:
-        </h4>
-        <div class="adaptive_columns">
-            <ul class="unstyled"><li>EAN-13</li><li>EAN-8</li><li>UPC-A</li><li>UPC-E</li><li>Interleaved 2-of-5</li><li>Standard 2-of-5</li><li>MSI</li><li>Code 11</li><li>Codabar</li><li>EAN-14</li><li>SSCC-18</li><li>ITF-14</li><li>Matrix 2-of-5</li><li>PZN</li><li>Code 128</li><li>Code 39 Extended</li><li>Code 93 Extended</li><li>Code 93 Standard</li><li>IATA 2-of-5</li><li>OPC</li><li>GS1 Code 128</li><li>ISBN</li><li>ISMN</li><li>ISSN</li><li>ITF-6</li><li>VIN</li><li>Pharmacode</li><li>GS1 Databar Family: Databar Omnidirectional, Databar Truncated, Databar Limited, Databar Expanded, Databar Stacked, Databar Expanded Stacked, Databar Stacked Omnidirectional</li><li>PatchCode</li><li>Supplement</li></ul>
-        </div>
-    </div>
-    <div class="col-lg-12">
-        <h4>
-            2D types:
-        </h4>
-        <div class="adaptive_columns">
-            <ul class="unstyled"><li>PDF417</li><li>Macro PDF417</li><li>Micro PDF417</li><li>Aztec Code</li><li>Data Matrix</li><li>Compact PDF417</li><li>QR Code</li><li>Micro QR Code</li><li>DotCode</li><li>MaxiCode</li><li>GS1 Data Matrix</li><li>Italian Post 25</li><li>Code16K</li></ul>
-        </div>
-    </div>
-    <div class="col-lg-12">
-        <h4>
-            Postal types:
-        </h4>
-        <div class="adaptive_columns">
-            <ul class="unstyled"><li>Postnet</li><li>Planet</li><li>Australia Post</li><li>USPS OneCode</li><li>Deutsche Post Identcode</li><li>Royal Mailmark</li><li>RM4SCC</li><li>Deutsche Post Leticode</li><li>SingaporePost</li><li>AustralianPost eParcel</li><li>SwissPost Parcel</li></ul>
-        </div>
-    </div>
-</div><!--supportedSymbologiesSection End-->
+{{< blocks/products/pf/agp/other-symbologies-section title="Supported Barcode Types" subTitle="Using Python via Java, developers can read and generate barcodes of differen types, including the following." >}}
+
+<p class="tl d-block" style="margin: 15px 0 7px 0 !important;">2D:</p>
+<div class="row other-converters">
+{{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/python-java/pdf417/" name="PDF417" description="PDF417 barcode" >}}
+{{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/python-java/qr/" name="QR" description="QR Code, GS1 QR Code" >}}
+{{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/python-java/datamatrix/" name="Data Matrix" description="Data Matrix code" >}}
+{{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/python-java/aztec/" name="Aztec" description="Aztec Code" >}}
+{{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/python-java/swiss-qr/" name="Swiss QR" description="Swiss QR bill" >}}
+{{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/python-java/dotcode/" name="DotCode" description="DotCode barcode" >}}
+{{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/python-java/hibc/" name="HIBC" description="HIBC (Health Industry Bar Code)" >}}
+</div>
+<p class="tl d-block" style="margin: 15px 0 7px 0 !important;">Linear:</p>
+<div class="row other-converters">
+{{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/python-java/codablock/" name="Codablock-F" description="Codablock-F and GS1 Codablock-F barcodes" >}}
+{{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/python-java/databar/" name="GS1 DataBar" description="GS1 DataBar (Omnidirectional, Stacked Omnidirectional, Expanded, Expanded Stacked, and Truncated) barcode" >}}
+{{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/python-java/itf/" name="ITF" description="Interleaved 2-of-5 (ITF) barcode" >}}
+{{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/python-java/ean/" name="EAN" description="EAN barcode" >}}
+{{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/python-java/upc/" name="UPC" description="UPC barcode" >}}
+{{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/python-java/code128/" name="GS1 Code 128" description="GS1 Code 128 barcode" >}}
+{{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/python-java/code39/" name="Code 39" description="Code 39 barcode" >}}
+{{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/python-java/code16k/" name="Code 16K" description="Code 16K barcode" >}}
+{{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/python-java/code32/" name="Code 32" description="Italian Pharmacode (Code 32) barcode" >}}
+{{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/python-java/code93/" name="Code 93" description="Code 93 Extended and Code 93 Standard barcodes" >}}
+{{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/python-java/onecode/" name="USPS OneCode" description="USPS OneCode barcode" >}}
+{{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/python-java/standard2of5/" name="Standard 2 of 5" description="Standard 2 of 5 (Industrial 2 of 5) barcode" >}}
+{{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/python-java/isbn/" name="ISBN" description="ISBN barcode" >}}
+{{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/python-java/ismn/" name="ISMN" description="ISMN barcode" >}}
+{{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/python-java/issn/" name="ISSN" description="ISSN barcode" >}}
+</div>
+<p class="tl d-block" style="margin: 15px 0 7px 0 !important;">Postal:</p>
+<div class="row other-converters">
+{{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/python-java/australia-post/" name="Australia Post" description="Australia Post barcode and Australia Post eParcel" >}}
+{{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/python-java/deutsche-post/" name="Deutsche Post" description="Deutsche Post Identcode and Deutsche Post Leitcode" >}}
+{{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/python-java/rm4scc/" name="RM4SCC" description="Royal Mail 4-State Customer Code (RM4SCC)" >}}
+{{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/python-java/postnet/" name="Postnet" description="Postnet barcode" >}}
+{{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/python-java/royal-mail/" name="Royal Mail" description="Royal Mail barcode" >}}
+{{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/python-java/singapore-post/" name="Singapore Post" description="Singapore Post barcode" >}}
+{{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/python-java/swiss-post-parcel/" name="Swiss Post Parcel" description="Swiss Post Parcel" >}}
+</div>
+
+{{< /blocks/products/pf/agp/other-symbologies-section >}}
+<!--supportedSymbologiesSection End-->
         </div>
     </div>
 </div>

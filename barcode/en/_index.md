@@ -1,5 +1,4 @@
 ---
-url: /
 title: On Premise, Cloud Barcode SDK
 description: Build barcode processing applications via High-Code APIs or Cloud-based SDKs. Use cross-platform apps for Barcode generation or recognition.
 ---

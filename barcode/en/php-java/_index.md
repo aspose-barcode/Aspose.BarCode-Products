@@ -1,6 +1,4 @@
 ---
-
-url: /php-java/
 title: PHP Barcode Generator and Scanner API
 description: PHP barcode reader library to recognize mutiple types of barcodes including 1D, 2D and Postal. Use API in core PHP or within framework like codeigniter, cakephp or laravel.
 weight: 440
@@ -44,7 +42,7 @@ weight: 440
                 </i>
                 Generation
             </header>
-            <ul><li>Linear, 2D &amp; Postal</li><li>Save to Stream or Image</li><li>Customize Appearance: Size, Color, Angle</li><li>Encode Non-English Characters</li></ul>
+            <ul><li>Linear, 2D &amp; Postal</li><li>Save to Stream or Image</li><li>Customize Appearance&colon; Size, Color, Angle</li><li>Encode Non-English Characters</li></ul>
             <header>
                 <i class="fa fa-qrcode">
                 </i>
@@ -203,14 +201,14 @@ weight: 440
                 <em class='fa fa-file-image-o ico-blue fa-2x col-lg-2'>
                 </em>
                 <p class="col-lg-10">
-                    <a href='https://docs.aspose.com/barcode/barcode-reading-presets/'>Barcode Reading Presets</a>
+                    <a href='https://docs.aspose.com/barcode/phpjava/barcode-reading-presets/'>Barcode Reading Presets</a>
                 </p>
             </div>
             <div class="col-lg-4">
                 <em class='fa fa-book ico-blue fa-2x col-lg-2'>
                 </em>
                 <p class="col-lg-10">
-                    <a href='https://docs.aspose.com/barcode/read-damaged-barcodes/'>Read Damaged Barcodes</a>
+                    <a href='https://docs.aspose.com/barcode/phpjava/read-damaged-barcodes/'>Read Damaged Barcodes</a>
                 </p>
             </div>
 <!--advancedFeaturesSection End-->
@@ -353,25 +351,23 @@ weight: 440
             font-size: 12px !important;
         }
         .barcode-gen-lcs-result {
-            position: fixed;
-            top: 0px;
-            right: 0px;
-            bottom: 0px;
-            left: 0px;
-            background: rgba(0,0,0,0.8);
+            width: 100%;
+            height: 100%;
+            top: 0;
+            position: absolute;
+            display: none;
             z-index: 9998;
             -webkit-transition: opacity 400ms ease-in;
             -moz-transition: opacity 400ms ease-in;
             transition: opacity 400ms ease-in;
-            display: none;
         }
         .barcode-gen-lcs-result > div {
-            display: inline-block;
-            width: 90vw;
             position: relative;
-            margin: 10% auto;
+            margin: 0 auto;
+            top: 25%;
             padding: 5px 20px 13px 20px;
             border-radius: 10px;
+            box-shadow: 20px 20px 7px rgba(88,88,88,0.8);
             background: #ffffff;
             pointer-events: auto;
         }
@@ -480,7 +476,7 @@ weight: 440
             <input id="generate-button" type="button" value="Run code" class="barcode-gen-lcs-disabled" onclick="generateBarcodeAsync()" />
         </div>
     </div>
-<div id="code" class="codeblock"><h3>Code to be executed - PHP</h3><pre>
+<div id="code" class="codablock"><h3>Code to be executed - PHP</h3><pre>
 <code class='php hljs'>
 <span class="hljs-comment">// Create an instane of the BarcodeGenerator class</span>
 <span class="hljs-variable">$generator</span> = <span class="hljs-keyword">new</span> <span class="hljs-title class_">BarcodeGenerator</span>(<span class="hljs-title class_">EncodeTypes</span>::<span class="hljs-variable constant_"><span class="barcode-gen-lcs-type-param">QR</span></span>, <span class="hljs-string">&quot;<span class="hljs-string barcode-gen-lcs-codetext-param"></span>&quot;</span>);
@@ -501,7 +497,7 @@ weight: 440
                 <span>Generation result</span>
                 <i class="fa fa-times" onclick="BarcodeGenLcsCloseResult(this);"></i>
             </header>
-            <article><div><img id="generatedImage" styles="max-width: 300px;max-height: 300px;"></img></div><div id="generationResult"></div></article>
+            <article><div><img id="generatedImage" style="min-width: 350px; max-width: 450px;"></img></div><div id="generationResult"></div></article>
         </div>
     </div>
     <script>
@@ -590,7 +586,7 @@ weight: 440
         function showGenerationResult(imgBase64) {
             let button = $("#generate-button");
             let resultDialog = button.closest(".barcode-gen-lcs").find(".barcode-gen-lcs-result");
-            resultDialog.find("#generatedImage").attr('src', 'data:image/png;base64,' + imgBase64);
+            resultDialog.find("#generatedImage").attr('src', 'data:image/svg+xml;base64,' + imgBase64);
             resultDialog.slideDown(200);
         }
         function cancelAsyncGenerationProcess() {
@@ -622,7 +618,7 @@ weight: 440
                     Barcode Recognition Live Example
                 </h2>
                 <p>
-                    The barcode reader API provides a set of features for scanning, detecting, and reading 1D, 2D, and postal barcodes. With just a few lines of code, developers can easily integrate this functionality into their applications and use it to detect and decode a wide range of commonly used barcodes. The API is designed to be user-friendly and intuitive, making it easy for developers to quickly and easily add barcode scanning capabilities to their PHP applications.
+                    The barcode reader API provides a set of features for scanning, detecting, and reading 1D, 2D, and postal barcodes. With just a few lines of code, developers can easily integrate this functionality into their applications and use it to detect and decode a wide range of commonly used barcodes. The API is designed to be user-friendly and intuitive, making it easy for developers to quickly and easily add barcode scanning capabilities to their applications.
                 </p>
                 {{< blocks/products/pf/agp/feature-section2 >}}
 <!-- BEGIN LCS -->
@@ -748,25 +744,23 @@ weight: 440
             font-size: 12px !important;
         }
         .barcode-read-lcs-result {
-            position: fixed;
-            top: 0px;
-            right: 0px;
-            bottom: 0px;
-            left: 0px;
-            background: rgba(0,0,0,0.8);
+            width: 100%;
+            height: 100%;
+            top: 0;
+            position: absolute;
+            display: none;
             z-index: 9998;
             -webkit-transition: opacity 400ms ease-in;
             -moz-transition: opacity 400ms ease-in;
             transition: opacity 400ms ease-in;
-            display: none;
         }
         .barcode-read-lcs-result > div {
-            display: inline-block;
-            width: 90vw;
             position: relative;
-            margin: 10% auto;
+            margin: 0 auto;
+            top: 25%;
             padding: 5px 20px 13px 20px;
             border-radius: 10px;
+            box-shadow: 20px 20px 7px rgba(88,88,88,0.8);
             background: #ffffff;
             pointer-events: auto;
         }
@@ -813,28 +807,46 @@ weight: 440
         </div>
         <div class="barcode-read-lcs-mods">
             <select name=type onchange="selectType(this)">
-                <option value= "AllSupportedTypes">All types</option>
-                <option value="QR">QR code</option>
-                <option value="Pdf417">PDF417</option>
-                <option value="DataMatrix">DataMatrix</option>
-                <option value="Aztec">Aztec</option>
-                <option value="Code128">Code 128</option>
-                <option value="Code128">Code 39</option>
-                <option value="DataBar">DataBar</option>
-                <option value="UPC">UPC</option>
-                <option value="EAN">EAN</option>
-                <option value="ITF">ITF</option>
-                <option value="Mailmark">Royal Mailmark</option>
+                <option value="AllSupportedTypes">All types</option>
+                <option value="Pdf417 ">PDF417</option>
+                <option value="QR ">QR</option>
+                <option value="EAN ">EAN</option>
+                <option value="UPC ">UPC</option>
+                <option value="Code128 ">GS1 Code 128</option>
+                <option value="Code39 ">Code 39</option>
+                <option value="DataMatrix ">Data Matrix</option>
+                <option value="Aztec ">Aztec</option>
+                <option value="Databar ">GS1 DataBar</option>
+                <option value="ITF ">ITF</option>
+                <option value="Mailmark ">Royal Mail</option>
+                <option value=" ">Swiss QR</option>
+                <option value="CodablockF ">Codablock-F</option>
+                <option value="Code16K ">Code 16K</option>
+                <option value="Code32 ">Code 32</option>
+                <option value="Code93 ">Code 93</option>
+                <option value="OneCode ">USPS OneCode</option>
+                <option value="AustraliaPost ">Australia Post</option>
+                <option value="DeutschePost ">Deutsche Post</option>
+                <option value="RM4SCC ">RM4SCC</option>
+                <option value="Postnet ">Postnet</option>
+                <option value="SingaporePost ">Singapore Post</option>
+                <option value="SwissPostParcel ">Swiss Post Parcel</option>
+                <option value="DotCode ">DotCode</option>
+                <option value="Standard2of5 ">Standard 2 of 5</option>
+                <option value="ISBN ">ISBN</option>
+                <option value="ISMN ">ISMN</option>
+                <option value="ISSN ">ISSN</option>
+                <option value="HIBC ">HIBC</option>
             </select>
             <input id="recognize-button" type="button" value="Run code" class="barcode-read-lcs-recognize barcode-read-lcs-disabled" onclick="recognizeBarcodeAsync()" />
         </div>
     </div>
     <p class="barcode-read-lcs-disclaimer">* By uploading your files or using the service you agree with our <a href='https://about.aspose.com/legal/terms-of-use' rel='nofollow noreferrer' target='_blank'>Terms of use</a> and <a href='https://about.aspose.com/legal/privacy-policy' rel='nofollow noreferrer' target='_blank'>Privacy Policy</a>.</p>
-<div id="code" class="codeblock"><h3>Code to be executed - PHP</h3><pre>
+<div id="code" class="codablock"><h3>Code to be executed - PHP</h3><pre>
     <code class='php hljs'>
 <span class="hljs-keyword">try</span>
 {
-    <span class="hljs-variable">$image_bytes</span> = <span class="hljs-title function_ invoke__">file_get_contents</span>(<span class="hljs-string"><span class="barcode-read-lcs-code-filename-placeholder">&lt;file name&gt;</span><span class="barcode-read-lcs-code-filename-actual"></span></span>);
+    <span class="hljs-variable">$image_bytes</span> = <span class="hljs-title function_ invoke__">file_get_contents</span>(<span class="hljs-string">"<span class="barcode-read-lcs-code-filename-placeholder">&lt;file name&gt;</span><span class="barcode-read-lcs-code-filename-actual"></span>"</span>);
     <span class="hljs-variable">$image</span> = <span class="hljs-title function_ invoke__">base64_encode</span>(<span class="hljs-variable">$image_bytes</span>);
     <span class="hljs-variable">$reader</span> = <span class="hljs-keyword">new</span> <span class="hljs-title class_">BarCodeReader</span>(<span class="hljs-variable">$image</span>, <span class="hljs-literal">null</span>, <span class="hljs-title class_">DecodeType</span>::<span class="barcode-read-lcs-type">AllSupportedTypes</span>);
     <span class="hljs-title function_ invoke__">forEach</span>(<span class="hljs-variable">$reader</span>-&gt;<span class="hljs-title function_ invoke__">readBarCodes</span>() <span class="hljs-keyword">as</span> <span class="hljs-variable">$res</span>)
@@ -1090,56 +1102,49 @@ weight: 440
 {{< /blocks/products/pf/agp/feature-section2 >}}
             </div>
 <!--supportedSymbologiesSection-->
-<style>
-    .adaptive_columns
-    {
-        -moz-column-width: 20em;
-        -webkit-column-width: 20em;
-        column-width: 20em;
-    }
-    .adaptive_columns ul
-    {
-        margin: 0;
-        padding: 0;
-        list-style-type: none;
-    }
-    .adaptive_columns ul li:first-child
-    {
-        margin-top:0px;
-    }
-</style>
-<div class="col-lg-12" style="margin-bottom: 40px;">
-    <div class="col-lg-12">
-        <h2 class="h2title">
-            Supported Symbologies
-        </h2>
-        <p>
-            Aspose.BarCode for PHP via Java supports a large number of linear, 2D, and postal barcode types for both encoding and decoding.
-        </p>
-        <h4>
-            Supported linear types:
-        </h4>
-        <div class="adaptive_columns">
-            <ul class="unstyled"><li>EAN-13</li><li>EAN-8</li><li>UPC-A</li><li>UPC-E</li><li>Interleaved 2-of-5</li><li>Standard 2-of-5</li><li>MSI</li><li>Code 11</li><li>Codabar</li><li>EAN-14</li><li>SSCC-18</li><li>ITF-14</li><li>Matrix 2-of-5</li><li>PZN</li><li>Code 128</li><li>Code 39 Extended</li><li>Code 93 Extended</li><li>Code 93 Standard</li><li>IATA 2-of-5</li><li>OPC</li><li>GS1 Code 128</li><li>ISBN</li><li>ISMN</li><li>ISSN</li><li>ITF-6</li><li>VIN</li><li>Pharmacode</li><li>GS1 Databar Family: Databar Omnidirectional, Databar Truncated, Databar Limited, Databar Expanded, Databar Stacked, Databar Expanded Stacked, Databar Stacked Omnidirectional</li><li>PatchCode</li><li>Supplement</li></ul>
-        </div>
-    </div>
-    <div class="col-lg-12">
-        <h4>
-            2D types:
-        </h4>
-        <div class="adaptive_columns">
-            <ul class="unstyled"><li>PDF417</li><li>Macro PDF417</li><li>Micro PDF417</li><li>Aztec Code</li><li>Data Matrix</li><li>Compact PDF417</li><li>QR Code</li><li>Micro QR Code</li><li>DotCode</li><li>MaxiCode</li><li>GS1 Data Matrix</li><li>Italian Post 25</li><li>Code16K</li></ul>
-        </div>
-    </div>
-    <div class="col-lg-12">
-        <h4>
-            Postal types:
-        </h4>
-        <div class="adaptive_columns">
-            <ul class="unstyled"><li>Postnet</li><li>Planet</li><li>Australia Post</li><li>USPS OneCode</li><li>Deutsche Post Identcode</li><li>Royal Mailmark</li><li>RM4SCC</li><li>Deutsche Post Leticode</li><li>SingaporePost</li><li>AustralianPost eParcel</li><li>SwissPost Parcel</li></ul>
-        </div>
-    </div>
-</div><!--supportedSymbologiesSection End-->
+{{< blocks/products/pf/agp/other-symbologies-section title="Supported Barcode Types" subTitle="Using PHP via Java, developers can read and generate barcodes of differen types, including the following." >}}
+
+<p class="tl d-block" style="margin: 15px 0 7px 0 !important;">2D:</p>
+<div class="row other-converters">
+{{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/php-java/pdf417/" name="PDF417" description="PDF417 barcode" >}}
+{{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/php-java/qr/" name="QR" description="QR Code, GS1 QR Code" >}}
+{{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/php-java/datamatrix/" name="Data Matrix" description="Data Matrix code" >}}
+{{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/php-java/aztec/" name="Aztec" description="Aztec Code" >}}
+{{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/php-java/swiss-qr/" name="Swiss QR" description="Swiss QR bill" >}}
+{{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/php-java/dotcode/" name="DotCode" description="DotCode barcode" >}}
+{{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/php-java/hibc/" name="HIBC" description="HIBC (Health Industry Bar Code)" >}}
+</div>
+<p class="tl d-block" style="margin: 15px 0 7px 0 !important;">Linear:</p>
+<div class="row other-converters">
+{{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/php-java/codablock/" name="Codablock-F" description="Codablock-F and GS1 Codablock-F barcodes" >}}
+{{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/php-java/databar/" name="GS1 DataBar" description="GS1 DataBar (Omnidirectional, Stacked Omnidirectional, Expanded, Expanded Stacked, and Truncated) barcode" >}}
+{{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/php-java/itf/" name="ITF" description="Interleaved 2-of-5 (ITF) barcode" >}}
+{{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/php-java/ean/" name="EAN" description="EAN barcode" >}}
+{{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/php-java/upc/" name="UPC" description="UPC barcode" >}}
+{{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/php-java/code128/" name="GS1 Code 128" description="GS1 Code 128 barcode" >}}
+{{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/php-java/code39/" name="Code 39" description="Code 39 barcode" >}}
+{{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/php-java/code16k/" name="Code 16K" description="Code 16K barcode" >}}
+{{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/php-java/code32/" name="Code 32" description="Italian Pharmacode (Code 32) barcode" >}}
+{{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/php-java/code93/" name="Code 93" description="Code 93 Extended and Code 93 Standard barcodes" >}}
+{{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/php-java/onecode/" name="USPS OneCode" description="USPS OneCode barcode" >}}
+{{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/php-java/standard2of5/" name="Standard 2 of 5" description="Standard 2 of 5 (Industrial 2 of 5) barcode" >}}
+{{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/php-java/isbn/" name="ISBN" description="ISBN barcode" >}}
+{{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/php-java/ismn/" name="ISMN" description="ISMN barcode" >}}
+{{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/php-java/issn/" name="ISSN" description="ISSN barcode" >}}
+</div>
+<p class="tl d-block" style="margin: 15px 0 7px 0 !important;">Postal:</p>
+<div class="row other-converters">
+{{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/php-java/australia-post/" name="Australia Post" description="Australia Post barcode and Australia Post eParcel" >}}
+{{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/php-java/deutsche-post/" name="Deutsche Post" description="Deutsche Post Identcode and Deutsche Post Leitcode" >}}
+{{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/php-java/rm4scc/" name="RM4SCC" description="Royal Mail 4-State Customer Code (RM4SCC)" >}}
+{{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/php-java/postnet/" name="Postnet" description="Postnet barcode" >}}
+{{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/php-java/royal-mail/" name="Royal Mail" description="Royal Mail barcode" >}}
+{{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/php-java/singapore-post/" name="Singapore Post" description="Singapore Post barcode" >}}
+{{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/php-java/swiss-post-parcel/" name="Swiss Post Parcel" description="Swiss Post Parcel" >}}
+</div>
+
+{{< /blocks/products/pf/agp/other-symbologies-section >}}
+<!--supportedSymbologiesSection End-->
         </div>
     </div>
 </div>
