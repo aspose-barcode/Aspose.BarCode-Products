@@ -1,7 +1,12 @@
 ---
 title: Создайте Штрих-код ISMN изображений с помощью PHP via Java
-weight: 1510
 description: Исходный код PHP для создания Штрих-код ISMN в приложениях на основе PHP.
+lang: ru/
+langdirlevel: 2
+locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+url: /ru/php-java/ismn/generate/
+aliases:
+- /ru/php-java/generate/ismn/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

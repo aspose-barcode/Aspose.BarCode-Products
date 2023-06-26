@@ -1,7 +1,12 @@
 ---
 title: Genera immagini Postnet codice a barre tramite C++
-weight: 1510
 description: Esempio di codice C++ per generare Postnet codice a barre in C++ Runtime Environment per Windows a 32 bit, Windows a 64 bit e Linux a 64 bit.
+lang: it/
+langdirlevel: 2
+locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+url: /it/cpp/postnet/generate/
+aliases:
+- /it/cpp/generate/postnet/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

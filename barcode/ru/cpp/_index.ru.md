@@ -1,7 +1,9 @@
 ---
 title: API обработки штрих-кода C++
 description: Сканер штрих-кода C++ и библиотека генератора для 1D и 2D штрих-кодов. Создавайте и считывайте различные типы одномерных, двумерных и почтовых штрих-кодов.
-weight: 440
+lang: ru/
+langdirlevel: 2
+locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}

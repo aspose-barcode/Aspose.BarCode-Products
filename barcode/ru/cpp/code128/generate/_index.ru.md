@@ -1,7 +1,12 @@
 ---
 title: Создайте Штрих-код GS1 Code 128 изображений с помощью C++
-weight: 1510
 description: Пример кода C++ для создания Штрих-код GS1 Code 128 в среде выполнения C++ для 32-разрядной, 64-разрядной версии Windows и 64-разрядной версии Linux.
+lang: ru/
+langdirlevel: 2
+locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+url: /ru/cpp/code128/generate/
+aliases:
+- /ru/cpp/generate/code128/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

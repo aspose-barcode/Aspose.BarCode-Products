@@ -2,6 +2,12 @@
 title: Сканировать изображения Штрих-код Standard 2 of 5 (Промышленный 2 из 5) через .NET
 weight: 1510
 description: Пример кода C# для сканирования и декодирования типа штрих-кода Штрих-код Standard 2 of 5 (Промышленный 2 из 5) в .NET Framework, .NET Standard, COM Interloop для PHP, VBScript, Delphi или C++.
+lang: ru/
+langdirlevel: 2
+locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+url: /ru/net/standard2of5/recognize/
+aliases:
+- /ru/net/recognize/standard2of5/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,12 @@
 ---
 title: Создайте Код клиента Royal Mail из 4 штатов (RM4SCC) изображений с помощью PHP via Java
-weight: 1510
 description: Исходный код PHP для создания Код клиента Royal Mail из 4 штатов (RM4SCC) в приложениях на основе PHP.
+lang: ru/
+langdirlevel: 2
+locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+url: /ru/php-java/rm4scc/generate/
+aliases:
+- /ru/php-java/generate/rm4scc/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

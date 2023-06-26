@@ -1,7 +1,12 @@
 ---
 title: Genera immagini Swiss Post Parcel tramite Java
-weight: 1510
 description: Codice di esempio Java per la generazione di Swiss Post Parcel in Java Runtime Environment per applicazioni JSP/JSF e applicazioni desktop.
+lang: it/
+langdirlevel: 2
+locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+url: /it/java/swiss-post-parcel/generate/
+aliases:
+- /it/java/generate/swiss-post-parcel/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,12 @@
 ---
 title: Genera immagini Codice a barre italiano Pharmacode (Code 32). tramite PHP via Java
-weight: 1510
 description: Codice sorgente PHP per creare Codice a barre italiano Pharmacode (Code 32). in applicazioni basate su PHP.
+lang: it/
+langdirlevel: 2
+locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+url: /it/php-java/code32/generate/
+aliases:
+- /it/php-java/generate/code32/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

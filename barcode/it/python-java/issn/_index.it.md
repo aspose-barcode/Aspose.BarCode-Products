@@ -1,8 +1,10 @@
 ---
 title: ISSN in Python via Java
-weight: 1510
 url: /it/python-java/issn/
 description: L'API Aspose.Barcode per Python via Java consente di personalizzare, generare e riconoscere i codici a barre ISSN nella tua applicazione Python
+lang: it/
+langdirlevel: 2
+locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,10 @@
 ---
 title: QR en Java
-weight: 1510
 url: /es/java/qr/
 description: Aspose.Barcode para Java API permite personalizar, generar y reconocer códigos de barras QR en su aplicación Java
+lang: es/
+langdirlevel: 2
+locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -14,7 +16,7 @@ description: Aspose.Barcode para Java API permite personalizar, generar y recono
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
 
-{{% blocks/products/pf/agp/feature-section-row title="Acerca de {{tipo.qr._nombre}} Código" %}}
+{{% blocks/products/pf/agp/feature-section-row title="Acerca de QR Código" %}}
 
 <div class="container" style="margin-bottom: 25px;">
 <div class="row justify-content-center"style="align-items: center;">

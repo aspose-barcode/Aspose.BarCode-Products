@@ -1,7 +1,12 @@
 ---
 title: Genera immagini QR Codice, GS1 QR Codice tramite Python via Java
-weight: 1510
 description: Codice di esempio Python per generare QR Codice, GS1 QR Codice utilizzando Java Runtime Environment.
+lang: it/
+langdirlevel: 2
+locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+url: /it/python-java/qr/generate/
+aliases:
+- /it/python-java/generate/qr/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

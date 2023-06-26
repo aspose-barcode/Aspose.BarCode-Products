@@ -2,6 +2,12 @@
 title: Scan Code 93 Extended and Code 93 Standard barcodes Images via Python via Java
 weight: 1510
 description: Python source code for Code 93 Extended and Code 93 Standard barcodes recognition using Java Runtime Environment.
+lang: 
+langdirlevel: 2
+locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+url: /python-java/code93/recognize/
+aliases:
+- /python-java/recognize/code93/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -530,8 +536,8 @@ barcodeReaderExamples.readBarcodeImage()
 {{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/python-java/codablock/recognize/" name="Codablock-F" description="Codablock-F and GS1 Codablock-F barcodes" >}}
 {{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/python-java/databar/recognize/" name="GS1 DataBar" description="GS1 DataBar (Omnidirectional, Stacked Omnidirectional, Expanded, Expanded Stacked, and Truncated) barcode" >}}
 {{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/python-java/itf/recognize/" name="ITF" description="Interleaved 2-of-5 (ITF) barcode" >}}
-{{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/python-java/ean/recognize/" name="EAN" description="EAN barcode" >}}
-{{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/python-java/upc/recognize/" name="UPC" description="UPC barcode" >}}
+{{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/python-java/ean/recognize/" name="EAN" description="EAN (International Article Number) barcode" >}}
+{{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/python-java/upc/recognize/" name="UPC" description="UPC (Universal Product Code) barcode" >}}
 {{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/python-java/code128/recognize/" name="GS1 Code 128" description="GS1 Code 128 barcode" >}}
 {{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/python-java/code39/recognize/" name="Code 39" description="Code 39 barcode" >}}
 {{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/python-java/code16k/recognize/" name="Code 16K" description="Code 16K barcode" >}}

@@ -2,6 +2,12 @@
 title: Escanee imágenes de USPS OneCode código de barras a ​​través de Python via Java
 weight: 1510
 description: Código fuente de Python para el reconocimiento de USPS OneCode código de barras usando Java Runtime Environment.
+lang: es/
+langdirlevel: 2
+locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+url: /es/python-java/onecode/recognize/
+aliases:
+- /es/python-java/recognize/onecode/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -523,7 +529,7 @@ barcodeReaderExamples.readBarcodeImage()
 {{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/es/python-java/aztec/recognize/" name="Aztec" description="Aztec Código" >}}
 {{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/es/python-java/swiss-qr/recognize/" name="Swiss QR" description="Swiss QR factura" >}}
 {{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/es/python-java/dotcode/recognize/" name="DotCode" description="DotCode código de barras" >}}
-{{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/es/python-java/hibc/recognize/" name="HIBC" description="{{type.HIBC._name}} (Código de barras de la industria de la salud)" >}}
+{{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/es/python-java/hibc/recognize/" name="HIBC" description="HIBC (Código de barras de la industria de la salud)" >}}
 </div>
 <p class="tl d-block" style="margin: 15px 0 7px 0 !important;">Linear:</p>
 <div class="row other-converters">

@@ -2,6 +2,12 @@
 title: Scansiona le immagini di Code 16K codice a barre tramite PHP via Java
 weight: 1510
 description: Codice di esempio PHP per leggere Code 16K codice a barre nelle applicazioni basate su PHP.
+lang: it/
+langdirlevel: 2
+locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+url: /it/php-java/code16k/recognize/
+aliases:
+- /it/php-java/recognize/code16k/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

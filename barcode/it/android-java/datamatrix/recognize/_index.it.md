@@ -2,6 +2,12 @@
 title: Scansiona le immagini di Data Matrix codice tramite Android via Java
 weight: 1510
 description: Codice di esempio Android per riconoscere Data Matrix codice in Android Runtime Environment.
+lang: it/
+langdirlevel: 2
+locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+url: /it/android-java/datamatrix/recognize/
+aliases:
+- /it/android-java/recognize/datamatrix/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

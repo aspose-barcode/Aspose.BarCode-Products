@@ -1,7 +1,9 @@
 ---
 title: Código de barras API de Android | Escanear o generar códigos de barras
 description: Biblioteca de escáner de código de barras de Android para reconocer diferentes tipos de códigos de barras 1D, 2D y postales. Escanee códigos de barras en cualquier ángulo en las aplicaciones de Android.
-weight: 440
+lang: es/
+langdirlevel: 2
+locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
@@ -1164,7 +1166,7 @@ generator.generateBarCodeImage();
 {{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/es/android-java/aztec/" name="Aztec" description="Aztec Código" >}}
 {{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/es/android-java/swiss-qr/" name="Swiss QR" description="Swiss QR factura" >}}
 {{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/es/android-java/dotcode/" name="DotCode" description="DotCode código de barras" >}}
-{{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/es/android-java/hibc/" name="HIBC" description="{{type.HIBC._name}} (Código de barras de la industria de la salud)" >}}
+{{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/es/android-java/hibc/" name="HIBC" description="HIBC (Código de barras de la industria de la salud)" >}}
 </div>
 <p class="tl d-block" style="margin: 15px 0 7px 0 !important;">Linear:</p>
 <div class="row other-converters">

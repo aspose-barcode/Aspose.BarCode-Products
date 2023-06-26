@@ -2,6 +2,12 @@
 title: Сканировать изображения Штрих-код EAN через Node.js via Java
 weight: 1510
 description: Исходный код Node.js для сканирования и декодирования Штрих-код EAN в приложениях JavaScript.
+lang: ru/
+langdirlevel: 2
+locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+url: /ru/nodejs-java/ean/recognize/
+aliases:
+- /ru/nodejs-java/recognize/ean/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,10 @@
 ---
 title: RM4SCC in Python via Java
-weight: 1510
 url: /python-java/rm4scc/
 description: Aspose.Barcode for Python via Java API allows customize, generate and recognize RM4SCC barcodes in your Python application
+lang: 
+langdirlevel: 2
+locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

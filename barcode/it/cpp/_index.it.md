@@ -1,7 +1,9 @@
 ---
 title: API di elaborazione dei codici a barre C++
 description: Scanner di codici a barre C++ e libreria generatore di codici a barre 1D e 2D. Crea e leggi diversi tipi di codici a barre 1D, 2D e postali
-weight: 440
+lang: it/
+langdirlevel: 2
+locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}

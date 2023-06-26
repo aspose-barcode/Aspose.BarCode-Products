@@ -2,6 +2,12 @@
 title: Сканировать изображения Deutsche Post Идентификатор и Deutsche Post Лейткод через .NET
 weight: 1510
 description: Пример кода C# для сканирования и декодирования типа штрих-кода Deutsche Post Идентификатор и Deutsche Post Лейткод в .NET Framework, .NET Standard, COM Interloop для PHP, VBScript, Delphi или C++.
+lang: ru/
+langdirlevel: 2
+locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+url: /ru/net/deutsche-post/recognize/
+aliases:
+- /ru/net/recognize/deutsche-post/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

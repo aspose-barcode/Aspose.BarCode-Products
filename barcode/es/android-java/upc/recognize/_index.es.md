@@ -2,6 +2,12 @@
 title: Escanee imágenes de UPC código de barras a ​​través de Android via Java
 weight: 1510
 description: Código de muestra de Android para reconocer UPC código de barras en Android Runtime Environment.
+lang: es/
+langdirlevel: 2
+locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+url: /es/android-java/upc/recognize/
+aliases:
+- /es/android-java/recognize/upc/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -41,7 +47,7 @@ Aspose.BarCode permite a los desarrolladores leer UPC código de barras códigos
 
 {{% /blocks/products/pf/agp/text %}}
 
-<ul><li>Cree una instancia de la clase BarCodeReader</li><li>Determine la ruta de la imagen de origen que contiene UPC código de barras</li><li>Defina los tipos de códigos de barras de destino en DecodeType como segundo parámetro</li <li>Recorra los resultados del reconocimiento</li><li>Cargue el texto decodificado ejecutando el método getCodeText</li></ul>
+<ul><li>Cree una instancia de la clase BarCodeReader</li><li>Determine la ruta de la imagen de origen que contiene UPC código de barras</li><li>Defina los tipos de códigos de barras de destino en DecodeType como segundo parámetro</li><li>Recorra los resultados del reconocimiento</li><li>Cargue el texto decodificado ejecutando el método getCodeText</li></ul>
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -517,7 +523,7 @@ Las API de Aspose son compatibles con todas las principales plataformas y sistem
 {{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/es/android-java/aztec/recognize/" name="Aztec" description="Aztec Código" >}}
 {{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/es/android-java/swiss-qr/recognize/" name="Swiss QR" description="Swiss QR factura" >}}
 {{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/es/android-java/dotcode/recognize/" name="DotCode" description="DotCode código de barras" >}}
-{{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/es/android-java/hibc/recognize/" name="HIBC" description="{{type.HIBC._name}} (Código de barras de la industria de la salud)" >}}
+{{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/es/android-java/hibc/recognize/" name="HIBC" description="HIBC (Código de barras de la industria de la salud)" >}}
 </div>
 <p class="tl d-block" style="margin: 15px 0 7px 0 !important;">Linear:</p>
 <div class="row other-converters">

@@ -1,7 +1,12 @@
 ---
 title: Создайте USPS OneCode штрих-код изображений с помощью PHP via Java
-weight: 1510
 description: Исходный код PHP для создания USPS OneCode штрих-код в приложениях на основе PHP.
+lang: ru/
+langdirlevel: 2
+locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+url: /ru/php-java/onecode/generate/
+aliases:
+- /ru/php-java/generate/onecode/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

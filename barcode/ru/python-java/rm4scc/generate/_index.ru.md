@@ -1,7 +1,12 @@
 ---
 title: Создайте Код клиента Royal Mail из 4 штатов (RM4SCC) изображений с помощью Python via Java
-weight: 1510
 description: Пример кода Python для создания Код клиента Royal Mail из 4 штатов (RM4SCC) с использованием Java Runtime Environment.
+lang: ru/
+langdirlevel: 2
+locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+url: /ru/python-java/rm4scc/generate/
+aliases:
+- /ru/python-java/generate/rm4scc/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

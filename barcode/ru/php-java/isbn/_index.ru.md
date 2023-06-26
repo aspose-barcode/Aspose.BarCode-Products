@@ -1,8 +1,10 @@
 ---
 title: ISBN в PHP via Java
-weight: 1510
 url: /ru/php-java/isbn/
 description: Aspose.Barcode for PHP via Java API позволяет настраивать, генерировать и распознавать штрих-коды ISBN в вашем приложении PHP
+lang: ru/
+langdirlevel: 2
+locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,10 @@
 ---
 title: Code 93 in JasperReports
-weight: 1510
 url: /it/jasperreports/code93/
 description: L'API Aspose.Barcode per JasperReports consente di personalizzare, generare e riconoscere i codici a barre Code 93 nella tua applicazione Java
+lang: it/
+langdirlevel: 2
+locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

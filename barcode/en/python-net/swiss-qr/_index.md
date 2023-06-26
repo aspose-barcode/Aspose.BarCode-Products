@@ -1,8 +1,10 @@
 ---
 title: Swiss QR in Python via .NET
-weight: 1510
 url: /python-net/swiss-qr/
 description: Aspose.Barcode for Python via .NET API allows customize, generate and recognize Swiss QR barcodes in your Python application
+lang: 
+langdirlevel: 2
+locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

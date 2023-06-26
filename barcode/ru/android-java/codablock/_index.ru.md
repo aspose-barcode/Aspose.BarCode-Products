@@ -1,8 +1,10 @@
 ---
 title: Codablock-F в Android via Java
-weight: 1510
 url: /ru/android-java/codablock/
 description: Aspose.Barcode for Android via Java API позволяет настраивать, генерировать и распознавать штрих-коды Codablock-F в вашем приложении Java
+lang: ru/
+langdirlevel: 2
+locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -2,6 +2,12 @@
 title: Scansiona le immagini di Codice a barre italiano Pharmacode (Code 32). tramite Node.js via Java
 weight: 1510
 description: Codice sorgente Node.js per la scansione e la decodifica di Codice a barre italiano Pharmacode (Code 32). nelle applicazioni JavaScript.
+lang: it/
+langdirlevel: 2
+locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+url: /it/nodejs-java/code32/recognize/
+aliases:
+- /it/nodejs-java/recognize/code32/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

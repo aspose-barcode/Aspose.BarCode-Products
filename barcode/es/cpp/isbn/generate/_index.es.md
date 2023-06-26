@@ -1,7 +1,12 @@
 ---
 title: Genere imágenes de ISBN código de barras a ​​través de C++
-weight: 1510
 description: Ejemplo de código de C++ para generar ISBN código de barras en C++ Runtime Environment para Windows de 32 bits, Windows de 64 bits y Linux de 64 bits.
+lang: es/
+langdirlevel: 2
+locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+url: /es/cpp/isbn/generate/
+aliases:
+- /es/cpp/generate/isbn/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -451,7 +456,7 @@ System::SharedPtr&lt;System::Drawing::Bitmap&gt; lBmp = generator-&gt;<span clas
 {{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/es/cpp/aztec/generate/" name="Aztec" description="Aztec Código" >}}
 {{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/es/cpp/swiss-qr/generate/" name="Swiss QR" description="Swiss QR factura" >}}
 {{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/es/cpp/dotcode/generate/" name="DotCode" description="DotCode código de barras" >}}
-{{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/es/cpp/hibc/generate/" name="HIBC" description="{{type.HIBC._name}} (Código de barras de la industria de la salud)" >}}
+{{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/es/cpp/hibc/generate/" name="HIBC" description="HIBC (Código de barras de la industria de la salud)" >}}
 </div>
 <p class="tl d-block" style="margin: 15px 0 7px 0 !important;">Linear:</p>
 <div class="row other-converters">

@@ -1,7 +1,12 @@
 ---
 title: Genera immagini Code 16K codice a barre tramite Android via Java
-weight: 1510
 description: Codice sorgente Android per creare Code 16K codice a barre in Android Runtime Environment.
+lang: it/
+langdirlevel: 2
+locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+url: /it/android-java/code16k/generate/
+aliases:
+- /it/android-java/generate/code16k/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

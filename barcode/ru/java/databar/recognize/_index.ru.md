@@ -2,6 +2,12 @@
 title: Сканировать изображения Штрих-код GS1 DataBar (всенаправленный, многонаправленный с накоплением, расширенный, расширенный с накоплением и усеченный) через Java
 weight: 1510
 description: Исходный код Java для чтения и декодирования Штрих-код GS1 DataBar (всенаправленный, многонаправленный с накоплением, расширенный, расширенный с накоплением и усеченный) в среде выполнения Java для приложений JSP/JSF и настольных приложений.
+lang: ru/
+langdirlevel: 2
+locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+url: /ru/java/databar/recognize/
+aliases:
+- /ru/java/recognize/databar/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -2,6 +2,12 @@
 title: Scansiona le immagini di ISSN codice a barre tramite PHP via Java
 weight: 1510
 description: Codice di esempio PHP per leggere ISSN codice a barre nelle applicazioni basate su PHP.
+lang: it/
+langdirlevel: 2
+locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+url: /it/php-java/issn/recognize/
+aliases:
+- /it/php-java/recognize/issn/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -2,6 +2,12 @@
 title: Сканировать изображения Итальянский штрих-код Pharmacode (Code 32) через .NET
 weight: 1510
 description: Пример кода C# для сканирования и декодирования типа штрих-кода Итальянский штрих-код Pharmacode (Code 32) в .NET Framework, .NET Standard, COM Interloop для PHP, VBScript, Delphi или C++.
+lang: ru/
+langdirlevel: 2
+locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+url: /ru/net/code32/recognize/
+aliases:
+- /ru/net/recognize/code32/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

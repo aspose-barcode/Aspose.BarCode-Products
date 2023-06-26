@@ -2,6 +2,12 @@
 title: Сканировать изображения Штрих-код GS1 DataBar (всенаправленный, многонаправленный с накоплением, расширенный, расширенный с накоплением и усеченный) через .NET
 weight: 1510
 description: Пример кода C# для сканирования и декодирования типа штрих-кода Штрих-код GS1 DataBar (всенаправленный, многонаправленный с накоплением, расширенный, расширенный с накоплением и усеченный) в .NET Framework, .NET Standard, COM Interloop для PHP, VBScript, Delphi или C++.
+lang: ru/
+langdirlevel: 2
+locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+url: /ru/net/databar/recognize/
+aliases:
+- /ru/net/recognize/databar/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

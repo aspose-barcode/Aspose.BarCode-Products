@@ -1,7 +1,9 @@
 ---
 title: C# .NET Barcode API - Leer generar y reconocer códigos de barras
 description: Aspose.BarCode para las API de .NET para crear y reconocer códigos de barras 1D 2D. Integre dentro de las aplicaciones C# VB.NET ASP.NET para escanear e imprimir etiquetas de código de barras
-weight: 440
+lang: es/
+langdirlevel: 2
+locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
@@ -1174,7 +1176,7 @@ weight: 440
 {{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/es/net/aztec/" name="Aztec" description="Aztec Código" >}}
 {{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/es/net/swiss-qr/" name="Swiss QR" description="Swiss QR factura" >}}
 {{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/es/net/dotcode/" name="DotCode" description="DotCode código de barras" >}}
-{{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/es/net/hibc/" name="HIBC" description="{{type.HIBC._name}} (Código de barras de la industria de la salud)" >}}
+{{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/es/net/hibc/" name="HIBC" description="HIBC (Código de barras de la industria de la salud)" >}}
 </div>
 <p class="tl d-block" style="margin: 15px 0 7px 0 !important;">Linear:</p>
 <div class="row other-converters">

@@ -2,6 +2,12 @@
 title: Scansiona le immagini di Code 93 Codici a barre estesi e Code 93 Standard tramite C++
 weight: 1510
 description: Codice di esempio C++ per scansionare e decodificare Code 93 Codici a barre estesi e Code 93 Standard in C++ Runtime Environment per Windows a 32 bit, Windows a 64 bit o Linux a 64 bit.
+lang: it/
+langdirlevel: 2
+locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+url: /it/cpp/code93/recognize/
+aliases:
+- /it/cpp/recognize/code93/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

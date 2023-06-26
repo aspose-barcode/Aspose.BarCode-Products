@@ -2,6 +2,12 @@
 title: Scansiona le immagini di Codici a barre Codablock-F e GS1 Codablock-F tramite .NET
 weight: 1510
 description: Codice di esempio C# per scansionare e decodificare il tipo di codice a barre Codici a barre Codablock-F e GS1 Codablock-F in .NET Framework, .NET Standard, COM Interloop per PHP, VBScript, Delphi o C++.
+lang: it/
+langdirlevel: 2
+locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+url: /it/net/codablock/recognize/
+aliases:
+- /it/net/recognize/codablock/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

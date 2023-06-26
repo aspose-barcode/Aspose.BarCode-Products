@@ -1,7 +1,12 @@
 ---
 title: Создайте Deutsche Post Идентификатор и Deutsche Post Лейткод изображений с помощью PHP via Java
-weight: 1510
 description: Исходный код PHP для создания Deutsche Post Идентификатор и Deutsche Post Лейткод в приложениях на основе PHP.
+lang: ru/
+langdirlevel: 2
+locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+url: /ru/php-java/deutsche-post/generate/
+aliases:
+- /ru/php-java/generate/deutsche-post/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -2,6 +2,12 @@
 title: Scansiona le immagini di USPS OneCode codice a barre tramite Android via Java
 weight: 1510
 description: Codice di esempio Android per riconoscere USPS OneCode codice a barre in Android Runtime Environment.
+lang: it/
+langdirlevel: 2
+locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+url: /it/android-java/onecode/recognize/
+aliases:
+- /it/android-java/recognize/onecode/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

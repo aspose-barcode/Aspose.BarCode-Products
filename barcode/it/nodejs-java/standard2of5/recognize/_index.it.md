@@ -2,6 +2,12 @@
 title: Scansiona le immagini di Standard 2 of 5 (Industriale 2 di 5) codice a barre tramite Node.js via Java
 weight: 1510
 description: Codice sorgente Node.js per la scansione e la decodifica di Standard 2 of 5 (Industriale 2 di 5) codice a barre nelle applicazioni JavaScript.
+lang: it/
+langdirlevel: 2
+locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+url: /it/nodejs-java/standard2of5/recognize/
+aliases:
+- /it/nodejs-java/recognize/standard2of5/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

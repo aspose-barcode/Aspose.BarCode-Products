@@ -1,7 +1,12 @@
 ---
 title: Создайте Штрих-коды Codablock-F и GS1 Codablock-F изображений с помощью Android via Java
-weight: 1510
 description: Исходный код Android для создания Штрих-коды Codablock-F и GS1 Codablock-F в среде выполнения Android.
+lang: ru/
+langdirlevel: 2
+locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+url: /ru/android-java/codablock/generate/
+aliases:
+- /ru/android-java/generate/codablock/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,12 @@
 ---
 title: Generate Codablock-F and GS1 Codablock-F barcodes Images via .NET
-weight: 1510
 description: C# source code for Codablock-F and GS1 Codablock-F barcodes generation in .NET Framework, .NET Standard, COM Interloop for PHP, VBScript, Delphi, and C++.
+lang: 
+langdirlevel: 2
+locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+url: /net/codablock/generate/
+aliases:
+- /net/generate/codablock/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -457,8 +462,8 @@ Aspose barcode APIs are supported by all major platforms and operating systems. 
 {{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/net/codablock/generate/" name="Codablock-F" description="Codablock-F and GS1 Codablock-F barcodes" >}}
 {{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/net/databar/generate/" name="GS1 DataBar" description="GS1 DataBar (Omnidirectional, Stacked Omnidirectional, Expanded, Expanded Stacked, and Truncated) barcode" >}}
 {{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/net/itf/generate/" name="ITF" description="Interleaved 2-of-5 (ITF) barcode" >}}
-{{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/net/ean/generate/" name="EAN" description="EAN barcode" >}}
-{{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/net/upc/generate/" name="UPC" description="UPC barcode" >}}
+{{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/net/ean/generate/" name="EAN" description="EAN (International Article Number) barcode" >}}
+{{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/net/upc/generate/" name="UPC" description="UPC (Universal Product Code) barcode" >}}
 {{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/net/code128/generate/" name="GS1 Code 128" description="GS1 Code 128 barcode" >}}
 {{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/net/code39/generate/" name="Code 39" description="Code 39 barcode" >}}
 {{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/net/code16k/generate/" name="Code 16K" description="Code 16K barcode" >}}

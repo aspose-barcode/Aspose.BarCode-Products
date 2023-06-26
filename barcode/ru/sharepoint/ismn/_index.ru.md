@@ -1,8 +1,10 @@
 ---
 title: ISMN в SharePoint
-weight: 1510
 url: /ru/sharepoint/ismn/
 description: Aspose.Barcode for SharePoint API позволяет настраивать, генерировать и распознавать штрих-коды ISMN в вашем приложении C#
+lang: ru/
+langdirlevel: 2
+locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

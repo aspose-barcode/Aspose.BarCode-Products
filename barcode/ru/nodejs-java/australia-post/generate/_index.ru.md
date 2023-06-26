@@ -1,7 +1,12 @@
 ---
 title: Создайте Штрих-код Australia Post и Australia Post eParcel изображений с помощью Node.js via Java
-weight: 1510
 description: Образец кода Node.js для создания Штрих-код Australia Post и Australia Post eParcel в приложениях JavaScript.
+lang: ru/
+langdirlevel: 2
+locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+url: /ru/nodejs-java/australia-post/generate/
+aliases:
+- /ru/nodejs-java/generate/australia-post/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,12 @@
 ---
 title: Genera immagini QR Codice, GS1 QR Codice tramite PHP via Java
-weight: 1510
 description: Codice sorgente PHP per creare QR Codice, GS1 QR Codice in applicazioni basate su PHP.
+lang: it/
+langdirlevel: 2
+locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+url: /it/php-java/qr/generate/
+aliases:
+- /it/php-java/generate/qr/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

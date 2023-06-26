@@ -2,6 +2,12 @@
 title: Сканировать изображения Код QR, код GS1 QR через PHP via Java
 weight: 1510
 description: Пример кода PHP для чтения Код QR, код GS1 QR в приложениях на основе PHP.
+lang: ru/
+langdirlevel: 2
+locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+url: /ru/php-java/qr/recognize/
+aliases:
+- /ru/php-java/recognize/qr/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

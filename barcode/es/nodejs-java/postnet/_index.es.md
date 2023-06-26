@@ -1,8 +1,10 @@
 ---
 title: Postnet en Node.js via Java
-weight: 1510
 url: /es/nodejs-java/postnet/
 description: Aspose.Barcode para Node.js via Java API permite personalizar, generar y reconocer códigos de barras Postnet en su aplicación JavaScript
+lang: es/
+langdirlevel: 2
+locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

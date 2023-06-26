@@ -1,7 +1,12 @@
 ---
 title: Genera immagini Postnet codice a barre tramite Node.js via Java
-weight: 1510
 description: Codice di esempio Node.js per la generazione di Postnet codice a barre nelle applicazioni JavaScript.
+lang: it/
+langdirlevel: 2
+locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+url: /it/nodejs-java/postnet/generate/
+aliases:
+- /it/nodejs-java/generate/postnet/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

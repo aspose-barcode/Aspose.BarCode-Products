@@ -2,6 +2,12 @@
 title: Сканировать изображения Штрих-код GS1 Code 128 через Android via Java
 weight: 1510
 description: Пример кода Android для распознавания Штрих-код GS1 Code 128 в среде выполнения Android.
+lang: ru/
+langdirlevel: 2
+locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+url: /ru/android-java/code128/recognize/
+aliases:
+- /ru/android-java/recognize/code128/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,12 @@
 ---
 title: Genera immagini Australia Post codice a barre e Australia Post pacco elettronico tramite PHP via Java
-weight: 1510
 description: Codice sorgente PHP per creare Australia Post codice a barre e Australia Post pacco elettronico in applicazioni basate su PHP.
+lang: it/
+langdirlevel: 2
+locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+url: /it/php-java/australia-post/generate/
+aliases:
+- /it/php-java/generate/australia-post/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

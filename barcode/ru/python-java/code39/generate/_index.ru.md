@@ -1,7 +1,12 @@
 ---
 title: Создайте Штрих-код Code 39 изображений с помощью Python via Java
-weight: 1510
 description: Пример кода Python для создания Штрих-код Code 39 с использованием Java Runtime Environment.
+lang: ru/
+langdirlevel: 2
+locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+url: /ru/python-java/code39/generate/
+aliases:
+- /ru/python-java/generate/code39/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

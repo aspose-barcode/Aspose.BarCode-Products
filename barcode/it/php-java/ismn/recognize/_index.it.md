@@ -2,6 +2,12 @@
 title: Scansiona le immagini di ISMN codice a barre tramite PHP via Java
 weight: 1510
 description: Codice di esempio PHP per leggere ISMN codice a barre nelle applicazioni basate su PHP.
+lang: it/
+langdirlevel: 2
+locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+url: /it/php-java/ismn/recognize/
+aliases:
+- /it/php-java/recognize/ismn/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

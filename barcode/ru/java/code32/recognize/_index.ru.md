@@ -2,6 +2,12 @@
 title: Сканировать изображения Итальянский штрих-код Pharmacode (Code 32) через Java
 weight: 1510
 description: Исходный код Java для чтения и декодирования Итальянский штрих-код Pharmacode (Code 32) в среде выполнения Java для приложений JSP/JSF и настольных приложений.
+lang: ru/
+langdirlevel: 2
+locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+url: /ru/java/code32/recognize/
+aliases:
+- /ru/java/recognize/code32/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

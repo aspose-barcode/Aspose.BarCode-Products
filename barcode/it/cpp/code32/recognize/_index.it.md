@@ -2,6 +2,12 @@
 title: Scansiona le immagini di Codice a barre italiano Pharmacode (Code 32). tramite C++
 weight: 1510
 description: Codice di esempio C++ per scansionare e decodificare Codice a barre italiano Pharmacode (Code 32). in C++ Runtime Environment per Windows a 32 bit, Windows a 64 bit o Linux a 64 bit.
+lang: it/
+langdirlevel: 2
+locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+url: /it/cpp/code32/recognize/
+aliases:
+- /it/cpp/recognize/code32/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

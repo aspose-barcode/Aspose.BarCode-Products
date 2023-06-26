@@ -1,7 +1,12 @@
 ---
 title: Genere imágenes de Código de barras GS1 DataBar (omnidireccional, omnidireccional apilado, expandido, apilado expandido y truncado) a ​​través de .NET
-weight: 1510
 description: Código fuente C# para la generación de Código de barras GS1 DataBar (omnidireccional, omnidireccional apilado, expandido, apilado expandido y truncado) en .NET Framework, .NET Standard, COM Interloop para PHP, VBScript, Delphi y C++.
+lang: es/
+langdirlevel: 2
+locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+url: /es/net/databar/generate/
+aliases:
+- /es/net/generate/databar/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -455,7 +460,7 @@ Las API de código de barras de Aspose son compatibles con todas las principales
 {{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/es/net/aztec/generate/" name="Aztec" description="Aztec Código" >}}
 {{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/es/net/swiss-qr/generate/" name="Swiss QR" description="Swiss QR factura" >}}
 {{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/es/net/dotcode/generate/" name="DotCode" description="DotCode código de barras" >}}
-{{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/es/net/hibc/generate/" name="HIBC" description="{{type.HIBC._name}} (Código de barras de la industria de la salud)" >}}
+{{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/es/net/hibc/generate/" name="HIBC" description="HIBC (Código de barras de la industria de la salud)" >}}
 </div>
 <p class="tl d-block" style="margin: 15px 0 7px 0 !important;">Linear:</p>
 <div class="row other-converters">

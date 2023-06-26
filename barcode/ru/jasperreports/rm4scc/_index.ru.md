@@ -1,8 +1,10 @@
 ---
 title: RM4SCC в JasperReports
-weight: 1510
 url: /ru/jasperreports/rm4scc/
 description: Aspose.Barcode for JasperReports API позволяет настраивать, генерировать и распознавать штрих-коды RM4SCC в вашем приложении Java
+lang: ru/
+langdirlevel: 2
+locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

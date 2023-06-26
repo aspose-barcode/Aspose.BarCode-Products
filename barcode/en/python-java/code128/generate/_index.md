@@ -1,7 +1,12 @@
 ---
 title: Generate GS1 Code 128 barcode Images via Python via Java
-weight: 1510
 description: Python sample code to generate GS1 Code 128 barcode using Java Runtime Environment.
+lang: 
+langdirlevel: 2
+locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+url: /python-java/code128/generate/
+aliases:
+- /python-java/generate/code128/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -458,8 +463,8 @@ barcodeGeneratorExamples.generateBarcodeImage()
 {{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/python-java/codablock/generate/" name="Codablock-F" description="Codablock-F and GS1 Codablock-F barcodes" >}}
 {{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/python-java/databar/generate/" name="GS1 DataBar" description="GS1 DataBar (Omnidirectional, Stacked Omnidirectional, Expanded, Expanded Stacked, and Truncated) barcode" >}}
 {{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/python-java/itf/generate/" name="ITF" description="Interleaved 2-of-5 (ITF) barcode" >}}
-{{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/python-java/ean/generate/" name="EAN" description="EAN barcode" >}}
-{{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/python-java/upc/generate/" name="UPC" description="UPC barcode" >}}
+{{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/python-java/ean/generate/" name="EAN" description="EAN (International Article Number) barcode" >}}
+{{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/python-java/upc/generate/" name="UPC" description="UPC (Universal Product Code) barcode" >}}
 {{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/python-java/code128/generate/" name="GS1 Code 128" description="GS1 Code 128 barcode" >}}
 {{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/python-java/code39/generate/" name="Code 39" description="Code 39 barcode" >}}
 {{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/python-java/code16k/generate/" name="Code 16K" description="Code 16K barcode" >}}

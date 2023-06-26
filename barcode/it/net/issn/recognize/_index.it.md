@@ -2,6 +2,12 @@
 title: Scansiona le immagini di ISSN codice a barre tramite .NET
 weight: 1510
 description: Codice di esempio C# per scansionare e decodificare il tipo di codice a barre ISSN codice a barre in .NET Framework, .NET Standard, COM Interloop per PHP, VBScript, Delphi o C++.
+lang: it/
+langdirlevel: 2
+locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+url: /it/net/issn/recognize/
+aliases:
+- /it/net/recognize/issn/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

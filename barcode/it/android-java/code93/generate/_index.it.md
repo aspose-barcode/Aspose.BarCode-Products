@@ -1,7 +1,12 @@
 ---
 title: Genera immagini Code 93 Codici a barre estesi e Code 93 Standard tramite Android via Java
-weight: 1510
 description: Codice sorgente Android per creare Code 93 Codici a barre estesi e Code 93 Standard in Android Runtime Environment.
+lang: it/
+langdirlevel: 2
+locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+url: /it/android-java/code93/generate/
+aliases:
+- /it/android-java/generate/code93/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

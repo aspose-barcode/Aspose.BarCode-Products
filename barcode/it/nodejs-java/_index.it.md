@@ -1,7 +1,9 @@
 ---
 title: Scanner di codici a barre Nodejs e API del generatore
 description: Libreria di scansione e generazione di codici a barre Node.js per tipi 1D, 2D e postali. Integra facilmente nelle app React Angular per QR Code maxicode Aztec Code128 EAN-128 e altro.
-weight: 440
+lang: it/
+langdirlevel: 2
+locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}

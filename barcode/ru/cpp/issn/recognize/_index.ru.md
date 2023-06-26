@@ -2,6 +2,12 @@
 title: Сканировать изображения Штрих-код ISSN через C++
 weight: 1510
 description: Пример кода C++ для сканирования и декодирования Штрих-код ISSN в среде выполнения C++ для 32-разрядной версии Windows, 64-разрядной версии Windows или 64-разрядной версии Linux.
+lang: ru/
+langdirlevel: 2
+locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+url: /ru/cpp/issn/recognize/
+aliases:
+- /ru/cpp/recognize/issn/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

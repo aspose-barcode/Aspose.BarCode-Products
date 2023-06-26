@@ -1,7 +1,12 @@
 ---
 title: Создайте Штрих-код Standard 2 of 5 (Промышленный 2 из 5) изображений с помощью Android via Java
-weight: 1510
 description: Исходный код Android для создания Штрих-код Standard 2 of 5 (Промышленный 2 из 5) в среде выполнения Android.
+lang: ru/
+langdirlevel: 2
+locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+url: /ru/android-java/standard2of5/generate/
+aliases:
+- /ru/android-java/generate/standard2of5/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

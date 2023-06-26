@@ -1,6 +1,9 @@
 ---
 title: En las instalaciones, SDK de código de barras en la nube
 description: Cree aplicaciones de procesamiento de códigos de barras a través de API High-Code o SDK basados ​​en la nube. Utilice aplicaciones multiplataforma para la generación o el reconocimiento de códigos de barras.
+lang: es/
+langdirlevel: 2
+locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}

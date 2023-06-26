@@ -1,7 +1,12 @@
 ---
 title: Создайте Штрих-код ISBN изображений с помощью Node.js via Java
-weight: 1510
 description: Образец кода Node.js для создания Штрих-код ISBN в приложениях JavaScript.
+lang: ru/
+langdirlevel: 2
+locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+url: /ru/nodejs-java/isbn/generate/
+aliases:
+- /ru/nodejs-java/generate/isbn/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,12 @@
 ---
 title: Genera immagini Codice a barre interlacciato 2 su 5 (ITF). tramite .NET
-weight: 1510
 description: Codice sorgente C# per la generazione di Codice a barre interlacciato 2 su 5 (ITF). in .NET Framework, .NET Standard, COM Interloop per PHP, VBScript, Delphi e C++.
+lang: it/
+langdirlevel: 2
+locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+url: /it/net/itf/generate/
+aliases:
+- /it/net/generate/itf/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

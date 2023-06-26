@@ -1,8 +1,10 @@
 ---
 title: RM4SCC in C++
-weight: 1510
 url: /it/cpp/rm4scc/
 description: L'API Aspose.Barcode per C++ consente di personalizzare, generare e riconoscere i codici a barre RM4SCC nella tua applicazione C++
+lang: it/
+langdirlevel: 2
+locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

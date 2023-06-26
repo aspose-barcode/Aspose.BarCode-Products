@@ -2,6 +2,12 @@
 title: Scan Royal Mail 4-State Customer Code (RM4SCC) Images via .NET
 weight: 1510
 description: C# sample code to scan and decode Royal Mail 4-State Customer Code (RM4SCC) barcode type in .NET Framework, .NET Standard, COM Interloop for PHP, VBScript, Delphi, or C++.
+lang: 
+langdirlevel: 2
+locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+url: /net/rm4scc/recognize/
+aliases:
+- /net/recognize/rm4scc/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -517,8 +523,8 @@ Aspose APIs are supported on all major platforms and operating systems. Before e
 {{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/net/codablock/recognize/" name="Codablock-F" description="Codablock-F and GS1 Codablock-F barcodes" >}}
 {{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/net/databar/recognize/" name="GS1 DataBar" description="GS1 DataBar (Omnidirectional, Stacked Omnidirectional, Expanded, Expanded Stacked, and Truncated) barcode" >}}
 {{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/net/itf/recognize/" name="ITF" description="Interleaved 2-of-5 (ITF) barcode" >}}
-{{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/net/ean/recognize/" name="EAN" description="EAN barcode" >}}
-{{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/net/upc/recognize/" name="UPC" description="UPC barcode" >}}
+{{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/net/ean/recognize/" name="EAN" description="EAN (International Article Number) barcode" >}}
+{{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/net/upc/recognize/" name="UPC" description="UPC (Universal Product Code) barcode" >}}
 {{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/net/code128/recognize/" name="GS1 Code 128" description="GS1 Code 128 barcode" >}}
 {{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/net/code39/recognize/" name="Code 39" description="Code 39 barcode" >}}
 {{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/net/code16k/recognize/" name="Code 16K" description="Code 16K barcode" >}}

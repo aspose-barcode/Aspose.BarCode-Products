@@ -1,8 +1,10 @@
 ---
 title: ITF in Java
-weight: 1510
 url: /java/itf/
 description: Aspose.Barcode for Java API allows customize, generate and recognize ITF barcodes in your Java application
+lang: 
+langdirlevel: 2
+locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

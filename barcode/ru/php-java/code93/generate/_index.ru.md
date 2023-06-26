@@ -1,7 +1,12 @@
 ---
 title: Создайте Code 93 расширенный и Code 93 стандартный штрих-коды изображений с помощью PHP via Java
-weight: 1510
 description: Исходный код PHP для создания Code 93 расширенный и Code 93 стандартный штрих-коды в приложениях на основе PHP.
+lang: ru/
+langdirlevel: 2
+locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+url: /ru/php-java/code93/generate/
+aliases:
+- /ru/php-java/generate/code93/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

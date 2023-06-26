@@ -1,7 +1,9 @@
 ---
 title: API de procesamiento de código de barras C++
 description: Escáner de códigos de barras C++ y biblioteca generadora de códigos de barras 1D y 2D. Cree y lea diferentes tipos de códigos de barras 1D, 2D y postales
-weight: 440
+lang: es/
+langdirlevel: 2
+locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
@@ -1175,7 +1177,7 @@ System::SharedPtr&lt;System::Drawing::Bitmap&gt; lBmp = generator-&gt;<span clas
 {{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/es/cpp/aztec/" name="Aztec" description="Aztec Código" >}}
 {{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/es/cpp/swiss-qr/" name="Swiss QR" description="Swiss QR factura" >}}
 {{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/es/cpp/dotcode/" name="DotCode" description="DotCode código de barras" >}}
-{{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/es/cpp/hibc/" name="HIBC" description="{{type.HIBC._name}} (Código de barras de la industria de la salud)" >}}
+{{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/es/cpp/hibc/" name="HIBC" description="HIBC (Código de barras de la industria de la salud)" >}}
 </div>
 <p class="tl d-block" style="margin: 15px 0 7px 0 !important;">Linear:</p>
 <div class="row other-converters">

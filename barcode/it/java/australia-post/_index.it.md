@@ -1,8 +1,10 @@
 ---
 title: Australia Post in Java
-weight: 1510
 url: /it/java/australia-post/
 description: L'API Aspose.Barcode per Java consente di personalizzare, generare e riconoscere i codici a barre Australia Post nella tua applicazione Java
+lang: it/
+langdirlevel: 2
+locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

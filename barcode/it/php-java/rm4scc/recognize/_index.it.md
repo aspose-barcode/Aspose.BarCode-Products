@@ -2,6 +2,12 @@
 title: Scansiona le immagini di Codice cliente Royal Mail 4-State (RM4SCC) tramite PHP via Java
 weight: 1510
 description: Codice di esempio PHP per leggere Codice cliente Royal Mail 4-State (RM4SCC) nelle applicazioni basate su PHP.
+lang: it/
+langdirlevel: 2
+locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+url: /it/php-java/rm4scc/recognize/
+aliases:
+- /it/php-java/recognize/rm4scc/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

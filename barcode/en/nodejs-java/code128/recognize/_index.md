@@ -2,6 +2,12 @@
 title: Scan GS1 Code 128 barcode Images via Node.js via Java
 weight: 1510
 description: Node.js source code for GS1 Code 128 barcode scanning and decoding in JavaScript applications.
+lang: 
+langdirlevel: 2
+locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+url: /nodejs-java/code128/recognize/
+aliases:
+- /nodejs-java/recognize/code128/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -519,8 +525,8 @@ reader.<span class="hljs-title function_">readBarCodes</span>().<span class="hlj
 {{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/nodejs-java/codablock/recognize/" name="Codablock-F" description="Codablock-F and GS1 Codablock-F barcodes" >}}
 {{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/nodejs-java/databar/recognize/" name="GS1 DataBar" description="GS1 DataBar (Omnidirectional, Stacked Omnidirectional, Expanded, Expanded Stacked, and Truncated) barcode" >}}
 {{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/nodejs-java/itf/recognize/" name="ITF" description="Interleaved 2-of-5 (ITF) barcode" >}}
-{{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/nodejs-java/ean/recognize/" name="EAN" description="EAN barcode" >}}
-{{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/nodejs-java/upc/recognize/" name="UPC" description="UPC barcode" >}}
+{{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/nodejs-java/ean/recognize/" name="EAN" description="EAN (International Article Number) barcode" >}}
+{{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/nodejs-java/upc/recognize/" name="UPC" description="UPC (Universal Product Code) barcode" >}}
 {{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/nodejs-java/code128/recognize/" name="GS1 Code 128" description="GS1 Code 128 barcode" >}}
 {{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/nodejs-java/code39/recognize/" name="Code 39" description="Code 39 barcode" >}}
 {{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/nodejs-java/code16k/recognize/" name="Code 16K" description="Code 16K barcode" >}}

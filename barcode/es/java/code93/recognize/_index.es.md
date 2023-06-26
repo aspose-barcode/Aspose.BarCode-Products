@@ -2,6 +2,12 @@
 title: Escanee imágenes de Códigos de barras Code 93 extendidos y Code 93 estándar a ​​través de Java
 weight: 1510
 description: Código fuente de Java para leer y decodificar Códigos de barras Code 93 extendidos y Code 93 estándar en Java Runtime Environment para aplicaciones JSP/JSF y aplicaciones de escritorio.
+lang: es/
+langdirlevel: 2
+locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+url: /es/java/code93/recognize/
+aliases:
+- /es/java/recognize/code93/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -526,7 +532,7 @@ Las API de Aspose son compatibles con todas las principales plataformas y sistem
 {{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/es/java/aztec/recognize/" name="Aztec" description="Aztec Código" >}}
 {{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/es/java/swiss-qr/recognize/" name="Swiss QR" description="Swiss QR factura" >}}
 {{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/es/java/dotcode/recognize/" name="DotCode" description="DotCode código de barras" >}}
-{{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/es/java/hibc/recognize/" name="HIBC" description="{{type.HIBC._name}} (Código de barras de la industria de la salud)" >}}
+{{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/es/java/hibc/recognize/" name="HIBC" description="HIBC (Código de barras de la industria de la salud)" >}}
 </div>
 <p class="tl d-block" style="margin: 15px 0 7px 0 !important;">Linear:</p>
 <div class="row other-converters">

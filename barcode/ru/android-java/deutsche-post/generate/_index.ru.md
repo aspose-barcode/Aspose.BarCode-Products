@@ -1,7 +1,12 @@
 ---
 title: Создайте Deutsche Post Идентификатор и Deutsche Post Лейткод изображений с помощью Android via Java
-weight: 1510
 description: Исходный код Android для создания Deutsche Post Идентификатор и Deutsche Post Лейткод в среде выполнения Android.
+lang: ru/
+langdirlevel: 2
+locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+url: /ru/android-java/deutsche-post/generate/
+aliases:
+- /ru/android-java/generate/deutsche-post/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

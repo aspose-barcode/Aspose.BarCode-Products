@@ -2,6 +2,12 @@
 title: Scansiona le immagini di Data Matrix codice tramite Java
 weight: 1510
 description: Codice sorgente Java per leggere e decodificare Data Matrix codice in Java Runtime Environment per applicazioni JSP/JSF e applicazioni desktop.
+lang: it/
+langdirlevel: 2
+locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+url: /it/java/datamatrix/recognize/
+aliases:
+- /it/java/recognize/datamatrix/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

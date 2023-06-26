@@ -1,7 +1,9 @@
 ---
 title: Generador de código de barras PHP y API de escáner
 description: Biblioteca de lectores de códigos de barras PHP para reconocer varios tipos de códigos de barras, incluidos 1D, 2D y postal. Use la API en PHP central o dentro de un marco como codeigniter, cakephp o laravel.
-weight: 440
+lang: es/
+langdirlevel: 2
+locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
@@ -1112,7 +1114,7 @@ weight: 440
 {{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/es/php-java/aztec/" name="Aztec" description="Aztec Código" >}}
 {{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/es/php-java/swiss-qr/" name="Swiss QR" description="Swiss QR factura" >}}
 {{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/es/php-java/dotcode/" name="DotCode" description="DotCode código de barras" >}}
-{{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/es/php-java/hibc/" name="HIBC" description="{{type.HIBC._name}} (Código de barras de la industria de la salud)" >}}
+{{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/es/php-java/hibc/" name="HIBC" description="HIBC (Código de barras de la industria de la salud)" >}}
 </div>
 <p class="tl d-block" style="margin: 15px 0 7px 0 !important;">Linear:</p>
 <div class="row other-converters">

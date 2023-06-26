@@ -2,6 +2,12 @@
 title: Scan Swiss Post Parcel Images via Java
 weight: 1510
 description: Java source code to read and decode Swiss Post Parcel in Java Runtime Environment for JSP/JSF Application and Desktop Applications.
+lang: 
+langdirlevel: 2
+locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+url: /java/swiss-post-parcel/recognize/
+aliases:
+- /java/recognize/swiss-post-parcel/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -533,8 +539,8 @@ Aspose APIs are supported on all major platforms and operating systems. Before e
 {{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/java/codablock/recognize/" name="Codablock-F" description="Codablock-F and GS1 Codablock-F barcodes" >}}
 {{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/java/databar/recognize/" name="GS1 DataBar" description="GS1 DataBar (Omnidirectional, Stacked Omnidirectional, Expanded, Expanded Stacked, and Truncated) barcode" >}}
 {{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/java/itf/recognize/" name="ITF" description="Interleaved 2-of-5 (ITF) barcode" >}}
-{{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/java/ean/recognize/" name="EAN" description="EAN barcode" >}}
-{{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/java/upc/recognize/" name="UPC" description="UPC barcode" >}}
+{{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/java/ean/recognize/" name="EAN" description="EAN (International Article Number) barcode" >}}
+{{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/java/upc/recognize/" name="UPC" description="UPC (Universal Product Code) barcode" >}}
 {{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/java/code128/recognize/" name="GS1 Code 128" description="GS1 Code 128 barcode" >}}
 {{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/java/code39/recognize/" name="Code 39" description="Code 39 barcode" >}}
 {{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/java/code16k/recognize/" name="Code 16K" description="Code 16K barcode" >}}

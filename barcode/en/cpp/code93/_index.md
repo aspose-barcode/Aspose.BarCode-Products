@@ -1,8 +1,10 @@
 ---
 title: Code 93 in C++
-weight: 1510
 url: /cpp/code93/
 description: Aspose.Barcode for C++ API allows customize, generate and recognize Code 93 barcodes in your C++ application
+lang: 
+langdirlevel: 2
+locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

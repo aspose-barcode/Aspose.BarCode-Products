@@ -2,6 +2,12 @@
 title: Сканировать изображения Код QR, код GS1 QR через Android via Java
 weight: 1510
 description: Пример кода Android для распознавания Код QR, код GS1 QR в среде выполнения Android.
+lang: ru/
+langdirlevel: 2
+locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+url: /ru/android-java/qr/recognize/
+aliases:
+- /ru/android-java/recognize/qr/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

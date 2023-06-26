@@ -2,6 +2,12 @@
 title: Сканировать изображения Штрих-код Australia Post и Australia Post eParcel через Java
 weight: 1510
 description: Исходный код Java для чтения и декодирования Штрих-код Australia Post и Australia Post eParcel в среде выполнения Java для приложений JSP/JSF и настольных приложений.
+lang: ru/
+langdirlevel: 2
+locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+url: /ru/java/australia-post/recognize/
+aliases:
+- /ru/java/recognize/australia-post/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

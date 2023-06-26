@@ -2,6 +2,12 @@
 title: Сканировать изображения Перемежающийся штрих-код 2 из 5 (ITF) через Python via Java
 weight: 1510
 description: Исходный код Python для распознавания Перемежающийся штрих-код 2 из 5 (ITF) с использованием Java Runtime Environment.
+lang: ru/
+langdirlevel: 2
+locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+url: /ru/python-java/itf/recognize/
+aliases:
+- /ru/python-java/recognize/itf/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,12 @@
 ---
 title: Создайте Штрих-код ISBN изображений с помощью Android via Java
-weight: 1510
 description: Исходный код Android для создания Штрих-код ISBN в среде выполнения Android.
+lang: ru/
+langdirlevel: 2
+locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+url: /ru/android-java/isbn/generate/
+aliases:
+- /ru/android-java/generate/isbn/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

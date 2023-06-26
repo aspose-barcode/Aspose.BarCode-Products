@@ -2,6 +2,12 @@
 title: Сканировать изображения Код клиента Royal Mail из 4 штатов (RM4SCC) через .NET
 weight: 1510
 description: Пример кода C# для сканирования и декодирования типа штрих-кода Код клиента Royal Mail из 4 штатов (RM4SCC) в .NET Framework, .NET Standard, COM Interloop для PHP, VBScript, Delphi или C++.
+lang: ru/
+langdirlevel: 2
+locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+url: /ru/net/rm4scc/recognize/
+aliases:
+- /ru/net/recognize/rm4scc/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

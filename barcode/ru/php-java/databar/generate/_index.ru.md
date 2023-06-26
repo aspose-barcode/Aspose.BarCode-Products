@@ -1,7 +1,12 @@
 ---
 title: Создайте Штрих-код GS1 DataBar (всенаправленный, многонаправленный с накоплением, расширенный, расширенный с накоплением и усеченный) изображений с помощью PHP via Java
-weight: 1510
 description: Исходный код PHP для создания Штрих-код GS1 DataBar (всенаправленный, многонаправленный с накоплением, расширенный, расширенный с накоплением и усеченный) в приложениях на основе PHP.
+lang: ru/
+langdirlevel: 2
+locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+url: /ru/php-java/databar/generate/
+aliases:
+- /ru/php-java/generate/databar/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

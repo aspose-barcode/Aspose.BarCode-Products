@@ -1,6 +1,9 @@
 ---
 title: On Premise, Cloud Barcode SDK
 description: Crea applicazioni per l'elaborazione di codici a barre tramite API High-Code o SDK basati su cloud. Utilizza app multipiattaforma per la generazione o il riconoscimento di codici a barre.
+lang: it/
+langdirlevel: 2
+locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}

@@ -1,7 +1,12 @@
 ---
 title: Genera immagini Codice a barre GS1 DataBar (Omnidirezionale, Omnidirezionale in pila, Espanso, In pila espansa e Troncato) tramite Node.js via Java
-weight: 1510
 description: Codice di esempio Node.js per la generazione di Codice a barre GS1 DataBar (Omnidirezionale, Omnidirezionale in pila, Espanso, In pila espansa e Troncato) nelle applicazioni JavaScript.
+lang: it/
+langdirlevel: 2
+locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+url: /it/nodejs-java/databar/generate/
+aliases:
+- /it/nodejs-java/generate/databar/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

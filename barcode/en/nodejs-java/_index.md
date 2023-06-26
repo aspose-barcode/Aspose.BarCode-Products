@@ -1,7 +1,9 @@
 ---
 title: Nodejs Barcode Scanner and Generator API
 description: Node.js barcode scanning and generation library for 1D, 2D and Postal types. Integrate in React Angular apps easily for QR Code maxicode Aztec Code128 EAN-128 and more.
-weight: 440
+lang: 
+langdirlevel: 2
+locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
@@ -1085,8 +1087,8 @@ reader.<span class="hljs-title function_">readBarCodes</span>().<span class="hlj
 {{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/nodejs-java/codablock/" name="Codablock-F" description="Codablock-F and GS1 Codablock-F barcodes" >}}
 {{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/nodejs-java/databar/" name="GS1 DataBar" description="GS1 DataBar (Omnidirectional, Stacked Omnidirectional, Expanded, Expanded Stacked, and Truncated) barcode" >}}
 {{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/nodejs-java/itf/" name="ITF" description="Interleaved 2-of-5 (ITF) barcode" >}}
-{{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/nodejs-java/ean/" name="EAN" description="EAN barcode" >}}
-{{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/nodejs-java/upc/" name="UPC" description="UPC barcode" >}}
+{{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/nodejs-java/ean/" name="EAN" description="EAN (International Article Number) barcode" >}}
+{{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/nodejs-java/upc/" name="UPC" description="UPC (Universal Product Code) barcode" >}}
 {{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/nodejs-java/code128/" name="GS1 Code 128" description="GS1 Code 128 barcode" >}}
 {{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/nodejs-java/code39/" name="Code 39" description="Code 39 barcode" >}}
 {{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/nodejs-java/code16k/" name="Code 16K" description="Code 16K barcode" >}}

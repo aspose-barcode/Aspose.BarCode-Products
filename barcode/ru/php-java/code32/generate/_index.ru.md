@@ -1,7 +1,12 @@
 ---
 title: Создайте Итальянский штрих-код Pharmacode (Code 32) изображений с помощью PHP via Java
-weight: 1510
 description: Исходный код PHP для создания Итальянский штрих-код Pharmacode (Code 32) в приложениях на основе PHP.
+lang: ru/
+langdirlevel: 2
+locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+url: /ru/php-java/code32/generate/
+aliases:
+- /ru/php-java/generate/code32/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

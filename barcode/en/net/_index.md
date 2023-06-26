@@ -1,7 +1,9 @@
 ---
 title: C# .NET Barcode API - Read Generate and Recognize Barcodes
-description: Aspose.BarCode for .NET APIs to create and recognize 1D 2D barcodes. Integrate within C# VB.NET ASP.NET applications to scan and print barcode labels.
-weight: 440
+description: Aspose.BarCode for .NET APIs to create and recognize 1D 2D barcodes. Integrate within C# VB.NET ASP.NET applications to scan and print barcode labels
+lang: 
+langdirlevel: 2
+locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
@@ -1181,8 +1183,8 @@ weight: 440
 {{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/net/codablock/" name="Codablock-F" description="Codablock-F and GS1 Codablock-F barcodes" >}}
 {{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/net/databar/" name="GS1 DataBar" description="GS1 DataBar (Omnidirectional, Stacked Omnidirectional, Expanded, Expanded Stacked, and Truncated) barcode" >}}
 {{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/net/itf/" name="ITF" description="Interleaved 2-of-5 (ITF) barcode" >}}
-{{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/net/ean/" name="EAN" description="EAN barcode" >}}
-{{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/net/upc/" name="UPC" description="UPC barcode" >}}
+{{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/net/ean/" name="EAN" description="EAN (International Article Number) barcode" >}}
+{{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/net/upc/" name="UPC" description="UPC (Universal Product Code) barcode" >}}
 {{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/net/code128/" name="GS1 Code 128" description="GS1 Code 128 barcode" >}}
 {{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/net/code39/" name="Code 39" description="Code 39 barcode" >}}
 {{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/net/code16k/" name="Code 16K" description="Code 16K barcode" >}}

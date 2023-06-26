@@ -1,7 +1,12 @@
 ---
 title: Создайте Штрих-код Postnet изображений с помощью Python via Java
-weight: 1510
 description: Пример кода Python для создания Штрих-код Postnet с использованием Java Runtime Environment.
+lang: ru/
+langdirlevel: 2
+locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+url: /ru/python-java/postnet/generate/
+aliases:
+- /ru/python-java/generate/postnet/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

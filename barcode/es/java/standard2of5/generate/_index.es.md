@@ -1,7 +1,12 @@
 ---
 title: Genere imágenes de Código de barras Standard 2 of 5 (Industrial 2 de 5) a ​​través de Java
-weight: 1510
 description: Código de muestra de Java para la generación de Código de barras Standard 2 of 5 (Industrial 2 de 5) en Java Runtime Environment para aplicaciones JSP/JSF y aplicaciones de escritorio.
+lang: es/
+langdirlevel: 2
+locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+url: /es/java/standard2of5/generate/
+aliases:
+- /es/java/generate/standard2of5/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -472,7 +477,7 @@ generator.generateBarCodeImage();
 {{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/es/java/aztec/generate/" name="Aztec" description="Aztec Código" >}}
 {{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/es/java/swiss-qr/generate/" name="Swiss QR" description="Swiss QR factura" >}}
 {{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/es/java/dotcode/generate/" name="DotCode" description="DotCode código de barras" >}}
-{{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/es/java/hibc/generate/" name="HIBC" description="{{type.HIBC._name}} (Código de barras de la industria de la salud)" >}}
+{{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/es/java/hibc/generate/" name="HIBC" description="HIBC (Código de barras de la industria de la salud)" >}}
 </div>
 <p class="tl d-block" style="margin: 15px 0 7px 0 !important;">Linear:</p>
 <div class="row other-converters">

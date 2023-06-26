@@ -1,7 +1,9 @@
 ---
 title: Штрих-код Android API | Сканировать или генерировать штрих-коды
 description: Библиотека сканера штрих-кода Android для распознавания различных видов одномерных, двухмерных и почтовых штрих-кодов. Сканируйте штрих-коды под любым углом в приложениях для Android.
-weight: 440
+lang: ru/
+langdirlevel: 2
+locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}

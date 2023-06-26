@@ -1,8 +1,10 @@
 ---
 title: Code 16K en PHP via Java
-weight: 1510
 url: /es/php-java/code16k/
 description: Aspose.Barcode para PHP via Java API permite personalizar, generar y reconocer códigos de barras Code 16K en su aplicación PHP
+lang: es/
+langdirlevel: 2
+locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

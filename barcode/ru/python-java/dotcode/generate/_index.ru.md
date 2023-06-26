@@ -1,7 +1,12 @@
 ---
 title: Создайте Штрих-код DotCode изображений с помощью Python via Java
-weight: 1510
 description: Пример кода Python для создания Штрих-код DotCode с использованием Java Runtime Environment.
+lang: ru/
+langdirlevel: 2
+locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+url: /ru/python-java/dotcode/generate/
+aliases:
+- /ru/python-java/generate/dotcode/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

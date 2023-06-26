@@ -1,7 +1,9 @@
 ---
 title: API per codici a barre di SharePoint&colon; inserisci codici a barre negli elenchi di SharePoint
 description: Barcode API SharePoint per inserire etichette con codice a barre negli elenchi SharePoint personalizzati. Gli sviluppatori possono utilizzare gli indicatori di servizio per selezionare i valori di testo di input o inserire il testo manualmente.
-weight: 440
+lang: it/
+langdirlevel: 2
+locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}

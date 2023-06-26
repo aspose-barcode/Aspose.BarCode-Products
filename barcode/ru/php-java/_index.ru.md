@@ -1,7 +1,9 @@
 ---
 title: Генератор штрих-кода PHP и API сканера
 description: Библиотека чтения штрих-кодов PHP для распознавания нескольких типов штрих-кодов, включая 1D, 2D и почтовый. Используйте API в ядре PHP или в таких фреймворках, как codeigniter, cakephp или laravel.
-weight: 440
+lang: ru/
+langdirlevel: 2
+locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}

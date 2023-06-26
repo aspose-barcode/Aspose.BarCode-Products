@@ -2,6 +2,12 @@
 title: Scansiona le immagini di ISSN codice a barre tramite Android via Java
 weight: 1510
 description: Codice di esempio Android per riconoscere ISSN codice a barre in Android Runtime Environment.
+lang: it/
+langdirlevel: 2
+locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+url: /it/android-java/issn/recognize/
+aliases:
+- /it/android-java/recognize/issn/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

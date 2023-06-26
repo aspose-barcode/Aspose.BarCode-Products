@@ -1,7 +1,12 @@
 ---
 title: Genere imágenes de Swiss Post Parcel a ​​través de Node.js via Java
-weight: 1510
 description: Código de muestra de Node.js para la generación de Swiss Post Parcel en aplicaciones de JavaScript.
+lang: es/
+langdirlevel: 2
+locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+url: /es/nodejs-java/swiss-post-parcel/generate/
+aliases:
+- /es/nodejs-java/generate/swiss-post-parcel/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -457,7 +462,7 @@ generator.<span class="hljs-title function_">save</span>(<span class="hljs-strin
 {{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/es/nodejs-java/aztec/generate/" name="Aztec" description="Aztec Código" >}}
 {{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/es/nodejs-java/swiss-qr/generate/" name="Swiss QR" description="Swiss QR factura" >}}
 {{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/es/nodejs-java/dotcode/generate/" name="DotCode" description="DotCode código de barras" >}}
-{{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/es/nodejs-java/hibc/generate/" name="HIBC" description="{{type.HIBC._name}} (Código de barras de la industria de la salud)" >}}
+{{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/es/nodejs-java/hibc/generate/" name="HIBC" description="HIBC (Código de barras de la industria de la salud)" >}}
 </div>
 <p class="tl d-block" style="margin: 15px 0 7px 0 !important;">Linear:</p>
 <div class="row other-converters">

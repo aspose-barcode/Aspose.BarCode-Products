@@ -1,7 +1,12 @@
 ---
 title: Создайте Штрих-код Postnet изображений с помощью PHP via Java
-weight: 1510
 description: Исходный код PHP для создания Штрих-код Postnet в приложениях на основе PHP.
+lang: ru/
+langdirlevel: 2
+locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+url: /ru/php-java/postnet/generate/
+aliases:
+- /ru/php-java/generate/postnet/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

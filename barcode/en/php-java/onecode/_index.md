@@ -1,8 +1,10 @@
 ---
 title: USPS OneCode in PHP via Java
-weight: 1510
 url: /php-java/onecode/
 description: Aspose.Barcode for PHP via Java API allows customize, generate and recognize USPS OneCode barcodes in your PHP application
+lang: 
+langdirlevel: 2
+locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

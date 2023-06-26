@@ -1,7 +1,12 @@
 ---
 title: Genera immagini Codice a barre interlacciato 2 su 5 (ITF). tramite Java
-weight: 1510
 description: Codice di esempio Java per la generazione di Codice a barre interlacciato 2 su 5 (ITF). in Java Runtime Environment per applicazioni JSP/JSF e applicazioni desktop.
+lang: it/
+langdirlevel: 2
+locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+url: /it/java/itf/generate/
+aliases:
+- /it/java/generate/itf/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

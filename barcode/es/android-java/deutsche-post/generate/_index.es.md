@@ -1,7 +1,12 @@
 ---
 title: Genere imágenes de Deutsche Post Identcode y Deutsche Post Leitcode a ​​través de Android via Java
-weight: 1510
 description: Código fuente de Android para crear Deutsche Post Identcode y Deutsche Post Leitcode en Android Runtime Environment.
+lang: es/
+langdirlevel: 2
+locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+url: /es/android-java/deutsche-post/generate/
+aliases:
+- /es/android-java/generate/deutsche-post/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -463,7 +468,7 @@ generator.generateBarCodeImage();
 {{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/es/android-java/aztec/generate/" name="Aztec" description="Aztec Código" >}}
 {{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/es/android-java/swiss-qr/generate/" name="Swiss QR" description="Swiss QR factura" >}}
 {{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/es/android-java/dotcode/generate/" name="DotCode" description="DotCode código de barras" >}}
-{{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/es/android-java/hibc/generate/" name="HIBC" description="{{type.HIBC._name}} (Código de barras de la industria de la salud)" >}}
+{{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/es/android-java/hibc/generate/" name="HIBC" description="HIBC (Código de barras de la industria de la salud)" >}}
 </div>
 <p class="tl d-block" style="margin: 15px 0 7px 0 !important;">Linear:</p>
 <div class="row other-converters">

@@ -1,7 +1,12 @@
 ---
 title: Создайте Штрих-код Postnet изображений с помощью Java
-weight: 1510
 description: Пример кода Java для генерации Штрих-код Postnet в среде выполнения Java для приложений JSP/JSF и настольных приложений.
+lang: ru/
+langdirlevel: 2
+locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+url: /ru/java/postnet/generate/
+aliases:
+- /ru/java/generate/postnet/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

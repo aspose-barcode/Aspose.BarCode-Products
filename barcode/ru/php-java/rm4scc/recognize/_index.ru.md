@@ -2,6 +2,12 @@
 title: Сканировать изображения Код клиента Royal Mail из 4 штатов (RM4SCC) через PHP via Java
 weight: 1510
 description: Пример кода PHP для чтения Код клиента Royal Mail из 4 штатов (RM4SCC) в приложениях на основе PHP.
+lang: ru/
+langdirlevel: 2
+locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+url: /ru/php-java/rm4scc/recognize/
+aliases:
+- /ru/php-java/recognize/rm4scc/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

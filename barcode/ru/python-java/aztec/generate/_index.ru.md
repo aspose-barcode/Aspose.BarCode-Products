@@ -1,7 +1,12 @@
 ---
 title: Создайте Aztec Код изображений с помощью Python via Java
-weight: 1510
 description: Пример кода Python для создания Aztec Код с использованием Java Runtime Environment.
+lang: ru/
+langdirlevel: 2
+locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+url: /ru/python-java/aztec/generate/
+aliases:
+- /ru/python-java/generate/aztec/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

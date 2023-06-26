@@ -2,6 +2,12 @@
 title: Сканировать изображения Код QR, код GS1 QR через Python via Java
 weight: 1510
 description: Исходный код Python для распознавания Код QR, код GS1 QR с использованием Java Runtime Environment.
+lang: ru/
+langdirlevel: 2
+locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+url: /ru/python-java/qr/recognize/
+aliases:
+- /ru/python-java/recognize/qr/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

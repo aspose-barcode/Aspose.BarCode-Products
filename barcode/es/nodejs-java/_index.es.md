@@ -1,7 +1,9 @@
 ---
 title: API de generador y escáner de código de barras de Nodejs
 description: Biblioteca de generación y escaneo de códigos de barras Node.js para tipos 1D, 2D y postales. Integre fácilmente en las aplicaciones React Angular para QR Code maxicode Aztec Code128 EAN-128 y más.
-weight: 440
+lang: es/
+langdirlevel: 2
+locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
@@ -1078,7 +1080,7 @@ reader.<span class="hljs-title function_">readBarCodes</span>().<span class="hlj
 {{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/es/nodejs-java/aztec/" name="Aztec" description="Aztec Código" >}}
 {{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/es/nodejs-java/swiss-qr/" name="Swiss QR" description="Swiss QR factura" >}}
 {{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/es/nodejs-java/dotcode/" name="DotCode" description="DotCode código de barras" >}}
-{{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/es/nodejs-java/hibc/" name="HIBC" description="{{type.HIBC._name}} (Código de barras de la industria de la salud)" >}}
+{{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/es/nodejs-java/hibc/" name="HIBC" description="HIBC (Código de barras de la industria de la salud)" >}}
 </div>
 <p class="tl d-block" style="margin: 15px 0 7px 0 !important;">Linear:</p>
 <div class="row other-converters">

@@ -2,6 +2,12 @@
 title: Сканировать изображения Штрих-код Standard 2 of 5 (Промышленный 2 из 5) через PHP via Java
 weight: 1510
 description: Пример кода PHP для чтения Штрих-код Standard 2 of 5 (Промышленный 2 из 5) в приложениях на основе PHP.
+lang: ru/
+langdirlevel: 2
+locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+url: /ru/php-java/standard2of5/recognize/
+aliases:
+- /ru/php-java/recognize/standard2of5/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,10 @@
 ---
 title: DotCode in PHP via Java
-weight: 1510
 url: /php-java/dotcode/
 description: Aspose.Barcode for PHP via Java API allows customize, generate and recognize DotCode barcodes in your PHP application
+lang: 
+langdirlevel: 2
+locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

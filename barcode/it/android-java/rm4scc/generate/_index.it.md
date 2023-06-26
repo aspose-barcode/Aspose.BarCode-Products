@@ -1,7 +1,12 @@
 ---
 title: Genera immagini Codice cliente Royal Mail 4-State (RM4SCC) tramite Android via Java
-weight: 1510
 description: Codice sorgente Android per creare Codice cliente Royal Mail 4-State (RM4SCC) in Android Runtime Environment.
+lang: it/
+langdirlevel: 2
+locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+url: /it/android-java/rm4scc/generate/
+aliases:
+- /it/android-java/generate/rm4scc/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,12 @@
 ---
 title: Genera immagini Codice cliente Royal Mail 4-State (RM4SCC) tramite Node.js via Java
-weight: 1510
 description: Codice di esempio Node.js per la generazione di Codice cliente Royal Mail 4-State (RM4SCC) nelle applicazioni JavaScript.
+lang: it/
+langdirlevel: 2
+locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+url: /it/nodejs-java/rm4scc/generate/
+aliases:
+- /it/nodejs-java/generate/rm4scc/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

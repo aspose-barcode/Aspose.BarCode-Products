@@ -1,7 +1,9 @@
 ---
 title: Representar imágenes de códigos de barras lineales y 2D en SQL Server Reporting Services
 description: Extensión de representación de SQL Server Reporting Services&colon; exporte imágenes de códigos de barras lineales y 2D en SSRS. Renderice etiquetas de código de barras en formatos BMP JPEG GIF y PNG.
-weight: 440
+lang: es/
+langdirlevel: 2
+locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
@@ -1141,7 +1143,7 @@ weight: 440
 {{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/es/reporting-services/aztec/" name="Aztec" description="Aztec Código" >}}
 {{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/es/reporting-services/swiss-qr/" name="Swiss QR" description="Swiss QR factura" >}}
 {{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/es/reporting-services/dotcode/" name="DotCode" description="DotCode código de barras" >}}
-{{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/es/reporting-services/hibc/" name="HIBC" description="{{type.HIBC._name}} (Código de barras de la industria de la salud)" >}}
+{{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/es/reporting-services/hibc/" name="HIBC" description="HIBC (Código de barras de la industria de la salud)" >}}
 </div>
 <p class="tl d-block" style="margin: 15px 0 7px 0 !important;">Linear:</p>
 <div class="row other-converters">

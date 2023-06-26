@@ -2,6 +2,12 @@
 title: Escanee imágenes de Código de barras Standard 2 of 5 (Industrial 2 de 5) a ​​través de PHP via Java
 weight: 1510
 description: Código de muestra de PHP para leer Código de barras Standard 2 of 5 (Industrial 2 de 5) en aplicaciones basadas en PHP.
+lang: es/
+langdirlevel: 2
+locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+url: /es/php-java/standard2of5/recognize/
+aliases:
+- /es/php-java/recognize/standard2of5/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -521,7 +527,7 @@ Las API de Aspose son compatibles con todas las principales plataformas y sistem
 {{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/es/php-java/aztec/recognize/" name="Aztec" description="Aztec Código" >}}
 {{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/es/php-java/swiss-qr/recognize/" name="Swiss QR" description="Swiss QR factura" >}}
 {{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/es/php-java/dotcode/recognize/" name="DotCode" description="DotCode código de barras" >}}
-{{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/es/php-java/hibc/recognize/" name="HIBC" description="{{type.HIBC._name}} (Código de barras de la industria de la salud)" >}}
+{{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/es/php-java/hibc/recognize/" name="HIBC" description="HIBC (Código de barras de la industria de la salud)" >}}
 </div>
 <p class="tl d-block" style="margin: 15px 0 7px 0 !important;">Linear:</p>
 <div class="row other-converters">

@@ -2,6 +2,12 @@
 title: Escanee imágenes de Postnet código de barras a ​​través de .NET
 weight: 1510
 description: Código de muestra de C# para escanear y decodificar el tipo de código de barras Postnet código de barras en .NET Framework, .NET Standard, COM Interloop para PHP, VBScript, Delphi o C++.
+lang: es/
+langdirlevel: 2
+locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+url: /es/net/postnet/recognize/
+aliases:
+- /es/net/recognize/postnet/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -510,7 +516,7 @@ Las API de Aspose son compatibles con todas las principales plataformas y sistem
 {{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/es/net/aztec/recognize/" name="Aztec" description="Aztec Código" >}}
 {{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/es/net/swiss-qr/recognize/" name="Swiss QR" description="Swiss QR factura" >}}
 {{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/es/net/dotcode/recognize/" name="DotCode" description="DotCode código de barras" >}}
-{{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/es/net/hibc/recognize/" name="HIBC" description="{{type.HIBC._name}} (Código de barras de la industria de la salud)" >}}
+{{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/es/net/hibc/recognize/" name="HIBC" description="HIBC (Código de barras de la industria de la salud)" >}}
 </div>
 <p class="tl d-block" style="margin: 15px 0 7px 0 !important;">Linear:</p>
 <div class="row other-converters">

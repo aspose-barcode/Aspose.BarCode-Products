@@ -1,7 +1,9 @@
 ---
 title: Java Barcode API — создание или сканирование одномерных, двухмерных и почтовых штрих-кодов
 description: Библиотека штрих-кодов Java для создания штрих-кодов для чтения и распознавания. Barcode SDK поддерживает линейные и 2D-штрих-коды, а также экспорт в JPG, GIF, PNG, BMP и другие форматы изображений.
-weight: 440
+lang: ru/
+langdirlevel: 2
+locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}

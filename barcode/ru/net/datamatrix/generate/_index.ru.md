@@ -1,7 +1,12 @@
 ---
 title: Создайте Data Matrix код изображений с помощью .NET
-weight: 1510
 description: Исходный код C# для создания Data Matrix код в .NET Framework, .NET Standard, COM Interloop для PHP, VBScript, Delphi и C++.
+lang: ru/
+langdirlevel: 2
+locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+url: /ru/net/datamatrix/generate/
+aliases:
+- /ru/net/generate/datamatrix/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

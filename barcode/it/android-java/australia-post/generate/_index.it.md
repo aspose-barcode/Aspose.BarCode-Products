@@ -1,7 +1,12 @@
 ---
 title: Genera immagini Australia Post codice a barre e Australia Post pacco elettronico tramite Android via Java
-weight: 1510
 description: Codice sorgente Android per creare Australia Post codice a barre e Australia Post pacco elettronico in Android Runtime Environment.
+lang: it/
+langdirlevel: 2
+locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+url: /it/android-java/australia-post/generate/
+aliases:
+- /it/android-java/generate/australia-post/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

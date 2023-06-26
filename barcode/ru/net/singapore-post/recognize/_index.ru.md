@@ -2,6 +2,12 @@
 title: Сканировать изображения Штрих-код Singapore Post через .NET
 weight: 1510
 description: Пример кода C# для сканирования и декодирования типа штрих-кода Штрих-код Singapore Post в .NET Framework, .NET Standard, COM Interloop для PHP, VBScript, Delphi или C++.
+lang: ru/
+langdirlevel: 2
+locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+url: /ru/net/singapore-post/recognize/
+aliases:
+- /ru/net/recognize/singapore-post/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

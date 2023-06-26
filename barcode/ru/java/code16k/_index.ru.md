@@ -1,8 +1,10 @@
 ---
 title: Code 16K в Java
-weight: 1510
 url: /ru/java/code16k/
 description: Aspose.Barcode for Java API позволяет настраивать, генерировать и распознавать штрих-коды Code 16K в вашем приложении Java
+lang: ru/
+langdirlevel: 2
+locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

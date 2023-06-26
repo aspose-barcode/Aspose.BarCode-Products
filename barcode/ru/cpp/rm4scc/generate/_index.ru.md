@@ -1,7 +1,12 @@
 ---
 title: Создайте Код клиента Royal Mail из 4 штатов (RM4SCC) изображений с помощью C++
-weight: 1510
 description: Пример кода C++ для создания Код клиента Royal Mail из 4 штатов (RM4SCC) в среде выполнения C++ для 32-разрядной, 64-разрядной версии Windows и 64-разрядной версии Linux.
+lang: ru/
+langdirlevel: 2
+locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+url: /ru/cpp/rm4scc/generate/
+aliases:
+- /ru/cpp/generate/rm4scc/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

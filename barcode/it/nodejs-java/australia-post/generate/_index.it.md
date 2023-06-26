@@ -1,7 +1,12 @@
 ---
 title: Genera immagini Australia Post codice a barre e Australia Post pacco elettronico tramite Node.js via Java
-weight: 1510
 description: Codice di esempio Node.js per la generazione di Australia Post codice a barre e Australia Post pacco elettronico nelle applicazioni JavaScript.
+lang: it/
+langdirlevel: 2
+locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+url: /it/nodejs-java/australia-post/generate/
+aliases:
+- /it/nodejs-java/generate/australia-post/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

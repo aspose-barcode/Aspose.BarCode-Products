@@ -1,8 +1,10 @@
 ---
 title: Codablock-F in SharePoint
-weight: 1510
 url: /sharepoint/codablock/
 description: Aspose.Barcode for SharePoint API allows customize, generate and recognize Codablock-F barcodes in your C# application
+lang: 
+langdirlevel: 2
+locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

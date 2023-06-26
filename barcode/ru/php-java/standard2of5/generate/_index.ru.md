@@ -1,7 +1,12 @@
 ---
 title: Создайте Штрих-код Standard 2 of 5 (Промышленный 2 из 5) изображений с помощью PHP via Java
-weight: 1510
 description: Исходный код PHP для создания Штрих-код Standard 2 of 5 (Промышленный 2 из 5) в приложениях на основе PHP.
+lang: ru/
+langdirlevel: 2
+locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+url: /ru/php-java/standard2of5/generate/
+aliases:
+- /ru/php-java/generate/standard2of5/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

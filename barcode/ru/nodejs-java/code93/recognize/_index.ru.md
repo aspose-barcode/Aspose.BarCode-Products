@@ -2,6 +2,12 @@
 title: Сканировать изображения Code 93 расширенный и Code 93 стандартный штрих-коды через Node.js via Java
 weight: 1510
 description: Исходный код Node.js для сканирования и декодирования Code 93 расширенный и Code 93 стандартный штрих-коды в приложениях JavaScript.
+lang: ru/
+langdirlevel: 2
+locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+url: /ru/nodejs-java/code93/recognize/
+aliases:
+- /ru/nodejs-java/recognize/code93/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,9 @@
 ---
 title: API de código de barras de SharePoint - Insertar códigos de barras en listas de SharePoint
 description: API de código de barras de SharePoint para insertar etiquetas de código de barras en listas de SharePoint personalizadas. Los desarrolladores pueden usar marcadores de servicio para seleccionar valores de texto de entrada o insertar el texto manualmente.
-weight: 440
+lang: es/
+langdirlevel: 2
+locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
@@ -1113,7 +1115,7 @@ weight: 440
 {{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/es/sharepoint/aztec/" name="Aztec" description="Aztec Código" >}}
 {{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/es/sharepoint/swiss-qr/" name="Swiss QR" description="Swiss QR factura" >}}
 {{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/es/sharepoint/dotcode/" name="DotCode" description="DotCode código de barras" >}}
-{{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/es/sharepoint/hibc/" name="HIBC" description="{{type.HIBC._name}} (Código de barras de la industria de la salud)" >}}
+{{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/es/sharepoint/hibc/" name="HIBC" description="HIBC (Código de barras de la industria de la salud)" >}}
 </div>
 <p class="tl d-block" style="margin: 15px 0 7px 0 !important;">Linear:</p>
 <div class="row other-converters">

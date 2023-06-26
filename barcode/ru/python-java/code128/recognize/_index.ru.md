@@ -2,6 +2,12 @@
 title: Сканировать изображения Штрих-код GS1 Code 128 через Python via Java
 weight: 1510
 description: Исходный код Python для распознавания Штрих-код GS1 Code 128 с использованием Java Runtime Environment.
+lang: ru/
+langdirlevel: 2
+locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+url: /ru/python-java/code128/recognize/
+aliases:
+- /ru/python-java/recognize/code128/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

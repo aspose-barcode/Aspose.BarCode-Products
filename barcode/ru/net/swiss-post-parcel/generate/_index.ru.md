@@ -1,7 +1,12 @@
 ---
 title: Создайте Swiss Post Parcel изображений с помощью .NET
-weight: 1510
 description: Исходный код C# для создания Swiss Post Parcel в .NET Framework, .NET Standard, COM Interloop для PHP, VBScript, Delphi и C++.
+lang: ru/
+langdirlevel: 2
+locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+url: /ru/net/swiss-post-parcel/generate/
+aliases:
+- /ru/net/generate/swiss-post-parcel/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

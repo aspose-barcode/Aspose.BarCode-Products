@@ -2,6 +2,12 @@
 title: Сканировать изображения Code 93 расширенный и Code 93 стандартный штрих-коды через Python via Java
 weight: 1510
 description: Исходный код Python для распознавания Code 93 расширенный и Code 93 стандартный штрих-коды с использованием Java Runtime Environment.
+lang: ru/
+langdirlevel: 2
+locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+url: /ru/python-java/code93/recognize/
+aliases:
+- /ru/python-java/recognize/code93/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,12 @@
 ---
 title: Genera immagini QR Codice, GS1 QR Codice tramite Android via Java
-weight: 1510
 description: Codice sorgente Android per creare QR Codice, GS1 QR Codice in Android Runtime Environment.
+lang: it/
+langdirlevel: 2
+locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+url: /it/android-java/qr/generate/
+aliases:
+- /it/android-java/generate/qr/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,9 @@
 ---
 title: Генератор штрих-кода Python и API сканера
 description: Библиотека считывателя штрих-кодов Python для распознавания и создания различных типов штрих-кодов, включая одномерные, двумерные и почтовые типы. Используйте API в приложениях Python.
-weight: 440
+lang: ru/
+langdirlevel: 2
+locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}

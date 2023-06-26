@@ -2,6 +2,12 @@
 title: Сканировать изображения Swiss Post Parcel через Python via Java
 weight: 1510
 description: Исходный код Python для распознавания Swiss Post Parcel с использованием Java Runtime Environment.
+lang: ru/
+langdirlevel: 2
+locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+url: /ru/python-java/swiss-post-parcel/recognize/
+aliases:
+- /ru/python-java/recognize/swiss-post-parcel/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

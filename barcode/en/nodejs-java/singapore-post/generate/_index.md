@@ -1,7 +1,12 @@
 ---
 title: Generate Singapore Post barcode Images via Node.js via Java
-weight: 1510
 description: Node.js sample code for Singapore Post barcode generation in JavaScript applications.
+lang: 
+langdirlevel: 2
+locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+url: /nodejs-java/singapore-post/generate/
+aliases:
+- /nodejs-java/generate/singapore-post/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -464,8 +469,8 @@ generator.<span class="hljs-title function_">save</span>(<span class="hljs-strin
 {{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/nodejs-java/codablock/generate/" name="Codablock-F" description="Codablock-F and GS1 Codablock-F barcodes" >}}
 {{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/nodejs-java/databar/generate/" name="GS1 DataBar" description="GS1 DataBar (Omnidirectional, Stacked Omnidirectional, Expanded, Expanded Stacked, and Truncated) barcode" >}}
 {{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/nodejs-java/itf/generate/" name="ITF" description="Interleaved 2-of-5 (ITF) barcode" >}}
-{{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/nodejs-java/ean/generate/" name="EAN" description="EAN barcode" >}}
-{{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/nodejs-java/upc/generate/" name="UPC" description="UPC barcode" >}}
+{{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/nodejs-java/ean/generate/" name="EAN" description="EAN (International Article Number) barcode" >}}
+{{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/nodejs-java/upc/generate/" name="UPC" description="UPC (Universal Product Code) barcode" >}}
 {{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/nodejs-java/code128/generate/" name="GS1 Code 128" description="GS1 Code 128 barcode" >}}
 {{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/nodejs-java/code39/generate/" name="Code 39" description="Code 39 barcode" >}}
 {{< blocks/products/pf/agp/other-symbologies-section-item href="/barcode/nodejs-java/code16k/generate/" name="Code 16K" description="Code 16K barcode" >}}

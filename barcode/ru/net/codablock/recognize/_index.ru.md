@@ -2,6 +2,12 @@
 title: Сканировать изображения Штрих-коды Codablock-F и GS1 Codablock-F через .NET
 weight: 1510
 description: Пример кода C# для сканирования и декодирования типа штрих-кода Штрих-коды Codablock-F и GS1 Codablock-F в .NET Framework, .NET Standard, COM Interloop для PHP, VBScript, Delphi или C++.
+lang: ru/
+langdirlevel: 2
+locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+url: /ru/net/codablock/recognize/
+aliases:
+- /ru/net/recognize/codablock/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

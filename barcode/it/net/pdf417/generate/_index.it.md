@@ -1,7 +1,12 @@
 ---
 title: Genera immagini PDF417 codice a barre tramite .NET
-weight: 1510
 description: Codice sorgente C# per la generazione di PDF417 codice a barre in .NET Framework, .NET Standard, COM Interloop per PHP, VBScript, Delphi e C++.
+lang: it/
+langdirlevel: 2
+locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+url: /it/net/pdf417/generate/
+aliases:
+- /it/net/generate/pdf417/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

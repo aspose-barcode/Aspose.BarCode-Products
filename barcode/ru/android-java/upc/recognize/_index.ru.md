@@ -2,6 +2,12 @@
 title: Сканировать изображения Штрих-код UPC через Android via Java
 weight: 1510
 description: Пример кода Android для распознавания Штрих-код UPC в среде выполнения Android.
+lang: ru/
+langdirlevel: 2
+locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+url: /ru/android-java/upc/recognize/
+aliases:
+- /ru/android-java/recognize/upc/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

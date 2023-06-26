@@ -1,7 +1,12 @@
 ---
 title: Создайте Штрих-код Singapore Post изображений с помощью Python via Java
-weight: 1510
 description: Пример кода Python для создания Штрих-код Singapore Post с использованием Java Runtime Environment.
+lang: ru/
+langdirlevel: 2
+locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+url: /ru/python-java/singapore-post/generate/
+aliases:
+- /ru/python-java/generate/singapore-post/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

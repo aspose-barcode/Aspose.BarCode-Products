@@ -2,6 +2,12 @@
 title: Scansiona le immagini di Codice a barre interlacciato 2 su 5 (ITF). tramite Node.js via Java
 weight: 1510
 description: Codice sorgente Node.js per la scansione e la decodifica di Codice a barre interlacciato 2 su 5 (ITF). nelle applicazioni JavaScript.
+lang: it/
+langdirlevel: 2
+locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+url: /it/nodejs-java/itf/recognize/
+aliases:
+- /it/nodejs-java/recognize/itf/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

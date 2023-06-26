@@ -1,7 +1,12 @@
 ---
 title: Genera immagini ISBN codice a barre tramite Node.js via Java
-weight: 1510
 description: Codice di esempio Node.js per la generazione di ISBN codice a barre nelle applicazioni JavaScript.
+lang: it/
+langdirlevel: 2
+locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+url: /it/nodejs-java/isbn/generate/
+aliases:
+- /it/nodejs-java/generate/isbn/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
