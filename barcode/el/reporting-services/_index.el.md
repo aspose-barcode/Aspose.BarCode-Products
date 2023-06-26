@@ -1212,7 +1212,7 @@ locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
 {{< blocks/products/pf/slr-element name="Σημειώσεις έκδοσης" href="https://docs.aspose.com/barcode/reportingservices/release-notes/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="Γιατί Aspose.BarCode για SQL Reporting Services;" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-tab tabTitle="Γιατί Aspose.BarCode για SQL Reporting Services" tabId="success-stories" >}}
 {{< blocks/products/pf/slr-element name="Λίστα Πελατών" href="https://about.aspose.com/customers" >}}
 {{< blocks/products/pf/slr-element name="Ιστορίες επιτυχίας" href="https://downloads.aspose.com/corporate/case-studies/aspose.barcode/" >}}
 {{< /blocks/products/pf/slr-tab >}}

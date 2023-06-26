@@ -1149,7 +1149,7 @@ reader.<span class="hljs-title function_">readBarCodes</span>().<span class="hlj
 {{< blocks/products/pf/slr-element name="Σημειώσεις έκδοσης" href="https://docs.aspose.com/barcode/nodejsjava/release-notes/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="Γιατί Aspose.BarCode για Node.js via Java;" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-tab tabTitle="Γιατί Aspose.BarCode για Node.js via Java" tabId="success-stories" >}}
 {{< blocks/products/pf/slr-element name="Λίστα Πελατών" href="https://about.aspose.com/customers" >}}
 {{< blocks/products/pf/slr-element name="Ιστορίες επιτυχίας" href="https://downloads.aspose.com/corporate/case-studies/aspose.barcode/" >}}
 {{< /blocks/products/pf/slr-tab >}}

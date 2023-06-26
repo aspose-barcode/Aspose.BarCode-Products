@@ -1161,7 +1161,7 @@ recognized_results = reader.read_bar_codes()
 {{< blocks/products/pf/slr-element name="Σημειώσεις έκδοσης" href="https://docs.aspose.com/barcode/python-net/release-notes/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="Γιατί Aspose.BarCode για Python via .NET;" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-tab tabTitle="Γιατί Aspose.BarCode για Python via .NET" tabId="success-stories" >}}
 {{< blocks/products/pf/slr-element name="Λίστα Πελατών" href="https://about.aspose.com/customers" >}}
 {{< blocks/products/pf/slr-element name="Ιστορίες επιτυχίας" href="https://downloads.aspose.com/corporate/case-studies/aspose.barcode/" >}}
 {{< /blocks/products/pf/slr-tab >}}
