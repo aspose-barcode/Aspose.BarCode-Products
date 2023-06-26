@@ -41,25 +41,6 @@ O código 39 é um tipo de código de barras de comprimento variável. Foi desen
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
-    <div class="container">
-        <div class="row">
-            <div class="demobox tc col-md-12">
-                <h3>Usando Aspose.BarCode para SQL Reporting Services, você pode facilmente gerar e reconhecer códigos de barras Code 39 em seu aplicativo C#</h3>
-                <div class="row justify-content-center">
-                    <div class="col-md-3 tc">
-                        <div class="democard"><a href='./generate/'><i class='fa fa-edit fa-3x'>&nbsp;</i>Generate</a>
-                        </div>
-                    </div>
-                    <div class="col-md-3 tc">
-                        <div class="democard"><a href='./recognize/'><i class='fa fa-edit fa-3x'>&nbsp;</i>Recognize</a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
 
 {{< /blocks/products/pf/main-container >}}
 

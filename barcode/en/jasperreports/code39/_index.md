@@ -41,25 +41,6 @@ Code 39 is a barcode type of variable length. It was developed by Intermec Corpo
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
-    <div class="container">
-        <div class="row">
-            <div class="demobox tc col-md-12">
-                <h3>Using Aspose.BarCode for JasperReports you can easily generate and recognize Code 39 barcodes in your Java application</h3>
-                <div class="row justify-content-center">
-                    <div class="col-md-3 tc">
-                        <div class="democard"><a href='./generate/'><i class='fa fa-edit fa-3x'>&nbsp;</i>Generate</a>
-                        </div>
-                    </div>
-                    <div class="col-md-3 tc">
-                        <div class="democard"><a href='./recognize/'><i class='fa fa-edit fa-3x'>&nbsp;</i>Recognize</a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
 
 {{< /blocks/products/pf/main-container >}}
 

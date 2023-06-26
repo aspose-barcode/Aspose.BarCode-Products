@@ -38,25 +38,6 @@ ISSN(국제 표준 일련 번호)는 잡지, 저널 및 신문과 같은 연속 
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
-    <div class="container">
-        <div class="row">
-            <div class="demobox tc col-md-12">
-                <h3>Python via .NET용 Aspose.BarCode를 사용하면 Python 애플리케이션에서 ISSN 바코드를 쉽게 생성하고 인식할 수 있습니다.</h3>
-                <div class="row justify-content-center">
-                    <div class="col-md-3 tc">
-                        <div class="democard"><a href='./generate/'><i class='fa fa-edit fa-3x'>&nbsp;</i>Generate</a>
-                        </div>
-                    </div>
-                    <div class="col-md-3 tc">
-                        <div class="democard"><a href='./recognize/'><i class='fa fa-edit fa-3x'>&nbsp;</i>Recognize</a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
 
 {{< /blocks/products/pf/main-container >}}
 

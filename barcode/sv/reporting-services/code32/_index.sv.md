@@ -38,25 +38,6 @@ Code 32, även betecknad som Italian Pharmacode, är en linjär streckkodstyp so
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
-    <div class="container">
-        <div class="row">
-            <div class="demobox tc col-md-12">
-                <h3>Med Aspose.BarCode för SQL Reporting Services kan du enkelt generera och känna igen Code 32 streckkoder i din C#-applikation</h3>
-                <div class="row justify-content-center">
-                    <div class="col-md-3 tc">
-                        <div class="democard"><a href='./generate/'><i class='fa fa-edit fa-3x'>&nbsp;</i>Generate</a>
-                        </div>
-                    </div>
-                    <div class="col-md-3 tc">
-                        <div class="democard"><a href='./recognize/'><i class='fa fa-edit fa-3x'>&nbsp;</i>Recognize</a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
 
 {{< /blocks/products/pf/main-container >}}
 

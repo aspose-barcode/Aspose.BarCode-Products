@@ -38,25 +38,6 @@ RM4SCC (Royal Mail 4-State Customer Code) は、英国の郵便サービス プ�
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
-    <div class="container">
-        <div class="row">
-            <div class="demobox tc col-md-12">
-                <h3>SQL Reporting Services に Aspose.BarCode を使用すると、C# アプリケーションで RM4SCC バーコードを簡単に生成して認識できます</h3>
-                <div class="row justify-content-center">
-                    <div class="col-md-3 tc">
-                        <div class="democard"><a href='./generate/'><i class='fa fa-edit fa-3x'>&nbsp;</i>Generate</a>
-                        </div>
-                    </div>
-                    <div class="col-md-3 tc">
-                        <div class="democard"><a href='./recognize/'><i class='fa fa-edit fa-3x'>&nbsp;</i>Recognize</a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
 
 {{< /blocks/products/pf/main-container >}}
 
