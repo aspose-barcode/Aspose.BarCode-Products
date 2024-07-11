@@ -593,7 +593,7 @@ generator.generateBarCodeImage();
 			$.ajax({
 				type: 'POST',
 				data: data,
-				url: "https://api.products-qa.aspose.app/barcode/generate/generatebarcode?culture=en"
+				url: "https://api.products.aspose.app/barcode/generate/generatebarcode?culture=en"
 			}).done(function (res) {
 				if (res.success) {
 					showGenerationResult(res.imgBase64);
@@ -960,7 +960,7 @@ generator.generateBarCodeImage();
             let result = await new Promise((resolve, reject) => {
                 $.ajax({
                     type: "POST",
-                    url: "https://api.products-qa.aspose.app/barcode/recognize/apiRequestRecognize",
+                    url: "https://api.products.aspose.app/barcode/recognize/apiRequestRecognize",
                     contentType: false,
                     processData: false,
                     data: postData
@@ -1095,7 +1095,7 @@ generator.generateBarCodeImage();
             return new Promise((resolve, reject) => {
                 $.ajax({
                     type: 'GET',
-                    url: "https://api.products-qa.aspose.app/barcode/recognize/recognizeresult/" + token + "?timestamp=" + Date.now(),
+                    url: "https://api.products.aspose.app/barcode/recognize/recognizeresult/" + token + "?timestamp=" + Date.now(),
                 })
                     .done(function(result) {
                         resolve(result);

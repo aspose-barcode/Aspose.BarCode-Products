@@ -368,7 +368,7 @@ Le API per codici a barre Aspose sono supportate da tutte le principali piattafo
 			$.ajax({
 				type: 'POST',
 				data: data,
-				url: "https://api.products-qa.aspose.app/barcode/generate/generatebarcode?culture=en"
+				url: "https://api.products.aspose.app/barcode/generate/generatebarcode?culture=en"
 			}).done(function (res) {
 				if (res.success) {
 					showGenerationResult(res.imgBase64);
