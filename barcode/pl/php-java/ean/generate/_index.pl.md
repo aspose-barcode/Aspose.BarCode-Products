@@ -374,7 +374,7 @@ Interfejsy API kodów kreskowych Aspose są obsługiwane przez wszystkie główn
 			$.ajax({
 				type: 'POST',
 				data: data,
-				url: "https://api.products-qa.aspose.app/barcode/generate/generatebarcode?culture=en"
+				url: "https://api.products.aspose.app/barcode/generate/generatebarcode?culture=en"
 			}).done(function (res) {
 				if (res.success) {
 					showGenerationResult(res.imgBase64);

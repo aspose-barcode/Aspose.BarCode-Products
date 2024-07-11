@@ -314,7 +314,7 @@ API Aspose được hỗ trợ trên tất cả các nền tảng và hệ đi�
             let result = await new Promise((resolve, reject) => {
                 $.ajax({
                     type: "POST",
-                    url: "https://api.products-qa.aspose.app/barcode/recognize/apiRequestRecognize",
+                    url: "https://api.products.aspose.app/barcode/recognize/apiRequestRecognize",
                     contentType: false,
                     processData: false,
                     data: postData
@@ -449,7 +449,7 @@ API Aspose được hỗ trợ trên tất cả các nền tảng và hệ đi�
             return new Promise((resolve, reject) => {
                 $.ajax({
                     type: 'GET',
-                    url: "https://api.products-qa.aspose.app/barcode/recognize/recognizeresult/" + token + "?timestamp=" + Date.now(),
+                    url: "https://api.products.aspose.app/barcode/recognize/recognizeresult/" + token + "?timestamp=" + Date.now(),
                 })
                     .done(function(result) {
                         resolve(result);

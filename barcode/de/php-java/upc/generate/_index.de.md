@@ -375,7 +375,7 @@ Aspose-Barcode-APIs werden von allen wichtigen Plattformen und Betriebssystemen 
 			$.ajax({
 				type: 'POST',
 				data: data,
-				url: "https://api.products-qa.aspose.app/barcode/generate/generatebarcode?culture=en"
+				url: "https://api.products.aspose.app/barcode/generate/generatebarcode?culture=en"
 			}).done(function (res) {
 				if (res.success) {
 					showGenerationResult(res.imgBase64);

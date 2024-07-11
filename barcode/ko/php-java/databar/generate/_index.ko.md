@@ -378,7 +378,7 @@ Aspose 바코드 API는 모든 주요 플랫폼 및 운영 체제에서 지원�
 			$.ajax({
 				type: 'POST',
 				data: data,
-				url: "https://api.products-qa.aspose.app/barcode/generate/generatebarcode?culture=en"
+				url: "https://api.products.aspose.app/barcode/generate/generatebarcode?culture=en"
 			}).done(function (res) {
 				if (res.success) {
 					showGenerationResult(res.imgBase64);

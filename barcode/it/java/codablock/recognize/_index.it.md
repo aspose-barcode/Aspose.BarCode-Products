@@ -323,7 +323,7 @@ Le API di Aspose sono supportate su tutte le principali piattaforme e sistemi op
             let result = await new Promise((resolve, reject) => {
                 $.ajax({
                     type: "POST",
-                    url: "https://api.products-qa.aspose.app/barcode/recognize/apiRequestRecognize",
+                    url: "https://api.products.aspose.app/barcode/recognize/apiRequestRecognize",
                     contentType: false,
                     processData: false,
                     data: postData
@@ -458,7 +458,7 @@ Le API di Aspose sono supportate su tutte le principali piattaforme e sistemi op
             return new Promise((resolve, reject) => {
                 $.ajax({
                     type: 'GET',
-                    url: "https://api.products-qa.aspose.app/barcode/recognize/recognizeresult/" + token + "?timestamp=" + Date.now(),
+                    url: "https://api.products.aspose.app/barcode/recognize/recognizeresult/" + token + "?timestamp=" + Date.now(),
                 })
                     .done(function(result) {
                         resolve(result);
