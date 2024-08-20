@@ -1,7 +1,7 @@
 ---
 title: Generieren Sie Code 93 Erweiterte und Code 93 Standard-Barcodes Bilder über C++
 description: C++-Beispielcode zum Generieren von Code 93 Erweiterte und Code 93 Standard-Barcodes in der C++-Laufzeitumgebung für Windows 32-Bit, Windows 64-Bit und Linux 64-Bit.
-lang: de/
+lang: de
 langdirlevel: 2
 locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
 url: /de/cpp/code93/generate/

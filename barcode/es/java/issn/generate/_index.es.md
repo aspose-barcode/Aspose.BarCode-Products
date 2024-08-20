@@ -1,9 +1,9 @@
 ---
 title: Genere imágenes de ISSN código de barras a ​​través de Java
 description: Código de muestra de Java para la generación de ISSN código de barras en Java Runtime Environment para aplicaciones JSP/JSF y aplicaciones de escritorio.
-lang: es/
+lang: es
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /es/java/issn/generate/
 aliases:
 - /es/java/generate/issn/

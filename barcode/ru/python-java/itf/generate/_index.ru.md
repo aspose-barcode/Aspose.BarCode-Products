@@ -1,9 +1,9 @@
 ---
 title: Создайте Перемежающийся штрих-код 2 из 5 (ITF) изображений с помощью Python via Java
 description: Пример кода Python для создания Перемежающийся штрих-код 2 из 5 (ITF) с использованием Java Runtime Environment.
-lang: ru/
+lang: ru
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /ru/python-java/itf/generate/
 aliases:
 - /ru/python-java/generate/itf/

@@ -1,9 +1,9 @@
 ---
 title: Java Barcode API - Genere o escanee códigos de barras postales y 1D 2D
 description: Biblioteca de código de barras de Java para generar códigos de barras de reconocimiento de lectura. Barcode SDK admite códigos de barras lineales y 2D, así como exportaciones a JPG GIF PNG BMP y más formatos de imagen
-lang: es/
+lang: es
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}

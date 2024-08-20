@@ -2,9 +2,9 @@
 title: Zeskanuj obrazy Kod kreskowy UPC (uniwersalny kod produktu). za pomocą .NET
 weight: 1510
 description: Przykładowy kod C# do skanowania i dekodowania typu kodu kreskowego Kod kreskowy UPC (uniwersalny kod produktu). w .NET Framework, .NET Standard, COM Interloop dla PHP, VBScript, Delphi lub C++.
-lang: pl/
+lang: pl
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /pl/net/upc/recognize/
 aliases:
 - /pl/net/recognize/upc/

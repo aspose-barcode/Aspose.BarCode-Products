@@ -1,10 +1,9 @@
 ---
 title: Escanee imágenes de Data Matrix código a ​​través de Python via Java
-weight: 1510
 description: Código fuente de Python para el reconocimiento de Data Matrix código usando Java Runtime Environment.
-lang: es/
+lang: es
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /es/python-java/datamatrix/recognize/
 aliases:
 - /es/python-java/recognize/datamatrix/

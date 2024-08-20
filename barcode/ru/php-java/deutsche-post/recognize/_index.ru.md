@@ -1,10 +1,9 @@
 ---
 title: Сканировать изображения Deutsche Post Идентификатор и Deutsche Post Лейткод через PHP via Java
-weight: 1510
 description: Пример кода PHP для чтения Deutsche Post Идентификатор и Deutsche Post Лейткод в приложениях на основе PHP.
-lang: ru/
+lang: ru
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /ru/php-java/deutsche-post/recognize/
 aliases:
 - /ru/php-java/recognize/deutsche-post/

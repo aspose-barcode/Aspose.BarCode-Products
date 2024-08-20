@@ -1,7 +1,7 @@
 ---
 title: Generieren Sie USPS OneCode Barcode Bilder über PHP via Java
 description: PHP-Quellcode zum Erstellen von USPS OneCode Barcode in PHP-basierten Anwendungen.
-lang: de/
+lang: de
 langdirlevel: 2
 locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
 url: /de/php-java/onecode/generate/

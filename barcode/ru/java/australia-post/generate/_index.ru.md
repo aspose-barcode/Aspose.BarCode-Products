@@ -1,9 +1,9 @@
 ---
 title: Создайте Штрих-код Australia Post и Australia Post eParcel изображений с помощью Java
 description: Пример кода Java для генерации Штрих-код Australia Post и Australia Post eParcel в среде выполнения Java для приложений JSP/JSF и настольных приложений.
-lang: ru/
+lang: ru
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /ru/java/australia-post/generate/
 aliases:
 - /ru/java/generate/australia-post/

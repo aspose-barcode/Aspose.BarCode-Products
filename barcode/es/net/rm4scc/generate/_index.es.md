@@ -1,9 +1,9 @@
 ---
 title: Genere imágenes de Código de cliente de 4 estados de Royal Mail (RM4SCC) a ​​través de .NET
 description: Código fuente C# para la generación de Código de cliente de 4 estados de Royal Mail (RM4SCC) en .NET Framework, .NET Standard, COM Interloop para PHP, VBScript, Delphi y C++.
-lang: es/
+lang: es
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /es/net/rm4scc/generate/
 aliases:
 - /es/net/generate/rm4scc/

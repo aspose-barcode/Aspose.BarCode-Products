@@ -1,10 +1,9 @@
 ---
 title: Scansiona le immagini di Codici a barre Codablock-F e GS1 Codablock-F tramite PHP via Java
-weight: 1510
 description: Codice di esempio PHP per leggere Codici a barre Codablock-F e GS1 Codablock-F nelle applicazioni basate su PHP.
-lang: it/
+lang: it
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /it/php-java/codablock/recognize/
 aliases:
 - /it/php-java/recognize/codablock/

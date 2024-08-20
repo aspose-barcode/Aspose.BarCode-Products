@@ -1,9 +1,9 @@
 ---
 title: Genera immagini Data Matrix codice tramite Node.js via Java
 description: Codice di esempio Node.js per la generazione di Data Matrix codice nelle applicazioni JavaScript.
-lang: it/
+lang: it
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /it/nodejs-java/datamatrix/generate/
 aliases:
 - /it/nodejs-java/generate/datamatrix/

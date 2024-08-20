@@ -1,9 +1,9 @@
 ---
 title: Java Barcode API - สร้างหรือสแกนบาร์โค้ด 1D 2D และไปรษณีย์
 description: ไลบรารีบาร์โค้ด Java เพื่อสร้างบาร์โค้ดที่อ่านได้ SDK บาร์โค้ดรองรับบาร์โค้ดเชิงเส้นและ 2D รวมถึงส่งออกเป็น JPG GIF PNG BMP และรูปแบบรูปภาพอื่นๆ
-lang: th/
+lang: th
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}

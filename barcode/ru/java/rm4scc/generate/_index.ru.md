@@ -1,9 +1,9 @@
 ---
 title: Создайте Код клиента Royal Mail из 4 штатов (RM4SCC) изображений с помощью Java
 description: Пример кода Java для генерации Код клиента Royal Mail из 4 штатов (RM4SCC) в среде выполнения Java для приложений JSP/JSF и настольных приложений.
-lang: ru/
+lang: ru
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /ru/java/rm4scc/generate/
 aliases:
 - /ru/java/generate/rm4scc/

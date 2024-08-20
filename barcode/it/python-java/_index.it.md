@@ -1,9 +1,9 @@
 ---
 title: Generatore di codici a barre Python e API dello scanner
 description: Libreria di lettori di codici a barre Python per riconoscere e generare più tipi di codici a barre, inclusi i tipi 1D, 2D e postali. Usa l'API nelle applicazioni Python.
-lang: it/
+lang: it
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}

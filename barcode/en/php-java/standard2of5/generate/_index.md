@@ -1,9 +1,9 @@
 ---
 title: Generate Standard 2 of 5 (Industrial 2 of 5) barcode Images via PHP via Java
 description: PHP source code to create Standard 2 of 5 (Industrial 2 of 5) barcode in PHP-based applications.
-lang: 
+lang: en
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /php-java/standard2of5/generate/
 aliases:
 - /php-java/generate/standard2of5/

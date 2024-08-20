@@ -2,9 +2,9 @@
 title: مسح ضوئي لصور Standard 2 of 5 (صناعي 2 من 5) رمز شريطي عبر .NET
 weight: 1510
 description: نموذج كود C # لمسح نوع الرمز الشريطي Standard 2 of 5 (صناعي 2 من 5) رمز شريطي وفك تشفيره في .NET Framework أو .NET Standard أو COM Interloop لـ PHP أو VBScript أو Delphi أو C ++.
-lang: ar/
+lang: ar
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /ar/net/standard2of5/recognize/
 aliases:
 - /ar/net/recognize/standard2of5/

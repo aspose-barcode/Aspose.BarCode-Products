@@ -1,9 +1,9 @@
 ---
 title: Java Barcode API - Tạo hoặc Quét 1D 2D & Mã vạch Bưu chính
 description: Thư viện mã vạch Java để tạo mã vạch nhận dạng đọc. SDK mã vạch hỗ trợ mã vạch Tuyến tính & 2D cũng như xuất sang định dạng hình ảnh JPG GIF PNG BMP và nhiều định dạng hình ảnh khác
-lang: vi/
+lang: vi
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}

@@ -2,9 +2,9 @@
 title: مسح ضوئي لصور رمز عميل Royal Mail 4-State (RM4SCC) عبر Java
 weight: 1510
 description: كود مصدر جافا لقراءة وفك تشفير رمز عميل Royal Mail 4-State (RM4SCC) في Java Runtime Environment لتطبيق JSP / JSF وتطبيقات سطح المكتب.
-lang: ar/
+lang: ar
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /ar/java/rm4scc/recognize/
 aliases:
 - /ar/java/recognize/rm4scc/

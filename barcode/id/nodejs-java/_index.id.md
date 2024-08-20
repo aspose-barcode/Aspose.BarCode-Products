@@ -1,9 +1,9 @@
 ---
 title: Pemindai Kode Batang Nodejs dan Generator API
 description: Pemindaian kode batang Node.js dan pustaka pembuatan untuk jenis 1D, 2D, dan Pos. Integrasikan dalam aplikasi React Angular dengan mudah untuk QR Code maxicode Aztec Code128 EAN-128 dan lainnya.
-lang: id/
+lang: id
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}

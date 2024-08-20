@@ -1,9 +1,9 @@
 ---
 title: إنشاء صور Australia Post الرمز الشريطي و Australia Post eParcel عبر .NET
 description: كود مصدر C # للجيل Australia Post الرمز الشريطي و Australia Post eParcel في .NET Framework و .NET Standard و COM Interloop لـ PHP و VBScript و Delphi و C ++.
-lang: ar/
+lang: ar
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /ar/net/australia-post/generate/
 aliases:
 - /ar/net/generate/australia-post/

@@ -1,9 +1,9 @@
 ---
 title: إنشاء صور QR الرمز ، GS1 QR الرمز عبر Python via Java
 description: نموذج كود Python لإنشاء QR الرمز ، GS1 QR الرمز باستخدام Java Runtime Environment.
-lang: ar/
+lang: ar
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /ar/python-java/qr/generate/
 aliases:
 - /ar/python-java/generate/qr/

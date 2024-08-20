@@ -2,7 +2,7 @@
 title: GS1 Code 128 in Python via Java
 url: /de/python-java/code128/
 description: Mit der Aspose.Barcode for Python via Java-API können Sie GS1 Code 128-Barcodes in Ihrer Python-Anwendung anpassen, generieren und erkennen
-lang: de/
+lang: de
 langdirlevel: 2
 locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
 ---

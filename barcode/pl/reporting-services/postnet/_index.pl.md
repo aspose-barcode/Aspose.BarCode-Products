@@ -2,9 +2,9 @@
 title: Postnet w SQL Reporting Services
 url: /pl/reporting-services/postnet/
 description: Aspose.Barcode dla SQL Reporting Services API umożliwia dostosowywanie, generowanie i rozpoznawanie kodów kreskowych Postnet w Twojej aplikacji C#
-lang: pl/
+lang: pl
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

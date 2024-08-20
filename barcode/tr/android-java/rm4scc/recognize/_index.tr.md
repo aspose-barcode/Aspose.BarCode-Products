@@ -2,9 +2,9 @@
 title: Android via Java aracılığıyla Royal Mail 4-Eyalet Müşteri Kodu (RM4SCC) Görsellerini tarayın
 weight: 1510
 description: Android Çalışma Zamanı Ortamında Royal Mail 4-Eyalet Müşteri Kodu (RM4SCC) ailesini tanımak için Android örnek kodu.
-lang: tr/
+lang: tr
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /tr/android-java/rm4scc/recognize/
 aliases:
 - /tr/android-java/recognize/rm4scc/

@@ -2,9 +2,9 @@
 title: .NET 経由で Code 93 拡張バーコードおよび Code 93 標準バーコード 画像をスキャンします
 weight: 1510
 description: .NET Framework、.NET Standard、COM Interloop for PHP、VBScript、Delphi、または C++ で Code 93 拡張バーコードおよび Code 93 標準バーコード バーコード タイプをスキャンしてデコードするための C# サンプル コード。
-lang: ja/
+lang: ja
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /ja/net/code93/recognize/
 aliases:
 - /ja/net/recognize/code93/

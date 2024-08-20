@@ -2,9 +2,9 @@
 title: Pindai Gambar Kode batang GS1 DataBar (Omnidirectional, Stacked Omnidirectional, Expanded, Expanded Stacked, dan Truncated) melalui .NET
 weight: 1510
 description: Contoh kode C# untuk memindai dan mendekode jenis kode batang Kode batang GS1 DataBar (Omnidirectional, Stacked Omnidirectional, Expanded, Expanded Stacked, dan Truncated) dalam .NET Framework, .NET Standard, COM Interloop untuk PHP, VBScript, Delphi, atau C++.
-lang: id/
+lang: id
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /id/net/databar/recognize/
 aliases:
 - /id/net/recognize/databar/

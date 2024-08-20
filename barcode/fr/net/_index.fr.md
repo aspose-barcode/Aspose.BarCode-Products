@@ -1,9 +1,9 @@
 ---
 title: API C# .NET Barcode - Lire, générer et reconnaître des codes-barres
 description: Aspose.BarCode pour les API .NET pour créer et reconnaître des codes-barres 1D 2D. Intégration dans les applications C# VB.NET ASP.NET pour numériser et imprimer des étiquettes de codes à barres
-lang: fr/
+lang: fr
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}

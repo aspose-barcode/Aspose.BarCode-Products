@@ -1,7 +1,7 @@
 ---
 title: Generieren Sie Codablock-F und GS1 Codablock-F Barcodes Bilder über Android via Java
 description: Android-Quellcode zum Erstellen von Codablock-F und GS1 Codablock-F Barcodes in der Android-Laufzeitumgebung.
-lang: de/
+lang: de
 langdirlevel: 2
 locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
 url: /de/android-java/codablock/generate/

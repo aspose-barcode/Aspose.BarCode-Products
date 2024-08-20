@@ -1,10 +1,9 @@
 ---
 title: Scan Code 93 Extended and Code 93 Standard barcodes Images via C++
-weight: 1510
 description: C++ sample code to scan and decode Code 93 Extended and Code 93 Standard barcodes in C++ Runtime Environment for Windows 32-bit, Windows 64-bit, or Linux 64-bit.
-lang: 
+lang: en
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /cpp/code93/recognize/
 aliases:
 - /cpp/recognize/code93/

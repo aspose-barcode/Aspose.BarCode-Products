@@ -1,10 +1,9 @@
 ---
 title: Scan QR Code, GS1 QR Code Images via Android via Java
-weight: 1510
 description: Android sample code to recognize QR Code, GS1 QR Code in Android Runtime Environment.
-lang: 
+lang: en
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /android-java/qr/recognize/
 aliases:
 - /android-java/recognize/qr/

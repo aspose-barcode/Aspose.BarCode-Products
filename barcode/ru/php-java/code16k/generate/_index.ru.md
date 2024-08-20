@@ -1,9 +1,9 @@
 ---
 title: Создайте Штрих-код Code 16K изображений с помощью PHP via Java
 description: Исходный код PHP для создания Штрих-код Code 16K в приложениях на основе PHP.
-lang: ru/
+lang: ru
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /ru/php-java/code16k/generate/
 aliases:
 - /ru/php-java/generate/code16k/

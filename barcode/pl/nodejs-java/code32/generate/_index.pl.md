@@ -1,9 +1,9 @@
 ---
 title: Wygeneruj obrazy Włoski kod kreskowy Pharmacode (Code 32). za pomocą Node.js via Java
 description: Przykładowy kod Node.js dla generacji Włoski kod kreskowy Pharmacode (Code 32). w aplikacjach JavaScript.
-lang: pl/
+lang: pl
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /pl/nodejs-java/code32/generate/
 aliases:
 - /pl/nodejs-java/generate/code32/

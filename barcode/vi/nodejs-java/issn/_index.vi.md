@@ -2,9 +2,9 @@
 title: ISSN trong Node.js via Java
 url: /vi/nodejs-java/issn/
 description: API Aspose.Barcode cho Node.js via Java cho phép tùy chỉnh, tạo và nhận dạng mã vạch ISSN trong ứng dụng JavaScript của bạn
-lang: vi/
+lang: vi
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

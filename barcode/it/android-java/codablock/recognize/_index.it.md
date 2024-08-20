@@ -1,10 +1,9 @@
 ---
 title: Scansiona le immagini di Codici a barre Codablock-F e GS1 Codablock-F tramite Android via Java
-weight: 1510
 description: Codice di esempio Android per riconoscere Codici a barre Codablock-F e GS1 Codablock-F in Android Runtime Environment.
-lang: it/
+lang: it
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /it/android-java/codablock/recognize/
 aliases:
 - /it/android-java/recognize/codablock/

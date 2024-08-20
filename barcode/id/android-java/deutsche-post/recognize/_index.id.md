@@ -2,9 +2,9 @@
 title: Pindai Gambar Deutsche Post Kode Ident dan Deutsche Post Leitcode melalui Android via Java
 weight: 1510
 description: Contoh kode Android untuk mengenali Deutsche Post Kode Ident dan Deutsche Post Leitcode di Lingkungan Waktu Proses Android.
-lang: id/
+lang: id
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /id/android-java/deutsche-post/recognize/
 aliases:
 - /id/android-java/recognize/deutsche-post/

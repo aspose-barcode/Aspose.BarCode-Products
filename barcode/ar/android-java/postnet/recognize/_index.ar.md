@@ -2,9 +2,9 @@
 title: مسح ضوئي لصور Postnet الرمز الشريطي عبر Android via Java
 weight: 1510
 description: نموذج رمز Android للتعرف على Postnet الرمز الشريطي في بيئة وقت تشغيل Android.
-lang: ar/
+lang: ar
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /ar/android-java/postnet/recognize/
 aliases:
 - /ar/android-java/recognize/postnet/

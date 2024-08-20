@@ -2,9 +2,9 @@
 title: Zeskanuj obrazy QR Kod, GS1 QR Kod za pomocą Android via Java
 weight: 1510
 description: Przykładowy kod Androida do rozpoznawania QR Kod, GS1 QR Kod w Android Runtime Environment.
-lang: pl/
+lang: pl
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /pl/android-java/qr/recognize/
 aliases:
 - /pl/android-java/recognize/qr/

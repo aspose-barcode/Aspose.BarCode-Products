@@ -1,9 +1,9 @@
 ---
 title: إنشاء صور Standard 2 of 5 (صناعي 2 من 5) رمز شريطي عبر Python via Java
 description: نموذج كود Python لإنشاء Standard 2 of 5 (صناعي 2 من 5) رمز شريطي باستخدام Java Runtime Environment.
-lang: ar/
+lang: ar
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /ar/python-java/standard2of5/generate/
 aliases:
 - /ar/python-java/generate/standard2of5/

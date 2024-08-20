@@ -1,10 +1,9 @@
 ---
 title: Scansiona le immagini di Codice cliente Royal Mail 4-State (RM4SCC) tramite Java
-weight: 1510
 description: Codice sorgente Java per leggere e decodificare Codice cliente Royal Mail 4-State (RM4SCC) in Java Runtime Environment per applicazioni JSP/JSF e applicazioni desktop.
-lang: it/
+lang: it
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /it/java/rm4scc/recognize/
 aliases:
 - /it/java/recognize/rm4scc/

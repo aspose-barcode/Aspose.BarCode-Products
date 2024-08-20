@@ -1,7 +1,7 @@
 ---
 title: SharePoint-Barcode-API – Barcodes in SharePoint-Listen einfügen
 description: Barcode-SharePoint-API zum Einfügen von Barcode-Etiketten in benutzerdefinierte SharePoint-Listen. Entwickler können Service-Marker verwenden, um Eingabetextwerte auszuwählen oder den Text manuell einzufügen.
-lang: de/
+lang: de
 langdirlevel: 2
 locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
 ---

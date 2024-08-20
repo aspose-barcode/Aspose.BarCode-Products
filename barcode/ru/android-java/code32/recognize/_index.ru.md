@@ -1,10 +1,9 @@
 ---
 title: Сканировать изображения Итальянский штрих-код Pharmacode (Code 32) через Android via Java
-weight: 1510
 description: Пример кода Android для распознавания Итальянский штрих-код Pharmacode (Code 32) в среде выполнения Android.
-lang: ru/
+lang: ru
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /ru/android-java/code32/recognize/
 aliases:
 - /ru/android-java/recognize/code32/

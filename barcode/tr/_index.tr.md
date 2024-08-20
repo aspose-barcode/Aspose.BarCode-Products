@@ -1,9 +1,9 @@
 ---
 title: Yerinde, Bulut Barkod SDK'sı
 description: High-Code API'leri veya Bulut tabanlı SDK'lar aracılığıyla barkod işleme uygulamaları oluşturun. Barkod oluşturma veya tanıma için platformlar arası uygulamaları kullanın.
-lang: tr/
+lang: tr
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}

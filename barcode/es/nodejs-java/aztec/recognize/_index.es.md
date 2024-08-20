@@ -1,10 +1,9 @@
 ---
 title: Escanee imágenes de Aztec Código a ​​través de Node.js via Java
-weight: 1510
 description: Código fuente de Node.js para escanear y decodificar Aztec Código en aplicaciones JavaScript.
-lang: es/
+lang: es
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /es/nodejs-java/aztec/recognize/
 aliases:
 - /es/nodejs-java/recognize/aztec/

@@ -1,7 +1,7 @@
 ---
 title: PHP-Barcode-Generator und Scanner-API
 description: PHP-Barcode-Lesebibliothek zur Erkennung mehrerer Barcode-Typen, einschließlich 1D-, 2D- und Post-Barcodes. Verwenden Sie die API im Kern-PHP oder innerhalb von Frameworks wie Codeigniter, Cakephp oder Laravel.
-lang: de/
+lang: de
 langdirlevel: 2
 locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
 ---

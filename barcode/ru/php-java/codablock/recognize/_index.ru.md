@@ -1,10 +1,9 @@
 ---
 title: Сканировать изображения Штрих-коды Codablock-F и GS1 Codablock-F через PHP via Java
-weight: 1510
 description: Пример кода PHP для чтения Штрих-коды Codablock-F и GS1 Codablock-F в приложениях на основе PHP.
-lang: ru/
+lang: ru
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /ru/php-java/codablock/recognize/
 aliases:
 - /ru/php-java/recognize/codablock/

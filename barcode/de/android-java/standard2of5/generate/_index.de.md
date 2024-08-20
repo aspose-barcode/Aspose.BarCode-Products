@@ -1,7 +1,7 @@
 ---
 title: Generieren Sie Standard 2 of 5 (Industrie 2 von 5) Barcode Bilder über Android via Java
 description: Android-Quellcode zum Erstellen von Standard 2 of 5 (Industrie 2 von 5) Barcode in der Android-Laufzeitumgebung.
-lang: de/
+lang: de
 langdirlevel: 2
 locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
 url: /de/android-java/standard2of5/generate/

@@ -1,10 +1,9 @@
 ---
 title: Scansiona le immagini di Code 16K codice a barre tramite .NET
-weight: 1510
 description: Codice di esempio C# per scansionare e decodificare il tipo di codice a barre Code 16K codice a barre in .NET Framework, .NET Standard, COM Interloop per PHP, VBScript, Delphi o C++.
-lang: it/
+lang: it
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /it/net/code16k/recognize/
 aliases:
 - /it/net/recognize/code16k/

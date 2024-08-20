@@ -1,9 +1,9 @@
 ---
 title: Genere imágenes de Código de barras GS1 DataBar (omnidireccional, omnidireccional apilado, expandido, apilado expandido y truncado) a ​​través de Android via Java
 description: Código fuente de Android para crear Código de barras GS1 DataBar (omnidireccional, omnidireccional apilado, expandido, apilado expandido y truncado) en Android Runtime Environment.
-lang: es/
+lang: es
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /es/android-java/databar/generate/
 aliases:
 - /es/android-java/generate/databar/

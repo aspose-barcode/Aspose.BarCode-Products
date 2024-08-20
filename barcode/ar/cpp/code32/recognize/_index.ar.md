@@ -2,9 +2,9 @@
 title: مسح ضوئي لصور الرمز الشريطي الإيطالي (Code 32) الباركود عبر C++
 weight: 1510
 description: نموذج لرمز C ++ لمسح الرمز الشريطي الإيطالي (Code 32) الباركود وفك تشفيره في C ++ Runtime Environment لنظام التشغيل Windows 32 بت أو Windows 64 بت أو Linux 64 بت.
-lang: ar/
+lang: ar
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /ar/cpp/code32/recognize/
 aliases:
 - /ar/cpp/recognize/code32/

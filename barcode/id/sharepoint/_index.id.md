@@ -1,9 +1,9 @@
 ---
 title: SharePoint Barcode API - Sisipkan Barcode di Daftar SharePoint
 description: Barcode SharePoint API untuk menyisipkan label barcode dalam Daftar SharePoint kustom. Pengembang dapat menggunakan Penanda Layanan untuk memilih nilai teks masukan atau menyisipkan teks secara manual.
-lang: id/
+lang: id
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}

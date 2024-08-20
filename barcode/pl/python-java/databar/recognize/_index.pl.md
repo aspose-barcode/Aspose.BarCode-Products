@@ -2,9 +2,9 @@
 title: Zeskanuj obrazy GS1 DataBar (wielokierunkowy, skumulowany wielokierunkowy, rozszerzony, rozszerzony skumulowany i obcięty) kod kreskowy za pomocą Python via Java
 weight: 1510
 description: Kod źródłowy Pythona do rozpoznawania GS1 DataBar (wielokierunkowy, skumulowany wielokierunkowy, rozszerzony, rozszerzony skumulowany i obcięty) kod kreskowy przy użyciu Java Runtime Environment.
-lang: pl/
+lang: pl
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /pl/python-java/databar/recognize/
 aliases:
 - /pl/python-java/recognize/databar/

@@ -2,9 +2,9 @@
 title: ISSN en Node.js via Java
 url: /es/nodejs-java/issn/
 description: Aspose.Barcode para Node.js via Java API permite personalizar, generar y reconocer códigos de barras ISSN en su aplicación JavaScript
-lang: es/
+lang: es
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

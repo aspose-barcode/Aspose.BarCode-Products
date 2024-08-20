@@ -2,7 +2,7 @@
 title: Scannen Sie Swiss Post Parcel Bilder über C++
 weight: 1510
 description: C++-Beispielcode zum Scannen und Dekodieren von Swiss Post Parcel in der C++-Laufzeitumgebung für Windows 32-Bit, Windows 64-Bit oder Linux 64-Bit.
-lang: de/
+lang: de
 langdirlevel: 2
 locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
 url: /de/cpp/swiss-post-parcel/recognize/

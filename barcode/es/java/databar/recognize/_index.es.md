@@ -1,10 +1,9 @@
 ---
 title: Escanee imágenes de Código de barras GS1 DataBar (omnidireccional, omnidireccional apilado, expandido, apilado expandido y truncado) a ​​través de Java
-weight: 1510
 description: Código fuente de Java para leer y decodificar Código de barras GS1 DataBar (omnidireccional, omnidireccional apilado, expandido, apilado expandido y truncado) en Java Runtime Environment para aplicaciones JSP/JSF y aplicaciones de escritorio.
-lang: es/
+lang: es
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /es/java/databar/recognize/
 aliases:
 - /es/java/recognize/databar/

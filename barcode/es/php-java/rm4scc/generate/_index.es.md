@@ -1,9 +1,9 @@
 ---
 title: Genere imágenes de Código de cliente de 4 estados de Royal Mail (RM4SCC) a ​​través de PHP via Java
 description: Código fuente de PHP para crear Código de cliente de 4 estados de Royal Mail (RM4SCC) en aplicaciones basadas en PHP.
-lang: es/
+lang: es
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /es/php-java/rm4scc/generate/
 aliases:
 - /es/php-java/generate/rm4scc/

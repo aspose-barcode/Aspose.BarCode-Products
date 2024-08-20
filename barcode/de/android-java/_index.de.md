@@ -1,7 +1,7 @@
 ---
 title: Barcode-Android-API | Barcodes scannen oder generieren
 description: Android-Barcode-Scanner-Bibliothek zur Erkennung verschiedener Arten von 1D-, 2D- und Post-Barcodes. Scannen Sie Barcodes in Android-Apps aus jedem Winkel.
-lang: de/
+lang: de
 langdirlevel: 2
 locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
 ---

@@ -1,10 +1,9 @@
 ---
 title: Escanee imágenes de Códigos de barras Code 93 extendidos y Code 93 estándar a ​​través de C++
-weight: 1510
 description: Código de muestra de C++ para escanear y decodificar Códigos de barras Code 93 extendidos y Code 93 estándar en C++ Runtime Environment para Windows de 32 bits, Windows de 64 bits o Linux de 64 bits.
-lang: es/
+lang: es
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /es/cpp/code93/recognize/
 aliases:
 - /es/cpp/recognize/code93/

@@ -1,9 +1,9 @@
 ---
 title: SQL Server Reporting Services で線形および 2D バーコード イメージをレンダリングする
 description: SQL Server Reporting Services レンダリング拡張機能 - SSRS で線形および 2D バーコード イメージをエクスポートします。バーコード ラベルを BMP JPEG GIF および PNG 形式でレンダリングします。
-lang: ja/
+lang: ja
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}

@@ -2,9 +2,9 @@
 title: Pindai Gambar kode batang Code 16K melalui Node.js via Java
 weight: 1510
 description: Kode sumber Node.js untuk pemindaian dan decoding kode batang Code 16K dalam aplikasi JavaScript.
-lang: id/
+lang: id
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /id/nodejs-java/code16k/recognize/
 aliases:
 - /id/nodejs-java/recognize/code16k/

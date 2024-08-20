@@ -1,7 +1,7 @@
 ---
 title: Generieren Sie QR Code, GS1 QR Code Bilder über .NET
 description: C#-Quellcode für die QR Code, GS1 QR Code-Generierung in .NET Framework, .NET Standard, COM Interloop für PHP, VBScript, Delphi und C++.
-lang: de/
+lang: de
 langdirlevel: 2
 locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
 url: /de/net/qr/generate/

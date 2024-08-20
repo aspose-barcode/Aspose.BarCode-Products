@@ -1,9 +1,9 @@
 ---
 title: Hasilkan Gambar Kode Pelanggan Royal Mail 4-State (RM4SCC) melalui .NET
 description: Kode sumber C# untuk pembuatan Kode Pelanggan Royal Mail 4-State (RM4SCC) dalam .NET Framework, .NET Standard, COM Interloop untuk PHP, VBScript, Delphi, dan C++.
-lang: id/
+lang: id
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /id/net/rm4scc/generate/
 aliases:
 - /id/net/generate/rm4scc/

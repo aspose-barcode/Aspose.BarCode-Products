@@ -1,9 +1,9 @@
 ---
 title: Interfejs API kodów kreskowych C# .NET — Odczyt, generowanie i rozpoznawanie kodów kreskowych
 description: Aspose.BarCode dla interfejsów API platformy .NET do tworzenia i rozpoznawania kodów kreskowych 1D 2D. Integracja z aplikacjami C# VB.NET ASP.NET w celu skanowania i drukowania etykiet z kodami kreskowymi
-lang: pl/
+lang: pl
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}

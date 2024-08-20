@@ -1,9 +1,9 @@
 ---
 title: สร้าง ISSN บาร์โค้ด รูปภาพผ่าน .NET
 description: ซอร์สโค้ด C# สำหรับการสร้าง ISSN บาร์โค้ด ใน .NET Framework, .NET Standard, COM Interloop สำหรับ PHP, VBScript, Delphi และ C++
-lang: th/
+lang: th
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /th/net/issn/generate/
 aliases:
 - /th/net/generate/issn/

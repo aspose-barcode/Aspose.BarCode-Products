@@ -1,9 +1,9 @@
 ---
 title: SharePoint Barcode API - SharePoint 목록에 바코드 삽입
 description: 사용자 지정 SharePoint 목록에 바코드 레이블을 삽입하는 Barcode SharePoint API입니다. 개발자는 서비스 마커를 사용하여 입력 텍스트 값을 선택하거나 텍스트를 수동으로 삽입할 수 있습니다.
-lang: ko/
+lang: ko
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}

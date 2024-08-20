@@ -1,9 +1,9 @@
 ---
 title: Genera immagini Code 16K codice a barre tramite Node.js via Java
 description: Codice di esempio Node.js per la generazione di Code 16K codice a barre nelle applicazioni JavaScript.
-lang: it/
+lang: it
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /it/nodejs-java/code16k/generate/
 aliases:
 - /it/nodejs-java/generate/code16k/

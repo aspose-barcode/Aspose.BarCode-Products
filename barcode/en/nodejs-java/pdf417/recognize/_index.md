@@ -1,10 +1,9 @@
 ---
 title: Scan PDF417 barcode Images via Node.js via Java
-weight: 1510
 description: Node.js source code for PDF417 barcode scanning and decoding in JavaScript applications.
-lang: 
+lang: en
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /nodejs-java/pdf417/recognize/
 aliases:
 - /nodejs-java/recognize/pdf417/

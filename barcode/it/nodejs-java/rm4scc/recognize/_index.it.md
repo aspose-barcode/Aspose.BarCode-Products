@@ -1,10 +1,9 @@
 ---
 title: Scansiona le immagini di Codice cliente Royal Mail 4-State (RM4SCC) tramite Node.js via Java
-weight: 1510
 description: Codice sorgente Node.js per la scansione e la decodifica di Codice cliente Royal Mail 4-State (RM4SCC) nelle applicazioni JavaScript.
-lang: it/
+lang: it
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /it/nodejs-java/rm4scc/recognize/
 aliases:
 - /it/nodejs-java/recognize/rm4scc/

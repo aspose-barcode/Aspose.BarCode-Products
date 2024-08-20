@@ -1,9 +1,9 @@
 ---
 title: إنشاء صور رمز Data Matrix عبر Java
 description: نموذج كود جافا للإنشاء رمز Data Matrix في بيئة وقت تشغيل جافا لتطبيقات JSP / JSF وتطبيقات سطح المكتب.
-lang: ar/
+lang: ar
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /ar/java/datamatrix/generate/
 aliases:
 - /ar/java/generate/datamatrix/

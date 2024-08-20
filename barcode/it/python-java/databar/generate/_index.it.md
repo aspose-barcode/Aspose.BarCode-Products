@@ -1,9 +1,9 @@
 ---
 title: Genera immagini Codice a barre GS1 DataBar (Omnidirezionale, Omnidirezionale in pila, Espanso, In pila espansa e Troncato) tramite Python via Java
 description: Codice di esempio Python per generare Codice a barre GS1 DataBar (Omnidirezionale, Omnidirezionale in pila, Espanso, In pila espansa e Troncato) utilizzando Java Runtime Environment.
-lang: it/
+lang: it
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /it/python-java/databar/generate/
 aliases:
 - /it/python-java/generate/databar/

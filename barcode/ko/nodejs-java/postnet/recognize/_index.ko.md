@@ -2,9 +2,9 @@
 title: Node.js via Java을(를) 통해 Postnet 바코드 이미지 스캔
 weight: 1510
 description: JavaScript 애플리케이션에서 Postnet 바코드 스캔 및 디코딩을 위한 Node.js 소스 코드입니다.
-lang: ko/
+lang: ko
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /ko/nodejs-java/postnet/recognize/
 aliases:
 - /ko/nodejs-java/recognize/postnet/

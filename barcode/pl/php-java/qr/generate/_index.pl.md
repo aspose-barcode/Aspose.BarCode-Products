@@ -1,9 +1,9 @@
 ---
 title: Wygeneruj obrazy QR Kod, GS1 QR Kod za pomocą PHP via Java
 description: Kod źródłowy PHP do tworzenia QR Kod, GS1 QR Kod w aplikacjach opartych na PHP.
-lang: pl/
+lang: pl
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /pl/php-java/qr/generate/
 aliases:
 - /pl/php-java/generate/qr/

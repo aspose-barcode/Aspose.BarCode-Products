@@ -1,9 +1,9 @@
 ---
 title: Hasilkan Gambar Kode batang Codablock-F dan GS1 Codablock-F melalui PHP via Java
 description: Kode sumber PHP untuk membuat Kode batang Codablock-F dan GS1 Codablock-F dalam aplikasi berbasis PHP.
-lang: id/
+lang: id
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /id/php-java/codablock/generate/
 aliases:
 - /id/php-java/generate/codablock/

@@ -2,9 +2,9 @@
 title: PHP via Java aracılığıyla İtalyan Ecza Kodu (Code 32) barkodu Görsellerini tarayın
 weight: 1510
 description: PHP tabanlı uygulamalarda İtalyan Ecza Kodu (Code 32) barkodu okumak için PHP örnek kodu.
-lang: tr/
+lang: tr
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /tr/php-java/code32/recognize/
 aliases:
 - /tr/php-java/recognize/code32/

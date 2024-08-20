@@ -2,9 +2,9 @@
 title: PHP via Java을(를) 통해 Code 16K 바코드 이미지 스캔
 weight: 1510
 description: PHP 기반 애플리케이션에서 Code 16K 바코드을(를) 읽기 위한 PHP 샘플 코드입니다.
-lang: ko/
+lang: ko
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /ko/php-java/code16k/recognize/
 aliases:
 - /ko/php-java/recognize/code16k/

@@ -2,9 +2,9 @@
 title: Zeskanuj obrazy Kod kreskowy UPC (uniwersalny kod produktu). za pomocą Node.js via Java
 weight: 1510
 description: Kod źródłowy Node.js do skanowania i dekodowania Kod kreskowy UPC (uniwersalny kod produktu). w aplikacjach JavaScript.
-lang: pl/
+lang: pl
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /pl/nodejs-java/upc/recognize/
 aliases:
 - /pl/nodejs-java/recognize/upc/

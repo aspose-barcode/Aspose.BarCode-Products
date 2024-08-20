@@ -1,9 +1,9 @@
 ---
 title: عرض صور الباركود الخطية وثنائية الأبعاد في خدمات تقارير خادم SQL
 description: ملحق عرض SQL Server Reporting Services - تصدير صور الرموز الشريطية الخطية وثنائية الأبعاد في SSRS. عرض ملصقات الرموز الشريطية بتنسيقات BMP JPEG GIF و PNG.
-lang: ar/
+lang: ar
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}

@@ -2,9 +2,9 @@
 title: Quét hình ảnh Mã vạch Code 16K qua C++
 weight: 1510
 description: Mã mẫu C++ để quét và giải mã Mã vạch Code 16K trong Môi trường thời gian chạy C++ dành cho Windows 32-bit, Windows 64-bit hoặc Linux 64-bit.
-lang: vi/
+lang: vi
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /vi/cpp/code16k/recognize/
 aliases:
 - /vi/cpp/recognize/code16k/

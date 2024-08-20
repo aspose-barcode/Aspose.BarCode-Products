@@ -2,9 +2,9 @@
 title: .NET aracılığıyla Aralıklı 2/5 (ITF) barkod Görsellerini tarayın
 weight: 1510
 description: .NET Framework, .NET Standard, PHP için COM Interloop, VBScript, Delphi veya C++'da Aralıklı 2/5 (ITF) barkod barkod türünü taramak ve kodunu çözmek için C# örnek kodu.
-lang: tr/
+lang: tr
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /tr/net/itf/recognize/
 aliases:
 - /tr/net/recognize/itf/

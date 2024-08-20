@@ -1,10 +1,9 @@
 ---
 title: Scan Code 93 Extended and Code 93 Standard barcodes Images via Python via Java
-weight: 1510
 description: Python source code for Code 93 Extended and Code 93 Standard barcodes recognition using Java Runtime Environment.
-lang: 
+lang: en
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /python-java/code93/recognize/
 aliases:
 - /python-java/recognize/code93/

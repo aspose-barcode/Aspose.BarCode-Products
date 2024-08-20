@@ -1,7 +1,7 @@
 ---
 title: Generieren Sie Aztec Code Bilder über Java
 description: Java-Beispielcode für die Aztec Code-Generierung in der Java-Laufzeitumgebung für JSP/JSF-Anwendungen und Desktop-Anwendungen.
-lang: de/
+lang: de
 langdirlevel: 2
 locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
 url: /de/java/aztec/generate/

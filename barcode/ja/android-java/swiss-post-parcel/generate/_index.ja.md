@@ -1,9 +1,9 @@
 ---
 title: Android via Java 経由で Swiss Post Parcel イメージを生成
 description: Android ランタイム環境で Swiss Post Parcel を作成するための Android ソースコード。
-lang: ja/
+lang: ja
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /ja/android-java/swiss-post-parcel/generate/
 aliases:
 - /ja/android-java/generate/swiss-post-parcel/

@@ -1,9 +1,9 @@
 ---
 title: Wygeneruj obrazy PDF417 kod kreskowy za pomocą Python via Java
 description: Przykładowy kod w języku Python do generowania PDF417 kod kreskowy przy użyciu Java Runtime Environment.
-lang: pl/
+lang: pl
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /pl/python-java/pdf417/generate/
 aliases:
 - /pl/python-java/generate/pdf417/

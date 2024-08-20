@@ -2,9 +2,9 @@
 title: Quét hình ảnh Mã vạch GS1 DataBar (Đa hướng, Đa hướng xếp chồng, Mở rộng, Xếp chồng mở rộng và Cắt bớt) qua Python via Java
 weight: 1510
 description: Mã nguồn Python để nhận dạng Mã vạch GS1 DataBar (Đa hướng, Đa hướng xếp chồng, Mở rộng, Xếp chồng mở rộng và Cắt bớt) bằng Môi trường chạy thi hành Java.
-lang: vi/
+lang: vi
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /vi/python-java/databar/recognize/
 aliases:
 - /vi/python-java/recognize/databar/

@@ -1,9 +1,9 @@
 ---
 title: Tạo hình ảnh mã vạch ISSN qua Java
 description: Mã mẫu Java để tạo mã vạch ISSN trong Môi trường thời gian chạy Java dành cho ứng dụng JSP/JSF và ứng dụng dành cho máy tính để bàn.
-lang: vi/
+lang: vi
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /vi/java/issn/generate/
 aliases:
 - /vi/java/generate/issn/

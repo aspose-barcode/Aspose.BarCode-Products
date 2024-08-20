@@ -1,9 +1,9 @@
 ---
 title: Genere imágenes de Australia Post código de barras y Australia Post eParcel a ​​través de Java
 description: Código de muestra de Java para la generación de Australia Post código de barras y Australia Post eParcel en Java Runtime Environment para aplicaciones JSP/JSF y aplicaciones de escritorio.
-lang: es/
+lang: es
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /es/java/australia-post/generate/
 aliases:
 - /es/java/generate/australia-post/

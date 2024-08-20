@@ -1,9 +1,9 @@
 ---
 title: Générez des images GS1 Code 128 code-barres via Node.js via Java
 description: Exemple de code Node.js pour la génération de GS1 Code 128 code-barres dans les applications JavaScript.
-lang: fr/
+lang: fr
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /fr/nodejs-java/code128/generate/
 aliases:
 - /fr/nodejs-java/generate/code128/

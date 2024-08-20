@@ -1,9 +1,9 @@
 ---
 title: API mã vạch SharePoint - Chèn mã vạch vào danh sách SharePoint
 description: API SharePoint mã vạch để chèn nhãn mã vạch trong Danh sách SharePoint tùy chỉnh. Nhà phát triển có thể sử dụng Dấu dịch vụ để chọn giá trị văn bản đầu vào hoặc chèn văn bản theo cách thủ công.
-lang: vi/
+lang: vi
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}

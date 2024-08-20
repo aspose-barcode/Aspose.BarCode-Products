@@ -1,10 +1,9 @@
 ---
 title: Scansiona le immagini di Deutsche Post Identcode e Deutsche Post Leitcode tramite PHP via Java
-weight: 1510
 description: Codice di esempio PHP per leggere Deutsche Post Identcode e Deutsche Post Leitcode nelle applicazioni basate su PHP.
-lang: it/
+lang: it
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /it/php-java/deutsche-post/recognize/
 aliases:
 - /it/php-java/recognize/deutsche-post/

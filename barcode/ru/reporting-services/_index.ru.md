@@ -1,9 +1,9 @@
 ---
 title: Визуализация линейных и двумерных изображений штрих-кода в службах отчетов SQL Server
 description: Расширение рендеринга служб SQL Server Reporting Services — экспорт изображений линейных и двумерных штрих-кодов в службы SSRS. Рендеринг этикеток со штрих-кодом в форматах BMP, JPEG, GIF и PNG.
-lang: ru/
+lang: ru
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}

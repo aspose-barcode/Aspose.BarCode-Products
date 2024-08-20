@@ -1,9 +1,9 @@
 ---
 title: Python 바코드 생성기 및 스캐너 API
 description: Python 바코드 판독기 라이브러리는 1D, 2D 및 Postal을 포함한 다양한 유형의 바코드를 인식하고 생성합니다. Python 애플리케이션에서 API를 사용합니다.
-lang: ko/
+lang: ko
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}

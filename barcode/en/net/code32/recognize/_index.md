@@ -1,10 +1,9 @@
 ---
 title: Scan Italian Pharmacode (Code 32) barcode Images via .NET
-weight: 1510
 description: C# sample code to scan and decode Italian Pharmacode (Code 32) barcode barcode type in .NET Framework, .NET Standard, COM Interloop for PHP, VBScript, Delphi, or C++.
-lang: 
+lang: en
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /net/code32/recognize/
 aliases:
 - /net/recognize/code32/

@@ -2,7 +2,7 @@
 title: Scannen Sie Code 16K Barcode Bilder über PHP via Java
 weight: 1510
 description: PHP-Beispielcode zum Lesen von Code 16K Barcode in PHP-basierten Anwendungen.
-lang: de/
+lang: de
 langdirlevel: 2
 locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
 url: /de/php-java/code16k/recognize/

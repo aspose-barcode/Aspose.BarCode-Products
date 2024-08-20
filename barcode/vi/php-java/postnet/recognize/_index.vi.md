@@ -2,9 +2,9 @@
 title: Quét hình ảnh Mã vạch Postnet qua PHP via Java
 weight: 1510
 description: Mã mẫu PHP để đọc Mã vạch Postnet trong các ứng dụng dựa trên PHP.
-lang: vi/
+lang: vi
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /vi/php-java/postnet/recognize/
 aliases:
 - /vi/php-java/recognize/postnet/

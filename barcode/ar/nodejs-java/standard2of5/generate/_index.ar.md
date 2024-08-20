@@ -1,9 +1,9 @@
 ---
 title: إنشاء صور Standard 2 of 5 (صناعي 2 من 5) رمز شريطي عبر Node.js via Java
 description: نموذج كود Node.js للإنشاء Standard 2 of 5 (صناعي 2 من 5) رمز شريطي في تطبيقات جافا سكريبت.
-lang: ar/
+lang: ar
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /ar/nodejs-java/standard2of5/generate/
 aliases:
 - /ar/nodejs-java/generate/standard2of5/

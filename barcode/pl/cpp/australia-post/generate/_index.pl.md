@@ -1,9 +1,9 @@
 ---
 title: Wygeneruj obrazy Kod kreskowy Australia Post i Australia Post eParcel za pomocą C++
 description: Przykład kodu C++ do generowania kodu Kod kreskowy Australia Post i Australia Post eParcel w środowisku wykonawczym C++ dla 32-bitowych systemów Windows, 64-bitowych systemów Windows i 64-bitowych systemów Linux.
-lang: pl/
+lang: pl
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /pl/cpp/australia-post/generate/
 aliases:
 - /pl/cpp/generate/australia-post/

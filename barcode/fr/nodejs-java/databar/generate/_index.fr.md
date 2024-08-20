@@ -1,9 +1,9 @@
 ---
 title: Générez des images Code-barres GS1 DataBar (omnidirectionnel, empilé omnidirectionnel, déplié, déplié empilé et tronqué) via Node.js via Java
 description: Exemple de code Node.js pour la génération de Code-barres GS1 DataBar (omnidirectionnel, empilé omnidirectionnel, déplié, déplié empilé et tronqué) dans les applications JavaScript.
-lang: fr/
+lang: fr
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /fr/nodejs-java/databar/generate/
 aliases:
 - /fr/nodejs-java/generate/databar/

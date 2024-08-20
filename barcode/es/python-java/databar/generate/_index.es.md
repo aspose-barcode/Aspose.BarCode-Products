@@ -1,9 +1,9 @@
 ---
 title: Genere imágenes de Código de barras GS1 DataBar (omnidireccional, omnidireccional apilado, expandido, apilado expandido y truncado) a ​​través de Python via Java
 description: Código de muestra de Python para generar Código de barras GS1 DataBar (omnidireccional, omnidireccional apilado, expandido, apilado expandido y truncado) usando Java Runtime Environment.
-lang: es/
+lang: es
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /es/python-java/databar/generate/
 aliases:
 - /es/python-java/generate/databar/

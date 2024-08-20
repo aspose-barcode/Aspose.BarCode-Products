@@ -2,9 +2,9 @@
 title: Pindai Gambar Kode Pelanggan Royal Mail 4-State (RM4SCC) melalui Node.js via Java
 weight: 1510
 description: Kode sumber Node.js untuk pemindaian dan decoding Kode Pelanggan Royal Mail 4-State (RM4SCC) dalam aplikasi JavaScript.
-lang: id/
+lang: id
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /id/nodejs-java/rm4scc/recognize/
 aliases:
 - /id/nodejs-java/recognize/rm4scc/

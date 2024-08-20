@@ -1,7 +1,7 @@
 ---
 title: Generieren Sie Code 93 Erweiterte und Code 93 Standard-Barcodes Bilder über Node.js via Java
 description: Node.js-Beispielcode für die Generierung von Code 93 Erweiterte und Code 93 Standard-Barcodes in JavaScript-Anwendungen.
-lang: de/
+lang: de
 langdirlevel: 2
 locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
 url: /de/nodejs-java/code93/generate/

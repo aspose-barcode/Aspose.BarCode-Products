@@ -1,9 +1,9 @@
 ---
 title: Создайте USPS OneCode штрих-код изображений с помощью .NET
 description: Исходный код C# для создания USPS OneCode штрих-код в .NET Framework, .NET Standard, COM Interloop для PHP, VBScript, Delphi и C++.
-lang: ru/
+lang: ru
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /ru/net/onecode/generate/
 aliases:
 - /ru/net/generate/onecode/

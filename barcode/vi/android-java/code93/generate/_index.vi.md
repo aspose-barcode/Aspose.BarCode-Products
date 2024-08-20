@@ -1,9 +1,9 @@
 ---
 title: Tạo hình ảnh Code 93 Mã vạch tiêu chuẩn và Code 93 qua Android via Java
 description: Mã nguồn Android để tạo Code 93 Mã vạch tiêu chuẩn và Code 93 trong Môi trường thời gian chạy Android.
-lang: vi/
+lang: vi
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /vi/android-java/code93/generate/
 aliases:
 - /vi/android-java/generate/code93/

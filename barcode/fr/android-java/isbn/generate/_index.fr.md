@@ -1,9 +1,9 @@
 ---
 title: Générez des images ISBN code-barres via Android via Java
 description: Code source Android pour créer ISBN code-barres dans l'environnement d'exécution Android.
-lang: fr/
+lang: fr
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /fr/android-java/isbn/generate/
 aliases:
 - /fr/android-java/generate/isbn/

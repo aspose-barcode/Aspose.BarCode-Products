@@ -1,9 +1,9 @@
 ---
 title: Hasilkan Gambar Kode batang EAN (Nomor Artikel Internasional). melalui PHP via Java
 description: Kode sumber PHP untuk membuat Kode batang EAN (Nomor Artikel Internasional). dalam aplikasi berbasis PHP.
-lang: id/
+lang: id
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /id/php-java/ean/generate/
 aliases:
 - /id/php-java/generate/ean/

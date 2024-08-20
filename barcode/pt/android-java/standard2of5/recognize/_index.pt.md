@@ -2,9 +2,9 @@
 title: Digitalize Standard 2 of 5 (Industrial 2 de 5) código de barras Imagens via Android via Java
 weight: 1510
 description: Código de exemplo do Android para reconhecer Standard 2 of 5 (Industrial 2 de 5) código de barras no Android Runtime Environment.
-lang: pt/
+lang: pt
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /pt/android-java/standard2of5/recognize/
 aliases:
 - /pt/android-java/recognize/standard2of5/

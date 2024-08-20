@@ -2,9 +2,9 @@
 title: Numérisez les images ISMN code-barres via Python via Java
 weight: 1510
 description: Code source Python pour la reconnaissance de ISMN code-barres à l'aide de Java Runtime Environment.
-lang: fr/
+lang: fr
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /fr/python-java/ismn/recognize/
 aliases:
 - /fr/python-java/recognize/ismn/

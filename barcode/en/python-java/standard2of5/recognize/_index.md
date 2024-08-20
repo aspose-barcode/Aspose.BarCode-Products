@@ -1,10 +1,9 @@
 ---
 title: Scan Standard 2 of 5 (Industrial 2 of 5) barcode Images via Python via Java
-weight: 1510
 description: Python source code for Standard 2 of 5 (Industrial 2 of 5) barcode recognition using Java Runtime Environment.
-lang: 
+lang: en
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /python-java/standard2of5/recognize/
 aliases:
 - /python-java/recognize/standard2of5/

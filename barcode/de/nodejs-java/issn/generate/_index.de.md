@@ -1,7 +1,7 @@
 ---
 title: Generieren Sie ISSN Barcode Bilder über Node.js via Java
 description: Node.js-Beispielcode für die Generierung von ISSN Barcode in JavaScript-Anwendungen.
-lang: de/
+lang: de
 langdirlevel: 2
 locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
 url: /de/nodejs-java/issn/generate/

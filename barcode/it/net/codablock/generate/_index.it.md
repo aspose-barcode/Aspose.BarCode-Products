@@ -1,9 +1,9 @@
 ---
 title: Genera immagini Codici a barre Codablock-F e GS1 Codablock-F tramite .NET
 description: Codice sorgente C# per la generazione di Codici a barre Codablock-F e GS1 Codablock-F in .NET Framework, .NET Standard, COM Interloop per PHP, VBScript, Delphi e C++.
-lang: it/
+lang: it
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /it/net/codablock/generate/
 aliases:
 - /it/net/generate/codablock/

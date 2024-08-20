@@ -1,9 +1,9 @@
 ---
 title: Genera immagini Standard 2 of 5 (Industriale 2 di 5) codice a barre tramite PHP via Java
 description: Codice sorgente PHP per creare Standard 2 of 5 (Industriale 2 di 5) codice a barre in applicazioni basate su PHP.
-lang: it/
+lang: it
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /it/php-java/standard2of5/generate/
 aliases:
 - /it/php-java/generate/standard2of5/

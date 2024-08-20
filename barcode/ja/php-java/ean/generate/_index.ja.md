@@ -1,9 +1,9 @@
 ---
 title: PHP via Java 経由で EAN (国際商品番号) バーコード イメージを生成
 description: PHP ベースのアプリケーションで EAN (国際商品番号) バーコード を作成するための PHP ソース コード。
-lang: ja/
+lang: ja
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /ja/php-java/ean/generate/
 aliases:
 - /ja/php-java/generate/ean/

@@ -1,7 +1,7 @@
 ---
 title: Generieren Sie Code 93 Erweiterte und Code 93 Standard-Barcodes Bilder über Python via Java
 description: Python-Beispielcode zum Generieren von Code 93 Erweiterte und Code 93 Standard-Barcodes mithilfe der Java Runtime Environment.
-lang: de/
+lang: de
 langdirlevel: 2
 locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
 url: /de/python-java/code93/generate/

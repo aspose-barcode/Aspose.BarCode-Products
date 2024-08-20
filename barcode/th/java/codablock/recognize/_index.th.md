@@ -2,9 +2,9 @@
 title: สแกนรูปภาพ บาร์โค้ด Codablock-F และ GS1 Codablock-F ผ่าน Java
 weight: 1510
 description: ซอร์สโค้ด Java เพื่ออ่านและถอดรหัส บาร์โค้ด Codablock-F และ GS1 Codablock-F ใน Java Runtime Environment สำหรับ JSP/JSF Application และ Desktop Applications
-lang: th/
+lang: th
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /th/java/codablock/recognize/
 aliases:
 - /th/java/recognize/codablock/

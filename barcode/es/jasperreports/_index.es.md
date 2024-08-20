@@ -1,9 +1,9 @@
 ---
 title: Genere códigos de barras en JasperReports y renderice en BMP JPG GIF y PNG
 description: Con Aspose.BarCode para JasperReports, los desarrolladores pueden generar códigos de barras en Jasper Reports para que se reproduzcan en formatos BMP, JPG, GIF y PNG.
-lang: es/
+lang: es
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}

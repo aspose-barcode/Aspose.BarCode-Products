@@ -1,9 +1,9 @@
 ---
 title: C++ aracılığıyla Postnet barkod Görselleri oluşturun
 description: Windows 32-bit, Windows 64-bit ve Linux 64-bit için C++ Çalışma Zamanı Ortamında Postnet barkod oluşturmak için C++ kod örneği.
-lang: tr/
+lang: tr
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /tr/cpp/postnet/generate/
 aliases:
 - /tr/cpp/generate/postnet/

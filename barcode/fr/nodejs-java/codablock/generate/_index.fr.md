@@ -1,9 +1,9 @@
 ---
 title: Générez des images Codes-barres Codablock-F et GS1 Codablock-F via Node.js via Java
 description: Exemple de code Node.js pour la génération de Codes-barres Codablock-F et GS1 Codablock-F dans les applications JavaScript.
-lang: fr/
+lang: fr
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /fr/nodejs-java/codablock/generate/
 aliases:
 - /fr/nodejs-java/generate/codablock/

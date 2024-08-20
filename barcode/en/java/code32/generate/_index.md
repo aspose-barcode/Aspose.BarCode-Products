@@ -1,9 +1,9 @@
 ---
 title: Generate Italian Pharmacode (Code 32) barcode Images via Java
 description: Java sample code for Italian Pharmacode (Code 32) barcode generation in Java Runtime Environment for JSP/JSF applications and desktop applications.
-lang: 
+lang: en
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /java/code32/generate/
 aliases:
 - /java/generate/code32/

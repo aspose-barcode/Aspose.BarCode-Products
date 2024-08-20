@@ -1,9 +1,9 @@
 ---
 title: Generate Australia Post barcode and Australia Post eParcel Images via Android via Java
 description: Android source code to create Australia Post barcode and Australia Post eParcel in Android Runtime Environment.
-lang: 
+lang: en
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /android-java/australia-post/generate/
 aliases:
 - /android-java/generate/australia-post/

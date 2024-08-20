@@ -1,7 +1,7 @@
 ---
 title: Generieren Sie Codablock-F und GS1 Codablock-F Barcodes Bilder über Java
 description: Java-Beispielcode für die Codablock-F und GS1 Codablock-F Barcodes-Generierung in der Java-Laufzeitumgebung für JSP/JSF-Anwendungen und Desktop-Anwendungen.
-lang: de/
+lang: de
 langdirlevel: 2
 locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
 url: /de/java/codablock/generate/

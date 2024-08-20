@@ -2,9 +2,9 @@
 title: Numérisez les images Code-barres Standard 2 of 5 (Industriel 2 sur 5) via Python via Java
 weight: 1510
 description: Code source Python pour la reconnaissance de Code-barres Standard 2 of 5 (Industriel 2 sur 5) à l'aide de Java Runtime Environment.
-lang: fr/
+lang: fr
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /fr/python-java/standard2of5/recognize/
 aliases:
 - /fr/python-java/recognize/standard2of5/

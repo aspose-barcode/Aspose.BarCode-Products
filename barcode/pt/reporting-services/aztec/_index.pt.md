@@ -2,9 +2,9 @@
 title: Aztec em SQL Reporting Services
 url: /pt/reporting-services/aztec/
 description: A API Aspose.Barcode para SQL Reporting Services permite personalizar, gerar e reconhecer códigos de barras Aztec em seu aplicativo C#
-lang: pt/
+lang: pt
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

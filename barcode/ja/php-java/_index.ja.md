@@ -1,9 +1,9 @@
 ---
 title: PHP バーコード ジェネレーターおよびスキャナー API
 description: 1D、2D、郵便などの複数のタイプのバーコードを認識する PHP バーコード リーダー ライブラリ。 API はコア PHP 内、または codeigniter、cakephp、laravel などのフレームワーク内で使用します。
-lang: ja/
+lang: ja
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}

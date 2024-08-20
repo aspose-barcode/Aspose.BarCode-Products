@@ -2,9 +2,9 @@
 title: Zeskanuj obrazy Standard 2 of 5 (przemysłowy 2 z 5) kod kreskowy za pomocą C++
 weight: 1510
 description: Przykładowy kod C++ do skanowania i dekodowania Standard 2 of 5 (przemysłowy 2 z 5) kod kreskowy w środowisku wykonawczym C++ dla 32-bitowego systemu Windows, 64-bitowego systemu Windows lub 64-bitowego systemu Linux.
-lang: pl/
+lang: pl
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /pl/cpp/standard2of5/recognize/
 aliases:
 - /pl/cpp/recognize/standard2of5/

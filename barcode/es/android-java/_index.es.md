@@ -1,9 +1,9 @@
 ---
 title: Código de barras API de Android | Escanear o generar códigos de barras
 description: Biblioteca de escáner de código de barras de Android para reconocer diferentes tipos de códigos de barras 1D, 2D y postales. Escanee códigos de barras en cualquier ángulo en las aplicaciones de Android.
-lang: es/
+lang: es
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}

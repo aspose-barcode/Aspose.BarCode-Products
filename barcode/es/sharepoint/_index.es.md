@@ -1,9 +1,9 @@
 ---
 title: API de código de barras de SharePoint - Insertar códigos de barras en listas de SharePoint
 description: API de código de barras de SharePoint para insertar etiquetas de código de barras en listas de SharePoint personalizadas. Los desarrolladores pueden usar marcadores de servicio para seleccionar valores de texto de entrada o insertar el texto manualmente.
-lang: es/
+lang: es
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}

@@ -2,9 +2,9 @@
 title: Standard 2 of 5 in Python via Java
 url: /python-java/standard2of5/
 description: Aspose.Barcode for Python via Java API allows customize, generate and recognize Standard 2 of 5 barcodes in your Python application
-lang: 
+lang: en
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

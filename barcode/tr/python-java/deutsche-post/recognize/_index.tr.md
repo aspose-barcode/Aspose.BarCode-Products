@@ -2,9 +2,9 @@
 title: Python via Java aracılığıyla Deutsche Post Kimlik Kodu ve Deutsche Post Leitcode Görsellerini tarayın
 weight: 1510
 description: Java Runtime Environment kullanılarak Deutsche Post Kimlik Kodu ve Deutsche Post Leitcode tanıma için Python kaynak kodu.
-lang: tr/
+lang: tr
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /tr/python-java/deutsche-post/recognize/
 aliases:
 - /tr/python-java/recognize/deutsche-post/

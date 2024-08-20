@@ -1,9 +1,9 @@
 ---
 title: Создайте Штрих-код EAN изображений с помощью C++
 description: Пример кода C++ для создания Штрих-код EAN в среде выполнения C++ для 32-разрядной, 64-разрядной версии Windows и 64-разрядной версии Linux.
-lang: ru/
+lang: ru
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /ru/cpp/ean/generate/
 aliases:
 - /ru/cpp/generate/ean/

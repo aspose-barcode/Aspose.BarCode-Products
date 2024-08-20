@@ -1,9 +1,9 @@
 ---
 title: C# .NET Barkod API'si - Barkod Oluşturma ve Tanıma Okuma
 description: 1D 2D barkodlar oluşturmak ve tanımak için .NET API'leri için Aspose.BarCode. Barkod etiketlerini taramak ve yazdırmak için C# VB.NET ASP.NET uygulamalarıyla entegre edin
-lang: tr/
+lang: tr
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}

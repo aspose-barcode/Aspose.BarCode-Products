@@ -2,9 +2,9 @@
 title: Python via .NET の GS1 Code 128
 url: /ja/python-net/code128/
 description: Aspose.Barcode for Python via .NET API を使用すると、Python アプリケーションで GS1 Code 128 バーコードをカスタマイズ、生成、認識できます
-lang: ja/
+lang: ja
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

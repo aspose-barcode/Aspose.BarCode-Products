@@ -1,9 +1,9 @@
 ---
 title: Wygeneruj obrazy Kod kreskowy EAN (międzynarodowy numer artykułu). za pomocą .NET
 description: Kod źródłowy C# dla generacji Kod kreskowy EAN (międzynarodowy numer artykułu). w .NET Framework, .NET Standard, COM Interloop dla PHP, VBScript, Delphi i C++.
-lang: pl/
+lang: pl
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /pl/net/ean/generate/
 aliases:
 - /pl/net/generate/ean/

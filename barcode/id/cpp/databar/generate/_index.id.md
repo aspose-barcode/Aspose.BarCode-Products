@@ -1,9 +1,9 @@
 ---
 title: Hasilkan Gambar Kode batang GS1 DataBar (Omnidirectional, Stacked Omnidirectional, Expanded, Expanded Stacked, dan Truncated) melalui C++
 description: Contoh kode C++ untuk menghasilkan Kode batang GS1 DataBar (Omnidirectional, Stacked Omnidirectional, Expanded, Expanded Stacked, dan Truncated) di C++ Runtime Environment untuk Windows 32-bit, Windows 64-bit, dan Linux 64-bit.
-lang: id/
+lang: id
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /id/cpp/databar/generate/
 aliases:
 - /id/cpp/generate/databar/

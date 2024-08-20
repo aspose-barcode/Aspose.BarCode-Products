@@ -1,9 +1,9 @@
 ---
 title: PHP via Java aracılığıyla EAN (Uluslararası Makale Numarası) barkodu Görselleri oluşturun
 description: PHP tabanlı uygulamalarda EAN (Uluslararası Makale Numarası) barkodu oluşturmak için PHP kaynak kodu.
-lang: tr/
+lang: tr
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /tr/php-java/ean/generate/
 aliases:
 - /tr/php-java/generate/ean/

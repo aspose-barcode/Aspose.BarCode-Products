@@ -2,9 +2,9 @@
 title: Numérisez les images QR Code, GS1 QR Code via Android via Java
 weight: 1510
 description: Exemple de code Android pour reconnaître QR Code, GS1 QR Code dans l'environnement d'exécution Android.
-lang: fr/
+lang: fr
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /fr/android-java/qr/recognize/
 aliases:
 - /fr/android-java/recognize/qr/

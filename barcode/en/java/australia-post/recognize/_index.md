@@ -1,10 +1,9 @@
 ---
 title: Scan Australia Post barcode and Australia Post eParcel Images via Java
-weight: 1510
 description: Java source code to read and decode Australia Post barcode and Australia Post eParcel in Java Runtime Environment for JSP/JSF Application and Desktop Applications.
-lang: 
+lang: en
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /java/australia-post/recognize/
 aliases:
 - /java/recognize/australia-post/

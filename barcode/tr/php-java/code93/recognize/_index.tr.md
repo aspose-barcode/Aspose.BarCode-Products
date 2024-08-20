@@ -2,9 +2,9 @@
 title: PHP via Java aracılığıyla Code 93 Genişletilmiş ve Code 93 Standart barkodlar Görsellerini tarayın
 weight: 1510
 description: PHP tabanlı uygulamalarda Code 93 Genişletilmiş ve Code 93 Standart barkodlar okumak için PHP örnek kodu.
-lang: tr/
+lang: tr
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /tr/php-java/code93/recognize/
 aliases:
 - /tr/php-java/recognize/code93/

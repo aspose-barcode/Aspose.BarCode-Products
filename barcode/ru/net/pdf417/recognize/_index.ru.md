@@ -1,10 +1,9 @@
 ---
 title: Сканировать изображения PDF417 штрих-код через .NET
-weight: 1510
 description: Пример кода C# для сканирования и декодирования типа штрих-кода PDF417 штрих-код в .NET Framework, .NET Standard, COM Interloop для PHP, VBScript, Delphi или C++.
-lang: ru/
+lang: ru
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /ru/net/pdf417/recognize/
 aliases:
 - /ru/net/recognize/pdf417/

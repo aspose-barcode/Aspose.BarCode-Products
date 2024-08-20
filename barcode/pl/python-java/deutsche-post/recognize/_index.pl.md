@@ -2,9 +2,9 @@
 title: Zeskanuj obrazy Deutsche Post Kod identyfikacyjny i Deutsche Post Kod identyfikacyjny za pomocą Python via Java
 weight: 1510
 description: Kod źródłowy Pythona do rozpoznawania Deutsche Post Kod identyfikacyjny i Deutsche Post Kod identyfikacyjny przy użyciu Java Runtime Environment.
-lang: pl/
+lang: pl
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /pl/python-java/deutsche-post/recognize/
 aliases:
 - /pl/python-java/recognize/deutsche-post/

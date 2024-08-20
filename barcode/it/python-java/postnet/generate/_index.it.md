@@ -1,9 +1,9 @@
 ---
 title: Genera immagini Postnet codice a barre tramite Python via Java
 description: Codice di esempio Python per generare Postnet codice a barre utilizzando Java Runtime Environment.
-lang: it/
+lang: it
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /it/python-java/postnet/generate/
 aliases:
 - /it/python-java/generate/postnet/

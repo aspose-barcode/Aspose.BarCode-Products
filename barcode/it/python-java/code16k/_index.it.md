@@ -2,9 +2,9 @@
 title: Code 16K in Python via Java
 url: /it/python-java/code16k/
 description: L'API Aspose.Barcode per Python via Java consente di personalizzare, generare e riconoscere i codici a barre Code 16K nella tua applicazione Python
-lang: it/
+lang: it
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

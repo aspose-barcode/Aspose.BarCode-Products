@@ -1,9 +1,9 @@
 ---
 title: Генерация штрих-кодов в JasperReports и рендеринг в BMP JPG GIF и PNG
 description: Используя Aspose.BarCode для JasperReports, разработчики могут генерировать штрих-коды в Jasper Reports для дальнейшей обработки в форматах BMP JPG GIF и PNG.
-lang: ru/
+lang: ru
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}

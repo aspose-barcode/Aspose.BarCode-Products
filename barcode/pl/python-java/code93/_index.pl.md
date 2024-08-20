@@ -2,9 +2,9 @@
 title: Code 93 w Python via Java
 url: /pl/python-java/code93/
 description: Aspose.Barcode dla Python via Java API umożliwia dostosowywanie, generowanie i rozpoznawanie kodów kreskowych Code 93 w Twojej aplikacji Python
-lang: pl/
+lang: pl
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

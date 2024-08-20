@@ -1,10 +1,9 @@
 ---
 title: Scansiona le immagini di Standard 2 of 5 (Industriale 2 di 5) codice a barre tramite Android via Java
-weight: 1510
 description: Codice di esempio Android per riconoscere Standard 2 of 5 (Industriale 2 di 5) codice a barre in Android Runtime Environment.
-lang: it/
+lang: it
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /it/android-java/standard2of5/recognize/
 aliases:
 - /it/android-java/recognize/standard2of5/

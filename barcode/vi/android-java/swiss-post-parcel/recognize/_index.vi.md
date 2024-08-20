@@ -2,9 +2,9 @@
 title: Quét hình ảnh Swiss Post Parcel qua Android via Java
 weight: 1510
 description: Mã mẫu Android để nhận dạng Swiss Post Parcel trong Môi trường thời gian chạy Android.
-lang: vi/
+lang: vi
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /vi/android-java/swiss-post-parcel/recognize/
 aliases:
 - /vi/android-java/recognize/swiss-post-parcel/

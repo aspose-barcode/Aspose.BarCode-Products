@@ -1,9 +1,9 @@
 ---
 title: Générez des images Code client Royal Mail 4-State (RM4SCC) via Java
 description: Exemple de code Java pour la génération de Code client Royal Mail 4-State (RM4SCC) dans Java Runtime Environment pour les applications JSP/JSF et les applications de bureau.
-lang: fr/
+lang: fr
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /fr/java/rm4scc/generate/
 aliases:
 - /fr/java/generate/rm4scc/

@@ -1,9 +1,9 @@
 ---
 title: Hasilkan Gambar Kode batang Australia Post dan eParcel Australia Post melalui Python via Java
 description: Contoh kode Python untuk menghasilkan Kode batang Australia Post dan eParcel Australia Post menggunakan Java Runtime Environment.
-lang: id/
+lang: id
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /id/python-java/australia-post/generate/
 aliases:
 - /id/python-java/generate/australia-post/

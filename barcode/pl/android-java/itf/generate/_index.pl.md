@@ -1,9 +1,9 @@
 ---
 title: Wygeneruj obrazy Przeplatany kod kreskowy 2 z 5 (ITF). za pomocą Android via Java
 description: Kod źródłowy Androida do utworzenia Przeplatany kod kreskowy 2 z 5 (ITF). w Android Runtime Environment.
-lang: pl/
+lang: pl
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /pl/android-java/itf/generate/
 aliases:
 - /pl/android-java/generate/itf/

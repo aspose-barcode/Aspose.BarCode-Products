@@ -1,7 +1,7 @@
 ---
 title: Java-Barcode-API – Generieren oder scannen Sie 1D-, 2D- und Post-Barcodes
 description: Java-Barcode-Bibliothek zum Generieren von Leseerkennungs-Barcodes. Das Barcode SDK unterstützt lineare und 2D-Barcodes sowie den Export in JPG, GIF, PNG, BMP und weitere Bildformate
-lang: de/
+lang: de
 langdirlevel: 2
 locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
 ---

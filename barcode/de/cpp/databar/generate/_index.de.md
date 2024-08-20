@@ -1,7 +1,7 @@
 ---
 title: Generieren Sie GS1 DataBar (Omnidirektionaler, gestapelter omnidirektionaler, erweiterter, erweiterter, gestapelter und verkürzter) Barcode Bilder über C++
 description: C++-Beispielcode zum Generieren von GS1 DataBar (Omnidirektionaler, gestapelter omnidirektionaler, erweiterter, erweiterter, gestapelter und verkürzter) Barcode in der C++-Laufzeitumgebung für Windows 32-Bit, Windows 64-Bit und Linux 64-Bit.
-lang: de/
+lang: de
 langdirlevel: 2
 locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
 url: /de/cpp/databar/generate/

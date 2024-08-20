@@ -1,10 +1,9 @@
 ---
 title: Scan Australia Post barcode and Australia Post eParcel Images via C++
-weight: 1510
 description: C++ sample code to scan and decode Australia Post barcode and Australia Post eParcel in C++ Runtime Environment for Windows 32-bit, Windows 64-bit, or Linux 64-bit.
-lang: 
+lang: en
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /cpp/australia-post/recognize/
 aliases:
 - /cpp/recognize/australia-post/

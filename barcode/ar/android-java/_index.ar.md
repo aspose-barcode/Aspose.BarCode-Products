@@ -1,9 +1,9 @@
 ---
 title: الباركود الروبوت API | مسح ضوئي أو إنشاء رموز شريطية
 description: مكتبة ماسح الباركود بنظام Android للتعرف على أنواع مختلفة من الرموز الشريطية 1D و 2 D والبريدية. امسح الرموز الشريطية ضوئيًا بأي زاوية في تطبيقات Android.
-lang: ar/
+lang: ar
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}

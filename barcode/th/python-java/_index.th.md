@@ -1,9 +1,9 @@
 ---
 title: Python Barcode Generator และ Scanner API
 description: ไลบรารีเครื่องอ่านบาร์โค้ด Python เพื่อจดจำและสร้างบาร์โค้ดหลายประเภท รวมถึงประเภท 1D, 2D และ Postal ใช้ API ในแอปพลิเคชัน Python
-lang: th/
+lang: th
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}

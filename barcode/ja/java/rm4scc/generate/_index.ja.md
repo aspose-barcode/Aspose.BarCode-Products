@@ -1,9 +1,9 @@
 ---
 title: Java 経由で Royal Mail 4-State 顧客コード (RM4SCC) イメージを生成
 description: JSP/JSF アプリケーションおよびデスクトップ アプリケーション用の Java ランタイム環境での Royal Mail 4-State 顧客コード (RM4SCC) 生成の Java サンプル コード。
-lang: ja/
+lang: ja
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /ja/java/rm4scc/generate/
 aliases:
 - /ja/java/generate/rm4scc/

@@ -1,9 +1,9 @@
 ---
 title: C++ Barcode Processing API
 description: C++ barcode scanner and generator library for 1D and 2D barcodes. Create and read different kinds of 1D, 2D and Postal barcodes
-lang: 
+lang: en
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}

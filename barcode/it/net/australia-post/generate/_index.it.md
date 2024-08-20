@@ -1,9 +1,9 @@
 ---
 title: Genera immagini Australia Post codice a barre e Australia Post pacco elettronico tramite .NET
 description: Codice sorgente C# per la generazione di Australia Post codice a barre e Australia Post pacco elettronico in .NET Framework, .NET Standard, COM Interloop per PHP, VBScript, Delphi e C++.
-lang: it/
+lang: it
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /it/net/australia-post/generate/
 aliases:
 - /it/net/generate/australia-post/

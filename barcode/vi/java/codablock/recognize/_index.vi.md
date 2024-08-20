@@ -2,9 +2,9 @@
 title: Quét hình ảnh Mã vạch Codablock-F và GS1 Codablock-F qua Java
 weight: 1510
 description: Mã nguồn Java để đọc và giải mã Mã vạch Codablock-F và GS1 Codablock-F trong Môi trường thời gian chạy Java dành cho Ứng dụng JSP/JSF và Ứng dụng dành cho máy tính để bàn.
-lang: vi/
+lang: vi
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /vi/java/codablock/recognize/
 aliases:
 - /vi/java/recognize/codablock/

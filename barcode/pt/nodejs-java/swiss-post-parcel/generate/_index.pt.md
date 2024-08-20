@@ -1,9 +1,9 @@
 ---
 title: Gere Swiss Post Parcel Imagens via Node.js via Java
 description: Código de exemplo Node.js para geração de Swiss Post Parcel em aplicativos JavaScript.
-lang: pt/
+lang: pt
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /pt/nodejs-java/swiss-post-parcel/generate/
 aliases:
 - /pt/nodejs-java/generate/swiss-post-parcel/

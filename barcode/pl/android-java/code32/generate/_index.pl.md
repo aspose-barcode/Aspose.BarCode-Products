@@ -1,9 +1,9 @@
 ---
 title: Wygeneruj obrazy Włoski kod kreskowy Pharmacode (Code 32). za pomocą Android via Java
 description: Kod źródłowy Androida do utworzenia Włoski kod kreskowy Pharmacode (Code 32). w Android Runtime Environment.
-lang: pl/
+lang: pl
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /pl/android-java/code32/generate/
 aliases:
 - /pl/android-java/generate/code32/

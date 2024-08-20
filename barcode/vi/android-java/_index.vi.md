@@ -1,9 +1,9 @@
 ---
 title: API Android mã vạch | Quét hoặc tạo mã vạch
 description: Thư viện máy quét mã vạch Android để nhận dạng các loại mã vạch 1D, 2D và bưu chính khác nhau. Quét mã vạch ở mọi góc độ trong ứng dụng Android.
-lang: vi/
+lang: vi
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}

@@ -1,9 +1,9 @@
 ---
 title: Barcode API Android | Pindai atau Hasilkan Kode Batang
 description: Pustaka pemindai kode batang Android untuk mengenali berbagai jenis kode batang 1D, 2D, dan pos. Pindai kode batang dari sudut mana pun di aplikasi Android.
-lang: id/
+lang: id
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}

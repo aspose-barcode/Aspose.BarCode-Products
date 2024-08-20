@@ -2,9 +2,9 @@
 title: Quét hình ảnh Swiss Post Parcel qua Node.js via Java
 weight: 1510
 description: Mã nguồn Node.js để quét và giải mã Swiss Post Parcel trong các ứng dụng JavaScript.
-lang: vi/
+lang: vi
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /vi/nodejs-java/swiss-post-parcel/recognize/
 aliases:
 - /vi/nodejs-java/recognize/swiss-post-parcel/

@@ -1,9 +1,9 @@
 ---
 title: Générez des images Code-barres GS1 DataBar (omnidirectionnel, empilé omnidirectionnel, déplié, déplié empilé et tronqué) via C++
 description: Exemple de code C++ pour générer Code-barres GS1 DataBar (omnidirectionnel, empilé omnidirectionnel, déplié, déplié empilé et tronqué) dans l'environnement d'exécution C++ pour Windows 32 bits, Windows 64 bits et Linux 64 bits.
-lang: fr/
+lang: fr
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /fr/cpp/databar/generate/
 aliases:
 - /fr/cpp/generate/databar/

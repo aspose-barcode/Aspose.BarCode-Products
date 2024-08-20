@@ -1,9 +1,9 @@
 ---
 title: Genere imágenes de Código de barras italiano Pharmacode (Code 32) a ​​través de Node.js via Java
 description: Código de muestra de Node.js para la generación de Código de barras italiano Pharmacode (Code 32) en aplicaciones de JavaScript.
-lang: es/
+lang: es
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /es/nodejs-java/code32/generate/
 aliases:
 - /es/nodejs-java/generate/code32/

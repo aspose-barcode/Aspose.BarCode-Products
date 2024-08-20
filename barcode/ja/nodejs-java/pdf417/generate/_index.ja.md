@@ -1,9 +1,9 @@
 ---
 title: Node.js via Java 経由で PDF417 バーコード イメージを生成
 description: JavaScript アプリケーションでの PDF417 バーコード 生成用の Node.js サンプル コード。
-lang: ja/
+lang: ja
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /ja/nodejs-java/pdf417/generate/
 aliases:
 - /ja/nodejs-java/generate/pdf417/

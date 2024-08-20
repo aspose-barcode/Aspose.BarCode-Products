@@ -2,9 +2,9 @@
 title: QR di PHP via Java
 url: /id/php-java/qr/
 description: Aspose.Barcode untuk PHP via Java API memungkinkan penyesuaian, pembuatan, dan pengenalan kode batang QR di aplikasi PHP Anda
-lang: id/
+lang: id
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

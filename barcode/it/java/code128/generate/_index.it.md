@@ -1,9 +1,9 @@
 ---
 title: Genera immagini GS1 Code 128 codice a barre tramite Java
 description: Codice di esempio Java per la generazione di GS1 Code 128 codice a barre in Java Runtime Environment per applicazioni JSP/JSF e applicazioni desktop.
-lang: it/
+lang: it
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /it/java/code128/generate/
 aliases:
 - /it/java/generate/code128/

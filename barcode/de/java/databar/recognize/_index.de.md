@@ -2,7 +2,7 @@
 title: Scannen Sie GS1 DataBar (Omnidirektionaler, gestapelter omnidirektionaler, erweiterter, erweiterter, gestapelter und verkürzter) Barcode Bilder über Java
 weight: 1510
 description: Java-Quellcode zum Lesen und Dekodieren von GS1 DataBar (Omnidirektionaler, gestapelter omnidirektionaler, erweiterter, erweiterter, gestapelter und verkürzter) Barcode in der Java-Laufzeitumgebung für JSP/JSF-Anwendungen und Desktop-Anwendungen.
-lang: de/
+lang: de
 langdirlevel: 2
 locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
 url: /de/java/databar/recognize/

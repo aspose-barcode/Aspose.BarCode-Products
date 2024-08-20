@@ -1,9 +1,9 @@
 ---
 title: JasperReports에서 바코드 생성 및 BMP JPG GIF & PNG로 렌더링
 description: JasperReports용 Aspose.BarCode를 사용하여 개발자는 Jasper Reports에서 바코드를 생성하여 BMP JPG GIF 및 PNG 형식으로 추가 렌더링할 수 있습니다.
-lang: ko/
+lang: ko
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}

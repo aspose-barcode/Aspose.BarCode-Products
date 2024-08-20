@@ -1,9 +1,9 @@
 ---
 title: Generate Singapore Post barcode Images via Java
 description: Java sample code for Singapore Post barcode generation in Java Runtime Environment for JSP/JSF applications and desktop applications.
-lang: 
+lang: en
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /java/singapore-post/generate/
 aliases:
 - /java/generate/singapore-post/

@@ -1,9 +1,9 @@
 ---
 title: แสดงรูปภาพบาร์โค้ดเชิงเส้นและ 2D ในบริการรายงานของ SQL Server
 description: ส่วนขยายการแสดงผลบริการรายงานของ SQL Server - ส่งออกรูปภาพบาร์โค้ดเชิงเส้นและ 2D ใน SSRS แสดงฉลากบาร์โค้ดในรูปแบบ BMP JPEG GIF และ PNG
-lang: th/
+lang: th
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}

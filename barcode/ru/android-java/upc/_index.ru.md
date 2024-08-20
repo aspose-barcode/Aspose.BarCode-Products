@@ -2,9 +2,9 @@
 title: UPC в Android via Java
 url: /ru/android-java/upc/
 description: Aspose.Barcode for Android via Java API позволяет настраивать, генерировать и распознавать штрих-коды UPC в вашем приложении Java
-lang: ru/
+lang: ru
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

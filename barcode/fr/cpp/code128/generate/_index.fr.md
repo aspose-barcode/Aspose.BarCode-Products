@@ -1,9 +1,9 @@
 ---
 title: Générez des images GS1 Code 128 code-barres via C++
 description: Exemple de code C++ pour générer GS1 Code 128 code-barres dans l'environnement d'exécution C++ pour Windows 32 bits, Windows 64 bits et Linux 64 bits.
-lang: fr/
+lang: fr
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /fr/cpp/code128/generate/
 aliases:
 - /fr/cpp/generate/code128/

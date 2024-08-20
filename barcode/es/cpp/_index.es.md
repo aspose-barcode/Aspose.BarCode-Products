@@ -1,9 +1,9 @@
 ---
 title: API de procesamiento de código de barras C++
 description: Escáner de códigos de barras C++ y biblioteca generadora de códigos de barras 1D y 2D. Cree y lea diferentes tipos de códigos de barras 1D, 2D y postales
-lang: es/
+lang: es
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}

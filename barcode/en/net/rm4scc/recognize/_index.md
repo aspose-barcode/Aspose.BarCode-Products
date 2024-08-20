@@ -1,10 +1,9 @@
 ---
 title: Scan Royal Mail 4-State Customer Code (RM4SCC) Images via .NET
-weight: 1510
 description: C# sample code to scan and decode Royal Mail 4-State Customer Code (RM4SCC) barcode type in .NET Framework, .NET Standard, COM Interloop for PHP, VBScript, Delphi, or C++.
-lang: 
+lang: en
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /net/rm4scc/recognize/
 aliases:
 - /net/recognize/rm4scc/

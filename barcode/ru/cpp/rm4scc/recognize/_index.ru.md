@@ -1,10 +1,9 @@
 ---
 title: Сканировать изображения Код клиента Royal Mail из 4 штатов (RM4SCC) через C++
-weight: 1510
 description: Пример кода C++ для сканирования и декодирования Код клиента Royal Mail из 4 штатов (RM4SCC) в среде выполнения C++ для 32-разрядной версии Windows, 64-разрядной версии Windows или 64-разрядной версии Linux.
-lang: ru/
+lang: ru
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /ru/cpp/rm4scc/recognize/
 aliases:
 - /ru/cpp/recognize/rm4scc/

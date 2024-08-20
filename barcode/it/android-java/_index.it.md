@@ -1,9 +1,9 @@
 ---
 title: Codice a barre Android API | Scansiona o genera codici a barre
 description: Libreria scanner di codici a barre Android per riconoscere diversi tipi di codici a barre 1D, 2D e postali. Scansiona i codici a barre da qualsiasi angolazione nelle app Android.
-lang: it/
+lang: it
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}

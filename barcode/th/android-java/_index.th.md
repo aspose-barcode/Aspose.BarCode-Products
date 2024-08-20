@@ -1,9 +1,9 @@
 ---
 title: บาร์โค้ด Android API | สแกนหรือสร้างบาร์โค้ด
 description: ห้องสมุดเครื่องสแกนบาร์โค้ด Android เพื่อจดจำบาร์โค้ด 1D, 2D และไปรษณีย์ประเภทต่างๆ สแกนบาร์โค้ดได้ทุกมุมในแอป Android
-lang: th/
+lang: th
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}

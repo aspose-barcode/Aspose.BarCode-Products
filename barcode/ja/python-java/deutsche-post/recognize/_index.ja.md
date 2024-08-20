@@ -2,9 +2,9 @@
 title: Python via Java 経由で Deutsche Post Identcode と Deutsche Post Leitcode 画像をスキャンします
 weight: 1510
 description: Java ランタイム環境を使用した Deutsche Post Identcode と Deutsche Post Leitcode 認識のための Python ソース コード。
-lang: ja/
+lang: ja
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /ja/python-java/deutsche-post/recognize/
 aliases:
 - /ja/python-java/recognize/deutsche-post/

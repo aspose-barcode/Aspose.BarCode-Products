@@ -1,9 +1,9 @@
 ---
 title: Representar imágenes de códigos de barras lineales y 2D en SQL Server Reporting Services
 description: Extensión de representación de SQL Server Reporting Services&colon; exporte imágenes de códigos de barras lineales y 2D en SSRS. Renderice etiquetas de código de barras en formatos BMP JPEG GIF y PNG.
-lang: es/
+lang: es
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}

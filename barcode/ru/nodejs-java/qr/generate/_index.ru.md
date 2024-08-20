@@ -1,9 +1,9 @@
 ---
 title: Создайте Код QR, код GS1 QR изображений с помощью Node.js via Java
 description: Образец кода Node.js для создания Код QR, код GS1 QR в приложениях JavaScript.
-lang: ru/
+lang: ru
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /ru/nodejs-java/qr/generate/
 aliases:
 - /ru/nodejs-java/generate/qr/

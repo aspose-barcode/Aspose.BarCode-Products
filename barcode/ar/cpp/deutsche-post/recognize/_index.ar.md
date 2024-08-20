@@ -2,9 +2,9 @@
 title: مسح ضوئي لصور Deutsche Post رمز التعريف و Deutsche Post Leitcode عبر C++
 weight: 1510
 description: نموذج لرمز C ++ لمسح Deutsche Post رمز التعريف و Deutsche Post Leitcode وفك تشفيره في C ++ Runtime Environment لنظام التشغيل Windows 32 بت أو Windows 64 بت أو Linux 64 بت.
-lang: ar/
+lang: ar
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /ar/cpp/deutsche-post/recognize/
 aliases:
 - /ar/cpp/recognize/deutsche-post/

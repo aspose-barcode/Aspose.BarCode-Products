@@ -2,7 +2,7 @@
 title: Scannen Sie EAN (Internationale Artikelnummer) Barcode Bilder über Java
 weight: 1510
 description: Java-Quellcode zum Lesen und Dekodieren von EAN (Internationale Artikelnummer) Barcode in der Java-Laufzeitumgebung für JSP/JSF-Anwendungen und Desktop-Anwendungen.
-lang: de/
+lang: de
 langdirlevel: 2
 locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
 url: /de/java/ean/recognize/

@@ -1,9 +1,9 @@
 ---
 title: Создайте Штрих-код Standard 2 of 5 (Промышленный 2 из 5) изображений с помощью .NET
 description: Исходный код C# для создания Штрих-код Standard 2 of 5 (Промышленный 2 из 5) в .NET Framework, .NET Standard, COM Interloop для PHP, VBScript, Delphi и C++.
-lang: ru/
+lang: ru
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /ru/net/standard2of5/generate/
 aliases:
 - /ru/net/generate/standard2of5/

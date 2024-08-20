@@ -2,9 +2,9 @@
 title: Java 経由で Deutsche Post Identcode と Deutsche Post Leitcode 画像をスキャンします
 weight: 1510
 description: JSP/JSF アプリケーションおよびデスクトップ アプリケーションの Java ランタイム環境で Deutsche Post Identcode と Deutsche Post Leitcode を読み取り、デコードするための Java ソース コード。
-lang: ja/
+lang: ja
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /ja/java/deutsche-post/recognize/
 aliases:
 - /ja/java/recognize/deutsche-post/

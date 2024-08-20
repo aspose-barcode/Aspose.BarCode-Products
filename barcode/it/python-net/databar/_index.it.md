@@ -2,9 +2,9 @@
 title: GS1 DataBar in Python via .NET
 url: /it/python-net/databar/
 description: L'API Aspose.Barcode per Python via .NET consente di personalizzare, generare e riconoscere i codici a barre GS1 DataBar nella tua applicazione Python
-lang: it/
+lang: it
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

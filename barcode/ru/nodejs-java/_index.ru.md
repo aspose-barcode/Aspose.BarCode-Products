@@ -1,9 +1,9 @@
 ---
 title: Nodejs сканер штрих-кода и генератор API
 description: Библиотека сканирования и генерации штрих-кодов Node.js для типов 1D, 2D и Postal. Легко интегрируйте в приложения React Angular QR-код maxicode Aztec Code128 EAN-128 и многое другое.
-lang: ru/
+lang: ru
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}

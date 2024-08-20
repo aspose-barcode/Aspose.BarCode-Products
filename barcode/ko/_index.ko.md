@@ -1,9 +1,9 @@
 ---
 title: 온프레미스, Cloud Barcode SDK
 description: 하이 코드 API 또는 클라우드 기반 SDK를 통해 바코드 처리 애플리케이션을 구축하십시오. 바코드 생성 또는 인식을 위해 크로스 플랫폼 앱을 사용하십시오.
-lang: ko/
+lang: ko
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
