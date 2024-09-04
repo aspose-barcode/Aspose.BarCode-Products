@@ -2,9 +2,16 @@
 title: Aztec in PHP via Java
 url: /php-java/aztec/
 description: Aspose.Barcode for PHP via Java API allows customize, generate and recognize Aztec barcodes in your PHP application
-lang: 
+lang: en
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
+aliases:
+- /nl/php-java/aztec/
+- /sv/php-java/aztec/
+- /hu/php-java/aztec/
+- /hi/php-java/aztec/
+- /el/php-java/aztec/
+- /cs/php-java/aztec/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

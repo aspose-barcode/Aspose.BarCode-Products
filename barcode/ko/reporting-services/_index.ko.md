@@ -1,9 +1,9 @@
 ---
 title: SQL Server Reporting Services에서 선형 및 2D 바코드 이미지 렌더링
 description: SQL Server Reporting Services 렌더링 확장 프로그램 - SSRS에서 선형 및 2D 바코드 이미지를 내보냅니다. BMP JPEG GIF 및 PNG 형식의 바코드 레이블을 렌더링합니다.
-lang: ko/
+lang: ko
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}

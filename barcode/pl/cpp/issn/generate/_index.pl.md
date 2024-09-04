@@ -1,9 +1,9 @@
 ---
 title: Wygeneruj obrazy ISSN kod kreskowy za pomocą C++
 description: Przykład kodu C++ do generowania kodu ISSN kod kreskowy w środowisku wykonawczym C++ dla 32-bitowych systemów Windows, 64-bitowych systemów Windows i 64-bitowych systemów Linux.
-lang: pl/
+lang: pl
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /pl/cpp/issn/generate/
 aliases:
 - /pl/cpp/generate/issn/

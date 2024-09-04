@@ -2,9 +2,9 @@
 title: Numérisez les images Code-barres Standard 2 of 5 (Industriel 2 sur 5) via .NET
 weight: 1510
 description: Exemple de code C# pour analyser et décoder le type de code-barres Code-barres Standard 2 of 5 (Industriel 2 sur 5) dans .NET Framework, .NET Standard, COM Interloop pour PHP, VBScript, Delphi ou C++.
-lang: fr/
+lang: fr
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /fr/net/standard2of5/recognize/
 aliases:
 - /fr/net/recognize/standard2of5/

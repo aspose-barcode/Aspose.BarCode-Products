@@ -1,9 +1,9 @@
 ---
 title: C++ バーコード処理 API
 description: 1D および 2D バーコード用の C++ バーコード スキャナーおよびジェネレーター ライブラリ。さまざまな種類の 1D、2D、郵便バーコードの作成と読み取り
-lang: ja/
+lang: ja
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}

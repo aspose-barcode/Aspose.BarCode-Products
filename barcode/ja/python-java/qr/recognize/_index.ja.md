@@ -2,9 +2,9 @@
 title: Python via Java 経由で QR コード、GS1 QR コード 画像をスキャンします
 weight: 1510
 description: Java ランタイム環境を使用した QR コード、GS1 QR コード 認識のための Python ソース コード。
-lang: ja/
+lang: ja
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /ja/python-java/qr/recognize/
 aliases:
 - /ja/python-java/recognize/qr/

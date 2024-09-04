@@ -2,9 +2,9 @@
 title: C++을(를) 통해 Standard 2 of 5 (Industrial 2 of 5) 바코드 이미지 스캔
 weight: 1510
 description: Windows 32비트, Windows 64비트 또는 Linux 64비트용 C++ 런타임 환경에서 Standard 2 of 5 (Industrial 2 of 5) 바코드을 스캔하고 디코딩하는 C++ 샘플 코드.
-lang: ko/
+lang: ko
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /ko/cpp/standard2of5/recognize/
 aliases:
 - /ko/cpp/recognize/standard2of5/

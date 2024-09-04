@@ -2,9 +2,9 @@
 title: مسح ضوئي لصور معشق 2 من 5 (ITF) الباركود عبر .NET
 weight: 1510
 description: نموذج كود C # لمسح نوع الرمز الشريطي معشق 2 من 5 (ITF) الباركود وفك تشفيره في .NET Framework أو .NET Standard أو COM Interloop لـ PHP أو VBScript أو Delphi أو C ++.
-lang: ar/
+lang: ar
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /ar/net/itf/recognize/
 aliases:
 - /ar/net/recognize/itf/

@@ -1,9 +1,9 @@
 ---
 title: Android via Java 経由で PDF417 バーコード イメージを生成
 description: Android ランタイム環境で PDF417 バーコード を作成するための Android ソースコード。
-lang: ja/
+lang: ja
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /ja/android-java/pdf417/generate/
 aliases:
 - /ja/android-java/generate/pdf417/

@@ -2,9 +2,16 @@
 title: PDF417 in Node.js via Java
 url: /nodejs-java/pdf417/
 description: Aspose.Barcode for Node.js via Java API allows customize, generate and recognize PDF417 barcodes in your JavaScript application
-lang: 
+lang: en
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
+aliases:
+- /nl/nodejs-java/pdf417/
+- /sv/nodejs-java/pdf417/
+- /hu/nodejs-java/pdf417/
+- /hi/nodejs-java/pdf417/
+- /el/nodejs-java/pdf417/
+- /cs/nodejs-java/pdf417/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -2,9 +2,9 @@
 title: .NET 経由で GS1 DataBar (全方向、スタック全方向、拡張、拡張スタック、および切り詰め) バーコード 画像をスキャンします
 weight: 1510
 description: .NET Framework、.NET Standard、COM Interloop for PHP、VBScript、Delphi、または C++ で GS1 DataBar (全方向、スタック全方向、拡張、拡張スタック、および切り詰め) バーコード バーコード タイプをスキャンしてデコードするための C# サンプル コード。
-lang: ja/
+lang: ja
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /ja/net/databar/recognize/
 aliases:
 - /ja/net/recognize/databar/

@@ -1,9 +1,9 @@
 ---
 title: Android via Java 経由で GS1 DataBar (全方向、スタック全方向、拡張、拡張スタック、および切り詰め) バーコード イメージを生成
 description: Android ランタイム環境で GS1 DataBar (全方向、スタック全方向、拡張、拡張スタック、および切り詰め) バーコード を作成するための Android ソースコード。
-lang: ja/
+lang: ja
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /ja/android-java/databar/generate/
 aliases:
 - /ja/android-java/generate/databar/

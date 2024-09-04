@@ -2,9 +2,9 @@
 title: Pindai Gambar kode batang DotCode melalui Java
 weight: 1510
 description: Kode sumber Java untuk membaca dan mendekode kode batang DotCode di Java Runtime Environment untuk Aplikasi JSP/JSF dan Aplikasi Desktop.
-lang: id/
+lang: id
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /id/java/dotcode/recognize/
 aliases:
 - /id/java/recognize/dotcode/

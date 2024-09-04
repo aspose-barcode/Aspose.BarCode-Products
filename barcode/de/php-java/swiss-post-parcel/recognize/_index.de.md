@@ -2,7 +2,7 @@
 title: Scannen Sie Swiss Post Parcel Bilder über PHP via Java
 weight: 1510
 description: PHP-Beispielcode zum Lesen von Swiss Post Parcel in PHP-basierten Anwendungen.
-lang: de/
+lang: de
 langdirlevel: 2
 locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
 url: /de/php-java/swiss-post-parcel/recognize/

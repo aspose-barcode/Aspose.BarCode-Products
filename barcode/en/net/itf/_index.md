@@ -2,9 +2,16 @@
 title: ITF in .NET
 url: /net/itf/
 description: Aspose.Barcode for .NET API allows customize, generate and recognize ITF barcodes in your C# application
-lang: 
+lang: en
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
+aliases:
+- /nl/net/itf/
+- /sv/net/itf/
+- /hu/net/itf/
+- /hi/net/itf/
+- /el/net/itf/
+- /cs/net/itf/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

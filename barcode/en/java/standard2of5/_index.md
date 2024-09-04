@@ -2,9 +2,16 @@
 title: Standard 2 of 5 in Java
 url: /java/standard2of5/
 description: Aspose.Barcode for Java API allows customize, generate and recognize Standard 2 of 5 barcodes in your Java application
-lang: 
+lang: en
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
+aliases:
+- /nl/java/standard2of5/
+- /sv/java/standard2of5/
+- /hu/java/standard2of5/
+- /hi/java/standard2of5/
+- /el/java/standard2of5/
+- /cs/java/standard2of5/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

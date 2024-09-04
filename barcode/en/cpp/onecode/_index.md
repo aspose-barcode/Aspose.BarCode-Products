@@ -2,9 +2,16 @@
 title: USPS OneCode in C++
 url: /cpp/onecode/
 description: Aspose.Barcode for C++ API allows customize, generate and recognize USPS OneCode barcodes in your C++ application
-lang: 
+lang: en
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
+aliases:
+- /nl/cpp/onecode/
+- /sv/cpp/onecode/
+- /hu/cpp/onecode/
+- /hi/cpp/onecode/
+- /el/cpp/onecode/
+- /cs/cpp/onecode/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

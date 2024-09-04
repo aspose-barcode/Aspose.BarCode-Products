@@ -2,9 +2,16 @@
 title: Swiss QR in PHP via Java
 url: /php-java/swiss-qr/
 description: Aspose.Barcode for PHP via Java API allows customize, generate and recognize Swiss QR barcodes in your PHP application
-lang: 
+lang: en
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
+aliases:
+- /nl/php-java/swiss-qr/
+- /sv/php-java/swiss-qr/
+- /hu/php-java/swiss-qr/
+- /hi/php-java/swiss-qr/
+- /el/php-java/swiss-qr/
+- /cs/php-java/swiss-qr/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -2,9 +2,16 @@
 title: RM4SCC in Java
 url: /java/rm4scc/
 description: Aspose.Barcode for Java API allows customize, generate and recognize RM4SCC barcodes in your Java application
-lang: 
+lang: en
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
+aliases:
+- /nl/java/rm4scc/
+- /sv/java/rm4scc/
+- /hu/java/rm4scc/
+- /hi/java/rm4scc/
+- /el/java/rm4scc/
+- /cs/java/rm4scc/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

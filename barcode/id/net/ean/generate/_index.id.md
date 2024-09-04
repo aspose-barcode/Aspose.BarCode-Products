@@ -1,9 +1,9 @@
 ---
 title: Hasilkan Gambar Kode batang EAN (Nomor Artikel Internasional). melalui .NET
 description: Kode sumber C# untuk pembuatan Kode batang EAN (Nomor Artikel Internasional). dalam .NET Framework, .NET Standard, COM Interloop untuk PHP, VBScript, Delphi, dan C++.
-lang: id/
+lang: id
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /id/net/ean/generate/
 aliases:
 - /id/net/generate/ean/

@@ -2,9 +2,16 @@
 title: Royal Mail in Node.js via Java
 url: /nodejs-java/royal-mail/
 description: Aspose.Barcode for Node.js via Java API allows customize, generate and recognize Royal Mail barcodes in your JavaScript application
-lang: 
+lang: en
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
+aliases:
+- /nl/nodejs-java/royal-mail/
+- /sv/nodejs-java/royal-mail/
+- /hu/nodejs-java/royal-mail/
+- /hi/nodejs-java/royal-mail/
+- /el/nodejs-java/royal-mail/
+- /cs/nodejs-java/royal-mail/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

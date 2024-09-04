@@ -2,9 +2,9 @@
 title: Numérisez les images Codes-barres Code 93 étendus et Code 93 standard via Java
 weight: 1510
 description: Code source Java pour lire et décoder Codes-barres Code 93 étendus et Code 93 standard dans l'environnement d'exécution Java pour les applications JSP/JSF et les applications de bureau.
-lang: fr/
+lang: fr
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /fr/java/code93/recognize/
 aliases:
 - /fr/java/recognize/code93/

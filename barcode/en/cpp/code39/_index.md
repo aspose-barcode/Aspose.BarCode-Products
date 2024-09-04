@@ -2,9 +2,16 @@
 title: Code 39 in C++
 url: /cpp/code39/
 description: Aspose.Barcode for C++ API allows customize, generate and recognize Code 39 barcodes in your C++ application
-lang: 
+lang: en
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
+aliases:
+- /nl/cpp/code39/
+- /sv/cpp/code39/
+- /hu/cpp/code39/
+- /hi/cpp/code39/
+- /el/cpp/code39/
+- /cs/cpp/code39/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

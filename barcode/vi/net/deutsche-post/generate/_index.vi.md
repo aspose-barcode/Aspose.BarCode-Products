@@ -1,9 +1,9 @@
 ---
 title: Tạo hình ảnh Deutsche Post Mã định danh và Deutsche Post Leitcode qua .NET
 description: Mã nguồn C# để tạo Deutsche Post Mã định danh và Deutsche Post Leitcode trong .NET Framework, .NET Standard, COM Interloop cho PHP, VBScript, Delphi và C++.
-lang: vi/
+lang: vi
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /vi/net/deutsche-post/generate/
 aliases:
 - /vi/net/generate/deutsche-post/

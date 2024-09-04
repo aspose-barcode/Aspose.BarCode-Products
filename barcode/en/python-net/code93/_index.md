@@ -2,9 +2,16 @@
 title: Code 93 in Python via .NET
 url: /python-net/code93/
 description: Aspose.Barcode for Python via .NET API allows customize, generate and recognize Code 93 barcodes in your Python application
-lang: 
+lang: en
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
+aliases:
+- /nl/python-net/code93/
+- /sv/python-net/code93/
+- /hu/python-net/code93/
+- /hi/python-net/code93/
+- /el/python-net/code93/
+- /cs/python-net/code93/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

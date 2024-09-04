@@ -1,9 +1,9 @@
 ---
 title: Java을(를) 통해 Australia Post 바코드 및 Australia Post eParcel 이미지 생성
 description: JSP/JSF 애플리케이션 및 데스크탑 애플리케이션용 Java Runtime Environment에서 Australia Post 바코드 및 Australia Post eParcel 생성을 위한 Java 샘플 코드.
-lang: ko/
+lang: ko
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /ko/java/australia-post/generate/
 aliases:
 - /ko/java/generate/australia-post/

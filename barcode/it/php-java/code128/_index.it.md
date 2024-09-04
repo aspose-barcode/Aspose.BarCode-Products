@@ -2,9 +2,9 @@
 title: GS1 Code 128 in PHP via Java
 url: /it/php-java/code128/
 description: L'API Aspose.Barcode per PHP via Java consente di personalizzare, generare e riconoscere i codici a barre GS1 Code 128 nella tua applicazione PHP
-lang: it/
+lang: it
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

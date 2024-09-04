@@ -2,9 +2,9 @@
 title: Android via Java 経由で Singapore Post バーコード 画像をスキャンします
 weight: 1510
 description: Android ランタイム環境で Singapore Post バーコード を認識するための Android サンプル コード。
-lang: ja/
+lang: ja
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /ja/android-java/singapore-post/recognize/
 aliases:
 - /ja/android-java/recognize/singapore-post/

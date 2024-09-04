@@ -2,9 +2,9 @@
 title: Code 93 ใน Node.js via Java
 url: /th/nodejs-java/code93/
 description: Aspose.Barcode สำหรับ Node.js via Java API อนุญาตให้ปรับแต่ง สร้าง และจดจำบาร์โค้ด Code 93 ในแอปพลิเคชัน JavaScript ของคุณ
-lang: th/
+lang: th
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

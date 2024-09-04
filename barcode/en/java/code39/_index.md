@@ -2,9 +2,16 @@
 title: Code 39 in Java
 url: /java/code39/
 description: Aspose.Barcode for Java API allows customize, generate and recognize Code 39 barcodes in your Java application
-lang: 
+lang: en
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
+aliases:
+- /nl/java/code39/
+- /sv/java/code39/
+- /hu/java/code39/
+- /hi/java/code39/
+- /el/java/code39/
+- /cs/java/code39/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

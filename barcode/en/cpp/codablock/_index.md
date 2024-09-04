@@ -2,9 +2,16 @@
 title: Codablock-F in C++
 url: /cpp/codablock/
 description: Aspose.Barcode for C++ API allows customize, generate and recognize Codablock-F barcodes in your C++ application
-lang: 
+lang: en
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
+aliases:
+- /nl/cpp/codablock/
+- /sv/cpp/codablock/
+- /hu/cpp/codablock/
+- /hi/cpp/codablock/
+- /el/cpp/codablock/
+- /cs/cpp/codablock/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

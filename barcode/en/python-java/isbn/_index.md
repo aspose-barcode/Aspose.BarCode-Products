@@ -2,9 +2,16 @@
 title: ISBN in Python via Java
 url: /python-java/isbn/
 description: Aspose.Barcode for Python via Java API allows customize, generate and recognize ISBN barcodes in your Python application
-lang: 
+lang: en
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
+aliases:
+- /nl/python-java/isbn/
+- /sv/python-java/isbn/
+- /hu/python-java/isbn/
+- /hi/python-java/isbn/
+- /el/python-java/isbn/
+- /cs/python-java/isbn/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

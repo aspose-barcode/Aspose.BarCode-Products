@@ -2,9 +2,16 @@
 title: Royal Mail in Python via .NET
 url: /python-net/royal-mail/
 description: Aspose.Barcode for Python via .NET API allows customize, generate and recognize Royal Mail barcodes in your Python application
-lang: 
+lang: en
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
+aliases:
+- /nl/python-net/royal-mail/
+- /sv/python-net/royal-mail/
+- /hu/python-net/royal-mail/
+- /hi/python-net/royal-mail/
+- /el/python-net/royal-mail/
+- /cs/python-net/royal-mail/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -2,9 +2,9 @@
 title: Quét hình ảnh Mã vạch Standard 2 of 5 (Công nghiệp 2 trên 5) qua Node.js via Java
 weight: 1510
 description: Mã nguồn Node.js để quét và giải mã Mã vạch Standard 2 of 5 (Công nghiệp 2 trên 5) trong các ứng dụng JavaScript.
-lang: vi/
+lang: vi
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /vi/nodejs-java/standard2of5/recognize/
 aliases:
 - /vi/nodejs-java/recognize/standard2of5/

@@ -2,9 +2,9 @@
 title: Pindai Gambar Kode batang Standard 2 of 5 (Industri 2 dari 5). melalui C++
 weight: 1510
 description: Contoh kode C++ untuk memindai dan mendekode Kode batang Standard 2 of 5 (Industri 2 dari 5). di C++ Runtime Environment untuk Windows 32-bit, Windows 64-bit, atau Linux 64-bit.
-lang: id/
+lang: id
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /id/cpp/standard2of5/recognize/
 aliases:
 - /id/cpp/recognize/standard2of5/

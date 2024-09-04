@@ -2,9 +2,16 @@
 title: Data Matrix in Java
 url: /java/datamatrix/
 description: Aspose.Barcode for Java API allows customize, generate and recognize Data Matrix barcodes in your Java application
-lang: 
+lang: en
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
+aliases:
+- /nl/java/datamatrix/
+- /sv/java/datamatrix/
+- /hu/java/datamatrix/
+- /hi/java/datamatrix/
+- /el/java/datamatrix/
+- /cs/java/datamatrix/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

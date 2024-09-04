@@ -1,9 +1,9 @@
 ---
 title: Gere Royal Mail 4-State Customer Code (RM4SCC) Imagens via Node.js via Java
 description: Código de exemplo Node.js para geração de Royal Mail 4-State Customer Code (RM4SCC) em aplicativos JavaScript.
-lang: pt/
+lang: pt
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /pt/nodejs-java/rm4scc/generate/
 aliases:
 - /pt/nodejs-java/generate/rm4scc/

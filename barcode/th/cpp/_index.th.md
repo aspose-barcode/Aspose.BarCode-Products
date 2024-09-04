@@ -1,9 +1,9 @@
 ---
 title: API การประมวลผลบาร์โค้ด C ++
 description: เครื่องสแกนบาร์โค้ด C++ และไลบรารีตัวสร้างสำหรับบาร์โค้ด 1D และ 2D สร้างและอ่านบาร์โค้ด 1D, 2D และ Postal ประเภทต่างๆ
-lang: th/
+lang: th
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}

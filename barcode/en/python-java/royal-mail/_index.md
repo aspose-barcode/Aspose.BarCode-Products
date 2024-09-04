@@ -2,9 +2,16 @@
 title: Royal Mail in Python via Java
 url: /python-java/royal-mail/
 description: Aspose.Barcode for Python via Java API allows customize, generate and recognize Royal Mail barcodes in your Python application
-lang: 
+lang: en
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
+aliases:
+- /nl/python-java/royal-mail/
+- /sv/python-java/royal-mail/
+- /hu/python-java/royal-mail/
+- /hi/python-java/royal-mail/
+- /el/python-java/royal-mail/
+- /cs/python-java/royal-mail/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

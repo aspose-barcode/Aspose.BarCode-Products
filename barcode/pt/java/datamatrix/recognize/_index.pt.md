@@ -2,9 +2,9 @@
 title: Digitalize Código Data Matrix Imagens via Java
 weight: 1510
 description: Código-fonte Java para ler e decodificar Código Data Matrix no Java Runtime Environment para aplicativos JSP/JSF e aplicativos de desktop.
-lang: pt/
+lang: pt
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /pt/java/datamatrix/recognize/
 aliases:
 - /pt/java/recognize/datamatrix/

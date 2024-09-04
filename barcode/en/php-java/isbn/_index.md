@@ -2,9 +2,16 @@
 title: ISBN in PHP via Java
 url: /php-java/isbn/
 description: Aspose.Barcode for PHP via Java API allows customize, generate and recognize ISBN barcodes in your PHP application
-lang: 
+lang: en
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
+aliases:
+- /nl/php-java/isbn/
+- /sv/php-java/isbn/
+- /hu/php-java/isbn/
+- /hi/php-java/isbn/
+- /el/php-java/isbn/
+- /cs/php-java/isbn/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

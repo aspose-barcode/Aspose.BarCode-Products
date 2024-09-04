@@ -2,7 +2,7 @@
 title: Scannen Sie Royal Mail 4-State-Kundencode (RM4SCC) Bilder über Java
 weight: 1510
 description: Java-Quellcode zum Lesen und Dekodieren von Royal Mail 4-State-Kundencode (RM4SCC) in der Java-Laufzeitumgebung für JSP/JSF-Anwendungen und Desktop-Anwendungen.
-lang: de/
+lang: de
 langdirlevel: 2
 locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
 url: /de/java/rm4scc/recognize/

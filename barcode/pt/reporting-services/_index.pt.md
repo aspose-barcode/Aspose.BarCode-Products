@@ -1,9 +1,9 @@
 ---
 title: Renderizar imagens lineares e de código de barras 2D no SQL Server Reporting Services
 description: Extensão de renderização do SQL Server Reporting Services - Exporte imagens lineares e de código de barras 2D no SSRS. Renderize etiquetas de código de barras nos formatos BMP JPEG GIF e PNG.
-lang: pt/
+lang: pt
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}

@@ -1,9 +1,9 @@
 ---
 title: API mã vạch C# .NET - Đọc tạo và nhận dạng mã vạch
 description: Aspose.BarCode dành cho API .NET để tạo và nhận dạng mã vạch 1D 2D. Tích hợp trong các ứng dụng C# VB.NET ASP.NET để quét và in nhãn mã vạch
-lang: vi/
+lang: vi
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}

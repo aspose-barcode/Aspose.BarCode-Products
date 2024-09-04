@@ -2,7 +2,7 @@
 title: Data Matrix in Android via Java
 url: /de/android-java/datamatrix/
 description: Mit der Aspose.Barcode for Android via Java-API können Sie Data Matrix-Barcodes in Ihrer Java-Anwendung anpassen, generieren und erkennen
-lang: de/
+lang: de
 langdirlevel: 2
 locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
 ---

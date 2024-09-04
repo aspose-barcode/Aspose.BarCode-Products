@@ -2,9 +2,9 @@
 title: Pindai Gambar Code 93 Extended dan Code 93 Barcode standar melalui Node.js via Java
 weight: 1510
 description: Kode sumber Node.js untuk pemindaian dan decoding Code 93 Extended dan Code 93 Barcode standar dalam aplikasi JavaScript.
-lang: id/
+lang: id
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /id/nodejs-java/code93/recognize/
 aliases:
 - /id/nodejs-java/recognize/code93/

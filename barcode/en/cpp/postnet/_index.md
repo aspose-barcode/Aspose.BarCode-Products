@@ -2,9 +2,16 @@
 title: Postnet in C++
 url: /cpp/postnet/
 description: Aspose.Barcode for C++ API allows customize, generate and recognize Postnet barcodes in your C++ application
-lang: 
+lang: en
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
+aliases:
+- /nl/cpp/postnet/
+- /sv/cpp/postnet/
+- /hu/cpp/postnet/
+- /hi/cpp/postnet/
+- /el/cpp/postnet/
+- /cs/cpp/postnet/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

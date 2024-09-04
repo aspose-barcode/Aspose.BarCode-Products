@@ -2,9 +2,16 @@
 title: Royal Mail in C++
 url: /cpp/royal-mail/
 description: Aspose.Barcode for C++ API allows customize, generate and recognize Royal Mail barcodes in your C++ application
-lang: 
+lang: en
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
+aliases:
+- /nl/cpp/royal-mail/
+- /sv/cpp/royal-mail/
+- /hu/cpp/royal-mail/
+- /hi/cpp/royal-mail/
+- /el/cpp/royal-mail/
+- /cs/cpp/royal-mail/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

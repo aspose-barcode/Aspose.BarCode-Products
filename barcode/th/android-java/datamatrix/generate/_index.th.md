@@ -1,9 +1,9 @@
 ---
 title: สร้าง รหัส Data Matrix รูปภาพผ่าน Android via Java
 description: ซอร์สโค้ดของ Android เพื่อสร้าง รหัส Data Matrix ใน Android Runtime Environment
-lang: th/
+lang: th
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /th/android-java/datamatrix/generate/
 aliases:
 - /th/android-java/generate/datamatrix/

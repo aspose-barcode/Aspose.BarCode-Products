@@ -2,9 +2,9 @@
 title: Code 93 in Node.js via Java
 url: /it/nodejs-java/code93/
 description: L'API Aspose.Barcode per Node.js via Java consente di personalizzare, generare e riconoscere i codici a barre Code 93 nella tua applicazione JavaScript
-lang: it/
+lang: it
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

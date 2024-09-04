@@ -2,9 +2,9 @@
 title: Quét hình ảnh Mã vạch Standard 2 of 5 (Công nghiệp 2 trên 5) qua Android via Java
 weight: 1510
 description: Mã mẫu Android để nhận dạng Mã vạch Standard 2 of 5 (Công nghiệp 2 trên 5) trong Môi trường thời gian chạy Android.
-lang: vi/
+lang: vi
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /vi/android-java/standard2of5/recognize/
 aliases:
 - /vi/android-java/recognize/standard2of5/

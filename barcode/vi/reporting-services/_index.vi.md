@@ -1,9 +1,9 @@
 ---
 title: Kết xuất hình ảnh mã vạch tuyến tính & 2D trong SQL Server Reporting Services
 description: Tiện ích mở rộng kết xuất Dịch vụ Báo cáo SQL Server - Xuất hình ảnh Mã vạch 2D và Tuyến tính trong SSRS. Kết xuất nhãn mã vạch ở định dạng BMP JPEG GIF và PNG.
-lang: vi/
+lang: vi
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}

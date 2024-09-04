@@ -2,9 +2,9 @@
 title: Android via Java aracılığıyla GS1 DataBar (Çok Yönlü, Yığılmış Çok Yönlü, Genişletilmiş, Genişletilmiş Yığınlanmış ve Kesilmiş) barkod Görsellerini tarayın
 weight: 1510
 description: Android Çalışma Zamanı Ortamında GS1 DataBar (Çok Yönlü, Yığılmış Çok Yönlü, Genişletilmiş, Genişletilmiş Yığınlanmış ve Kesilmiş) barkod ailesini tanımak için Android örnek kodu.
-lang: tr/
+lang: tr
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /tr/android-java/databar/recognize/
 aliases:
 - /tr/android-java/recognize/databar/

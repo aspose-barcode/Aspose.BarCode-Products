@@ -2,9 +2,9 @@
 title: مسح ضوئي لصور GS1 DataBar (الرمز الشريطي متعدد الاتجاهات والمكدس متعدد الاتجاهات والموسّع والمكدس والمقطع) عبر Java
 weight: 1510
 description: كود مصدر جافا لقراءة وفك تشفير GS1 DataBar (الرمز الشريطي متعدد الاتجاهات والمكدس متعدد الاتجاهات والموسّع والمكدس والمقطع) في Java Runtime Environment لتطبيق JSP / JSF وتطبيقات سطح المكتب.
-lang: ar/
+lang: ar
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /ar/java/databar/recognize/
 aliases:
 - /ar/java/recognize/databar/

@@ -1,9 +1,9 @@
 ---
 title: Wygeneruj obrazy Kody kreskowe Codablock-F i GS1 Codablock-F za pomocą Java
 description: Przykładowy kod Java dla generacji Kody kreskowe Codablock-F i GS1 Codablock-F w środowisku Java Runtime Environment dla aplikacji JSP/JSF i aplikacji komputerowych.
-lang: pl/
+lang: pl
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /pl/java/codablock/generate/
 aliases:
 - /pl/java/generate/codablock/

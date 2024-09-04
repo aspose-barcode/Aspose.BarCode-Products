@@ -1,9 +1,9 @@
 ---
 title: إنشاء صور EAN (رقم المقالة الدولي) الرمز الشريطي عبر Android via Java
 description: كود مصدر Android لإنشاء EAN (رقم المقالة الدولي) الرمز الشريطي في بيئة وقت تشغيل Android.
-lang: ar/
+lang: ar
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /ar/android-java/ean/generate/
 aliases:
 - /ar/android-java/generate/ean/

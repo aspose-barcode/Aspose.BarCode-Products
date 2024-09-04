@@ -1,9 +1,9 @@
 ---
 title: Wygeneruj obrazy QR Kod, GS1 QR Kod za pomocą Node.js via Java
 description: Przykładowy kod Node.js dla generacji QR Kod, GS1 QR Kod w aplikacjach JavaScript.
-lang: pl/
+lang: pl
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /pl/nodejs-java/qr/generate/
 aliases:
 - /pl/nodejs-java/generate/qr/

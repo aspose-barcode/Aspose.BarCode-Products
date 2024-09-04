@@ -2,9 +2,16 @@
 title: RM4SCC in SharePoint
 url: /sharepoint/rm4scc/
 description: Aspose.Barcode for SharePoint API allows customize, generate and recognize RM4SCC barcodes in your C# application
-lang: 
+lang: en
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
+aliases:
+- /nl/sharepoint/rm4scc/
+- /sv/sharepoint/rm4scc/
+- /hu/sharepoint/rm4scc/
+- /hi/sharepoint/rm4scc/
+- /el/sharepoint/rm4scc/
+- /cs/sharepoint/rm4scc/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

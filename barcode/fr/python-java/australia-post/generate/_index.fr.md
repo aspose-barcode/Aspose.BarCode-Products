@@ -1,9 +1,9 @@
 ---
 title: Générez des images Code-barres Australia Post et e-colis Australia Post via Python via Java
 description: Exemple de code Python pour générer Code-barres Australia Post et e-colis Australia Post à l'aide de Java Runtime Environment.
-lang: fr/
+lang: fr
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /fr/python-java/australia-post/generate/
 aliases:
 - /fr/python-java/generate/australia-post/

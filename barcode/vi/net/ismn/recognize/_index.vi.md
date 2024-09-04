@@ -2,9 +2,9 @@
 title: Quét hình ảnh mã vạch ISMN qua .NET
 weight: 1510
 description: Mã mẫu C# để quét và giải mã loại mã vạch mã vạch ISMN trong .NET Framework, .NET Standard, COM Interloop cho PHP, VBScript, Delphi hoặc C++.
-lang: vi/
+lang: vi
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /vi/net/ismn/recognize/
 aliases:
 - /vi/net/recognize/ismn/

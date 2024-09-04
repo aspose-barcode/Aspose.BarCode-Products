@@ -2,7 +2,7 @@
 title: Scannen Sie GS1 Code 128 Barcode Bilder über C++
 weight: 1510
 description: C++-Beispielcode zum Scannen und Dekodieren von GS1 Code 128 Barcode in der C++-Laufzeitumgebung für Windows 32-Bit, Windows 64-Bit oder Linux 64-Bit.
-lang: de/
+lang: de
 langdirlevel: 2
 locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
 url: /de/cpp/code128/recognize/

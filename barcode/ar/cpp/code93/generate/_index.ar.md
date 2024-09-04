@@ -1,9 +1,9 @@
 ---
 title: إنشاء صور Code 93 موسعة و Code 93 رموز شريطية قياسية عبر C++
 description: مثال C ++ على رمز لإنشاء Code 93 موسعة و Code 93 رموز شريطية قياسية في بيئة تشغيل C ++ لنظام التشغيل Windows 32 بت و Windows 64 بت و Linux 64 بت.
-lang: ar/
+lang: ar
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /ar/cpp/code93/generate/
 aliases:
 - /ar/cpp/generate/code93/

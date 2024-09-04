@@ -2,9 +2,16 @@
 title: RM4SCC in C++
 url: /cpp/rm4scc/
 description: Aspose.Barcode for C++ API allows customize, generate and recognize RM4SCC barcodes in your C++ application
-lang: 
+lang: en
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
+aliases:
+- /nl/cpp/rm4scc/
+- /sv/cpp/rm4scc/
+- /hu/cpp/rm4scc/
+- /hi/cpp/rm4scc/
+- /el/cpp/rm4scc/
+- /cs/cpp/rm4scc/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

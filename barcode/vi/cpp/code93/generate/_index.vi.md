@@ -1,9 +1,9 @@
 ---
 title: Tạo hình ảnh Code 93 Mã vạch tiêu chuẩn và Code 93 qua C++
 description: Ví dụ về mã C++ để tạo Code 93 Mã vạch tiêu chuẩn và Code 93 trong Môi trường thời gian chạy C++ dành cho Windows 32-bit, Windows 64-bit và Linux 64-bit.
-lang: vi/
+lang: vi
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /vi/cpp/code93/generate/
 aliases:
 - /vi/cpp/generate/code93/

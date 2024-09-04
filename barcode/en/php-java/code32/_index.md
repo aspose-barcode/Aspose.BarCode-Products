@@ -2,9 +2,16 @@
 title: Code 32 in PHP via Java
 url: /php-java/code32/
 description: Aspose.Barcode for PHP via Java API allows customize, generate and recognize Code 32 barcodes in your PHP application
-lang: 
+lang: en
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
+aliases:
+- /nl/php-java/code32/
+- /sv/php-java/code32/
+- /hu/php-java/code32/
+- /hi/php-java/code32/
+- /el/php-java/code32/
+- /cs/php-java/code32/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

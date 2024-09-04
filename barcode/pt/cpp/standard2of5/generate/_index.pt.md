@@ -1,9 +1,9 @@
 ---
 title: Gere Standard 2 of 5 (Industrial 2 de 5) código de barras Imagens via C++
 description: Exemplo de código C++ para gerar Standard 2 of 5 (Industrial 2 de 5) código de barras no C++ Runtime Environment para Windows de 32 bits, Windows de 64 bits e Linux de 64 bits.
-lang: pt/
+lang: pt
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /pt/cpp/standard2of5/generate/
 aliases:
 - /pt/cpp/generate/standard2of5/

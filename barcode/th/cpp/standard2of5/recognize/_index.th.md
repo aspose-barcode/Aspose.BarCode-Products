@@ -2,9 +2,9 @@
 title: สแกนรูปภาพ Standard 2 of 5 (อุตสาหกรรม 2 จาก 5) บาร์โค้ด ผ่าน C++
 weight: 1510
 description: โค้ดตัวอย่าง C++ เพื่อสแกนและถอดรหัส Standard 2 of 5 (อุตสาหกรรม 2 จาก 5) บาร์โค้ด ใน C++ Runtime Environment สำหรับ Windows 32 บิต, Windows 64 บิต หรือ Linux 64 บิต
-lang: th/
+lang: th
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /th/cpp/standard2of5/recognize/
 aliases:
 - /th/cpp/recognize/standard2of5/

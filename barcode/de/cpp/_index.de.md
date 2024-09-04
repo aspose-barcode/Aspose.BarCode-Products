@@ -1,7 +1,7 @@
 ---
 title: C++-Barcode-Verarbeitungs-API
 description: C++-Barcode-Scanner- und Generator-Bibliothek für 1D- und 2D-Barcodes. Erstellen und lesen Sie verschiedene Arten von 1D-, 2D- und Post-Barcodes
-lang: de/
+lang: de
 langdirlevel: 2
 locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
 ---

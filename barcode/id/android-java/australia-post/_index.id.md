@@ -2,9 +2,9 @@
 title: Australia Post di Android via Java
 url: /id/android-java/australia-post/
 description: Aspose.Barcode untuk Android via Java API memungkinkan penyesuaian, pembuatan, dan pengenalan kode batang Australia Post di aplikasi Java Anda
-lang: id/
+lang: id
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -2,7 +2,7 @@
 title: RM4SCC in Python via .NET
 url: /de/python-net/rm4scc/
 description: Mit der Aspose.Barcode for Python via .NET-API können Sie RM4SCC-Barcodes in Ihrer Python-Anwendung anpassen, generieren und erkennen
-lang: de/
+lang: de
 langdirlevel: 2
 locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
 ---

@@ -1,9 +1,9 @@
 ---
 title: Java Barcode API - إنشاء أو مسح 1D 2D والرموز الشريطية البريدية
 description: مكتبة باركود جافا لإنشاء قراءة التعرف على الرموز الشريطية. يدعم Barcode SDK الرموز الشريطية الخطية والثنائية الأبعاد بالإضافة إلى الصادرات إلى JPG GIF PNG BMP والمزيد من تنسيقات الصور
-lang: ar/
+lang: ar
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}

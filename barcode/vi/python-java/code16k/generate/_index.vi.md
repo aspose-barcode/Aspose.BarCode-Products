@@ -1,9 +1,9 @@
 ---
 title: Tạo hình ảnh Mã vạch Code 16K qua Python via Java
 description: Mã mẫu Python để tạo Mã vạch Code 16K bằng Môi trường thời gian chạy Java.
-lang: vi/
+lang: vi
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /vi/python-java/code16k/generate/
 aliases:
 - /vi/python-java/generate/code16k/

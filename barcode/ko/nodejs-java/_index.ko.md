@@ -1,9 +1,9 @@
 ---
 title: Nodejs 바코드 스캐너 및 생성기 API
 description: 1D, 2D 및 우편 유형에 대한 Node.js 바코드 스캔 및 생성 라이브러리입니다. QR Code maxicode Aztec Code128 EAN-128 등을 위해 React Angular 앱에 쉽게 통합하세요.
-lang: ko/
+lang: ko
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}

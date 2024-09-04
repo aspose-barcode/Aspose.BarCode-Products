@@ -1,9 +1,9 @@
 ---
 title: Java Barcode API - 1D 2D 및 우편 바코드 생성 또는 스캔
 description: 읽기 인식 바코드를 생성하는 Java 바코드 라이브러리. Barcode SDK는 선형 및 2D 바코드는 물론 JPG GIF PNG BMP 및 더 많은 이미지 형식으로 내보내기를 지원합니다.
-lang: ko/
+lang: ko
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}

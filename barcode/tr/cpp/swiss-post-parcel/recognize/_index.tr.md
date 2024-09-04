@@ -2,9 +2,9 @@
 title: C++ aracılığıyla Swiss Post Parcel Görsellerini tarayın
 weight: 1510
 description: Windows 32-bit, Windows 64-bit veya Linux 64-bit için C++ Çalışma Zamanı Ortamında Swiss Post Parcel taramak ve kodunu çözmek için C++ örnek kodu.
-lang: tr/
+lang: tr
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /tr/cpp/swiss-post-parcel/recognize/
 aliases:
 - /tr/cpp/recognize/swiss-post-parcel/

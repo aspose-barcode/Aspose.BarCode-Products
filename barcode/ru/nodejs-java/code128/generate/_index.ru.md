@@ -1,9 +1,9 @@
 ---
 title: Создайте Штрих-код GS1 Code 128 изображений с помощью Node.js via Java
 description: Образец кода Node.js для создания Штрих-код GS1 Code 128 в приложениях JavaScript.
-lang: ru/
+lang: ru
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /ru/nodejs-java/code128/generate/
 aliases:
 - /ru/nodejs-java/generate/code128/
@@ -181,53 +181,63 @@ API штрих-кода Aspose поддерживаются всеми осно�
             font-size: 12px !important;
         }
         .barcode-gen-lcs-result {
+            display: none;
+            position: fixed; /* Positioned relative to the viewport */
+            top: 0;
+            left: 0;
             width: 100%;
             height: 100%;
-            top: 0;
-            position: absolute;
-            display: none;
-            z-index: 9998;
+            justify-content: center;
+            align-items: center;
+            z-index: 999;
             -webkit-transition: opacity 400ms ease-in;
             -moz-transition: opacity 400ms ease-in;
             transition: opacity 400ms ease-in;
         }
-        .barcode-gen-lcs-result > div {
+        .barcode-gen-lcs-result-curtain {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background-color: rgba(0, 0, 0, 0.5); /* Semi-transparent background */
+        }
+        .barcode-gen-lcs-result-content {
             position: relative;
-            margin: 0 auto;
-            top: 25%;
-            padding: 5px 20px 13px 20px;
+            background: #ffffff;
+            padding: 35px;
             border-radius: 10px;
             box-shadow: 20px 20px 7px rgba(88,88,88,0.8);
-            background: #ffffff;
+            z-index: 1000;
+            text-align: center;
+            min-width: 300px; /* Ensure a minimum width of 300px */
             pointer-events: auto;
+            margin: auto 30px;
         }
-        .barcode-gen-lcs-result header {
-            position: relative;
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-            padding:  5px 0 10px 0;
-            border-bottom: dotted 1px #1a89d0;
-        }
-        .barcode-gen-lcs-result header span {
-            font-size: 18px;
-            font-weight: 700;
-        }
-        .barcode-gen-lcs-result header i {
-            cursor: pointer;
+        .barcode-gen-lcs-result-close-btn {
+            position: absolute;
+            top: 10px;
+            right: 15px;
+            font-size: 24px;
+            font-weight: bold;
             color: #1a89d0;
-            font-size: 24px !important;
+            cursor: pointer;
         }
-        .barcode-gen-lcs-result header i:hover {
-            color: #3071a9;
+        .barcode-gen-lcs-result-close-btn:hover {
+            color: #0c74a0;
         }
-        .barcode-gen-lcs-result article {
-            max-height: 500px;
-            overflow: auto;
-            margin: 25px 0 15px 0;
-            display: flex;
-            flex-direction: row;
-            justify-content: center;
+        .barcode-gen-lcs-result-body {
+            text-align: center;
+        }
+        .barcode-gen-lcs-result-body img {
+            max-width: 100%;
+            height: auto;
+            margin-bottom: 15px;
+        }
+        #barcode-gen-lcs-result-message {
+            margin: 0;
+            font-size: 16px;
+            color: #555;
         }
         .generationResult_row {
             margin-left: 20px;
@@ -331,13 +341,15 @@ generator.<span class="hljs-title function_">getParameters</span>().<span class=
 <span class="hljs-comment">// Generate and save image</span>
 generator.<span class="hljs-title function_">save</span>(<span class="hljs-string">&quot;example.png&quot;</span>, aspose_barcode.<span class="hljs-property">BarCodeImageFormat</span>.<span class="hljs-property">PNG</span>);
 </code></pre></div>
-    <div class="barcode-gen-lcs-result" onclick="BarcodeGenLcsCurtainClick(this)">
-        <div>
-            <header>
-                <span>Generation result</span>
-                <i class="fa fa-times" onclick="BarcodeGenLcsCloseResult(this);"></i>
-            </header>
-            <article><div><img id="generatedImage" style="min-width: 350px; max-width: 450px;"></img></div><div id="generationResult"></div></article>
+    <div id="barcode-gen-lcs-result" class="barcode-gen-lcs-result">
+        <div class="barcode-gen-lcs-result-curtain" onclick="closePopup()"></div>
+            <div class="barcode-gen-lcs-result-content">
+                <span class="barcode-gen-lcs-result-close-btn" onclick="closePopup()">&times;</span>
+                <div class="barcode-gen-lcs-result-body">
+                    <img id="barcode-gen-lcs-result-image" src="" alt="Generated barcode image">
+                    <p id="barcode-gen-lcs-result-message"></p>
+                </div>
+            </div>
         </div>
     </div>
     <script>
@@ -381,23 +393,18 @@ generator.<span class="hljs-title function_">save</span>(<span class="hljs-strin
 					showGenerationResult(res.imgBase64);
 				}
                 else {
-					showError(res.errorMsg);
+					showGenerationError(res.errorMsg);
 				}
 			}).fail(function (jqXHR, textStatus, errorThrown) {
-				showError(textStatus)
-			}).always(function() {
+				if (jqXHR.status == 429) {
+					const json = jqXHR.responseJSON;
+					showGenerationOperationLimitPopup(json.errorMsg);
+					return;
+				}
+    		}).always(function() {
 				cancelAsyncGenerationProcess();
 			});
         };
-        function makeErrorMessage(xhr) {
-            let message = null;
-            if (xhr.status == 0) {
-                message = `Connection error: ${xhr.statusText}`;
-            } else {
-                message = `${xhr.statusText} ${xhr.status}: ${xhr.responseText}`;
-            }
-            return message;
-        }
         async function generateBarcodeAsync() {
             let button = $("#generate-button");
             if(button.hasClass("barcode-gen-lcs-disabled")) return false;
@@ -421,28 +428,34 @@ generator.<span class="hljs-title function_">save</span>(<span class="hljs-strin
             $("#generationResult").html('');
             button.addClass("barcode-gen-lcs-disabled");
         }
-        function showError(errorText) {
-            let button = $("#generate-button");
-            let resultDialog = button.closest(".barcode-gen-lcs").find(".barcode-gen-lcs-result");
-            resultDialog.find("#generationResult").text(errorText);
-            resultDialog.slideDown(200);
+        function showGenerationOperationLimitPopup(errorText) {
+            showGenerationResult(errorText, null);
         }
-        function showGenerationResult(imgBase64) {
-            let button = $("#generate-button");
-            let resultDialog = button.closest(".barcode-gen-lcs").find(".barcode-gen-lcs-result");
-            resultDialog.find("#generatedImage").attr('src', 'data:image/svg+xml;base64,' + imgBase64);
-            resultDialog.slideDown(200);
+        function showGenerationError(errorText) {
+            showGenerationResult(errorText, null);
+        }
+        function showGenerationResult(messageText, imgBase64) {
+            const popupContainer = document.getElementById('barcode-gen-lcs-result');
+            const popupMessage = document.getElementById('barcode-gen-lcs-result-message');
+            const popupImage = document.getElementById('barcode-gen-lcs-result-image');
+            popupMessage.innerText = messageText;
+            if (imgBase64 !== null){
+                popupImage.src = 'data:image/svg+xml;base64,' + imgBase64;
+                popupImage.style.display = 'inline-block';
+            }
+            else {
+                popupImage.style.display = 'none';
+                popupImage.src = '';
+            }
+            popupContainer.style.display = 'flex'; // Show popup
         }
         function cancelAsyncGenerationProcess() {
             enableGenerateBtn();
         }
-        function BarcodeGenLcsCurtainClick(obj)
+        function closePopup(obj)
         {
-            if($(event.target).is(".barcode-gen-lcs-result")) $(obj).hide();
-        }
-        function BarcodeGenLcsCloseResult(obj)
-        {
-            $(obj).closest(".barcode-gen-lcs-result").slideUp(200);
+            const popupContainer = document.getElementById('barcode-gen-lcs-result');
+            popupContainer.style.display = 'none'; // Hide popup
         }
     </script>
 </div>

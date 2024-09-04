@@ -2,9 +2,9 @@
 title: สแกนรูปภาพ บาร์โค้ด UPC (รหัสผลิตภัณฑ์สากล) ผ่าน PHP via Java
 weight: 1510
 description: โค้ดตัวอย่าง PHP เพื่ออ่าน บาร์โค้ด UPC (รหัสผลิตภัณฑ์สากล) ในแอปพลิเคชันที่ใช้ PHP
-lang: th/
+lang: th
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /th/php-java/upc/recognize/
 aliases:
 - /th/php-java/recognize/upc/

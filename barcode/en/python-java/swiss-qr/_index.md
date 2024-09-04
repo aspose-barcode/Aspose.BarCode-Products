@@ -2,9 +2,16 @@
 title: Swiss QR in Python via Java
 url: /python-java/swiss-qr/
 description: Aspose.Barcode for Python via Java API allows customize, generate and recognize Swiss QR barcodes in your Python application
-lang: 
+lang: en
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
+aliases:
+- /nl/python-java/swiss-qr/
+- /sv/python-java/swiss-qr/
+- /hu/python-java/swiss-qr/
+- /hi/python-java/swiss-qr/
+- /el/python-java/swiss-qr/
+- /cs/python-java/swiss-qr/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

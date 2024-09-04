@@ -2,9 +2,16 @@
 title: Swiss QR in C++
 url: /cpp/swiss-qr/
 description: Aspose.Barcode for C++ API allows customize, generate and recognize Swiss QR barcodes in your C++ application
-lang: 
+lang: en
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
+aliases:
+- /nl/cpp/swiss-qr/
+- /sv/cpp/swiss-qr/
+- /hu/cpp/swiss-qr/
+- /hi/cpp/swiss-qr/
+- /el/cpp/swiss-qr/
+- /cs/cpp/swiss-qr/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

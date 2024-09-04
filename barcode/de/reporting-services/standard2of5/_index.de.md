@@ -2,7 +2,7 @@
 title: Standard 2 of 5 in SQL Reporting Services
 url: /de/reporting-services/standard2of5/
 description: Mit der Aspose.Barcode for SQL Reporting Services-API können Sie Standard 2 of 5-Barcodes in Ihrer C#-Anwendung anpassen, generieren und erkennen
-lang: de/
+lang: de
 langdirlevel: 2
 locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
 ---

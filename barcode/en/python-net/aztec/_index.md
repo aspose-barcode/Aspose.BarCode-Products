@@ -2,9 +2,16 @@
 title: Aztec in Python via .NET
 url: /python-net/aztec/
 description: Aspose.Barcode for Python via .NET API allows customize, generate and recognize Aztec barcodes in your Python application
-lang: 
+lang: en
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
+aliases:
+- /nl/python-net/aztec/
+- /sv/python-net/aztec/
+- /hu/python-net/aztec/
+- /hi/python-net/aztec/
+- /el/python-net/aztec/
+- /cs/python-net/aztec/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

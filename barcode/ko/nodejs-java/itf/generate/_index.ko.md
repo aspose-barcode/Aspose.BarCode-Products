@@ -1,9 +1,9 @@
 ---
 title: Node.js via Java을(를) 통해 인터리브 2-of-5(ITF) 바코드 이미지 생성
 description: JavaScript 애플리케이션에서 인터리브 2-of-5(ITF) 바코드 생성을 위한 Node.js 샘플 코드입니다.
-lang: ko/
+lang: ko
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /ko/nodejs-java/itf/generate/
 aliases:
 - /ko/nodejs-java/generate/itf/

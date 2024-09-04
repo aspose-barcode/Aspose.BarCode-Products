@@ -1,9 +1,9 @@
 ---
 title: Nodejs Barkod Tarayıcı ve Oluşturucu API'sı
 description: 1D, 2D ve Posta türleri için Node.js barkod tarama ve oluşturma kitaplığı. QR Code maxicode Aztec Code128 EAN-128 ve daha fazlası için React Angular uygulamalarına kolayca entegre edin.
-lang: tr/
+lang: tr
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}

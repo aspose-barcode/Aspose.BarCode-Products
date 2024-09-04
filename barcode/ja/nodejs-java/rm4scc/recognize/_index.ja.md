@@ -2,9 +2,9 @@
 title: Node.js via Java 経由で Royal Mail 4-State 顧客コード (RM4SCC) 画像をスキャンします
 weight: 1510
 description: JavaScript アプリケーションでの Royal Mail 4-State 顧客コード (RM4SCC) のスキャンとデコード用の Node.js ソース コード。
-lang: ja/
+lang: ja
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /ja/nodejs-java/rm4scc/recognize/
 aliases:
 - /ja/nodejs-java/recognize/rm4scc/

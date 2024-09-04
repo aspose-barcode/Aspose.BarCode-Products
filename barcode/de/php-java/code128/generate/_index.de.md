@@ -1,7 +1,7 @@
 ---
 title: Generieren Sie GS1 Code 128 Barcode Bilder über PHP via Java
 description: PHP-Quellcode zum Erstellen von GS1 Code 128 Barcode in PHP-basierten Anwendungen.
-lang: de/
+lang: de
 langdirlevel: 2
 locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
 url: /de/php-java/code128/generate/

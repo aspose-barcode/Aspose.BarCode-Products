@@ -1,9 +1,9 @@
 ---
 title: Hasilkan Gambar Deutsche Post Kode Ident dan Deutsche Post Leitcode melalui Node.js via Java
 description: Contoh kode Node.js untuk pembuatan Deutsche Post Kode Ident dan Deutsche Post Leitcode di aplikasi JavaScript.
-lang: id/
+lang: id
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /id/nodejs-java/deutsche-post/generate/
 aliases:
 - /id/nodejs-java/generate/deutsche-post/

@@ -2,9 +2,16 @@
 title: Codablock-F in PHP via Java
 url: /php-java/codablock/
 description: Aspose.Barcode for PHP via Java API allows customize, generate and recognize Codablock-F barcodes in your PHP application
-lang: 
+lang: en
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
+aliases:
+- /nl/php-java/codablock/
+- /sv/php-java/codablock/
+- /hu/php-java/codablock/
+- /hi/php-java/codablock/
+- /el/php-java/codablock/
+- /cs/php-java/codablock/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -2,9 +2,16 @@
 title: Code 32 in SQL Reporting Services
 url: /reporting-services/code32/
 description: Aspose.Barcode for SQL Reporting Services API allows customize, generate and recognize Code 32 barcodes in your C# application
-lang: 
+lang: en
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
+aliases:
+- /nl/reporting-services/code32/
+- /sv/reporting-services/code32/
+- /hu/reporting-services/code32/
+- /hi/reporting-services/code32/
+- /el/reporting-services/code32/
+- /cs/reporting-services/code32/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

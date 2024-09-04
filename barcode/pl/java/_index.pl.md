@@ -1,9 +1,9 @@
 ---
 title: Java Barcode API - Generuj lub skanuj 1D 2D i pocztowe kody kreskowe
 description: Biblioteka kodów kreskowych Java do generowania odczytanych rozpoznawalnych kodów kreskowych. Zestaw SDK kodów kreskowych obsługuje kody kreskowe liniowe i 2D, a także eksport do JPG GIF PNG BMP i innych formatów graficznych
-lang: pl/
+lang: pl
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}

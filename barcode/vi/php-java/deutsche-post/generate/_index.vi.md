@@ -1,9 +1,9 @@
 ---
 title: Tạo hình ảnh Deutsche Post Mã định danh và Deutsche Post Leitcode qua PHP via Java
 description: Mã nguồn PHP để tạo Deutsche Post Mã định danh và Deutsche Post Leitcode trong các ứng dụng dựa trên PHP.
-lang: vi/
+lang: vi
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /vi/php-java/deutsche-post/generate/
 aliases:
 - /vi/php-java/generate/deutsche-post/

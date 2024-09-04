@@ -1,9 +1,9 @@
 ---
 title: .NET을(를) 통해 Australia Post 바코드 및 Australia Post eParcel 이미지 생성
 description: .NET Framework, .NET Standard, PHP용 COM Interloop, VBScript, Delphi 및 C++에서 Australia Post 바코드 및 Australia Post eParcel 생성을 위한 C# 소스 코드.
-lang: ko/
+lang: ko
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /ko/net/australia-post/generate/
 aliases:
 - /ko/net/generate/australia-post/

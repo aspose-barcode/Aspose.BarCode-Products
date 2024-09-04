@@ -1,9 +1,9 @@
 ---
 title: Tạo hình ảnh Mã vạch Codablock-F và GS1 Codablock-F qua .NET
 description: Mã nguồn C# để tạo Mã vạch Codablock-F và GS1 Codablock-F trong .NET Framework, .NET Standard, COM Interloop cho PHP, VBScript, Delphi và C++.
-lang: vi/
+lang: vi
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /vi/net/codablock/generate/
 aliases:
 - /vi/net/generate/codablock/

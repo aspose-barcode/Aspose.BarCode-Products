@@ -2,9 +2,9 @@
 title: Zeskanuj obrazy Kody kreskowe Code 93 rozszerzone i Code 93 standardowe za pomocą Java
 weight: 1510
 description: Kod źródłowy Java do odczytu i dekodowania Kody kreskowe Code 93 rozszerzone i Code 93 standardowe w środowisku Java Runtime Environment dla aplikacji JSP/JSF i aplikacji komputerowych.
-lang: pl/
+lang: pl
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /pl/java/code93/recognize/
 aliases:
 - /pl/java/recognize/code93/

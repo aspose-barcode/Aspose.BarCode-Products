@@ -2,9 +2,9 @@
 title: สแกนรูปภาพ บาร์โค้ด Codablock-F และ GS1 Codablock-F ผ่าน .NET
 weight: 1510
 description: โค้ดตัวอย่าง C# เพื่อสแกนและถอดรหัสประเภทบาร์โค้ด บาร์โค้ด Codablock-F และ GS1 Codablock-F ใน .NET Framework, .NET Standard, COM Interloop สำหรับ PHP, VBScript, Delphi หรือ C++
-lang: th/
+lang: th
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /th/net/codablock/recognize/
 aliases:
 - /th/net/recognize/codablock/

@@ -1,9 +1,9 @@
 ---
 title: Python via Java aracılığıyla İtalyan Ecza Kodu (Code 32) barkodu Görselleri oluşturun
 description: Java Runtime Environment kullanarak İtalyan Ecza Kodu (Code 32) barkodu oluşturmak için Python örnek kodu.
-lang: tr/
+lang: tr
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /tr/python-java/code32/generate/
 aliases:
 - /tr/python-java/generate/code32/

@@ -2,9 +2,9 @@
 title: Code 32 di SharePoint
 url: /id/sharepoint/code32/
 description: Aspose.Barcode untuk SharePoint API memungkinkan penyesuaian, pembuatan, dan pengenalan kode batang Code 32 di aplikasi C# Anda
-lang: id/
+lang: id
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

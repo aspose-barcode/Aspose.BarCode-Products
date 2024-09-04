@@ -2,7 +2,7 @@
 title: Scannen Sie Code 93 Erweiterte und Code 93 Standard-Barcodes Bilder über .NET
 weight: 1510
 description: C#-Beispielcode zum Scannen und Dekodieren des Barcodetyps Code 93 Erweiterte und Code 93 Standard-Barcodes in .NET Framework, .NET Standard, COM Interloop für PHP, VBScript, Delphi oder C++.
-lang: de/
+lang: de
 langdirlevel: 2
 locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
 url: /de/net/code93/recognize/

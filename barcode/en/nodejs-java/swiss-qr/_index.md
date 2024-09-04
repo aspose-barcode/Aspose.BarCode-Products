@@ -2,9 +2,16 @@
 title: Swiss QR in Node.js via Java
 url: /nodejs-java/swiss-qr/
 description: Aspose.Barcode for Node.js via Java API allows customize, generate and recognize Swiss QR barcodes in your JavaScript application
-lang: 
+lang: en
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
+aliases:
+- /nl/nodejs-java/swiss-qr/
+- /sv/nodejs-java/swiss-qr/
+- /hu/nodejs-java/swiss-qr/
+- /hi/nodejs-java/swiss-qr/
+- /el/nodejs-java/swiss-qr/
+- /cs/nodejs-java/swiss-qr/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -2,9 +2,16 @@
 title: GS1 DataBar in SQL Reporting Services
 url: /reporting-services/databar/
 description: Aspose.Barcode for SQL Reporting Services API allows customize, generate and recognize GS1 DataBar barcodes in your C# application
-lang: 
+lang: en
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
+aliases:
+- /nl/reporting-services/databar/
+- /sv/reporting-services/databar/
+- /hu/reporting-services/databar/
+- /hi/reporting-services/databar/
+- /el/reporting-services/databar/
+- /cs/reporting-services/databar/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

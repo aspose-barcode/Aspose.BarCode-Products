@@ -2,9 +2,16 @@
 title: Code 32 in C++
 url: /cpp/code32/
 description: Aspose.Barcode for C++ API allows customize, generate and recognize Code 32 barcodes in your C++ application
-lang: 
+lang: en
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
+aliases:
+- /nl/cpp/code32/
+- /sv/cpp/code32/
+- /hu/cpp/code32/
+- /hi/cpp/code32/
+- /el/cpp/code32/
+- /cs/cpp/code32/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

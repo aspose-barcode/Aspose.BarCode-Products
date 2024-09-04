@@ -2,7 +2,7 @@
 title: Swiss Post Parcel in C++
 url: /de/cpp/swiss-post-parcel/
 description: Mit der Aspose.Barcode for C++-API können Sie Swiss Post Parcel-Barcodes in Ihrer C++-Anwendung anpassen, generieren und erkennen
-lang: de/
+lang: de
 langdirlevel: 2
 locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
 ---

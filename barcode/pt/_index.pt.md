@@ -1,9 +1,9 @@
 ---
 title: No local, Cloud Barcode SDK
 description: Crie aplicativos de processamento de código de barras por meio de APIs de alto código ou SDKs baseados em nuvem. Use aplicativos de plataforma cruzada para geração ou reconhecimento de código de barras.
-lang: pt/
+lang: pt
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}

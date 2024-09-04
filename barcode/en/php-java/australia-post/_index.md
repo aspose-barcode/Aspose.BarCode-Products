@@ -2,9 +2,16 @@
 title: Australia Post in PHP via Java
 url: /php-java/australia-post/
 description: Aspose.Barcode for PHP via Java API allows customize, generate and recognize Australia Post barcodes in your PHP application
-lang: 
+lang: en
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
+aliases:
+- /nl/php-java/australia-post/
+- /sv/php-java/australia-post/
+- /hu/php-java/australia-post/
+- /hi/php-java/australia-post/
+- /el/php-java/australia-post/
+- /cs/php-java/australia-post/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

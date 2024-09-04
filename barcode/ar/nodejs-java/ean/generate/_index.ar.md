@@ -1,9 +1,9 @@
 ---
 title: إنشاء صور EAN (رقم المقالة الدولي) الرمز الشريطي عبر Node.js via Java
 description: نموذج كود Node.js للإنشاء EAN (رقم المقالة الدولي) الرمز الشريطي في تطبيقات جافا سكريبت.
-lang: ar/
+lang: ar
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /ar/nodejs-java/ean/generate/
 aliases:
 - /ar/nodejs-java/generate/ean/

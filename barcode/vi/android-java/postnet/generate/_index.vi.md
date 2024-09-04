@@ -1,9 +1,9 @@
 ---
 title: Tạo hình ảnh Mã vạch Postnet qua Android via Java
 description: Mã nguồn Android để tạo Mã vạch Postnet trong Môi trường thời gian chạy Android.
-lang: vi/
+lang: vi
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /vi/android-java/postnet/generate/
 aliases:
 - /vi/android-java/generate/postnet/

@@ -1,9 +1,9 @@
 ---
 title: Tạo hình ảnh Mã QR, Mã GS1 QR qua .NET
 description: Mã nguồn C# để tạo Mã QR, Mã GS1 QR trong .NET Framework, .NET Standard, COM Interloop cho PHP, VBScript, Delphi và C++.
-lang: vi/
+lang: vi
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /vi/net/qr/generate/
 aliases:
 - /vi/net/generate/qr/

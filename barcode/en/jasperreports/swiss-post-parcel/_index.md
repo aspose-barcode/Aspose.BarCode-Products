@@ -2,9 +2,16 @@
 title: Swiss Post Parcel in JasperReports
 url: /jasperreports/swiss-post-parcel/
 description: Aspose.Barcode for JasperReports API allows customize, generate and recognize Swiss Post Parcel barcodes in your Java application
-lang: 
+lang: en
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
+aliases:
+- /nl/jasperreports/swiss-post-parcel/
+- /sv/jasperreports/swiss-post-parcel/
+- /hu/jasperreports/swiss-post-parcel/
+- /hi/jasperreports/swiss-post-parcel/
+- /el/jasperreports/swiss-post-parcel/
+- /cs/jasperreports/swiss-post-parcel/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -2,9 +2,16 @@
 title: ITF in Node.js via Java
 url: /nodejs-java/itf/
 description: Aspose.Barcode for Node.js via Java API allows customize, generate and recognize ITF barcodes in your JavaScript application
-lang: 
+lang: en
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
+aliases:
+- /nl/nodejs-java/itf/
+- /sv/nodejs-java/itf/
+- /hu/nodejs-java/itf/
+- /hi/nodejs-java/itf/
+- /el/nodejs-java/itf/
+- /cs/nodejs-java/itf/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

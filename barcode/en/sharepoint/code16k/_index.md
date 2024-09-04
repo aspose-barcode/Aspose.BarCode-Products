@@ -2,9 +2,16 @@
 title: Code 16K in SharePoint
 url: /sharepoint/code16k/
 description: Aspose.Barcode for SharePoint API allows customize, generate and recognize Code 16K barcodes in your C# application
-lang: 
+lang: en
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
+aliases:
+- /nl/sharepoint/code16k/
+- /sv/sharepoint/code16k/
+- /hu/sharepoint/code16k/
+- /hi/sharepoint/code16k/
+- /el/sharepoint/code16k/
+- /cs/sharepoint/code16k/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

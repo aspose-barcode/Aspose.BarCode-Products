@@ -2,7 +2,7 @@
 title: Scannen Sie Swiss Post Parcel Bilder über .NET
 weight: 1510
 description: C#-Beispielcode zum Scannen und Dekodieren des Barcodetyps Swiss Post Parcel in .NET Framework, .NET Standard, COM Interloop für PHP, VBScript, Delphi oder C++.
-lang: de/
+lang: de
 langdirlevel: 2
 locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
 url: /de/net/swiss-post-parcel/recognize/

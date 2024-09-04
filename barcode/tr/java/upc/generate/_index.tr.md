@@ -1,9 +1,9 @@
 ---
 title: Java aracılığıyla UPC (Evrensel Ürün Kodu) barkodu Görselleri oluşturun
 description: JSP/JSF uygulamaları ve masaüstü uygulamaları için Java Runtime Environment'ta UPC (Evrensel Ürün Kodu) barkodu nesli için Java örnek kodu.
-lang: tr/
+lang: tr
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /tr/java/upc/generate/
 aliases:
 - /tr/java/generate/upc/

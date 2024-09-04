@@ -2,9 +2,16 @@
 title: ISBN in SQL Reporting Services
 url: /reporting-services/isbn/
 description: Aspose.Barcode for SQL Reporting Services API allows customize, generate and recognize ISBN barcodes in your C# application
-lang: 
+lang: en
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
+aliases:
+- /nl/reporting-services/isbn/
+- /sv/reporting-services/isbn/
+- /hu/reporting-services/isbn/
+- /hi/reporting-services/isbn/
+- /el/reporting-services/isbn/
+- /cs/reporting-services/isbn/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

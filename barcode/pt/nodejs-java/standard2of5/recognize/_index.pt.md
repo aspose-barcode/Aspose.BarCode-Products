@@ -2,9 +2,9 @@
 title: Digitalize Standard 2 of 5 (Industrial 2 de 5) código de barras Imagens via Node.js via Java
 weight: 1510
 description: Código-fonte Node.js para varredura e decodificação de Standard 2 of 5 (Industrial 2 de 5) código de barras em aplicativos JavaScript.
-lang: pt/
+lang: pt
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /pt/nodejs-java/standard2of5/recognize/
 aliases:
 - /pt/nodejs-java/recognize/standard2of5/

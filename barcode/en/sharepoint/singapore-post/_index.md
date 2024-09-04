@@ -2,9 +2,16 @@
 title: Singapore Post in SharePoint
 url: /sharepoint/singapore-post/
 description: Aspose.Barcode for SharePoint API allows customize, generate and recognize Singapore Post barcodes in your C# application
-lang: 
+lang: en
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
+aliases:
+- /nl/sharepoint/singapore-post/
+- /sv/sharepoint/singapore-post/
+- /hu/sharepoint/singapore-post/
+- /hi/sharepoint/singapore-post/
+- /el/sharepoint/singapore-post/
+- /cs/sharepoint/singapore-post/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

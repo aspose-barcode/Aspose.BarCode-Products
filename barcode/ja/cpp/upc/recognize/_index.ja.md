@@ -2,9 +2,9 @@
 title: C++ 経由で UPC (ユニバーサル製品コード) バーコード 画像をスキャンします
 weight: 1510
 description: Windows 32 ビット、Windows 64 ビット、または Linux 64 ビットの C++ ランタイム環境で UPC (ユニバーサル製品コード) バーコード をスキャンしてデコードするための C++ サンプル コード。
-lang: ja/
+lang: ja
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /ja/cpp/upc/recognize/
 aliases:
 - /ja/cpp/recognize/upc/

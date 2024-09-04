@@ -2,9 +2,16 @@
 title: GS1 Code 128 in JasperReports
 url: /jasperreports/code128/
 description: Aspose.Barcode for JasperReports API allows customize, generate and recognize GS1 Code 128 barcodes in your Java application
-lang: 
+lang: en
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
+aliases:
+- /nl/jasperreports/code128/
+- /sv/jasperreports/code128/
+- /hu/jasperreports/code128/
+- /hi/jasperreports/code128/
+- /el/jasperreports/code128/
+- /cs/jasperreports/code128/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

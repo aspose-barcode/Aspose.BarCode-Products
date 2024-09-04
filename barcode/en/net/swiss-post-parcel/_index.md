@@ -2,9 +2,16 @@
 title: Swiss Post Parcel in .NET
 url: /net/swiss-post-parcel/
 description: Aspose.Barcode for .NET API allows customize, generate and recognize Swiss Post Parcel barcodes in your C# application
-lang: 
+lang: en
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
+aliases:
+- /nl/net/swiss-post-parcel/
+- /sv/net/swiss-post-parcel/
+- /hu/net/swiss-post-parcel/
+- /hi/net/swiss-post-parcel/
+- /el/net/swiss-post-parcel/
+- /cs/net/swiss-post-parcel/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

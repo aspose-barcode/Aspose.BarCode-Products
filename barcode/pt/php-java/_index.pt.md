@@ -1,9 +1,9 @@
 ---
 title: Gerador de código de barras PHP e API do scanner
 description: Biblioteca de leitores de código de barras PHP para reconhecer vários tipos de códigos de barras, incluindo 1D, 2D e postal. Use a API no núcleo do PHP ou dentro de uma estrutura como codeigniter, cakephp ou laravel.
-lang: pt/
+lang: pt
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}

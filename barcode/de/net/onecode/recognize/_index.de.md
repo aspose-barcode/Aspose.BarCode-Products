@@ -2,7 +2,7 @@
 title: Scannen Sie USPS OneCode Barcode Bilder über .NET
 weight: 1510
 description: C#-Beispielcode zum Scannen und Dekodieren des Barcodetyps USPS OneCode Barcode in .NET Framework, .NET Standard, COM Interloop für PHP, VBScript, Delphi oder C++.
-lang: de/
+lang: de
 langdirlevel: 2
 locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
 url: /de/net/onecode/recognize/

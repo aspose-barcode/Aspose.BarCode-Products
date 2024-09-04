@@ -2,9 +2,16 @@
 title: HIBC in SharePoint
 url: /sharepoint/hibc/
 description: Aspose.Barcode for SharePoint API allows customize, generate and recognize HIBC barcodes in your C# application
-lang: 
+lang: en
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
+aliases:
+- /nl/sharepoint/hibc/
+- /sv/sharepoint/hibc/
+- /hu/sharepoint/hibc/
+- /hi/sharepoint/hibc/
+- /el/sharepoint/hibc/
+- /cs/sharepoint/hibc/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

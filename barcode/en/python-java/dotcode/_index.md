@@ -2,9 +2,16 @@
 title: DotCode in Python via Java
 url: /python-java/dotcode/
 description: Aspose.Barcode for Python via Java API allows customize, generate and recognize DotCode barcodes in your Python application
-lang: 
+lang: en
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
+aliases:
+- /nl/python-java/dotcode/
+- /sv/python-java/dotcode/
+- /hu/python-java/dotcode/
+- /hi/python-java/dotcode/
+- /el/python-java/dotcode/
+- /cs/python-java/dotcode/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

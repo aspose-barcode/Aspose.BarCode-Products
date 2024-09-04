@@ -1,9 +1,9 @@
 ---
 title: إنشاء صور GS1 DataBar (الرمز الشريطي متعدد الاتجاهات والمكدس متعدد الاتجاهات والموسّع والمكدس والمقطع) عبر Android via Java
 description: كود مصدر Android لإنشاء GS1 DataBar (الرمز الشريطي متعدد الاتجاهات والمكدس متعدد الاتجاهات والموسّع والمكدس والمقطع) في بيئة وقت تشغيل Android.
-lang: ar/
+lang: ar
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /ar/android-java/databar/generate/
 aliases:
 - /ar/android-java/generate/databar/

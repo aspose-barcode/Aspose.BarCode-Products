@@ -2,9 +2,9 @@
 title: สแกนรูปภาพ บาร์โค้ดแบบ 2 ใน 5 ของ Interleaved (ITF) ผ่าน Python via Java
 weight: 1510
 description: ซอร์สโค้ด Python สำหรับการจดจำ บาร์โค้ดแบบ 2 ใน 5 ของ Interleaved (ITF) โดยใช้ Java Runtime Environment
-lang: th/
+lang: th
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /th/python-java/itf/recognize/
 aliases:
 - /th/python-java/recognize/itf/

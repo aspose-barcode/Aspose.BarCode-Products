@@ -2,9 +2,16 @@
 title: QR in SQL Reporting Services
 url: /reporting-services/qr/
 description: Aspose.Barcode for SQL Reporting Services API allows customize, generate and recognize QR barcodes in your C# application
-lang: 
+lang: en
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
+aliases:
+- /nl/reporting-services/qr/
+- /sv/reporting-services/qr/
+- /hu/reporting-services/qr/
+- /hi/reporting-services/qr/
+- /el/reporting-services/qr/
+- /cs/reporting-services/qr/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

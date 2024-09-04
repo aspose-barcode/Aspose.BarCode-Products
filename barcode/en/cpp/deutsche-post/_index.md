@@ -2,9 +2,16 @@
 title: Deutsche Post in C++
 url: /cpp/deutsche-post/
 description: Aspose.Barcode for C++ API allows customize, generate and recognize Deutsche Post barcodes in your C++ application
-lang: 
+lang: en
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
+aliases:
+- /nl/cpp/deutsche-post/
+- /sv/cpp/deutsche-post/
+- /hu/cpp/deutsche-post/
+- /hi/cpp/deutsche-post/
+- /el/cpp/deutsche-post/
+- /cs/cpp/deutsche-post/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

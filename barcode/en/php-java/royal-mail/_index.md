@@ -2,9 +2,16 @@
 title: Royal Mail in PHP via Java
 url: /php-java/royal-mail/
 description: Aspose.Barcode for PHP via Java API allows customize, generate and recognize Royal Mail barcodes in your PHP application
-lang: 
+lang: en
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
+aliases:
+- /nl/php-java/royal-mail/
+- /sv/php-java/royal-mail/
+- /hu/php-java/royal-mail/
+- /hi/php-java/royal-mail/
+- /el/php-java/royal-mail/
+- /cs/php-java/royal-mail/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

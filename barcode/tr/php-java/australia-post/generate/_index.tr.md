@@ -1,9 +1,9 @@
 ---
 title: PHP via Java aracılığıyla Australia Post barkod ve Australia Post eParcel Görselleri oluşturun
 description: PHP tabanlı uygulamalarda Australia Post barkod ve Australia Post eParcel oluşturmak için PHP kaynak kodu.
-lang: tr/
+lang: tr
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /tr/php-java/australia-post/generate/
 aliases:
 - /tr/php-java/generate/australia-post/

@@ -2,7 +2,7 @@
 title: Code 16K in SQL Reporting Services
 url: /de/reporting-services/code16k/
 description: Mit der Aspose.Barcode for SQL Reporting Services-API können Sie Code 16K-Barcodes in Ihrer C#-Anwendung anpassen, generieren und erkennen
-lang: de/
+lang: de
 langdirlevel: 2
 locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
 ---

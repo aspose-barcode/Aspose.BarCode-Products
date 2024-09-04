@@ -2,9 +2,9 @@
 title: Java을(를) 통해 Postnet 바코드 이미지 스캔
 weight: 1510
 description: JSP/JSF 응용 프로그램 및 데스크톱 응용 프로그램용 Java Runtime Environment에서 Postnet 바코드을 읽고 디코딩하는 Java 소스 코드입니다.
-lang: ko/
+lang: ko
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /ko/java/postnet/recognize/
 aliases:
 - /ko/java/recognize/postnet/

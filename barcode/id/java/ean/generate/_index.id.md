@@ -1,9 +1,9 @@
 ---
 title: Hasilkan Gambar Kode batang EAN (Nomor Artikel Internasional). melalui Java
 description: Contoh kode Java untuk pembuatan Kode batang EAN (Nomor Artikel Internasional). di Java Runtime Environment untuk aplikasi JSP/JSF dan aplikasi desktop.
-lang: id/
+lang: id
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /id/java/ean/generate/
 aliases:
 - /id/java/generate/ean/

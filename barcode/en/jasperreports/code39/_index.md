@@ -2,9 +2,16 @@
 title: Code 39 in JasperReports
 url: /jasperreports/code39/
 description: Aspose.Barcode for JasperReports API allows customize, generate and recognize Code 39 barcodes in your Java application
-lang: 
+lang: en
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
+aliases:
+- /nl/jasperreports/code39/
+- /sv/jasperreports/code39/
+- /hu/jasperreports/code39/
+- /hi/jasperreports/code39/
+- /el/jasperreports/code39/
+- /cs/jasperreports/code39/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

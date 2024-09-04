@@ -1,9 +1,9 @@
 ---
 title: Wygeneruj obrazy PDF417 kod kreskowy za pomocą .NET
 description: Kod źródłowy C# dla generacji PDF417 kod kreskowy w .NET Framework, .NET Standard, COM Interloop dla PHP, VBScript, Delphi i C++.
-lang: pl/
+lang: pl
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /pl/net/pdf417/generate/
 aliases:
 - /pl/net/generate/pdf417/

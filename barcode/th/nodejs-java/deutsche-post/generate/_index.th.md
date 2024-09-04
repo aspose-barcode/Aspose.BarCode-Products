@@ -1,9 +1,9 @@
 ---
 title: สร้าง Deutsche Post Identcode และ Deutsche Post Leitcode รูปภาพผ่าน Node.js via Java
 description: โค้ดตัวอย่าง Node.js สำหรับการสร้าง Deutsche Post Identcode และ Deutsche Post Leitcode ในแอปพลิเคชัน JavaScript
-lang: th/
+lang: th
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /th/nodejs-java/deutsche-post/generate/
 aliases:
 - /th/nodejs-java/generate/deutsche-post/

@@ -1,9 +1,9 @@
 ---
 title: Gere Standard 2 of 5 (Industrial 2 de 5) código de barras Imagens via Python via Java
 description: Exemplo de código Python para gerar Standard 2 of 5 (Industrial 2 de 5) código de barras usando o Java Runtime Environment.
-lang: pt/
+lang: pt
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /pt/python-java/standard2of5/generate/
 aliases:
 - /pt/python-java/generate/standard2of5/

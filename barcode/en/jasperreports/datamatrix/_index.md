@@ -2,9 +2,16 @@
 title: Data Matrix in JasperReports
 url: /jasperreports/datamatrix/
 description: Aspose.Barcode for JasperReports API allows customize, generate and recognize Data Matrix barcodes in your Java application
-lang: 
+lang: en
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
+aliases:
+- /nl/jasperreports/datamatrix/
+- /sv/jasperreports/datamatrix/
+- /hu/jasperreports/datamatrix/
+- /hi/jasperreports/datamatrix/
+- /el/jasperreports/datamatrix/
+- /cs/jasperreports/datamatrix/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

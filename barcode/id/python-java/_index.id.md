@@ -1,9 +1,9 @@
 ---
 title: Generator Kode Batang Python dan API Pemindai
 description: Pustaka pembaca kode batang Python untuk mengenali dan menghasilkan berbagai jenis kode batang, termasuk jenis 1D, 2D, dan Pos. Gunakan API dalam aplikasi Python.
-lang: id/
+lang: id
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}

@@ -2,9 +2,9 @@
 title: JasperReports의 PDF417
 url: /ko/jasperreports/pdf417/
 description: JasperReports용 Aspose.Barcode API를 사용하면 Java 애플리케이션에서 PDF417 바코드를 사용자 지정, 생성 및 인식할 수 있습니다.
-lang: ko/
+lang: ko
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

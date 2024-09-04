@@ -2,9 +2,16 @@
 title: Swiss Post Parcel in SharePoint
 url: /sharepoint/swiss-post-parcel/
 description: Aspose.Barcode for SharePoint API allows customize, generate and recognize Swiss Post Parcel barcodes in your C# application
-lang: 
+lang: en
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
+aliases:
+- /nl/sharepoint/swiss-post-parcel/
+- /sv/sharepoint/swiss-post-parcel/
+- /hu/sharepoint/swiss-post-parcel/
+- /hi/sharepoint/swiss-post-parcel/
+- /el/sharepoint/swiss-post-parcel/
+- /cs/sharepoint/swiss-post-parcel/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

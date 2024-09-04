@@ -2,9 +2,9 @@
 title: Singapore Post di Python via .NET
 url: /id/python-net/singapore-post/
 description: Aspose.Barcode untuk Python via .NET API memungkinkan penyesuaian, pembuatan, dan pengenalan kode batang Singapore Post di aplikasi Python Anda
-lang: id/
+lang: id
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

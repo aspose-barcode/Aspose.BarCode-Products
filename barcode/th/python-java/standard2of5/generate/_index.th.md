@@ -1,9 +1,9 @@
 ---
 title: สร้าง Standard 2 of 5 (อุตสาหกรรม 2 จาก 5) บาร์โค้ด รูปภาพผ่าน Python via Java
 description: โค้ดตัวอย่าง Python เพื่อสร้าง Standard 2 of 5 (อุตสาหกรรม 2 จาก 5) บาร์โค้ด โดยใช้ Java Runtime Environment
-lang: th/
+lang: th
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /th/python-java/standard2of5/generate/
 aliases:
 - /th/python-java/generate/standard2of5/

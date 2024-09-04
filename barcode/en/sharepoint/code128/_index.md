@@ -2,9 +2,16 @@
 title: GS1 Code 128 in SharePoint
 url: /sharepoint/code128/
 description: Aspose.Barcode for SharePoint API allows customize, generate and recognize GS1 Code 128 barcodes in your C# application
-lang: 
+lang: en
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
+aliases:
+- /nl/sharepoint/code128/
+- /sv/sharepoint/code128/
+- /hu/sharepoint/code128/
+- /hi/sharepoint/code128/
+- /el/sharepoint/code128/
+- /cs/sharepoint/code128/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

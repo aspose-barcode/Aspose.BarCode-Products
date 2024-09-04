@@ -2,9 +2,9 @@
 title: GS1 DataBar trong Java
 url: /vi/java/databar/
 description: API Aspose.Barcode cho Java cho phép tùy chỉnh, tạo và nhận dạng mã vạch GS1 DataBar trong ứng dụng Java của bạn
-lang: vi/
+lang: vi
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

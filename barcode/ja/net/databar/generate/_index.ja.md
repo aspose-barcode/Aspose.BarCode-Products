@@ -1,9 +1,9 @@
 ---
 title: .NET 経由で GS1 DataBar (全方向、スタック全方向、拡張、拡張スタック、および切り詰め) バーコード イメージを生成
 description: .NET Framework、.NET Standard、PHP 用の COM Interloop、VBScript、Delphi、C++ での GS1 DataBar (全方向、スタック全方向、拡張、拡張スタック、および切り詰め) バーコード 生成用の C# ソース コード。
-lang: ja/
+lang: ja
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /ja/net/databar/generate/
 aliases:
 - /ja/net/generate/databar/

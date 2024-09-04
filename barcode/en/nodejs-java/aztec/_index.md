@@ -2,9 +2,16 @@
 title: Aztec in Node.js via Java
 url: /nodejs-java/aztec/
 description: Aspose.Barcode for Node.js via Java API allows customize, generate and recognize Aztec barcodes in your JavaScript application
-lang: 
+lang: en
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
+aliases:
+- /nl/nodejs-java/aztec/
+- /sv/nodejs-java/aztec/
+- /hu/nodejs-java/aztec/
+- /hi/nodejs-java/aztec/
+- /el/nodejs-java/aztec/
+- /cs/nodejs-java/aztec/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

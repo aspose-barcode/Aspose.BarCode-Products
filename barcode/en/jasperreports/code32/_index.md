@@ -2,9 +2,16 @@
 title: Code 32 in JasperReports
 url: /jasperreports/code32/
 description: Aspose.Barcode for JasperReports API allows customize, generate and recognize Code 32 barcodes in your Java application
-lang: 
+lang: en
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
+aliases:
+- /nl/jasperreports/code32/
+- /sv/jasperreports/code32/
+- /hu/jasperreports/code32/
+- /hi/jasperreports/code32/
+- /el/jasperreports/code32/
+- /cs/jasperreports/code32/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

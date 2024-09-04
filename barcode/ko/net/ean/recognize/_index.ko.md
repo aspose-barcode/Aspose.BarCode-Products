@@ -2,9 +2,9 @@
 title: .NET을(를) 통해 EAN (국제 문서 번호) 바코드 이미지 스캔
 weight: 1510
 description: .NET Framework, .NET Standard, PHP용 COM Interloop, VBScript, Delphi 또는 C++에서 EAN (국제 문서 번호) 바코드 바코드 유형을 스캔하고 디코딩하는 C# 샘플 코드.
-lang: ko/
+lang: ko
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /ko/net/ean/recognize/
 aliases:
 - /ko/net/recognize/ean/

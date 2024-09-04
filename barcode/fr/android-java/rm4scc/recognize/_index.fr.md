@@ -2,9 +2,9 @@
 title: Numérisez les images Code client Royal Mail 4-State (RM4SCC) via Android via Java
 weight: 1510
 description: Exemple de code Android pour reconnaître Code client Royal Mail 4-State (RM4SCC) dans l'environnement d'exécution Android.
-lang: fr/
+lang: fr
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /fr/android-java/rm4scc/recognize/
 aliases:
 - /fr/android-java/recognize/rm4scc/

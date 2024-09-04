@@ -1,9 +1,9 @@
 ---
 title: Renderuj obrazy kodów kreskowych liniowych i 2D w usługach SQL Server Reporting Services
 description: Rozszerzenie renderowania usług SQL Server Reporting Services — eksportuj obrazy kodów kreskowych liniowych i 2D w usłudze SSRS. Renderuj etykiety z kodami kreskowymi w formatach BMP JPEG GIF i PNG.
-lang: pl/
+lang: pl
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}

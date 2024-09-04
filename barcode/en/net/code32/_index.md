@@ -2,9 +2,16 @@
 title: Code 32 in .NET
 url: /net/code32/
 description: Aspose.Barcode for .NET API allows customize, generate and recognize Code 32 barcodes in your C# application
-lang: 
+lang: en
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
+aliases:
+- /nl/net/code32/
+- /sv/net/code32/
+- /hu/net/code32/
+- /hi/net/code32/
+- /el/net/code32/
+- /cs/net/code32/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

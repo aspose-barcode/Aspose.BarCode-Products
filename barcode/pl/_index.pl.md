@@ -1,9 +1,9 @@
 ---
 title: Lokalnie, Cloud Barcode SDK
 description: Twórz aplikacje do przetwarzania kodów kreskowych za pośrednictwem interfejsów API High-Code lub zestawów SDK opartych na chmurze. Używaj aplikacji wieloplatformowych do generowania lub rozpoznawania kodów kreskowych.
-lang: pl/
+lang: pl
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}

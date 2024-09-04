@@ -2,9 +2,16 @@
 title: Deutsche Post in Node.js via Java
 url: /nodejs-java/deutsche-post/
 description: Aspose.Barcode for Node.js via Java API allows customize, generate and recognize Deutsche Post barcodes in your JavaScript application
-lang: 
+lang: en
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
+aliases:
+- /nl/nodejs-java/deutsche-post/
+- /sv/nodejs-java/deutsche-post/
+- /hu/nodejs-java/deutsche-post/
+- /hi/nodejs-java/deutsche-post/
+- /el/nodejs-java/deutsche-post/
+- /cs/nodejs-java/deutsche-post/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

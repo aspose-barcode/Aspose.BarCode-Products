@@ -2,7 +2,7 @@
 title: Australia Post in SharePoint
 url: /de/sharepoint/australia-post/
 description: Mit der Aspose.Barcode for SharePoint-API können Sie Australia Post-Barcodes in Ihrer C#-Anwendung anpassen, generieren und erkennen
-lang: de/
+lang: de
 langdirlevel: 2
 locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
 ---

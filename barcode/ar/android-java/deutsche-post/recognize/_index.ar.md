@@ -2,9 +2,9 @@
 title: مسح ضوئي لصور Deutsche Post رمز التعريف و Deutsche Post Leitcode عبر Android via Java
 weight: 1510
 description: نموذج رمز Android للتعرف على Deutsche Post رمز التعريف و Deutsche Post Leitcode في بيئة وقت تشغيل Android.
-lang: ar/
+lang: ar
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /ar/android-java/deutsche-post/recognize/
 aliases:
 - /ar/android-java/recognize/deutsche-post/

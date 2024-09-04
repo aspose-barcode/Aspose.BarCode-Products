@@ -1,9 +1,9 @@
 ---
 title: SharePoint Barcode API - SharePoint リストにバーコードを挿入
 description: カスタム SharePoint リストにバーコード ラベルを挿入するための Barcode SharePoint API。開発者はサービス マーカーを使用して、入力テキスト値を選択したり、テキストを手動で挿入したりできます。
-lang: ja/
+lang: ja
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}

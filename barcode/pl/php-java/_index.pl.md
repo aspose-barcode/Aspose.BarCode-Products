@@ -1,9 +1,9 @@
 ---
 title: Generator kodów kreskowych PHP i interfejs API skanera
 description: Biblioteka czytnika kodów kreskowych PHP do rozpoznawania wielu typów kodów kreskowych, w tym 1D, 2D i pocztowych. Używaj API w rdzeniu PHP lub w frameworkach takich jak codeigniter, cakephp lub laravel.
-lang: pl/
+lang: pl
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}

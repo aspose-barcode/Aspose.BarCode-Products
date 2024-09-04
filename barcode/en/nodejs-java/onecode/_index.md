@@ -2,9 +2,16 @@
 title: USPS OneCode in Node.js via Java
 url: /nodejs-java/onecode/
 description: Aspose.Barcode for Node.js via Java API allows customize, generate and recognize USPS OneCode barcodes in your JavaScript application
-lang: 
+lang: en
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
+aliases:
+- /nl/nodejs-java/onecode/
+- /sv/nodejs-java/onecode/
+- /hu/nodejs-java/onecode/
+- /hi/nodejs-java/onecode/
+- /el/nodejs-java/onecode/
+- /cs/nodejs-java/onecode/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

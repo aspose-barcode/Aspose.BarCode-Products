@@ -1,9 +1,9 @@
 ---
 title: สร้าง บาร์โค้ด Codablock-F และ GS1 Codablock-F รูปภาพผ่าน Android via Java
 description: ซอร์สโค้ดของ Android เพื่อสร้าง บาร์โค้ด Codablock-F และ GS1 Codablock-F ใน Android Runtime Environment
-lang: th/
+lang: th
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /th/android-java/codablock/generate/
 aliases:
 - /th/android-java/generate/codablock/

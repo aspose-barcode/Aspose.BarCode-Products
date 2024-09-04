@@ -2,9 +2,16 @@
 title: Singapore Post in Python via Java
 url: /python-java/singapore-post/
 description: Aspose.Barcode for Python via Java API allows customize, generate and recognize Singapore Post barcodes in your Python application
-lang: 
+lang: en
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
+aliases:
+- /nl/python-java/singapore-post/
+- /sv/python-java/singapore-post/
+- /hu/python-java/singapore-post/
+- /hi/python-java/singapore-post/
+- /el/python-java/singapore-post/
+- /cs/python-java/singapore-post/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

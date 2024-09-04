@@ -2,9 +2,16 @@
 title: Royal Mail in Java
 url: /java/royal-mail/
 description: Aspose.Barcode for Java API allows customize, generate and recognize Royal Mail barcodes in your Java application
-lang: 
+lang: en
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
+aliases:
+- /nl/java/royal-mail/
+- /sv/java/royal-mail/
+- /hu/java/royal-mail/
+- /hi/java/royal-mail/
+- /el/java/royal-mail/
+- /cs/java/royal-mail/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

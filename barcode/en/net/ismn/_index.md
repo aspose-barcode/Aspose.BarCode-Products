@@ -2,9 +2,16 @@
 title: ISMN in .NET
 url: /net/ismn/
 description: Aspose.Barcode for .NET API allows customize, generate and recognize ISMN barcodes in your C# application
-lang: 
+lang: en
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
+aliases:
+- /nl/net/ismn/
+- /sv/net/ismn/
+- /hu/net/ismn/
+- /hi/net/ismn/
+- /el/net/ismn/
+- /cs/net/ismn/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

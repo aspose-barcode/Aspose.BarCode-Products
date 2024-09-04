@@ -2,9 +2,9 @@
 title: مسح ضوئي لصور الرمز الشريطي الإيطالي (Code 32) الباركود عبر PHP via Java
 weight: 1510
 description: نموذج تعليمة برمجية PHP لقراءة الرمز الشريطي الإيطالي (Code 32) الباركود في التطبيقات المستندة إلى PHP.
-lang: ar/
+lang: ar
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /ar/php-java/code32/recognize/
 aliases:
 - /ar/php-java/recognize/code32/

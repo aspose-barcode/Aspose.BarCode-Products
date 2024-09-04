@@ -1,9 +1,9 @@
 ---
 title: Wygeneruj obrazy Kod kreskowy Australia Post i Australia Post eParcel za pomocą PHP via Java
 description: Kod źródłowy PHP do tworzenia Kod kreskowy Australia Post i Australia Post eParcel w aplikacjach opartych na PHP.
-lang: pl/
+lang: pl
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /pl/php-java/australia-post/generate/
 aliases:
 - /pl/php-java/generate/australia-post/

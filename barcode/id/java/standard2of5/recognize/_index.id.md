@@ -2,9 +2,9 @@
 title: Pindai Gambar Kode batang Standard 2 of 5 (Industri 2 dari 5). melalui Java
 weight: 1510
 description: Kode sumber Java untuk membaca dan mendekode Kode batang Standard 2 of 5 (Industri 2 dari 5). di Java Runtime Environment untuk Aplikasi JSP/JSF dan Aplikasi Desktop.
-lang: id/
+lang: id
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /id/java/standard2of5/recognize/
 aliases:
 - /id/java/recognize/standard2of5/

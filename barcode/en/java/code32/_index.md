@@ -2,9 +2,16 @@
 title: Code 32 in Java
 url: /java/code32/
 description: Aspose.Barcode for Java API allows customize, generate and recognize Code 32 barcodes in your Java application
-lang: 
+lang: en
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
+aliases:
+- /nl/java/code32/
+- /sv/java/code32/
+- /hu/java/code32/
+- /hi/java/code32/
+- /el/java/code32/
+- /cs/java/code32/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

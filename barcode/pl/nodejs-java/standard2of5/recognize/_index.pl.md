@@ -2,9 +2,9 @@
 title: Zeskanuj obrazy Standard 2 of 5 (przemysłowy 2 z 5) kod kreskowy za pomocą Node.js via Java
 weight: 1510
 description: Kod źródłowy Node.js do skanowania i dekodowania Standard 2 of 5 (przemysłowy 2 z 5) kod kreskowy w aplikacjach JavaScript.
-lang: pl/
+lang: pl
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /pl/nodejs-java/standard2of5/recognize/
 aliases:
 - /pl/nodejs-java/recognize/standard2of5/

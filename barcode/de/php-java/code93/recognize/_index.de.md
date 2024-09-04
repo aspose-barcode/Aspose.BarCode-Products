@@ -2,7 +2,7 @@
 title: Scannen Sie Code 93 Erweiterte und Code 93 Standard-Barcodes Bilder über PHP via Java
 weight: 1510
 description: PHP-Beispielcode zum Lesen von Code 93 Erweiterte und Code 93 Standard-Barcodes in PHP-basierten Anwendungen.
-lang: de/
+lang: de
 langdirlevel: 2
 locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
 url: /de/php-java/code93/recognize/

@@ -2,9 +2,9 @@
 title: Numérisez les images Code-barres Standard 2 of 5 (Industriel 2 sur 5) via C++
 weight: 1510
 description: Exemple de code C++ pour analyser et décoder Code-barres Standard 2 of 5 (Industriel 2 sur 5) dans l'environnement d'exécution C++ pour Windows 32 bits, Windows 64 bits ou Linux 64 bits.
-lang: fr/
+lang: fr
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /fr/cpp/standard2of5/recognize/
 aliases:
 - /fr/cpp/recognize/standard2of5/

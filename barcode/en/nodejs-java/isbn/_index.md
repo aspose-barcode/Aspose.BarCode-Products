@@ -2,9 +2,16 @@
 title: ISBN in Node.js via Java
 url: /nodejs-java/isbn/
 description: Aspose.Barcode for Node.js via Java API allows customize, generate and recognize ISBN barcodes in your JavaScript application
-lang: 
+lang: en
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
+aliases:
+- /nl/nodejs-java/isbn/
+- /sv/nodejs-java/isbn/
+- /hu/nodejs-java/isbn/
+- /hi/nodejs-java/isbn/
+- /el/nodejs-java/isbn/
+- /cs/nodejs-java/isbn/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

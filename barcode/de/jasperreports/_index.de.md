@@ -1,7 +1,7 @@
 ---
 title: Generieren Sie Barcodes in JasperReports und rendern Sie sie in BMP, JPG, GIF und PNG
 description: Mit Aspose.BarCode für JasperReports können Entwickler Barcodes in Jasper Reports generieren, die in den Formaten BMP, JPG, GIF und PNG weiter gerendert werden.
-lang: de/
+lang: de
 langdirlevel: 2
 locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
 ---

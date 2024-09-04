@@ -2,7 +2,7 @@
 title: Code 16K in JasperReports
 url: /de/jasperreports/code16k/
 description: Mit der Aspose.Barcode for JasperReports-API können Sie Code 16K-Barcodes in Ihrer Java-Anwendung anpassen, generieren und erkennen
-lang: de/
+lang: de
 langdirlevel: 2
 locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
 ---

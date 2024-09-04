@@ -2,9 +2,9 @@
 title: Code 32 в SharePoint
 url: /ru/sharepoint/code32/
 description: Aspose.Barcode for SharePoint API позволяет настраивать, генерировать и распознавать штрих-коды Code 32 в вашем приложении C#
-lang: ru/
+lang: ru
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

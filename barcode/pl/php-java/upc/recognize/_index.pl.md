@@ -2,9 +2,9 @@
 title: Zeskanuj obrazy Kod kreskowy UPC (uniwersalny kod produktu). za pomocą PHP via Java
 weight: 1510
 description: Przykładowy kod PHP do odczytu Kod kreskowy UPC (uniwersalny kod produktu). w aplikacjach opartych na PHP.
-lang: pl/
+lang: pl
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /pl/php-java/upc/recognize/
 aliases:
 - /pl/php-java/recognize/upc/

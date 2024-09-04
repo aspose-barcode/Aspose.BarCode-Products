@@ -1,9 +1,9 @@
 ---
 title: Python via Java 経由で Code 93 拡張バーコードおよび Code 93 標準バーコード イメージを生成
 description: Java ランタイム環境を使用して Code 93 拡張バーコードおよび Code 93 標準バーコード を生成する Python サンプル コード。
-lang: ja/
+lang: ja
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /ja/python-java/code93/generate/
 aliases:
 - /ja/python-java/generate/code93/

@@ -1,9 +1,9 @@
 ---
 title: Nodejs Barcode Scanner และ Generator API
 description: การสแกนบาร์โค้ด Node.js และการสร้างไลบรารีสำหรับประเภท 1D, 2D และ Postal ผสานรวมกับแอป React Angular ได้อย่างง่ายดายสำหรับ QR Code maxicode Aztec Code128 EAN-128 และอีกมากมาย
-lang: th/
+lang: th
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}

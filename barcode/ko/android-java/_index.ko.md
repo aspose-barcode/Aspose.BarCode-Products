@@ -1,9 +1,9 @@
 ---
 title: 바코드 안드로이드 API | 바코드 스캔 또는 생성
 description: Android 바코드 스캐너 라이브러리는 다양한 종류의 1D, 2D 및 우편 바코드를 인식합니다. Android 앱에서 어떤 각도로든 바코드를 스캔하세요.
-lang: ko/
+lang: ko
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}

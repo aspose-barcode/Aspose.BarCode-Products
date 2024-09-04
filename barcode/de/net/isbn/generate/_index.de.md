@@ -1,7 +1,7 @@
 ---
 title: Generieren Sie ISBN Barcode Bilder über .NET
 description: C#-Quellcode für die ISBN Barcode-Generierung in .NET Framework, .NET Standard, COM Interloop für PHP, VBScript, Delphi und C++.
-lang: de/
+lang: de
 langdirlevel: 2
 locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
 url: /de/net/isbn/generate/

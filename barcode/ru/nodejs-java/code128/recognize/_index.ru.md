@@ -1,10 +1,9 @@
 ---
 title: Сканировать изображения Штрих-код GS1 Code 128 через Node.js via Java
-weight: 1510
 description: Исходный код Node.js для сканирования и декодирования Штрих-код GS1 Code 128 в приложениях JavaScript.
-lang: ru/
+lang: ru
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /ru/nodejs-java/code128/recognize/
 aliases:
 - /ru/nodejs-java/recognize/code128/
@@ -184,53 +183,63 @@ API-интерфейсы Aspose поддерживаются на всех ос�
             font-size: 12px !important;
         }
         .barcode-read-lcs-result {
+            display: none;
+            position: fixed; /* Positioned relative to the viewport */
+            top: 0;
+            left: 0;
             width: 100%;
             height: 100%;
-            top: 0;
-            position: absolute;
-            display: none;
-            z-index: 9998;
+            justify-content: center;
+            align-items: center;
+            z-index: 999;
             -webkit-transition: opacity 400ms ease-in;
             -moz-transition: opacity 400ms ease-in;
             transition: opacity 400ms ease-in;
         }
-        .barcode-read-lcs-result > div {
+        .barcode-read-lcs-result-curtain {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background-color: rgba(0, 0, 0, 0.5); /* Semi-transparent background */
+        }
+        .barcode-read-lcs-result-content {
             position: relative;
-            margin: 0 auto;
-            top: 25%;
-            padding: 5px 20px 13px 20px;
+            background: #ffffff;
+            padding: 35px;
             border-radius: 10px;
             box-shadow: 20px 20px 7px rgba(88,88,88,0.8);
-            background: #ffffff;
+            z-index: 1000;
+            text-align: center;
+            min-width: 300px; /* Ensure a minimum width of 300px */
             pointer-events: auto;
+            margin: auto 30px;
         }
-        .barcode-read-lcs-result header {
-            position: relative;
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-            padding:  5px 0 10px 0;
-            border-bottom: dotted 1px #1a89d0;
-        }
-        .barcode-read-lcs-result header span {
-            font-size: 18px;
-            font-weight: 700;
-        }
-        .barcode-read-lcs-result header i {
-            cursor: pointer;
+        .barcode-read-lcs-result-close-btn {
+            position: absolute;
+            top: 10px;
+            right: 15px;
+            font-size: 24px;
+            font-weight: bold;
             color: #1a89d0;
-            font-size: 24px !important;
+            cursor: pointer;
         }
-        .barcode-read-lcs-result header i:hover {
-            color: #3071a9;
+        .barcode-read-lcs-result-close-btn:hover {
+            color: #0c74a0;
         }
-        .barcode-read-lcs-result article {
-            max-height: 500px;
-            overflow: auto;
-            margin: 25px 0 15px 0;
-            display: flex;
-            flex-direction: row;
-            justify-content: center;
+        .barcode-read-lcs-result-body {
+            text-align: center;
+        }
+        .barcode-read-lcs-result-body img {
+            max-width: 100%;
+            height: auto;
+            margin-bottom: 15px;
+        }
+        #barcode-read-lcs-result-message {
+            margin: 0;
+            font-size: 16px;
+            color: #555;
         }
         .recognitionResult_row {
             margin-left: 20px;
@@ -266,13 +275,15 @@ reader.<span class="hljs-title function_">readBarCodes</span>().<span class="hlj
 });
 </code>
 </pre></div>
-    <div class="barcode-read-lcs-result" onclick="BarcodeReadLcsCurtainClick(this)">
-        <div>
-            <header>
-                <span>Результат распознавания</span>
-                <i class="fa fa-times" onclick="BarcodeReadLcsCloseResult(this);"></i>
-            </header>
-            <article><div><img id="recognitionImage" styles="max-width: 300px;max-height: 300px;"></img></div><div id="recognitionResult"></div></article>
+    <div id="barcode-read-lcs-result" class="barcode-read-lcs-result">
+        <div class="barcode-read-lcs-result-curtain" onclick="closeRecognitionPopup()"></div>
+            <div class="barcode-read-lcs-result-content">
+                <span class="barcode-read-lcs-result-close-btn" onclick="closeRecognitionPopup()">&times;</span>
+                <div class="barcode-read-lcs-result-body">
+                    <img id="barcode-read-lcs-result-image" src="" alt="Barcode image">
+                    <p id="barcode-read-lcs-result-message"></p>
+                </div>
+            </div>
         </div>
     </div>
     <script>
@@ -318,6 +329,12 @@ reader.<span class="hljs-title function_">readBarCodes</span>().<span class="hlj
                         resolve(result);
                     })
                     .fail(function(jqXHR) {
+                        if (jqXHR.status == 429) {
+							const json = jqXHR.responseJSON;
+							setStateUnsuccessfulRecognition(json.errorMsg);
+							resolve(null);
+							return;
+						}
                         reject(new Error(makeErrorMessage(jqXHR)));
                     })
             });
@@ -358,8 +375,7 @@ reader.<span class="hljs-title function_">readBarCodes</span>().<span class="hlj
                 var fr = new FileReader();
                 fr.onload = async function() {
                     let fileBase64 = fr.result;
-                    $("#recognitionImage")[0].src = fileBase64;
-                    var test = $("#recognitionImage")[0].src;
+                    $("#barcode-read-lcs-result-image")[0].src = fileBase64;
                     var data = new FormData();
                     data.append("type", barcodetypeUrl);
                     data.append("quality", quality);
@@ -423,7 +439,7 @@ reader.<span class="hljs-title function_">readBarCodes</span>().<span class="hlj
             icon.hide();
             filenameField.hide();
             hint.hide();
-            $("#recognitionResult").html('');
+            $("#barcode-read-lcs-result-message").html('');
             button.addClass("barcode-read-lcs-disabled");
         }
         async function waitSec(seconds) {
@@ -440,7 +456,6 @@ reader.<span class="hljs-title function_">readBarCodes</span>().<span class="hlj
             return 2;
         };
         async function tryGetResult(token) {
-            var test = $("#recognitionImage")[0].src;
             return new Promise((resolve, reject) => {
                 $.ajax({
                     type: 'GET',
@@ -471,11 +486,11 @@ reader.<span class="hljs-title function_">readBarCodes</span>().<span class="hlj
         function setStateServerError(errorText) {
             showRecognitionResult('Error');
         }
-        function showRecognitionResult(html) {
-            let button = $("#recognize-button");
-            let resultDialog = button.closest(".barcode-read-lcs").find(".barcode-read-lcs-result");
-            resultDialog.find("#recognitionResult").html(html);
-            resultDialog.slideDown(200);
+        function showRecognitionResult(messageText) {
+            const popupContainer = document.getElementById('barcode-read-lcs-result');
+            const popupMessage = document.getElementById('barcode-read-lcs-result-message');
+            popupMessage.innerHTML = messageText;
+            popupContainer.style.display = 'flex'; // Show popup
         }
         function cancelAsyncRecognitionProcess() {
             let button = $("#recognize-button");
@@ -495,9 +510,10 @@ reader.<span class="hljs-title function_">readBarCodes</span>().<span class="hlj
         {
             if($(event.target).is(".barcode-read-lcs-result")) $(obj).hide();
         }
-        function BarcodeReadLcsCloseResult(obj)
+        function closeRecognitionPopup(obj)
         {
-            $(obj).closest(".barcode-read-lcs-result").slideUp(200);
+            const popupContainer = document.getElementById('barcode-read-lcs-result');
+            popupContainer.style.display = 'none'; // Hide popup
         }
     </script>
 </div>

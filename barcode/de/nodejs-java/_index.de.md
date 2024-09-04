@@ -1,7 +1,7 @@
 ---
 title: Nodejs Barcode-Scanner und Generator-API
 description: Node.js-Bibliothek zum Scannen und Generieren von Barcodes für 1D-, 2D- und Posttypen. Einfache Integration in React Angular-Apps für QR-Code Maxicode Aztec Code128 EAN-128 und mehr.
-lang: de/
+lang: de
 langdirlevel: 2
 locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
 ---

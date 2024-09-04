@@ -2,9 +2,9 @@
 title: Quét hình ảnh Mã vạch Standard 2 of 5 (Công nghiệp 2 trên 5) qua C++
 weight: 1510
 description: Mã mẫu C++ để quét và giải mã Mã vạch Standard 2 of 5 (Công nghiệp 2 trên 5) trong Môi trường thời gian chạy C++ dành cho Windows 32-bit, Windows 64-bit hoặc Linux 64-bit.
-lang: vi/
+lang: vi
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /vi/cpp/standard2of5/recognize/
 aliases:
 - /vi/cpp/recognize/standard2of5/

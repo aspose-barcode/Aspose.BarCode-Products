@@ -1,7 +1,7 @@
 ---
 title: Rendern Sie lineare und 2D-Barcodebilder in SQL Server Reporting Services
 description: SQL Server Reporting Services-Rendering-Erweiterung – Exportieren Sie lineare und 2D-Barcode-Bilder in SSRS. Rendern Sie Barcode-Etiketten in den Formaten BMP, JPEG, GIF und PNG.
-lang: de/
+lang: de
 langdirlevel: 2
 locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
 ---

@@ -2,9 +2,9 @@
 title: Pindai Gambar Kode batang Codablock-F dan GS1 Codablock-F melalui .NET
 weight: 1510
 description: Contoh kode C# untuk memindai dan mendekode jenis kode batang Kode batang Codablock-F dan GS1 Codablock-F dalam .NET Framework, .NET Standard, COM Interloop untuk PHP, VBScript, Delphi, atau C++.
-lang: id/
+lang: id
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /id/net/codablock/recognize/
 aliases:
 - /id/net/recognize/codablock/

@@ -1,9 +1,9 @@
 ---
 title: JasperReports'ta Barkodlar Oluşturun ve BMP JPG GIF ve PNG'de Oluşturun
 description: Aspose.BarCode for JasperReports kullanan geliştiriciler, BMP JPG GIF ve PNG formatlarında daha fazla işlenmek üzere Jasper Reports'ta barkodlar oluşturabilirler.
-lang: tr/
+lang: tr
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}

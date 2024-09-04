@@ -1,9 +1,9 @@
 ---
 title: Gere Código Data Matrix Imagens via Python via Java
 description: Exemplo de código Python para gerar Código Data Matrix usando o Java Runtime Environment.
-lang: pt/
+lang: pt
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /pt/python-java/datamatrix/generate/
 aliases:
 - /pt/python-java/generate/datamatrix/

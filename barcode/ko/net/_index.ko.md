@@ -1,9 +1,9 @@
 ---
 title: C# .NET 바코드 API - 바코드 생성 및 인식 읽기
 description: .NET API용 Aspose.BarCode는 1D 2D 바코드를 생성하고 인식합니다. C# VB.NET ASP.NET 애플리케이션 내에서 통합하여 바코드 라벨 스캔 및 인쇄
-lang: ko/
+lang: ko
 langdirlevel: 2
-locales: ar,cs,de,el,es,fr,hi,hu,id,it,ja,ko,nl,pl,pt,ru,sv,th,tr,vi,zh,zh-hant
+locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
