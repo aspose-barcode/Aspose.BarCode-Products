@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /cpp/ean/generate/
 aliases:
 - /cpp/generate/ean/
+- /nl/cpp/ean/generate/
+- /sv/cpp/ean/generate/
+- /hu/cpp/ean/generate/
+- /hi/cpp/ean/generate/
+- /el/cpp/ean/generate/
+- /cs/cpp/ean/generate/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

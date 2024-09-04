@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /java/qr/generate/
 aliases:
 - /java/generate/qr/
+- /nl/java/qr/generate/
+- /sv/java/qr/generate/
+- /hu/java/qr/generate/
+- /hi/java/qr/generate/
+- /el/java/qr/generate/
+- /cs/java/qr/generate/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

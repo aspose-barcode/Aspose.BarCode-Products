@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /php-java/ean/recognize/
 aliases:
 - /php-java/recognize/ean/
+- /nl/php-java/ean/recognize/
+- /sv/php-java/ean/recognize/
+- /hu/php-java/ean/recognize/
+- /hi/php-java/ean/recognize/
+- /el/php-java/ean/recognize/
+- /cs/php-java/ean/recognize/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

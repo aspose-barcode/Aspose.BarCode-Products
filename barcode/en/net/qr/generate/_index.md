@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /net/qr/generate/
 aliases:
 - /net/generate/qr/
+- /nl/net/qr/generate/
+- /sv/net/qr/generate/
+- /hu/net/qr/generate/
+- /hi/net/qr/generate/
+- /el/net/qr/generate/
+- /cs/net/qr/generate/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /net/upc/generate/
 aliases:
 - /net/generate/upc/
+- /nl/net/upc/generate/
+- /sv/net/upc/generate/
+- /hu/net/upc/generate/
+- /hi/net/upc/generate/
+- /el/net/upc/generate/
+- /cs/net/upc/generate/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -5,6 +5,13 @@ description: Aspose.Barcode for Android via Java API allows customize, generate 
 lang: en
 langdirlevel: 2
 locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
+aliases:
+- /nl/android-java/hibc/
+- /sv/android-java/hibc/
+- /hu/android-java/hibc/
+- /hi/android-java/hibc/
+- /el/android-java/hibc/
+- /cs/android-java/hibc/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

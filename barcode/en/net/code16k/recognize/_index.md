@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /net/code16k/recognize/
 aliases:
 - /net/recognize/code16k/
+- /nl/net/code16k/recognize/
+- /sv/net/code16k/recognize/
+- /hu/net/code16k/recognize/
+- /hi/net/code16k/recognize/
+- /el/net/code16k/recognize/
+- /cs/net/code16k/recognize/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

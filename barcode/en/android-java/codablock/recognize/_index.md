@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /android-java/codablock/recognize/
 aliases:
 - /android-java/recognize/codablock/
+- /nl/android-java/codablock/recognize/
+- /sv/android-java/codablock/recognize/
+- /hu/android-java/codablock/recognize/
+- /hi/android-java/codablock/recognize/
+- /el/android-java/codablock/recognize/
+- /cs/android-java/codablock/recognize/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

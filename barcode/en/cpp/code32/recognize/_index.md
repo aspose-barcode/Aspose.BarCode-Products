@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /cpp/code32/recognize/
 aliases:
 - /cpp/recognize/code32/
+- /nl/cpp/code32/recognize/
+- /sv/cpp/code32/recognize/
+- /hu/cpp/code32/recognize/
+- /hi/cpp/code32/recognize/
+- /el/cpp/code32/recognize/
+- /cs/cpp/code32/recognize/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

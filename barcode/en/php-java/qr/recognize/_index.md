@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /php-java/qr/recognize/
 aliases:
 - /php-java/recognize/qr/
+- /nl/php-java/qr/recognize/
+- /sv/php-java/qr/recognize/
+- /hu/php-java/qr/recognize/
+- /hi/php-java/qr/recognize/
+- /el/php-java/qr/recognize/
+- /cs/php-java/qr/recognize/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

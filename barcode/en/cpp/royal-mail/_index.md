@@ -5,6 +5,13 @@ description: Aspose.Barcode for C++ API allows customize, generate and recognize
 lang: en
 langdirlevel: 2
 locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
+aliases:
+- /nl/cpp/royal-mail/
+- /sv/cpp/royal-mail/
+- /hu/cpp/royal-mail/
+- /hi/cpp/royal-mail/
+- /el/cpp/royal-mail/
+- /cs/cpp/royal-mail/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

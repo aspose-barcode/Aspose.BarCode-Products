@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /php-java/codablock/generate/
 aliases:
 - /php-java/generate/codablock/
+- /nl/php-java/codablock/generate/
+- /sv/php-java/codablock/generate/
+- /hu/php-java/codablock/generate/
+- /hi/php-java/codablock/generate/
+- /el/php-java/codablock/generate/
+- /cs/php-java/codablock/generate/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

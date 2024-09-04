@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /python-java/code93/generate/
 aliases:
 - /python-java/generate/code93/
+- /nl/python-java/code93/generate/
+- /sv/python-java/code93/generate/
+- /hu/python-java/code93/generate/
+- /hi/python-java/code93/generate/
+- /el/python-java/code93/generate/
+- /cs/python-java/code93/generate/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

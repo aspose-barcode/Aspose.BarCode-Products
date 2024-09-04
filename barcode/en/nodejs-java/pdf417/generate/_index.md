@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /nodejs-java/pdf417/generate/
 aliases:
 - /nodejs-java/generate/pdf417/
+- /nl/nodejs-java/pdf417/generate/
+- /sv/nodejs-java/pdf417/generate/
+- /hu/nodejs-java/pdf417/generate/
+- /hi/nodejs-java/pdf417/generate/
+- /el/nodejs-java/pdf417/generate/
+- /cs/nodejs-java/pdf417/generate/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

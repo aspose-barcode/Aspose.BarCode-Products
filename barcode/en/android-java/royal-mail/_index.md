@@ -5,6 +5,13 @@ description: Aspose.Barcode for Android via Java API allows customize, generate 
 lang: en
 langdirlevel: 2
 locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
+aliases:
+- /nl/android-java/royal-mail/
+- /sv/android-java/royal-mail/
+- /hu/android-java/royal-mail/
+- /hi/android-java/royal-mail/
+- /el/android-java/royal-mail/
+- /cs/android-java/royal-mail/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

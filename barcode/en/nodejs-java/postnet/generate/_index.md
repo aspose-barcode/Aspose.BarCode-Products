@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /nodejs-java/postnet/generate/
 aliases:
 - /nodejs-java/generate/postnet/
+- /nl/nodejs-java/postnet/generate/
+- /sv/nodejs-java/postnet/generate/
+- /hu/nodejs-java/postnet/generate/
+- /hi/nodejs-java/postnet/generate/
+- /el/nodejs-java/postnet/generate/
+- /cs/nodejs-java/postnet/generate/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

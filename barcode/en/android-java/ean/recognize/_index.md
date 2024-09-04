@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /android-java/ean/recognize/
 aliases:
 - /android-java/recognize/ean/
+- /nl/android-java/ean/recognize/
+- /sv/android-java/ean/recognize/
+- /hu/android-java/ean/recognize/
+- /hi/android-java/ean/recognize/
+- /el/android-java/ean/recognize/
+- /cs/android-java/ean/recognize/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

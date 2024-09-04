@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /java/databar/recognize/
 aliases:
 - /java/recognize/databar/
+- /nl/java/databar/recognize/
+- /sv/java/databar/recognize/
+- /hu/java/databar/recognize/
+- /hi/java/databar/recognize/
+- /el/java/databar/recognize/
+- /cs/java/databar/recognize/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

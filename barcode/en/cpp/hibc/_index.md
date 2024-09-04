@@ -5,6 +5,13 @@ description: Aspose.Barcode for C++ API allows customize, generate and recognize
 lang: en
 langdirlevel: 2
 locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
+aliases:
+- /nl/cpp/hibc/
+- /sv/cpp/hibc/
+- /hu/cpp/hibc/
+- /hi/cpp/hibc/
+- /el/cpp/hibc/
+- /cs/cpp/hibc/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

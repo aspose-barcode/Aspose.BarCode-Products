@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /android-java/code16k/generate/
 aliases:
 - /android-java/generate/code16k/
+- /nl/android-java/code16k/generate/
+- /sv/android-java/code16k/generate/
+- /hu/android-java/code16k/generate/
+- /hi/android-java/code16k/generate/
+- /el/android-java/code16k/generate/
+- /cs/android-java/code16k/generate/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

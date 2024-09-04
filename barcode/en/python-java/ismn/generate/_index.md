@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /python-java/ismn/generate/
 aliases:
 - /python-java/generate/ismn/
+- /nl/python-java/ismn/generate/
+- /sv/python-java/ismn/generate/
+- /hu/python-java/ismn/generate/
+- /hi/python-java/ismn/generate/
+- /el/python-java/ismn/generate/
+- /cs/python-java/ismn/generate/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

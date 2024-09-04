@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /cpp/code128/recognize/
 aliases:
 - /cpp/recognize/code128/
+- /nl/cpp/code128/recognize/
+- /sv/cpp/code128/recognize/
+- /hu/cpp/code128/recognize/
+- /hi/cpp/code128/recognize/
+- /el/cpp/code128/recognize/
+- /cs/cpp/code128/recognize/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

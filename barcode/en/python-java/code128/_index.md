@@ -5,6 +5,13 @@ description: Aspose.Barcode for Python via Java API allows customize, generate a
 lang: en
 langdirlevel: 2
 locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
+aliases:
+- /nl/python-java/code128/
+- /sv/python-java/code128/
+- /hu/python-java/code128/
+- /hi/python-java/code128/
+- /el/python-java/code128/
+- /cs/python-java/code128/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

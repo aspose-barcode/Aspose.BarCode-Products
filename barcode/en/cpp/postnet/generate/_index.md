@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /cpp/postnet/generate/
 aliases:
 - /cpp/generate/postnet/
+- /nl/cpp/postnet/generate/
+- /sv/cpp/postnet/generate/
+- /hu/cpp/postnet/generate/
+- /hi/cpp/postnet/generate/
+- /el/cpp/postnet/generate/
+- /cs/cpp/postnet/generate/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

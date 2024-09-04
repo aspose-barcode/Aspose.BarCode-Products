@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /python-java/onecode/recognize/
 aliases:
 - /python-java/recognize/onecode/
+- /nl/python-java/onecode/recognize/
+- /sv/python-java/onecode/recognize/
+- /hu/python-java/onecode/recognize/
+- /hi/python-java/onecode/recognize/
+- /el/python-java/onecode/recognize/
+- /cs/python-java/onecode/recognize/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

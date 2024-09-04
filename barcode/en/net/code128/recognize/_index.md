@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /net/code128/recognize/
 aliases:
 - /net/recognize/code128/
+- /nl/net/code128/recognize/
+- /sv/net/code128/recognize/
+- /hu/net/code128/recognize/
+- /hi/net/code128/recognize/
+- /el/net/code128/recognize/
+- /cs/net/code128/recognize/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

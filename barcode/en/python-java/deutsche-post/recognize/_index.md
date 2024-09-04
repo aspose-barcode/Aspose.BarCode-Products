@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /python-java/deutsche-post/recognize/
 aliases:
 - /python-java/recognize/deutsche-post/
+- /nl/python-java/deutsche-post/recognize/
+- /sv/python-java/deutsche-post/recognize/
+- /hu/python-java/deutsche-post/recognize/
+- /hi/python-java/deutsche-post/recognize/
+- /el/python-java/deutsche-post/recognize/
+- /cs/python-java/deutsche-post/recognize/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

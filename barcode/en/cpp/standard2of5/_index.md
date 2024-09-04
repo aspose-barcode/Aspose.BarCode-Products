@@ -5,6 +5,13 @@ description: Aspose.Barcode for C++ API allows customize, generate and recognize
 lang: en
 langdirlevel: 2
 locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
+aliases:
+- /nl/cpp/standard2of5/
+- /sv/cpp/standard2of5/
+- /hu/cpp/standard2of5/
+- /hi/cpp/standard2of5/
+- /el/cpp/standard2of5/
+- /cs/cpp/standard2of5/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

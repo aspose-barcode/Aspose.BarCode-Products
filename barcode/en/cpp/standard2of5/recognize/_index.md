@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /cpp/standard2of5/recognize/
 aliases:
 - /cpp/recognize/standard2of5/
+- /nl/cpp/standard2of5/recognize/
+- /sv/cpp/standard2of5/recognize/
+- /hu/cpp/standard2of5/recognize/
+- /hi/cpp/standard2of5/recognize/
+- /el/cpp/standard2of5/recognize/
+- /cs/cpp/standard2of5/recognize/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

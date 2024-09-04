@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /cpp/isbn/generate/
 aliases:
 - /cpp/generate/isbn/
+- /nl/cpp/isbn/generate/
+- /sv/cpp/isbn/generate/
+- /hu/cpp/isbn/generate/
+- /hi/cpp/isbn/generate/
+- /el/cpp/isbn/generate/
+- /cs/cpp/isbn/generate/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

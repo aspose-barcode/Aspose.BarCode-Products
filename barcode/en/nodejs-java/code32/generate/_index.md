@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /nodejs-java/code32/generate/
 aliases:
 - /nodejs-java/generate/code32/
+- /nl/nodejs-java/code32/generate/
+- /sv/nodejs-java/code32/generate/
+- /hu/nodejs-java/code32/generate/
+- /hi/nodejs-java/code32/generate/
+- /el/nodejs-java/code32/generate/
+- /cs/nodejs-java/code32/generate/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

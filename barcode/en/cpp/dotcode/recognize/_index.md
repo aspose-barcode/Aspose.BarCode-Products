@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /cpp/dotcode/recognize/
 aliases:
 - /cpp/recognize/dotcode/
+- /nl/cpp/dotcode/recognize/
+- /sv/cpp/dotcode/recognize/
+- /hu/cpp/dotcode/recognize/
+- /hi/cpp/dotcode/recognize/
+- /el/cpp/dotcode/recognize/
+- /cs/cpp/dotcode/recognize/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

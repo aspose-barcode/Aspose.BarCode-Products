@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /php-java/codablock/recognize/
 aliases:
 - /php-java/recognize/codablock/
+- /nl/php-java/codablock/recognize/
+- /sv/php-java/codablock/recognize/
+- /hu/php-java/codablock/recognize/
+- /hi/php-java/codablock/recognize/
+- /el/php-java/codablock/recognize/
+- /cs/php-java/codablock/recognize/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

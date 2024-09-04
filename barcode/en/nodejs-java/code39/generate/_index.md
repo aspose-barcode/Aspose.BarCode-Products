@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /nodejs-java/code39/generate/
 aliases:
 - /nodejs-java/generate/code39/
+- /nl/nodejs-java/code39/generate/
+- /sv/nodejs-java/code39/generate/
+- /hu/nodejs-java/code39/generate/
+- /hi/nodejs-java/code39/generate/
+- /el/nodejs-java/code39/generate/
+- /cs/nodejs-java/code39/generate/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

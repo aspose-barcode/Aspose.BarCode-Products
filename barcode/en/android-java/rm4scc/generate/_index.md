@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /android-java/rm4scc/generate/
 aliases:
 - /android-java/generate/rm4scc/
+- /nl/android-java/rm4scc/generate/
+- /sv/android-java/rm4scc/generate/
+- /hu/android-java/rm4scc/generate/
+- /hi/android-java/rm4scc/generate/
+- /el/android-java/rm4scc/generate/
+- /cs/android-java/rm4scc/generate/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

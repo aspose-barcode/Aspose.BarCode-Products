@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /python-java/itf/generate/
 aliases:
 - /python-java/generate/itf/
+- /nl/python-java/itf/generate/
+- /sv/python-java/itf/generate/
+- /hu/python-java/itf/generate/
+- /hi/python-java/itf/generate/
+- /el/python-java/itf/generate/
+- /cs/python-java/itf/generate/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /cpp/isbn/recognize/
 aliases:
 - /cpp/recognize/isbn/
+- /nl/cpp/isbn/recognize/
+- /sv/cpp/isbn/recognize/
+- /hu/cpp/isbn/recognize/
+- /hi/cpp/isbn/recognize/
+- /el/cpp/isbn/recognize/
+- /cs/cpp/isbn/recognize/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

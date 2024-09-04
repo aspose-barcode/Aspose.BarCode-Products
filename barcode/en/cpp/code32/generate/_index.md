@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /cpp/code32/generate/
 aliases:
 - /cpp/generate/code32/
+- /nl/cpp/code32/generate/
+- /sv/cpp/code32/generate/
+- /hu/cpp/code32/generate/
+- /hi/cpp/code32/generate/
+- /el/cpp/code32/generate/
+- /cs/cpp/code32/generate/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

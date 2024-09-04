@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /nodejs-java/upc/recognize/
 aliases:
 - /nodejs-java/recognize/upc/
+- /nl/nodejs-java/upc/recognize/
+- /sv/nodejs-java/upc/recognize/
+- /hu/nodejs-java/upc/recognize/
+- /hi/nodejs-java/upc/recognize/
+- /el/nodejs-java/upc/recognize/
+- /cs/nodejs-java/upc/recognize/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

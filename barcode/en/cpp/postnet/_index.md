@@ -5,6 +5,13 @@ description: Aspose.Barcode for C++ API allows customize, generate and recognize
 lang: en
 langdirlevel: 2
 locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
+aliases:
+- /nl/cpp/postnet/
+- /sv/cpp/postnet/
+- /hu/cpp/postnet/
+- /hi/cpp/postnet/
+- /el/cpp/postnet/
+- /cs/cpp/postnet/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

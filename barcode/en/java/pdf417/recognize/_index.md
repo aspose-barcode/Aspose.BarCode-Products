@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /java/pdf417/recognize/
 aliases:
 - /java/recognize/pdf417/
+- /nl/java/pdf417/recognize/
+- /sv/java/pdf417/recognize/
+- /hu/java/pdf417/recognize/
+- /hi/java/pdf417/recognize/
+- /el/java/pdf417/recognize/
+- /cs/java/pdf417/recognize/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

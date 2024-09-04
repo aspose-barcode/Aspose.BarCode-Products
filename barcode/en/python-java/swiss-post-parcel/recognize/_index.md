@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /python-java/swiss-post-parcel/recognize/
 aliases:
 - /python-java/recognize/swiss-post-parcel/
+- /nl/python-java/swiss-post-parcel/recognize/
+- /sv/python-java/swiss-post-parcel/recognize/
+- /hu/python-java/swiss-post-parcel/recognize/
+- /hi/python-java/swiss-post-parcel/recognize/
+- /el/python-java/swiss-post-parcel/recognize/
+- /cs/python-java/swiss-post-parcel/recognize/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

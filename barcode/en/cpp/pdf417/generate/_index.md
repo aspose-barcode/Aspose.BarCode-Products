@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /cpp/pdf417/generate/
 aliases:
 - /cpp/generate/pdf417/
+- /nl/cpp/pdf417/generate/
+- /sv/cpp/pdf417/generate/
+- /hu/cpp/pdf417/generate/
+- /hi/cpp/pdf417/generate/
+- /el/cpp/pdf417/generate/
+- /cs/cpp/pdf417/generate/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

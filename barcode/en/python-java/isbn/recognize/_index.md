@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /python-java/isbn/recognize/
 aliases:
 - /python-java/recognize/isbn/
+- /nl/python-java/isbn/recognize/
+- /sv/python-java/isbn/recognize/
+- /hu/python-java/isbn/recognize/
+- /hi/python-java/isbn/recognize/
+- /el/python-java/isbn/recognize/
+- /cs/python-java/isbn/recognize/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

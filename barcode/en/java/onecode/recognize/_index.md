@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /java/onecode/recognize/
 aliases:
 - /java/recognize/onecode/
+- /nl/java/onecode/recognize/
+- /sv/java/onecode/recognize/
+- /hu/java/onecode/recognize/
+- /hi/java/onecode/recognize/
+- /el/java/onecode/recognize/
+- /cs/java/onecode/recognize/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

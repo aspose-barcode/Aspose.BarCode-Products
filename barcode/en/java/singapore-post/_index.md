@@ -5,6 +5,13 @@ description: Aspose.Barcode for Java API allows customize, generate and recogniz
 lang: en
 langdirlevel: 2
 locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
+aliases:
+- /nl/java/singapore-post/
+- /sv/java/singapore-post/
+- /hu/java/singapore-post/
+- /hi/java/singapore-post/
+- /el/java/singapore-post/
+- /cs/java/singapore-post/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

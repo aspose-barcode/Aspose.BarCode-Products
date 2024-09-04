@@ -5,6 +5,13 @@ description: Aspose.Barcode for SharePoint API allows customize, generate and re
 lang: en
 langdirlevel: 2
 locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
+aliases:
+- /nl/sharepoint/onecode/
+- /sv/sharepoint/onecode/
+- /hu/sharepoint/onecode/
+- /hi/sharepoint/onecode/
+- /el/sharepoint/onecode/
+- /cs/sharepoint/onecode/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /php-java/datamatrix/recognize/
 aliases:
 - /php-java/recognize/datamatrix/
+- /nl/php-java/datamatrix/recognize/
+- /sv/php-java/datamatrix/recognize/
+- /hu/php-java/datamatrix/recognize/
+- /hi/php-java/datamatrix/recognize/
+- /el/php-java/datamatrix/recognize/
+- /cs/php-java/datamatrix/recognize/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

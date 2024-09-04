@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /android-java/dotcode/recognize/
 aliases:
 - /android-java/recognize/dotcode/
+- /nl/android-java/dotcode/recognize/
+- /sv/android-java/dotcode/recognize/
+- /hu/android-java/dotcode/recognize/
+- /hi/android-java/dotcode/recognize/
+- /el/android-java/dotcode/recognize/
+- /cs/android-java/dotcode/recognize/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

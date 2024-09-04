@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /php-java/ismn/recognize/
 aliases:
 - /php-java/recognize/ismn/
+- /nl/php-java/ismn/recognize/
+- /sv/php-java/ismn/recognize/
+- /hu/php-java/ismn/recognize/
+- /hi/php-java/ismn/recognize/
+- /el/php-java/ismn/recognize/
+- /cs/php-java/ismn/recognize/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

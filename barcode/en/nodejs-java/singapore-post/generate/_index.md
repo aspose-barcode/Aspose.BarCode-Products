@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /nodejs-java/singapore-post/generate/
 aliases:
 - /nodejs-java/generate/singapore-post/
+- /nl/nodejs-java/singapore-post/generate/
+- /sv/nodejs-java/singapore-post/generate/
+- /hu/nodejs-java/singapore-post/generate/
+- /hi/nodejs-java/singapore-post/generate/
+- /el/nodejs-java/singapore-post/generate/
+- /cs/nodejs-java/singapore-post/generate/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

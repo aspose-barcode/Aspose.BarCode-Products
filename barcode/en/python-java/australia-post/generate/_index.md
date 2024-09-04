@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /python-java/australia-post/generate/
 aliases:
 - /python-java/generate/australia-post/
+- /nl/python-java/australia-post/generate/
+- /sv/python-java/australia-post/generate/
+- /hu/python-java/australia-post/generate/
+- /hi/python-java/australia-post/generate/
+- /el/python-java/australia-post/generate/
+- /cs/python-java/australia-post/generate/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

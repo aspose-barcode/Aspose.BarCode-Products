@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /cpp/datamatrix/recognize/
 aliases:
 - /cpp/recognize/datamatrix/
+- /nl/cpp/datamatrix/recognize/
+- /sv/cpp/datamatrix/recognize/
+- /hu/cpp/datamatrix/recognize/
+- /hi/cpp/datamatrix/recognize/
+- /el/cpp/datamatrix/recognize/
+- /cs/cpp/datamatrix/recognize/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

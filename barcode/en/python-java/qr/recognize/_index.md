@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /python-java/qr/recognize/
 aliases:
 - /python-java/recognize/qr/
+- /nl/python-java/qr/recognize/
+- /sv/python-java/qr/recognize/
+- /hu/python-java/qr/recognize/
+- /hi/python-java/qr/recognize/
+- /el/python-java/qr/recognize/
+- /cs/python-java/qr/recognize/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

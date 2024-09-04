@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /java/onecode/generate/
 aliases:
 - /java/generate/onecode/
+- /nl/java/onecode/generate/
+- /sv/java/onecode/generate/
+- /hu/java/onecode/generate/
+- /hi/java/onecode/generate/
+- /el/java/onecode/generate/
+- /cs/java/onecode/generate/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

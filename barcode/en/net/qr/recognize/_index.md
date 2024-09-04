@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /net/qr/recognize/
 aliases:
 - /net/recognize/qr/
+- /nl/net/qr/recognize/
+- /sv/net/qr/recognize/
+- /hu/net/qr/recognize/
+- /hi/net/qr/recognize/
+- /el/net/qr/recognize/
+- /cs/net/qr/recognize/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

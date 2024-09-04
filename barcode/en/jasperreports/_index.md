@@ -4,6 +4,13 @@ description: Using Aspose.BarCode for JasperReports, developers can generate bar
 lang: en
 langdirlevel: 2
 locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
+aliases:
+- /nl/jasperreports/
+- /sv/jasperreports/
+- /hu/jasperreports/
+- /hi/jasperreports/
+- /el/jasperreports/
+- /cs/jasperreports/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}

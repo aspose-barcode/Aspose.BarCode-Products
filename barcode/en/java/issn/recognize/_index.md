@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /java/issn/recognize/
 aliases:
 - /java/recognize/issn/
+- /nl/java/issn/recognize/
+- /sv/java/issn/recognize/
+- /hu/java/issn/recognize/
+- /hi/java/issn/recognize/
+- /el/java/issn/recognize/
+- /cs/java/issn/recognize/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /android-java/pdf417/recognize/
 aliases:
 - /android-java/recognize/pdf417/
+- /nl/android-java/pdf417/recognize/
+- /sv/android-java/pdf417/recognize/
+- /hu/android-java/pdf417/recognize/
+- /hi/android-java/pdf417/recognize/
+- /el/android-java/pdf417/recognize/
+- /cs/android-java/pdf417/recognize/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

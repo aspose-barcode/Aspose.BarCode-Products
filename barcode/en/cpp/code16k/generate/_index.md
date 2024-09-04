@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /cpp/code16k/generate/
 aliases:
 - /cpp/generate/code16k/
+- /nl/cpp/code16k/generate/
+- /sv/cpp/code16k/generate/
+- /hu/cpp/code16k/generate/
+- /hi/cpp/code16k/generate/
+- /el/cpp/code16k/generate/
+- /cs/cpp/code16k/generate/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -4,6 +4,13 @@ description: Aspose.BarCode for .NET APIs to create and recognize 1D 2D barcodes
 lang: en
 langdirlevel: 2
 locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
+aliases:
+- /nl/net/
+- /sv/net/
+- /hu/net/
+- /hi/net/
+- /el/net/
+- /cs/net/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}

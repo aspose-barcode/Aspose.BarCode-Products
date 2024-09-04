@@ -5,6 +5,13 @@ description: Aspose.Barcode for Python via Java API allows customize, generate a
 lang: en
 langdirlevel: 2
 locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
+aliases:
+- /nl/python-java/ean/
+- /sv/python-java/ean/
+- /hu/python-java/ean/
+- /hi/python-java/ean/
+- /el/python-java/ean/
+- /cs/python-java/ean/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

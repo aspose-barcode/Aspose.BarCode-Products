@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /php-java/aztec/generate/
 aliases:
 - /php-java/generate/aztec/
+- /nl/php-java/aztec/generate/
+- /sv/php-java/aztec/generate/
+- /hu/php-java/aztec/generate/
+- /hi/php-java/aztec/generate/
+- /el/php-java/aztec/generate/
+- /cs/php-java/aztec/generate/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

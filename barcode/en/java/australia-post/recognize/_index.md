@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /java/australia-post/recognize/
 aliases:
 - /java/recognize/australia-post/
+- /nl/java/australia-post/recognize/
+- /sv/java/australia-post/recognize/
+- /hu/java/australia-post/recognize/
+- /hi/java/australia-post/recognize/
+- /el/java/australia-post/recognize/
+- /cs/java/australia-post/recognize/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

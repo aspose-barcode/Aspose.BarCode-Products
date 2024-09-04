@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /java/code16k/recognize/
 aliases:
 - /java/recognize/code16k/
+- /nl/java/code16k/recognize/
+- /sv/java/code16k/recognize/
+- /hu/java/code16k/recognize/
+- /hi/java/code16k/recognize/
+- /el/java/code16k/recognize/
+- /cs/java/code16k/recognize/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

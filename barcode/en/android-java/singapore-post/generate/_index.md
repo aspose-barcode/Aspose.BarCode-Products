@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /android-java/singapore-post/generate/
 aliases:
 - /android-java/generate/singapore-post/
+- /nl/android-java/singapore-post/generate/
+- /sv/android-java/singapore-post/generate/
+- /hu/android-java/singapore-post/generate/
+- /hi/android-java/singapore-post/generate/
+- /el/android-java/singapore-post/generate/
+- /cs/android-java/singapore-post/generate/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

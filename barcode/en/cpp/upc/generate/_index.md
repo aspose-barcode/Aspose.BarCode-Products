@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /cpp/upc/generate/
 aliases:
 - /cpp/generate/upc/
+- /nl/cpp/upc/generate/
+- /sv/cpp/upc/generate/
+- /hu/cpp/upc/generate/
+- /hi/cpp/upc/generate/
+- /el/cpp/upc/generate/
+- /cs/cpp/upc/generate/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

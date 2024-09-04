@@ -5,6 +5,13 @@ description: Aspose.Barcode for Java API allows customize, generate and recogniz
 lang: en
 langdirlevel: 2
 locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
+aliases:
+- /nl/java/code93/
+- /sv/java/code93/
+- /hu/java/code93/
+- /hi/java/code93/
+- /el/java/code93/
+- /cs/java/code93/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

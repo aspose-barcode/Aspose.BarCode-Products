@@ -5,6 +5,13 @@ description: Aspose.Barcode for Java API allows customize, generate and recogniz
 lang: en
 langdirlevel: 2
 locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
+aliases:
+- /nl/java/hibc/
+- /sv/java/hibc/
+- /hu/java/hibc/
+- /hi/java/hibc/
+- /el/java/hibc/
+- /cs/java/hibc/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

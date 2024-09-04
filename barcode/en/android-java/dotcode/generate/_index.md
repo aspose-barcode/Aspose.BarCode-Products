@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /android-java/dotcode/generate/
 aliases:
 - /android-java/generate/dotcode/
+- /nl/android-java/dotcode/generate/
+- /sv/android-java/dotcode/generate/
+- /hu/android-java/dotcode/generate/
+- /hi/android-java/dotcode/generate/
+- /el/android-java/dotcode/generate/
+- /cs/android-java/dotcode/generate/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

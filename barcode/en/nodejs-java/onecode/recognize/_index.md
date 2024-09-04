@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /nodejs-java/onecode/recognize/
 aliases:
 - /nodejs-java/recognize/onecode/
+- /nl/nodejs-java/onecode/recognize/
+- /sv/nodejs-java/onecode/recognize/
+- /hu/nodejs-java/onecode/recognize/
+- /hi/nodejs-java/onecode/recognize/
+- /el/nodejs-java/onecode/recognize/
+- /cs/nodejs-java/onecode/recognize/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

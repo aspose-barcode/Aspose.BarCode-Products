@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /java/code128/recognize/
 aliases:
 - /java/recognize/code128/
+- /nl/java/code128/recognize/
+- /sv/java/code128/recognize/
+- /hu/java/code128/recognize/
+- /hi/java/code128/recognize/
+- /el/java/code128/recognize/
+- /cs/java/code128/recognize/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

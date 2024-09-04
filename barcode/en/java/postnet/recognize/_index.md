@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /java/postnet/recognize/
 aliases:
 - /java/recognize/postnet/
+- /nl/java/postnet/recognize/
+- /sv/java/postnet/recognize/
+- /hu/java/postnet/recognize/
+- /hi/java/postnet/recognize/
+- /el/java/postnet/recognize/
+- /cs/java/postnet/recognize/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

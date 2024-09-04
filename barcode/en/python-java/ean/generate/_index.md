@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /python-java/ean/generate/
 aliases:
 - /python-java/generate/ean/
+- /nl/python-java/ean/generate/
+- /sv/python-java/ean/generate/
+- /hu/python-java/ean/generate/
+- /hi/python-java/ean/generate/
+- /el/python-java/ean/generate/
+- /cs/python-java/ean/generate/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

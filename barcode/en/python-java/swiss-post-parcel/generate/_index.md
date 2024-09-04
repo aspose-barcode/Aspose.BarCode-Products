@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /python-java/swiss-post-parcel/generate/
 aliases:
 - /python-java/generate/swiss-post-parcel/
+- /nl/python-java/swiss-post-parcel/generate/
+- /sv/python-java/swiss-post-parcel/generate/
+- /hu/python-java/swiss-post-parcel/generate/
+- /hi/python-java/swiss-post-parcel/generate/
+- /el/python-java/swiss-post-parcel/generate/
+- /cs/python-java/swiss-post-parcel/generate/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

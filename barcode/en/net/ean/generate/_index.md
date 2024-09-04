@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /net/ean/generate/
 aliases:
 - /net/generate/ean/
+- /nl/net/ean/generate/
+- /sv/net/ean/generate/
+- /hu/net/ean/generate/
+- /hi/net/ean/generate/
+- /el/net/ean/generate/
+- /cs/net/ean/generate/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /java/code93/generate/
 aliases:
 - /java/generate/code93/
+- /nl/java/code93/generate/
+- /sv/java/code93/generate/
+- /hu/java/code93/generate/
+- /hi/java/code93/generate/
+- /el/java/code93/generate/
+- /cs/java/code93/generate/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

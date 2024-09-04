@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /php-java/code128/recognize/
 aliases:
 - /php-java/recognize/code128/
+- /nl/php-java/code128/recognize/
+- /sv/php-java/code128/recognize/
+- /hu/php-java/code128/recognize/
+- /hi/php-java/code128/recognize/
+- /el/php-java/code128/recognize/
+- /cs/php-java/code128/recognize/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

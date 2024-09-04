@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /android-java/code93/recognize/
 aliases:
 - /android-java/recognize/code93/
+- /nl/android-java/code93/recognize/
+- /sv/android-java/code93/recognize/
+- /hu/android-java/code93/recognize/
+- /hi/android-java/code93/recognize/
+- /el/android-java/code93/recognize/
+- /cs/android-java/code93/recognize/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

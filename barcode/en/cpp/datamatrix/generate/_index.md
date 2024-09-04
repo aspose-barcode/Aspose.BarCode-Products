@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /cpp/datamatrix/generate/
 aliases:
 - /cpp/generate/datamatrix/
+- /nl/cpp/datamatrix/generate/
+- /sv/cpp/datamatrix/generate/
+- /hu/cpp/datamatrix/generate/
+- /hi/cpp/datamatrix/generate/
+- /el/cpp/datamatrix/generate/
+- /cs/cpp/datamatrix/generate/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

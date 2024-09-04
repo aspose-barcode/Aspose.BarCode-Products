@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /cpp/databar/recognize/
 aliases:
 - /cpp/recognize/databar/
+- /nl/cpp/databar/recognize/
+- /sv/cpp/databar/recognize/
+- /hu/cpp/databar/recognize/
+- /hi/cpp/databar/recognize/
+- /el/cpp/databar/recognize/
+- /cs/cpp/databar/recognize/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

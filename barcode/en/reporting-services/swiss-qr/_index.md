@@ -5,6 +5,13 @@ description: Aspose.Barcode for SQL Reporting Services API allows customize, gen
 lang: en
 langdirlevel: 2
 locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
+aliases:
+- /nl/reporting-services/swiss-qr/
+- /sv/reporting-services/swiss-qr/
+- /hu/reporting-services/swiss-qr/
+- /hi/reporting-services/swiss-qr/
+- /el/reporting-services/swiss-qr/
+- /cs/reporting-services/swiss-qr/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

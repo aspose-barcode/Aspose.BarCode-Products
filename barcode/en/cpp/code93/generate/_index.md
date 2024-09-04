@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /cpp/code93/generate/
 aliases:
 - /cpp/generate/code93/
+- /nl/cpp/code93/generate/
+- /sv/cpp/code93/generate/
+- /hu/cpp/code93/generate/
+- /hi/cpp/code93/generate/
+- /el/cpp/code93/generate/
+- /cs/cpp/code93/generate/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

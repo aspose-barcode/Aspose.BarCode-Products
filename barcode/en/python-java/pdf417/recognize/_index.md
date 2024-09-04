@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /python-java/pdf417/recognize/
 aliases:
 - /python-java/recognize/pdf417/
+- /nl/python-java/pdf417/recognize/
+- /sv/python-java/pdf417/recognize/
+- /hu/python-java/pdf417/recognize/
+- /hi/python-java/pdf417/recognize/
+- /el/python-java/pdf417/recognize/
+- /cs/python-java/pdf417/recognize/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

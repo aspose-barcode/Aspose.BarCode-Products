@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /android-java/issn/recognize/
 aliases:
 - /android-java/recognize/issn/
+- /nl/android-java/issn/recognize/
+- /sv/android-java/issn/recognize/
+- /hu/android-java/issn/recognize/
+- /hi/android-java/issn/recognize/
+- /el/android-java/issn/recognize/
+- /cs/android-java/issn/recognize/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

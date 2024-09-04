@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /android-java/swiss-post-parcel/generate/
 aliases:
 - /android-java/generate/swiss-post-parcel/
+- /nl/android-java/swiss-post-parcel/generate/
+- /sv/android-java/swiss-post-parcel/generate/
+- /hu/android-java/swiss-post-parcel/generate/
+- /hi/android-java/swiss-post-parcel/generate/
+- /el/android-java/swiss-post-parcel/generate/
+- /cs/android-java/swiss-post-parcel/generate/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

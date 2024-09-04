@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /android-java/aztec/recognize/
 aliases:
 - /android-java/recognize/aztec/
+- /nl/android-java/aztec/recognize/
+- /sv/android-java/aztec/recognize/
+- /hu/android-java/aztec/recognize/
+- /hi/android-java/aztec/recognize/
+- /el/android-java/aztec/recognize/
+- /cs/android-java/aztec/recognize/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

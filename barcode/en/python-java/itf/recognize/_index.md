@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /python-java/itf/recognize/
 aliases:
 - /python-java/recognize/itf/
+- /nl/python-java/itf/recognize/
+- /sv/python-java/itf/recognize/
+- /hu/python-java/itf/recognize/
+- /hi/python-java/itf/recognize/
+- /el/python-java/itf/recognize/
+- /cs/python-java/itf/recognize/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -5,6 +5,13 @@ description: Aspose.Barcode for Python via Java API allows customize, generate a
 lang: en
 langdirlevel: 2
 locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
+aliases:
+- /nl/python-java/code16k/
+- /sv/python-java/code16k/
+- /hu/python-java/code16k/
+- /hi/python-java/code16k/
+- /el/python-java/code16k/
+- /cs/python-java/code16k/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

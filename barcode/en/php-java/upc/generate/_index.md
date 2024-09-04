@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /php-java/upc/generate/
 aliases:
 - /php-java/generate/upc/
+- /nl/php-java/upc/generate/
+- /sv/php-java/upc/generate/
+- /hu/php-java/upc/generate/
+- /hi/php-java/upc/generate/
+- /el/php-java/upc/generate/
+- /cs/php-java/upc/generate/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

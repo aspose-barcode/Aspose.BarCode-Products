@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /net/datamatrix/generate/
 aliases:
 - /net/generate/datamatrix/
+- /nl/net/datamatrix/generate/
+- /sv/net/datamatrix/generate/
+- /hu/net/datamatrix/generate/
+- /hi/net/datamatrix/generate/
+- /el/net/datamatrix/generate/
+- /cs/net/datamatrix/generate/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

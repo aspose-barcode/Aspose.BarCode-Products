@@ -5,6 +5,13 @@ description: Aspose.Barcode for SQL Reporting Services API allows customize, gen
 lang: en
 langdirlevel: 2
 locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
+aliases:
+- /nl/reporting-services/codablock/
+- /sv/reporting-services/codablock/
+- /hu/reporting-services/codablock/
+- /hi/reporting-services/codablock/
+- /el/reporting-services/codablock/
+- /cs/reporting-services/codablock/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /cpp/code39/recognize/
 aliases:
 - /cpp/recognize/code39/
+- /nl/cpp/code39/recognize/
+- /sv/cpp/code39/recognize/
+- /hu/cpp/code39/recognize/
+- /hi/cpp/code39/recognize/
+- /el/cpp/code39/recognize/
+- /cs/cpp/code39/recognize/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

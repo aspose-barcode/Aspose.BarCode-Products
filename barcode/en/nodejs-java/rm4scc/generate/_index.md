@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /nodejs-java/rm4scc/generate/
 aliases:
 - /nodejs-java/generate/rm4scc/
+- /nl/nodejs-java/rm4scc/generate/
+- /sv/nodejs-java/rm4scc/generate/
+- /hu/nodejs-java/rm4scc/generate/
+- /hi/nodejs-java/rm4scc/generate/
+- /el/nodejs-java/rm4scc/generate/
+- /cs/nodejs-java/rm4scc/generate/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /java/pdf417/generate/
 aliases:
 - /java/generate/pdf417/
+- /nl/java/pdf417/generate/
+- /sv/java/pdf417/generate/
+- /hu/java/pdf417/generate/
+- /hi/java/pdf417/generate/
+- /el/java/pdf417/generate/
+- /cs/java/pdf417/generate/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /nodejs-java/standard2of5/generate/
 aliases:
 - /nodejs-java/generate/standard2of5/
+- /nl/nodejs-java/standard2of5/generate/
+- /sv/nodejs-java/standard2of5/generate/
+- /hu/nodejs-java/standard2of5/generate/
+- /hi/nodejs-java/standard2of5/generate/
+- /el/nodejs-java/standard2of5/generate/
+- /cs/nodejs-java/standard2of5/generate/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

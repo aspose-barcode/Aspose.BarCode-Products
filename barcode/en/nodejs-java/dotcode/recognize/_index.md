@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /nodejs-java/dotcode/recognize/
 aliases:
 - /nodejs-java/recognize/dotcode/
+- /nl/nodejs-java/dotcode/recognize/
+- /sv/nodejs-java/dotcode/recognize/
+- /hu/nodejs-java/dotcode/recognize/
+- /hi/nodejs-java/dotcode/recognize/
+- /el/nodejs-java/dotcode/recognize/
+- /cs/nodejs-java/dotcode/recognize/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

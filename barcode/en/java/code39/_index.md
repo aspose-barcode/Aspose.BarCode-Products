@@ -5,6 +5,13 @@ description: Aspose.Barcode for Java API allows customize, generate and recogniz
 lang: en
 langdirlevel: 2
 locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
+aliases:
+- /nl/java/code39/
+- /sv/java/code39/
+- /hu/java/code39/
+- /hi/java/code39/
+- /el/java/code39/
+- /cs/java/code39/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

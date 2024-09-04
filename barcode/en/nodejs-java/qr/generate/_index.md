@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /nodejs-java/qr/generate/
 aliases:
 - /nodejs-java/generate/qr/
+- /nl/nodejs-java/qr/generate/
+- /sv/nodejs-java/qr/generate/
+- /hu/nodejs-java/qr/generate/
+- /hi/nodejs-java/qr/generate/
+- /el/nodejs-java/qr/generate/
+- /cs/nodejs-java/qr/generate/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

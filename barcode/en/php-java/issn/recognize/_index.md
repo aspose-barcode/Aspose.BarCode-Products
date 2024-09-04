@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /php-java/issn/recognize/
 aliases:
 - /php-java/recognize/issn/
+- /nl/php-java/issn/recognize/
+- /sv/php-java/issn/recognize/
+- /hu/php-java/issn/recognize/
+- /hi/php-java/issn/recognize/
+- /el/php-java/issn/recognize/
+- /cs/php-java/issn/recognize/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

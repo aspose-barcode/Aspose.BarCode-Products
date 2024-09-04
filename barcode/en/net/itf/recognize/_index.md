@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /net/itf/recognize/
 aliases:
 - /net/recognize/itf/
+- /nl/net/itf/recognize/
+- /sv/net/itf/recognize/
+- /hu/net/itf/recognize/
+- /hi/net/itf/recognize/
+- /el/net/itf/recognize/
+- /cs/net/itf/recognize/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

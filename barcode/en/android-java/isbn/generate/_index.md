@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /android-java/isbn/generate/
 aliases:
 - /android-java/generate/isbn/
+- /nl/android-java/isbn/generate/
+- /sv/android-java/isbn/generate/
+- /hu/android-java/isbn/generate/
+- /hi/android-java/isbn/generate/
+- /el/android-java/isbn/generate/
+- /cs/android-java/isbn/generate/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /python-java/upc/recognize/
 aliases:
 - /python-java/recognize/upc/
+- /nl/python-java/upc/recognize/
+- /sv/python-java/upc/recognize/
+- /hu/python-java/upc/recognize/
+- /hi/python-java/upc/recognize/
+- /el/python-java/upc/recognize/
+- /cs/python-java/upc/recognize/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

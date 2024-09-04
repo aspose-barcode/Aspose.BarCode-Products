@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /android-java/aztec/generate/
 aliases:
 - /android-java/generate/aztec/
+- /nl/android-java/aztec/generate/
+- /sv/android-java/aztec/generate/
+- /hu/android-java/aztec/generate/
+- /hi/android-java/aztec/generate/
+- /el/android-java/aztec/generate/
+- /cs/android-java/aztec/generate/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

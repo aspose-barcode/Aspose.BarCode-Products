@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /android-java/standard2of5/recognize/
 aliases:
 - /android-java/recognize/standard2of5/
+- /nl/android-java/standard2of5/recognize/
+- /sv/android-java/standard2of5/recognize/
+- /hu/android-java/standard2of5/recognize/
+- /hi/android-java/standard2of5/recognize/
+- /el/android-java/standard2of5/recognize/
+- /cs/android-java/standard2of5/recognize/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /python-java/code39/generate/
 aliases:
 - /python-java/generate/code39/
+- /nl/python-java/code39/generate/
+- /sv/python-java/code39/generate/
+- /hu/python-java/code39/generate/
+- /hi/python-java/code39/generate/
+- /el/python-java/code39/generate/
+- /cs/python-java/code39/generate/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

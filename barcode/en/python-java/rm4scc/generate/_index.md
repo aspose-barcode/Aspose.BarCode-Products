@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /python-java/rm4scc/generate/
 aliases:
 - /python-java/generate/rm4scc/
+- /nl/python-java/rm4scc/generate/
+- /sv/python-java/rm4scc/generate/
+- /hu/python-java/rm4scc/generate/
+- /hi/python-java/rm4scc/generate/
+- /el/python-java/rm4scc/generate/
+- /cs/python-java/rm4scc/generate/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

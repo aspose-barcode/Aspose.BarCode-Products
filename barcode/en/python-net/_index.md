@@ -4,6 +4,13 @@ description: Python barcode reader library to recognize and generate mutiple typ
 lang: en
 langdirlevel: 2
 locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
+aliases:
+- /nl/python-net/
+- /sv/python-net/
+- /hu/python-net/
+- /hi/python-net/
+- /el/python-net/
+- /cs/python-net/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}

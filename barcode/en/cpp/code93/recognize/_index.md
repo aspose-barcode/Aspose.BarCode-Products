@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /cpp/code93/recognize/
 aliases:
 - /cpp/recognize/code93/
+- /nl/cpp/code93/recognize/
+- /sv/cpp/code93/recognize/
+- /hu/cpp/code93/recognize/
+- /hi/cpp/code93/recognize/
+- /el/cpp/code93/recognize/
+- /cs/cpp/code93/recognize/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

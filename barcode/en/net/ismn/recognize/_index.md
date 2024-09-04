@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /net/ismn/recognize/
 aliases:
 - /net/recognize/ismn/
+- /nl/net/ismn/recognize/
+- /sv/net/ismn/recognize/
+- /hu/net/ismn/recognize/
+- /hi/net/ismn/recognize/
+- /el/net/ismn/recognize/
+- /cs/net/ismn/recognize/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

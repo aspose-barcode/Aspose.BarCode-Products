@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /net/standard2of5/generate/
 aliases:
 - /net/generate/standard2of5/
+- /nl/net/standard2of5/generate/
+- /sv/net/standard2of5/generate/
+- /hu/net/standard2of5/generate/
+- /hi/net/standard2of5/generate/
+- /el/net/standard2of5/generate/
+- /cs/net/standard2of5/generate/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

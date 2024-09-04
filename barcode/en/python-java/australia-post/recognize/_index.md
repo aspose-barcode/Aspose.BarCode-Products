@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /python-java/australia-post/recognize/
 aliases:
 - /python-java/recognize/australia-post/
+- /nl/python-java/australia-post/recognize/
+- /sv/python-java/australia-post/recognize/
+- /hu/python-java/australia-post/recognize/
+- /hi/python-java/australia-post/recognize/
+- /el/python-java/australia-post/recognize/
+- /cs/python-java/australia-post/recognize/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

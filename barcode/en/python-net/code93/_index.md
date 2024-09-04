@@ -5,6 +5,13 @@ description: Aspose.Barcode for Python via .NET API allows customize, generate a
 lang: en
 langdirlevel: 2
 locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
+aliases:
+- /nl/python-net/code93/
+- /sv/python-net/code93/
+- /hu/python-net/code93/
+- /hi/python-net/code93/
+- /el/python-net/code93/
+- /cs/python-net/code93/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

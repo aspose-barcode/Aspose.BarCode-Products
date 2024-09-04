@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /android-java/deutsche-post/recognize/
 aliases:
 - /android-java/recognize/deutsche-post/
+- /nl/android-java/deutsche-post/recognize/
+- /sv/android-java/deutsche-post/recognize/
+- /hu/android-java/deutsche-post/recognize/
+- /hi/android-java/deutsche-post/recognize/
+- /el/android-java/deutsche-post/recognize/
+- /cs/android-java/deutsche-post/recognize/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

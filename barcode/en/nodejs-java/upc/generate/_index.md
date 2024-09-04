@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /nodejs-java/upc/generate/
 aliases:
 - /nodejs-java/generate/upc/
+- /nl/nodejs-java/upc/generate/
+- /sv/nodejs-java/upc/generate/
+- /hu/nodejs-java/upc/generate/
+- /hi/nodejs-java/upc/generate/
+- /el/nodejs-java/upc/generate/
+- /cs/nodejs-java/upc/generate/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

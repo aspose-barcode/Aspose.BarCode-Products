@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /android-java/codablock/generate/
 aliases:
 - /android-java/generate/codablock/
+- /nl/android-java/codablock/generate/
+- /sv/android-java/codablock/generate/
+- /hu/android-java/codablock/generate/
+- /hi/android-java/codablock/generate/
+- /el/android-java/codablock/generate/
+- /cs/android-java/codablock/generate/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

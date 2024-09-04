@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /java/isbn/recognize/
 aliases:
 - /java/recognize/isbn/
+- /nl/java/isbn/recognize/
+- /sv/java/isbn/recognize/
+- /hu/java/isbn/recognize/
+- /hi/java/isbn/recognize/
+- /el/java/isbn/recognize/
+- /cs/java/isbn/recognize/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

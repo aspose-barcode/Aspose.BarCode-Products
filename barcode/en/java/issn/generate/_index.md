@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /java/issn/generate/
 aliases:
 - /java/generate/issn/
+- /nl/java/issn/generate/
+- /sv/java/issn/generate/
+- /hu/java/issn/generate/
+- /hi/java/issn/generate/
+- /el/java/issn/generate/
+- /cs/java/issn/generate/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

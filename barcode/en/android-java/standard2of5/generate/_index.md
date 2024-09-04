@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /android-java/standard2of5/generate/
 aliases:
 - /android-java/generate/standard2of5/
+- /nl/android-java/standard2of5/generate/
+- /sv/android-java/standard2of5/generate/
+- /hu/android-java/standard2of5/generate/
+- /hi/android-java/standard2of5/generate/
+- /el/android-java/standard2of5/generate/
+- /cs/android-java/standard2of5/generate/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

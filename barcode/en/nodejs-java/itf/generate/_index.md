@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /nodejs-java/itf/generate/
 aliases:
 - /nodejs-java/generate/itf/
+- /nl/nodejs-java/itf/generate/
+- /sv/nodejs-java/itf/generate/
+- /hu/nodejs-java/itf/generate/
+- /hi/nodejs-java/itf/generate/
+- /el/nodejs-java/itf/generate/
+- /cs/nodejs-java/itf/generate/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

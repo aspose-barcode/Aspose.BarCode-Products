@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /android-java/itf/generate/
 aliases:
 - /android-java/generate/itf/
+- /nl/android-java/itf/generate/
+- /sv/android-java/itf/generate/
+- /hu/android-java/itf/generate/
+- /hi/android-java/itf/generate/
+- /el/android-java/itf/generate/
+- /cs/android-java/itf/generate/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

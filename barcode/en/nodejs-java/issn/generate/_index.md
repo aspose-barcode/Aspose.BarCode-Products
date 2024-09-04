@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /nodejs-java/issn/generate/
 aliases:
 - /nodejs-java/generate/issn/
+- /nl/nodejs-java/issn/generate/
+- /sv/nodejs-java/issn/generate/
+- /hu/nodejs-java/issn/generate/
+- /hi/nodejs-java/issn/generate/
+- /el/nodejs-java/issn/generate/
+- /cs/nodejs-java/issn/generate/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

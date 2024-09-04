@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /net/upc/recognize/
 aliases:
 - /net/recognize/upc/
+- /nl/net/upc/recognize/
+- /sv/net/upc/recognize/
+- /hu/net/upc/recognize/
+- /hi/net/upc/recognize/
+- /el/net/upc/recognize/
+- /cs/net/upc/recognize/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

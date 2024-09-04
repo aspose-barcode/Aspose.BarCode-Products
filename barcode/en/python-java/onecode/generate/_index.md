@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /python-java/onecode/generate/
 aliases:
 - /python-java/generate/onecode/
+- /nl/python-java/onecode/generate/
+- /sv/python-java/onecode/generate/
+- /hu/python-java/onecode/generate/
+- /hi/python-java/onecode/generate/
+- /el/python-java/onecode/generate/
+- /cs/python-java/onecode/generate/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

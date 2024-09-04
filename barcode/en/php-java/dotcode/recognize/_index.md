@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /php-java/dotcode/recognize/
 aliases:
 - /php-java/recognize/dotcode/
+- /nl/php-java/dotcode/recognize/
+- /sv/php-java/dotcode/recognize/
+- /hu/php-java/dotcode/recognize/
+- /hi/php-java/dotcode/recognize/
+- /el/php-java/dotcode/recognize/
+- /cs/php-java/dotcode/recognize/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /php-java/swiss-post-parcel/recognize/
 aliases:
 - /php-java/recognize/swiss-post-parcel/
+- /nl/php-java/swiss-post-parcel/recognize/
+- /sv/php-java/swiss-post-parcel/recognize/
+- /hu/php-java/swiss-post-parcel/recognize/
+- /hi/php-java/swiss-post-parcel/recognize/
+- /el/php-java/swiss-post-parcel/recognize/
+- /cs/php-java/swiss-post-parcel/recognize/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

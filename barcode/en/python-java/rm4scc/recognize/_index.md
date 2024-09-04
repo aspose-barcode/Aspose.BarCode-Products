@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /python-java/rm4scc/recognize/
 aliases:
 - /python-java/recognize/rm4scc/
+- /nl/python-java/rm4scc/recognize/
+- /sv/python-java/rm4scc/recognize/
+- /hu/python-java/rm4scc/recognize/
+- /hi/python-java/rm4scc/recognize/
+- /el/python-java/rm4scc/recognize/
+- /cs/python-java/rm4scc/recognize/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

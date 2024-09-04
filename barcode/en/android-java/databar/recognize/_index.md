@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /android-java/databar/recognize/
 aliases:
 - /android-java/recognize/databar/
+- /nl/android-java/databar/recognize/
+- /sv/android-java/databar/recognize/
+- /hu/android-java/databar/recognize/
+- /hi/android-java/databar/recognize/
+- /el/android-java/databar/recognize/
+- /cs/android-java/databar/recognize/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -5,6 +5,13 @@ description: Aspose.Barcode for Python via Java API allows customize, generate a
 lang: en
 langdirlevel: 2
 locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
+aliases:
+- /nl/python-java/rm4scc/
+- /sv/python-java/rm4scc/
+- /hu/python-java/rm4scc/
+- /hi/python-java/rm4scc/
+- /el/python-java/rm4scc/
+- /cs/python-java/rm4scc/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /cpp/code16k/recognize/
 aliases:
 - /cpp/recognize/code16k/
+- /nl/cpp/code16k/recognize/
+- /sv/cpp/code16k/recognize/
+- /hu/cpp/code16k/recognize/
+- /hi/cpp/code16k/recognize/
+- /el/cpp/code16k/recognize/
+- /cs/cpp/code16k/recognize/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

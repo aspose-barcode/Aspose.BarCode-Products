@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /php-java/qr/generate/
 aliases:
 - /php-java/generate/qr/
+- /nl/php-java/qr/generate/
+- /sv/php-java/qr/generate/
+- /hu/php-java/qr/generate/
+- /hi/php-java/qr/generate/
+- /el/php-java/qr/generate/
+- /cs/php-java/qr/generate/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

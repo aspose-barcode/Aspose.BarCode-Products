@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /nodejs-java/ismn/recognize/
 aliases:
 - /nodejs-java/recognize/ismn/
+- /nl/nodejs-java/ismn/recognize/
+- /sv/nodejs-java/ismn/recognize/
+- /hu/nodejs-java/ismn/recognize/
+- /hi/nodejs-java/ismn/recognize/
+- /el/nodejs-java/ismn/recognize/
+- /cs/nodejs-java/ismn/recognize/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

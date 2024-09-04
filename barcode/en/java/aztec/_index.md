@@ -5,6 +5,13 @@ description: Aspose.Barcode for Java API allows customize, generate and recogniz
 lang: en
 langdirlevel: 2
 locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
+aliases:
+- /nl/java/aztec/
+- /sv/java/aztec/
+- /hu/java/aztec/
+- /hi/java/aztec/
+- /el/java/aztec/
+- /cs/java/aztec/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

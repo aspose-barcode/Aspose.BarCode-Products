@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /android-java/swiss-post-parcel/recognize/
 aliases:
 - /android-java/recognize/swiss-post-parcel/
+- /nl/android-java/swiss-post-parcel/recognize/
+- /sv/android-java/swiss-post-parcel/recognize/
+- /hu/android-java/swiss-post-parcel/recognize/
+- /hi/android-java/swiss-post-parcel/recognize/
+- /el/android-java/swiss-post-parcel/recognize/
+- /cs/android-java/swiss-post-parcel/recognize/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

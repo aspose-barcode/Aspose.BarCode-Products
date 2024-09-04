@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /cpp/codablock/generate/
 aliases:
 - /cpp/generate/codablock/
+- /nl/cpp/codablock/generate/
+- /sv/cpp/codablock/generate/
+- /hu/cpp/codablock/generate/
+- /hi/cpp/codablock/generate/
+- /el/cpp/codablock/generate/
+- /cs/cpp/codablock/generate/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

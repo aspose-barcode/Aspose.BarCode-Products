@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /net/code93/recognize/
 aliases:
 - /net/recognize/code93/
+- /nl/net/code93/recognize/
+- /sv/net/code93/recognize/
+- /hu/net/code93/recognize/
+- /hi/net/code93/recognize/
+- /el/net/code93/recognize/
+- /cs/net/code93/recognize/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

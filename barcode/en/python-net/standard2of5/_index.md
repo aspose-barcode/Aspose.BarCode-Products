@@ -5,6 +5,13 @@ description: Aspose.Barcode for Python via .NET API allows customize, generate a
 lang: en
 langdirlevel: 2
 locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
+aliases:
+- /nl/python-net/standard2of5/
+- /sv/python-net/standard2of5/
+- /hu/python-net/standard2of5/
+- /hi/python-net/standard2of5/
+- /el/python-net/standard2of5/
+- /cs/python-net/standard2of5/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /nodejs-java/databar/generate/
 aliases:
 - /nodejs-java/generate/databar/
+- /nl/nodejs-java/databar/generate/
+- /sv/nodejs-java/databar/generate/
+- /hu/nodejs-java/databar/generate/
+- /hi/nodejs-java/databar/generate/
+- /el/nodejs-java/databar/generate/
+- /cs/nodejs-java/databar/generate/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

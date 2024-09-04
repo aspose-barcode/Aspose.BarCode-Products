@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /android-java/ismn/generate/
 aliases:
 - /android-java/generate/ismn/
+- /nl/android-java/ismn/generate/
+- /sv/android-java/ismn/generate/
+- /hu/android-java/ismn/generate/
+- /hi/android-java/ismn/generate/
+- /el/android-java/ismn/generate/
+- /cs/android-java/ismn/generate/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

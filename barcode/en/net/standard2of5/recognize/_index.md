@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /net/standard2of5/recognize/
 aliases:
 - /net/recognize/standard2of5/
+- /nl/net/standard2of5/recognize/
+- /sv/net/standard2of5/recognize/
+- /hu/net/standard2of5/recognize/
+- /hi/net/standard2of5/recognize/
+- /el/net/standard2of5/recognize/
+- /cs/net/standard2of5/recognize/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

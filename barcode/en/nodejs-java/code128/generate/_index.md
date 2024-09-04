@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /nodejs-java/code128/generate/
 aliases:
 - /nodejs-java/generate/code128/
+- /nl/nodejs-java/code128/generate/
+- /sv/nodejs-java/code128/generate/
+- /hu/nodejs-java/code128/generate/
+- /hi/nodejs-java/code128/generate/
+- /el/nodejs-java/code128/generate/
+- /cs/nodejs-java/code128/generate/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

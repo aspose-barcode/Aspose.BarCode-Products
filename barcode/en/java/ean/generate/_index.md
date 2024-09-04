@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /java/ean/generate/
 aliases:
 - /java/generate/ean/
+- /nl/java/ean/generate/
+- /sv/java/ean/generate/
+- /hu/java/ean/generate/
+- /hi/java/ean/generate/
+- /el/java/ean/generate/
+- /cs/java/ean/generate/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

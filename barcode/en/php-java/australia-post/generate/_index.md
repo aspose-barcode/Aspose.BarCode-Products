@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /php-java/australia-post/generate/
 aliases:
 - /php-java/generate/australia-post/
+- /nl/php-java/australia-post/generate/
+- /sv/php-java/australia-post/generate/
+- /hu/php-java/australia-post/generate/
+- /hi/php-java/australia-post/generate/
+- /el/php-java/australia-post/generate/
+- /cs/php-java/australia-post/generate/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

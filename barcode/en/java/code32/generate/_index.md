@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /java/code32/generate/
 aliases:
 - /java/generate/code32/
+- /nl/java/code32/generate/
+- /sv/java/code32/generate/
+- /hu/java/code32/generate/
+- /hi/java/code32/generate/
+- /el/java/code32/generate/
+- /cs/java/code32/generate/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /cpp/itf/generate/
 aliases:
 - /cpp/generate/itf/
+- /nl/cpp/itf/generate/
+- /sv/cpp/itf/generate/
+- /hu/cpp/itf/generate/
+- /hi/cpp/itf/generate/
+- /el/cpp/itf/generate/
+- /cs/cpp/itf/generate/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /python-java/dotcode/generate/
 aliases:
 - /python-java/generate/dotcode/
+- /nl/python-java/dotcode/generate/
+- /sv/python-java/dotcode/generate/
+- /hu/python-java/dotcode/generate/
+- /hi/python-java/dotcode/generate/
+- /el/python-java/dotcode/generate/
+- /cs/python-java/dotcode/generate/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

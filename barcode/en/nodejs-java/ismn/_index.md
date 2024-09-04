@@ -5,6 +5,13 @@ description: Aspose.Barcode for Node.js via Java API allows customize, generate 
 lang: en
 langdirlevel: 2
 locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
+aliases:
+- /nl/nodejs-java/ismn/
+- /sv/nodejs-java/ismn/
+- /hu/nodejs-java/ismn/
+- /hi/nodejs-java/ismn/
+- /el/nodejs-java/ismn/
+- /cs/nodejs-java/ismn/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

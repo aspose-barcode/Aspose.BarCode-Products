@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /net/datamatrix/recognize/
 aliases:
 - /net/recognize/datamatrix/
+- /nl/net/datamatrix/recognize/
+- /sv/net/datamatrix/recognize/
+- /hu/net/datamatrix/recognize/
+- /hi/net/datamatrix/recognize/
+- /el/net/datamatrix/recognize/
+- /cs/net/datamatrix/recognize/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

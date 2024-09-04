@@ -5,6 +5,13 @@ description: Aspose.Barcode for SQL Reporting Services API allows customize, gen
 lang: en
 langdirlevel: 2
 locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
+aliases:
+- /nl/reporting-services/swiss-post-parcel/
+- /sv/reporting-services/swiss-post-parcel/
+- /hu/reporting-services/swiss-post-parcel/
+- /hi/reporting-services/swiss-post-parcel/
+- /el/reporting-services/swiss-post-parcel/
+- /cs/reporting-services/swiss-post-parcel/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

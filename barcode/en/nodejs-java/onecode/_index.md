@@ -5,6 +5,13 @@ description: Aspose.Barcode for Node.js via Java API allows customize, generate 
 lang: en
 langdirlevel: 2
 locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
+aliases:
+- /nl/nodejs-java/onecode/
+- /sv/nodejs-java/onecode/
+- /hu/nodejs-java/onecode/
+- /hi/nodejs-java/onecode/
+- /el/nodejs-java/onecode/
+- /cs/nodejs-java/onecode/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

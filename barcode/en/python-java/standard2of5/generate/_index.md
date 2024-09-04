@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /python-java/standard2of5/generate/
 aliases:
 - /python-java/generate/standard2of5/
+- /nl/python-java/standard2of5/generate/
+- /sv/python-java/standard2of5/generate/
+- /hu/python-java/standard2of5/generate/
+- /hi/python-java/standard2of5/generate/
+- /el/python-java/standard2of5/generate/
+- /cs/python-java/standard2of5/generate/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

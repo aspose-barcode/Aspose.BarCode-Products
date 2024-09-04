@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /python-java/standard2of5/recognize/
 aliases:
 - /python-java/recognize/standard2of5/
+- /nl/python-java/standard2of5/recognize/
+- /sv/python-java/standard2of5/recognize/
+- /hu/python-java/standard2of5/recognize/
+- /hi/python-java/standard2of5/recognize/
+- /el/python-java/standard2of5/recognize/
+- /cs/python-java/standard2of5/recognize/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

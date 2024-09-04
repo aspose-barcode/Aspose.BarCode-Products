@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /android-java/itf/recognize/
 aliases:
 - /android-java/recognize/itf/
+- /nl/android-java/itf/recognize/
+- /sv/android-java/itf/recognize/
+- /hu/android-java/itf/recognize/
+- /hi/android-java/itf/recognize/
+- /el/android-java/itf/recognize/
+- /cs/android-java/itf/recognize/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

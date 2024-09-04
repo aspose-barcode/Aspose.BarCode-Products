@@ -5,6 +5,13 @@ description: Aspose.Barcode for JasperReports API allows customize, generate and
 lang: en
 langdirlevel: 2
 locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
+aliases:
+- /nl/jasperreports/royal-mail/
+- /sv/jasperreports/royal-mail/
+- /hu/jasperreports/royal-mail/
+- /hi/jasperreports/royal-mail/
+- /el/jasperreports/royal-mail/
+- /cs/jasperreports/royal-mail/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

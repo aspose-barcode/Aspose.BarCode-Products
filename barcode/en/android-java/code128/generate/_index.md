@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /android-java/code128/generate/
 aliases:
 - /android-java/generate/code128/
+- /nl/android-java/code128/generate/
+- /sv/android-java/code128/generate/
+- /hu/android-java/code128/generate/
+- /hi/android-java/code128/generate/
+- /el/android-java/code128/generate/
+- /cs/android-java/code128/generate/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

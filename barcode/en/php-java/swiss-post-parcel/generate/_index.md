@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /php-java/swiss-post-parcel/generate/
 aliases:
 - /php-java/generate/swiss-post-parcel/
+- /nl/php-java/swiss-post-parcel/generate/
+- /sv/php-java/swiss-post-parcel/generate/
+- /hu/php-java/swiss-post-parcel/generate/
+- /hi/php-java/swiss-post-parcel/generate/
+- /el/php-java/swiss-post-parcel/generate/
+- /cs/php-java/swiss-post-parcel/generate/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

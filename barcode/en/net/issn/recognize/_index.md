@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /net/issn/recognize/
 aliases:
 - /net/recognize/issn/
+- /nl/net/issn/recognize/
+- /sv/net/issn/recognize/
+- /hu/net/issn/recognize/
+- /hi/net/issn/recognize/
+- /el/net/issn/recognize/
+- /cs/net/issn/recognize/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

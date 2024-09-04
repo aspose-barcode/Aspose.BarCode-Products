@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /php-java/isbn/recognize/
 aliases:
 - /php-java/recognize/isbn/
+- /nl/php-java/isbn/recognize/
+- /sv/php-java/isbn/recognize/
+- /hu/php-java/isbn/recognize/
+- /hi/php-java/isbn/recognize/
+- /el/php-java/isbn/recognize/
+- /cs/php-java/isbn/recognize/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

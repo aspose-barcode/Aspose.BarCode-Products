@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /java/isbn/generate/
 aliases:
 - /java/generate/isbn/
+- /nl/java/isbn/generate/
+- /sv/java/isbn/generate/
+- /hu/java/isbn/generate/
+- /hi/java/isbn/generate/
+- /el/java/isbn/generate/
+- /cs/java/isbn/generate/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /php-java/pdf417/recognize/
 aliases:
 - /php-java/recognize/pdf417/
+- /nl/php-java/pdf417/recognize/
+- /sv/php-java/pdf417/recognize/
+- /hu/php-java/pdf417/recognize/
+- /hi/php-java/pdf417/recognize/
+- /el/php-java/pdf417/recognize/
+- /cs/php-java/pdf417/recognize/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

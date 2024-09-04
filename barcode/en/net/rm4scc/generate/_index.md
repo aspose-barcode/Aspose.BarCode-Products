@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /net/rm4scc/generate/
 aliases:
 - /net/generate/rm4scc/
+- /nl/net/rm4scc/generate/
+- /sv/net/rm4scc/generate/
+- /hu/net/rm4scc/generate/
+- /hi/net/rm4scc/generate/
+- /el/net/rm4scc/generate/
+- /cs/net/rm4scc/generate/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

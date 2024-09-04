@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /python-java/code128/recognize/
 aliases:
 - /python-java/recognize/code128/
+- /nl/python-java/code128/recognize/
+- /sv/python-java/code128/recognize/
+- /hu/python-java/code128/recognize/
+- /hi/python-java/code128/recognize/
+- /el/python-java/code128/recognize/
+- /cs/python-java/code128/recognize/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

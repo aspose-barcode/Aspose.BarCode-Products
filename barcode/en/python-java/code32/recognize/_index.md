@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /python-java/code32/recognize/
 aliases:
 - /python-java/recognize/code32/
+- /nl/python-java/code32/recognize/
+- /sv/python-java/code32/recognize/
+- /hu/python-java/code32/recognize/
+- /hi/python-java/code32/recognize/
+- /el/python-java/code32/recognize/
+- /cs/python-java/code32/recognize/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

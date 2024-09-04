@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /net/itf/generate/
 aliases:
 - /net/generate/itf/
+- /nl/net/itf/generate/
+- /sv/net/itf/generate/
+- /hu/net/itf/generate/
+- /hi/net/itf/generate/
+- /el/net/itf/generate/
+- /cs/net/itf/generate/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

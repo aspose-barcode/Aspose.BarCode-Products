@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /net/swiss-post-parcel/generate/
 aliases:
 - /net/generate/swiss-post-parcel/
+- /nl/net/swiss-post-parcel/generate/
+- /sv/net/swiss-post-parcel/generate/
+- /hu/net/swiss-post-parcel/generate/
+- /hi/net/swiss-post-parcel/generate/
+- /el/net/swiss-post-parcel/generate/
+- /cs/net/swiss-post-parcel/generate/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -4,6 +4,13 @@ description: C++ barcode scanner and generator library for 1D and 2D barcodes. C
 lang: en
 langdirlevel: 2
 locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
+aliases:
+- /nl/cpp/
+- /sv/cpp/
+- /hu/cpp/
+- /hi/cpp/
+- /el/cpp/
+- /cs/cpp/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}

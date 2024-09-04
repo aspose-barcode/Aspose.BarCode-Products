@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /net/australia-post/recognize/
 aliases:
 - /net/recognize/australia-post/
+- /nl/net/australia-post/recognize/
+- /sv/net/australia-post/recognize/
+- /hu/net/australia-post/recognize/
+- /hi/net/australia-post/recognize/
+- /el/net/australia-post/recognize/
+- /cs/net/australia-post/recognize/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

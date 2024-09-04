@@ -5,6 +5,13 @@ description: Aspose.Barcode for SQL Reporting Services API allows customize, gen
 lang: en
 langdirlevel: 2
 locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
+aliases:
+- /nl/reporting-services/code32/
+- /sv/reporting-services/code32/
+- /hu/reporting-services/code32/
+- /hi/reporting-services/code32/
+- /el/reporting-services/code32/
+- /cs/reporting-services/code32/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

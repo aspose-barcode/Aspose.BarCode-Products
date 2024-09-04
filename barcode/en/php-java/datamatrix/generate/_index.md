@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /php-java/datamatrix/generate/
 aliases:
 - /php-java/generate/datamatrix/
+- /nl/php-java/datamatrix/generate/
+- /sv/php-java/datamatrix/generate/
+- /hu/php-java/datamatrix/generate/
+- /hi/php-java/datamatrix/generate/
+- /el/php-java/datamatrix/generate/
+- /cs/php-java/datamatrix/generate/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

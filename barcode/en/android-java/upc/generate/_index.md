@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /android-java/upc/generate/
 aliases:
 - /android-java/generate/upc/
+- /nl/android-java/upc/generate/
+- /sv/android-java/upc/generate/
+- /hu/android-java/upc/generate/
+- /hi/android-java/upc/generate/
+- /el/android-java/upc/generate/
+- /cs/android-java/upc/generate/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

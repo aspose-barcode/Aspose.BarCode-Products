@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /python-java/isbn/generate/
 aliases:
 - /python-java/generate/isbn/
+- /nl/python-java/isbn/generate/
+- /sv/python-java/isbn/generate/
+- /hu/python-java/isbn/generate/
+- /hi/python-java/isbn/generate/
+- /el/python-java/isbn/generate/
+- /cs/python-java/isbn/generate/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

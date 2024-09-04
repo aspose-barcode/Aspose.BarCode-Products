@@ -4,6 +4,13 @@ description: Java barcode library to generate read recognize barcodes. Barcode S
 lang: en
 langdirlevel: 2
 locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
+aliases:
+- /nl/java/
+- /sv/java/
+- /hu/java/
+- /hi/java/
+- /el/java/
+- /cs/java/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}

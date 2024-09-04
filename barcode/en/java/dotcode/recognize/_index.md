@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /java/dotcode/recognize/
 aliases:
 - /java/recognize/dotcode/
+- /nl/java/dotcode/recognize/
+- /sv/java/dotcode/recognize/
+- /hu/java/dotcode/recognize/
+- /hi/java/dotcode/recognize/
+- /el/java/dotcode/recognize/
+- /cs/java/dotcode/recognize/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

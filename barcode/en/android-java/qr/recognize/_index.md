@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /android-java/qr/recognize/
 aliases:
 - /android-java/recognize/qr/
+- /nl/android-java/qr/recognize/
+- /sv/android-java/qr/recognize/
+- /hu/android-java/qr/recognize/
+- /hi/android-java/qr/recognize/
+- /el/android-java/qr/recognize/
+- /cs/android-java/qr/recognize/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

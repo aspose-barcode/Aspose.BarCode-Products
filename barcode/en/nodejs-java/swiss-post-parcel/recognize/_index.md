@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /nodejs-java/swiss-post-parcel/recognize/
 aliases:
 - /nodejs-java/recognize/swiss-post-parcel/
+- /nl/nodejs-java/swiss-post-parcel/recognize/
+- /sv/nodejs-java/swiss-post-parcel/recognize/
+- /hu/nodejs-java/swiss-post-parcel/recognize/
+- /hi/nodejs-java/swiss-post-parcel/recognize/
+- /el/nodejs-java/swiss-post-parcel/recognize/
+- /cs/nodejs-java/swiss-post-parcel/recognize/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

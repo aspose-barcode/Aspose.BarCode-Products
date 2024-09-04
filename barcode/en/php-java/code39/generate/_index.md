@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /php-java/code39/generate/
 aliases:
 - /php-java/generate/code39/
+- /nl/php-java/code39/generate/
+- /sv/php-java/code39/generate/
+- /hu/php-java/code39/generate/
+- /hi/php-java/code39/generate/
+- /el/php-java/code39/generate/
+- /cs/php-java/code39/generate/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

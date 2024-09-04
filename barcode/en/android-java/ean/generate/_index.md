@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /android-java/ean/generate/
 aliases:
 - /android-java/generate/ean/
+- /nl/android-java/ean/generate/
+- /sv/android-java/ean/generate/
+- /hu/android-java/ean/generate/
+- /hi/android-java/ean/generate/
+- /el/android-java/ean/generate/
+- /cs/android-java/ean/generate/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -4,6 +4,13 @@ description: Android barcode scanner library to recognize different kinds of 1D,
 lang: en
 langdirlevel: 2
 locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
+aliases:
+- /nl/android-java/
+- /sv/android-java/
+- /hu/android-java/
+- /hi/android-java/
+- /el/android-java/
+- /cs/android-java/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}

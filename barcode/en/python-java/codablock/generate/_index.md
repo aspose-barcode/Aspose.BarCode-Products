@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /python-java/codablock/generate/
 aliases:
 - /python-java/generate/codablock/
+- /nl/python-java/codablock/generate/
+- /sv/python-java/codablock/generate/
+- /hu/python-java/codablock/generate/
+- /hi/python-java/codablock/generate/
+- /el/python-java/codablock/generate/
+- /cs/python-java/codablock/generate/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

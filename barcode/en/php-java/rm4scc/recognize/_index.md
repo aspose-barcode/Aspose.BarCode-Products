@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /php-java/rm4scc/recognize/
 aliases:
 - /php-java/recognize/rm4scc/
+- /nl/php-java/rm4scc/recognize/
+- /sv/php-java/rm4scc/recognize/
+- /hu/php-java/rm4scc/recognize/
+- /hi/php-java/rm4scc/recognize/
+- /el/php-java/rm4scc/recognize/
+- /cs/php-java/rm4scc/recognize/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

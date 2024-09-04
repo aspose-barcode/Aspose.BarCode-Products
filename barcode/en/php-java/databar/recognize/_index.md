@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /php-java/databar/recognize/
 aliases:
 - /php-java/recognize/databar/
+- /nl/php-java/databar/recognize/
+- /sv/php-java/databar/recognize/
+- /hu/php-java/databar/recognize/
+- /hi/php-java/databar/recognize/
+- /el/php-java/databar/recognize/
+- /cs/php-java/databar/recognize/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

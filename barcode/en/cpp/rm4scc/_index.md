@@ -5,6 +5,13 @@ description: Aspose.Barcode for C++ API allows customize, generate and recognize
 lang: en
 langdirlevel: 2
 locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
+aliases:
+- /nl/cpp/rm4scc/
+- /sv/cpp/rm4scc/
+- /hu/cpp/rm4scc/
+- /hi/cpp/rm4scc/
+- /el/cpp/rm4scc/
+- /cs/cpp/rm4scc/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

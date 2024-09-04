@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /java/upc/recognize/
 aliases:
 - /java/recognize/upc/
+- /nl/java/upc/recognize/
+- /sv/java/upc/recognize/
+- /hu/java/upc/recognize/
+- /hi/java/upc/recognize/
+- /el/java/upc/recognize/
+- /cs/java/upc/recognize/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

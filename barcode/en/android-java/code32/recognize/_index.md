@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /android-java/code32/recognize/
 aliases:
 - /android-java/recognize/code32/
+- /nl/android-java/code32/recognize/
+- /sv/android-java/code32/recognize/
+- /hu/android-java/code32/recognize/
+- /hi/android-java/code32/recognize/
+- /el/android-java/code32/recognize/
+- /cs/android-java/code32/recognize/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

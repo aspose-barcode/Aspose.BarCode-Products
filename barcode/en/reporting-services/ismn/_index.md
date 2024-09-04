@@ -5,6 +5,13 @@ description: Aspose.Barcode for SQL Reporting Services API allows customize, gen
 lang: en
 langdirlevel: 2
 locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
+aliases:
+- /nl/reporting-services/ismn/
+- /sv/reporting-services/ismn/
+- /hu/reporting-services/ismn/
+- /hi/reporting-services/ismn/
+- /el/reporting-services/ismn/
+- /cs/reporting-services/ismn/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

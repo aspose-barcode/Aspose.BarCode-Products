@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /nodejs-java/code128/recognize/
 aliases:
 - /nodejs-java/recognize/code128/
+- /nl/nodejs-java/code128/recognize/
+- /sv/nodejs-java/code128/recognize/
+- /hu/nodejs-java/code128/recognize/
+- /hi/nodejs-java/code128/recognize/
+- /el/nodejs-java/code128/recognize/
+- /cs/nodejs-java/code128/recognize/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

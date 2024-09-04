@@ -5,6 +5,13 @@ description: Aspose.Barcode for Node.js via Java API allows customize, generate 
 lang: en
 langdirlevel: 2
 locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
+aliases:
+- /nl/nodejs-java/singapore-post/
+- /sv/nodejs-java/singapore-post/
+- /hu/nodejs-java/singapore-post/
+- /hi/nodejs-java/singapore-post/
+- /el/nodejs-java/singapore-post/
+- /cs/nodejs-java/singapore-post/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

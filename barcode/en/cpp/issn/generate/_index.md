@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /cpp/issn/generate/
 aliases:
 - /cpp/generate/issn/
+- /nl/cpp/issn/generate/
+- /sv/cpp/issn/generate/
+- /hu/cpp/issn/generate/
+- /hi/cpp/issn/generate/
+- /el/cpp/issn/generate/
+- /cs/cpp/issn/generate/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

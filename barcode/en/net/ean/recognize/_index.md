@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /net/ean/recognize/
 aliases:
 - /net/recognize/ean/
+- /nl/net/ean/recognize/
+- /sv/net/ean/recognize/
+- /hu/net/ean/recognize/
+- /hi/net/ean/recognize/
+- /el/net/ean/recognize/
+- /cs/net/ean/recognize/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

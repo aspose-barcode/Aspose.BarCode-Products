@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /cpp/upc/recognize/
 aliases:
 - /cpp/recognize/upc/
+- /nl/cpp/upc/recognize/
+- /sv/cpp/upc/recognize/
+- /hu/cpp/upc/recognize/
+- /hi/cpp/upc/recognize/
+- /el/cpp/upc/recognize/
+- /cs/cpp/upc/recognize/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

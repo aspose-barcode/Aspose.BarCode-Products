@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /python-java/ismn/recognize/
 aliases:
 - /python-java/recognize/ismn/
+- /nl/python-java/ismn/recognize/
+- /sv/python-java/ismn/recognize/
+- /hu/python-java/ismn/recognize/
+- /hi/python-java/ismn/recognize/
+- /el/python-java/ismn/recognize/
+- /cs/python-java/ismn/recognize/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

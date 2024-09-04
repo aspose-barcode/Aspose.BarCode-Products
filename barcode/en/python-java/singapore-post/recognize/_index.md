@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /python-java/singapore-post/recognize/
 aliases:
 - /python-java/recognize/singapore-post/
+- /nl/python-java/singapore-post/recognize/
+- /sv/python-java/singapore-post/recognize/
+- /hu/python-java/singapore-post/recognize/
+- /hi/python-java/singapore-post/recognize/
+- /el/python-java/singapore-post/recognize/
+- /cs/python-java/singapore-post/recognize/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

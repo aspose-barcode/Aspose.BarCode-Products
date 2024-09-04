@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /net/onecode/recognize/
 aliases:
 - /net/recognize/onecode/
+- /nl/net/onecode/recognize/
+- /sv/net/onecode/recognize/
+- /hu/net/onecode/recognize/
+- /hi/net/onecode/recognize/
+- /el/net/onecode/recognize/
+- /cs/net/onecode/recognize/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

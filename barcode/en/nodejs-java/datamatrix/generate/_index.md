@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /nodejs-java/datamatrix/generate/
 aliases:
 - /nodejs-java/generate/datamatrix/
+- /nl/nodejs-java/datamatrix/generate/
+- /sv/nodejs-java/datamatrix/generate/
+- /hu/nodejs-java/datamatrix/generate/
+- /hi/nodejs-java/datamatrix/generate/
+- /el/nodejs-java/datamatrix/generate/
+- /cs/nodejs-java/datamatrix/generate/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /net/code16k/generate/
 aliases:
 - /net/generate/code16k/
+- /nl/net/code16k/generate/
+- /sv/net/code16k/generate/
+- /hu/net/code16k/generate/
+- /hi/net/code16k/generate/
+- /el/net/code16k/generate/
+- /cs/net/code16k/generate/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

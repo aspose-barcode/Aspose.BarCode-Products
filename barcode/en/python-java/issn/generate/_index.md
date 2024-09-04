@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /python-java/issn/generate/
 aliases:
 - /python-java/generate/issn/
+- /nl/python-java/issn/generate/
+- /sv/python-java/issn/generate/
+- /hu/python-java/issn/generate/
+- /hi/python-java/issn/generate/
+- /el/python-java/issn/generate/
+- /cs/python-java/issn/generate/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

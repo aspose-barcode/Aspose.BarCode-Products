@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /net/aztec/recognize/
 aliases:
 - /net/recognize/aztec/
+- /nl/net/aztec/recognize/
+- /sv/net/aztec/recognize/
+- /hu/net/aztec/recognize/
+- /hi/net/aztec/recognize/
+- /el/net/aztec/recognize/
+- /cs/net/aztec/recognize/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

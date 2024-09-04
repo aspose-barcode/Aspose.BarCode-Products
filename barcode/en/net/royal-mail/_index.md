@@ -5,6 +5,13 @@ description: Aspose.Barcode for .NET API allows customize, generate and recogniz
 lang: en
 langdirlevel: 2
 locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
+aliases:
+- /nl/net/royal-mail/
+- /sv/net/royal-mail/
+- /hu/net/royal-mail/
+- /hi/net/royal-mail/
+- /el/net/royal-mail/
+- /cs/net/royal-mail/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /cpp/ean/recognize/
 aliases:
 - /cpp/recognize/ean/
+- /nl/cpp/ean/recognize/
+- /sv/cpp/ean/recognize/
+- /hu/cpp/ean/recognize/
+- /hi/cpp/ean/recognize/
+- /el/cpp/ean/recognize/
+- /cs/cpp/ean/recognize/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

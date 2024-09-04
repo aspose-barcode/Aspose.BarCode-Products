@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /python-java/upc/generate/
 aliases:
 - /python-java/generate/upc/
+- /nl/python-java/upc/generate/
+- /sv/python-java/upc/generate/
+- /hu/python-java/upc/generate/
+- /hi/python-java/upc/generate/
+- /el/python-java/upc/generate/
+- /cs/python-java/upc/generate/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

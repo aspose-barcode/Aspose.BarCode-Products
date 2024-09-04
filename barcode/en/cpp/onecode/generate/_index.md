@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /cpp/onecode/generate/
 aliases:
 - /cpp/generate/onecode/
+- /nl/cpp/onecode/generate/
+- /sv/cpp/onecode/generate/
+- /hu/cpp/onecode/generate/
+- /hi/cpp/onecode/generate/
+- /el/cpp/onecode/generate/
+- /cs/cpp/onecode/generate/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

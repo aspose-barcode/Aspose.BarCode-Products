@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /python-java/qr/generate/
 aliases:
 - /python-java/generate/qr/
+- /nl/python-java/qr/generate/
+- /sv/python-java/qr/generate/
+- /hu/python-java/qr/generate/
+- /hi/python-java/qr/generate/
+- /el/python-java/qr/generate/
+- /cs/python-java/qr/generate/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

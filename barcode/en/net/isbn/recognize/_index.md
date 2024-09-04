@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /net/isbn/recognize/
 aliases:
 - /net/recognize/isbn/
+- /nl/net/isbn/recognize/
+- /sv/net/isbn/recognize/
+- /hu/net/isbn/recognize/
+- /hi/net/isbn/recognize/
+- /el/net/isbn/recognize/
+- /cs/net/isbn/recognize/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

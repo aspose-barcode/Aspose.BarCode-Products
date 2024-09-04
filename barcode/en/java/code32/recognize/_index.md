@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /java/code32/recognize/
 aliases:
 - /java/recognize/code32/
+- /nl/java/code32/recognize/
+- /sv/java/code32/recognize/
+- /hu/java/code32/recognize/
+- /hi/java/code32/recognize/
+- /el/java/code32/recognize/
+- /cs/java/code32/recognize/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

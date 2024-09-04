@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /net/issn/generate/
 aliases:
 - /net/generate/issn/
+- /nl/net/issn/generate/
+- /sv/net/issn/generate/
+- /hu/net/issn/generate/
+- /hi/net/issn/generate/
+- /el/net/issn/generate/
+- /cs/net/issn/generate/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

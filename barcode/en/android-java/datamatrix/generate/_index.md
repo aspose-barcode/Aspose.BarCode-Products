@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /android-java/datamatrix/generate/
 aliases:
 - /android-java/generate/datamatrix/
+- /nl/android-java/datamatrix/generate/
+- /sv/android-java/datamatrix/generate/
+- /hu/android-java/datamatrix/generate/
+- /hi/android-java/datamatrix/generate/
+- /el/android-java/datamatrix/generate/
+- /cs/android-java/datamatrix/generate/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

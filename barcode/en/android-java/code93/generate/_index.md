@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /android-java/code93/generate/
 aliases:
 - /android-java/generate/code93/
+- /nl/android-java/code93/generate/
+- /sv/android-java/code93/generate/
+- /hu/android-java/code93/generate/
+- /hi/android-java/code93/generate/
+- /el/android-java/code93/generate/
+- /cs/android-java/code93/generate/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

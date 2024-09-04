@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /net/australia-post/generate/
 aliases:
 - /net/generate/australia-post/
+- /nl/net/australia-post/generate/
+- /sv/net/australia-post/generate/
+- /hu/net/australia-post/generate/
+- /hi/net/australia-post/generate/
+- /el/net/australia-post/generate/
+- /cs/net/australia-post/generate/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

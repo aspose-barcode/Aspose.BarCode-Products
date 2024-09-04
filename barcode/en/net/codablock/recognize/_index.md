@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /net/codablock/recognize/
 aliases:
 - /net/recognize/codablock/
+- /nl/net/codablock/recognize/
+- /sv/net/codablock/recognize/
+- /hu/net/codablock/recognize/
+- /hi/net/codablock/recognize/
+- /el/net/codablock/recognize/
+- /cs/net/codablock/recognize/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

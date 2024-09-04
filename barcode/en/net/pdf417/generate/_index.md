@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /net/pdf417/generate/
 aliases:
 - /net/generate/pdf417/
+- /nl/net/pdf417/generate/
+- /sv/net/pdf417/generate/
+- /hu/net/pdf417/generate/
+- /hi/net/pdf417/generate/
+- /el/net/pdf417/generate/
+- /cs/net/pdf417/generate/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

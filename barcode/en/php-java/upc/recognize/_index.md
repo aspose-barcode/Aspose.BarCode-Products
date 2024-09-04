@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /php-java/upc/recognize/
 aliases:
 - /php-java/recognize/upc/
+- /nl/php-java/upc/recognize/
+- /sv/php-java/upc/recognize/
+- /hu/php-java/upc/recognize/
+- /hi/php-java/upc/recognize/
+- /el/php-java/upc/recognize/
+- /cs/php-java/upc/recognize/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

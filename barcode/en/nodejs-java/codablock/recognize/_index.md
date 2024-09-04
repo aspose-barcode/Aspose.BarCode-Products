@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /nodejs-java/codablock/recognize/
 aliases:
 - /nodejs-java/recognize/codablock/
+- /nl/nodejs-java/codablock/recognize/
+- /sv/nodejs-java/codablock/recognize/
+- /hu/nodejs-java/codablock/recognize/
+- /hi/nodejs-java/codablock/recognize/
+- /el/nodejs-java/codablock/recognize/
+- /cs/nodejs-java/codablock/recognize/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

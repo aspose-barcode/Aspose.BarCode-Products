@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /net/dotcode/generate/
 aliases:
 - /net/generate/dotcode/
+- /nl/net/dotcode/generate/
+- /sv/net/dotcode/generate/
+- /hu/net/dotcode/generate/
+- /hi/net/dotcode/generate/
+- /el/net/dotcode/generate/
+- /cs/net/dotcode/generate/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

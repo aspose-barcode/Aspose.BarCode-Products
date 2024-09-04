@@ -4,6 +4,13 @@ description: PHP barcode reader library to recognize mutiple types of barcodes i
 lang: en
 langdirlevel: 2
 locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
+aliases:
+- /nl/php-java/
+- /sv/php-java/
+- /hu/php-java/
+- /hi/php-java/
+- /el/php-java/
+- /cs/php-java/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}

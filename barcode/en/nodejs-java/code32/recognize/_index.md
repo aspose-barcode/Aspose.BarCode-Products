@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /nodejs-java/code32/recognize/
 aliases:
 - /nodejs-java/recognize/code32/
+- /nl/nodejs-java/code32/recognize/
+- /sv/nodejs-java/code32/recognize/
+- /hu/nodejs-java/code32/recognize/
+- /hi/nodejs-java/code32/recognize/
+- /el/nodejs-java/code32/recognize/
+- /cs/nodejs-java/code32/recognize/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

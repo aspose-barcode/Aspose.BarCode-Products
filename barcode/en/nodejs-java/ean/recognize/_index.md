@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /nodejs-java/ean/recognize/
 aliases:
 - /nodejs-java/recognize/ean/
+- /nl/nodejs-java/ean/recognize/
+- /sv/nodejs-java/ean/recognize/
+- /hu/nodejs-java/ean/recognize/
+- /hi/nodejs-java/ean/recognize/
+- /el/nodejs-java/ean/recognize/
+- /cs/nodejs-java/ean/recognize/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -5,6 +5,13 @@ description: Aspose.Barcode for JasperReports API allows customize, generate and
 lang: en
 langdirlevel: 2
 locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
+aliases:
+- /nl/jasperreports/deutsche-post/
+- /sv/jasperreports/deutsche-post/
+- /hu/jasperreports/deutsche-post/
+- /hi/jasperreports/deutsche-post/
+- /el/jasperreports/deutsche-post/
+- /cs/jasperreports/deutsche-post/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /java/ean/recognize/
 aliases:
 - /java/recognize/ean/
+- /nl/java/ean/recognize/
+- /sv/java/ean/recognize/
+- /hu/java/ean/recognize/
+- /hi/java/ean/recognize/
+- /el/java/ean/recognize/
+- /cs/java/ean/recognize/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

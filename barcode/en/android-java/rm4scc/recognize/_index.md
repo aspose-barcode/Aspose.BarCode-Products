@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /android-java/rm4scc/recognize/
 aliases:
 - /android-java/recognize/rm4scc/
+- /nl/android-java/rm4scc/recognize/
+- /sv/android-java/rm4scc/recognize/
+- /hu/android-java/rm4scc/recognize/
+- /hi/android-java/rm4scc/recognize/
+- /el/android-java/rm4scc/recognize/
+- /cs/android-java/rm4scc/recognize/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

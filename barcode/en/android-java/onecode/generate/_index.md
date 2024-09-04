@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /android-java/onecode/generate/
 aliases:
 - /android-java/generate/onecode/
+- /nl/android-java/onecode/generate/
+- /sv/android-java/onecode/generate/
+- /hu/android-java/onecode/generate/
+- /hi/android-java/onecode/generate/
+- /el/android-java/onecode/generate/
+- /cs/android-java/onecode/generate/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

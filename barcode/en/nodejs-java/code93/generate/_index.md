@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /nodejs-java/code93/generate/
 aliases:
 - /nodejs-java/generate/code93/
+- /nl/nodejs-java/code93/generate/
+- /sv/nodejs-java/code93/generate/
+- /hu/nodejs-java/code93/generate/
+- /hi/nodejs-java/code93/generate/
+- /el/nodejs-java/code93/generate/
+- /cs/nodejs-java/code93/generate/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

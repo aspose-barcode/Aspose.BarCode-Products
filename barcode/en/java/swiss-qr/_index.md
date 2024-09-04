@@ -5,6 +5,13 @@ description: Aspose.Barcode for Java API allows customize, generate and recogniz
 lang: en
 langdirlevel: 2
 locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
+aliases:
+- /nl/java/swiss-qr/
+- /sv/java/swiss-qr/
+- /hu/java/swiss-qr/
+- /hi/java/swiss-qr/
+- /el/java/swiss-qr/
+- /cs/java/swiss-qr/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

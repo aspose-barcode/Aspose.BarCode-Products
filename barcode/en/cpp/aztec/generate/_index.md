@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /cpp/aztec/generate/
 aliases:
 - /cpp/generate/aztec/
+- /nl/cpp/aztec/generate/
+- /sv/cpp/aztec/generate/
+- /hu/cpp/aztec/generate/
+- /hi/cpp/aztec/generate/
+- /el/cpp/aztec/generate/
+- /cs/cpp/aztec/generate/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

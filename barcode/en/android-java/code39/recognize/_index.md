@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /android-java/code39/recognize/
 aliases:
 - /android-java/recognize/code39/
+- /nl/android-java/code39/recognize/
+- /sv/android-java/code39/recognize/
+- /hu/android-java/code39/recognize/
+- /hi/android-java/code39/recognize/
+- /el/android-java/code39/recognize/
+- /cs/android-java/code39/recognize/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

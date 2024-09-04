@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /python-java/postnet/generate/
 aliases:
 - /python-java/generate/postnet/
+- /nl/python-java/postnet/generate/
+- /sv/python-java/postnet/generate/
+- /hu/python-java/postnet/generate/
+- /hi/python-java/postnet/generate/
+- /el/python-java/postnet/generate/
+- /cs/python-java/postnet/generate/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /python-java/postnet/recognize/
 aliases:
 - /python-java/recognize/postnet/
+- /nl/python-java/postnet/recognize/
+- /sv/python-java/postnet/recognize/
+- /hu/python-java/postnet/recognize/
+- /hi/python-java/postnet/recognize/
+- /el/python-java/postnet/recognize/
+- /cs/python-java/postnet/recognize/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

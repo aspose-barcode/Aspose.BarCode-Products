@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /nodejs-java/aztec/recognize/
 aliases:
 - /nodejs-java/recognize/aztec/
+- /nl/nodejs-java/aztec/recognize/
+- /sv/nodejs-java/aztec/recognize/
+- /hu/nodejs-java/aztec/recognize/
+- /hi/nodejs-java/aztec/recognize/
+- /el/nodejs-java/aztec/recognize/
+- /cs/nodejs-java/aztec/recognize/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

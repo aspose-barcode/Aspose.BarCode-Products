@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /android-java/code32/generate/
 aliases:
 - /android-java/generate/code32/
+- /nl/android-java/code32/generate/
+- /sv/android-java/code32/generate/
+- /hu/android-java/code32/generate/
+- /hi/android-java/code32/generate/
+- /el/android-java/code32/generate/
+- /cs/android-java/code32/generate/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

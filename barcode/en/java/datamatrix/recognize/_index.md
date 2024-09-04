@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /java/datamatrix/recognize/
 aliases:
 - /java/recognize/datamatrix/
+- /nl/java/datamatrix/recognize/
+- /sv/java/datamatrix/recognize/
+- /hu/java/datamatrix/recognize/
+- /hi/java/datamatrix/recognize/
+- /el/java/datamatrix/recognize/
+- /cs/java/datamatrix/recognize/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

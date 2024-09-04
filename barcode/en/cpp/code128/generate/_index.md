@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /cpp/code128/generate/
 aliases:
 - /cpp/generate/code128/
+- /nl/cpp/code128/generate/
+- /sv/cpp/code128/generate/
+- /hu/cpp/code128/generate/
+- /hi/cpp/code128/generate/
+- /el/cpp/code128/generate/
+- /cs/cpp/code128/generate/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

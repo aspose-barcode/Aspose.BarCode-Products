@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /php-java/issn/generate/
 aliases:
 - /php-java/generate/issn/
+- /nl/php-java/issn/generate/
+- /sv/php-java/issn/generate/
+- /hu/php-java/issn/generate/
+- /hi/php-java/issn/generate/
+- /el/php-java/issn/generate/
+- /cs/php-java/issn/generate/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

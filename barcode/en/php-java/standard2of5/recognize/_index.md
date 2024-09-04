@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /php-java/standard2of5/recognize/
 aliases:
 - /php-java/recognize/standard2of5/
+- /nl/php-java/standard2of5/recognize/
+- /sv/php-java/standard2of5/recognize/
+- /hu/php-java/standard2of5/recognize/
+- /hi/php-java/standard2of5/recognize/
+- /el/php-java/standard2of5/recognize/
+- /cs/php-java/standard2of5/recognize/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

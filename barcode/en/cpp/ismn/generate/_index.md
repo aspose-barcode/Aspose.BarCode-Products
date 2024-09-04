@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /cpp/ismn/generate/
 aliases:
 - /cpp/generate/ismn/
+- /nl/cpp/ismn/generate/
+- /sv/cpp/ismn/generate/
+- /hu/cpp/ismn/generate/
+- /hi/cpp/ismn/generate/
+- /el/cpp/ismn/generate/
+- /cs/cpp/ismn/generate/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

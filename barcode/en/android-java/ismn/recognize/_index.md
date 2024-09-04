@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /android-java/ismn/recognize/
 aliases:
 - /android-java/recognize/ismn/
+- /nl/android-java/ismn/recognize/
+- /sv/android-java/ismn/recognize/
+- /hu/android-java/ismn/recognize/
+- /hi/android-java/ismn/recognize/
+- /el/android-java/ismn/recognize/
+- /cs/android-java/ismn/recognize/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

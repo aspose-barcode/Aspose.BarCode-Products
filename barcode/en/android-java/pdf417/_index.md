@@ -5,6 +5,13 @@ description: Aspose.Barcode for Android via Java API allows customize, generate 
 lang: en
 langdirlevel: 2
 locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
+aliases:
+- /nl/android-java/pdf417/
+- /sv/android-java/pdf417/
+- /hu/android-java/pdf417/
+- /hi/android-java/pdf417/
+- /el/android-java/pdf417/
+- /cs/android-java/pdf417/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

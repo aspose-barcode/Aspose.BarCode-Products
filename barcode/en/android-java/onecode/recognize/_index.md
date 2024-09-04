@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /android-java/onecode/recognize/
 aliases:
 - /android-java/recognize/onecode/
+- /nl/android-java/onecode/recognize/
+- /sv/android-java/onecode/recognize/
+- /hu/android-java/onecode/recognize/
+- /hi/android-java/onecode/recognize/
+- /el/android-java/onecode/recognize/
+- /cs/android-java/onecode/recognize/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

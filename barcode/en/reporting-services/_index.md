@@ -4,6 +4,13 @@ description: SQL Server Reporting Services rendering extension - Export Linear a
 lang: en
 langdirlevel: 2
 locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
+aliases:
+- /nl/reporting-services/
+- /sv/reporting-services/
+- /hu/reporting-services/
+- /hi/reporting-services/
+- /el/reporting-services/
+- /cs/reporting-services/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}

@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /cpp/onecode/recognize/
 aliases:
 - /cpp/recognize/onecode/
+- /nl/cpp/onecode/recognize/
+- /sv/cpp/onecode/recognize/
+- /hu/cpp/onecode/recognize/
+- /hi/cpp/onecode/recognize/
+- /el/cpp/onecode/recognize/
+- /cs/cpp/onecode/recognize/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

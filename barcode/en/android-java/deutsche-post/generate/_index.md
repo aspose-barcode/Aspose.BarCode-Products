@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /android-java/deutsche-post/generate/
 aliases:
 - /android-java/generate/deutsche-post/
+- /nl/android-java/deutsche-post/generate/
+- /sv/android-java/deutsche-post/generate/
+- /hu/android-java/deutsche-post/generate/
+- /hi/android-java/deutsche-post/generate/
+- /el/android-java/deutsche-post/generate/
+- /cs/android-java/deutsche-post/generate/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -4,6 +4,13 @@ description: Barcode SharePoint API to insert barcode labels in custom SharePoin
 lang: en
 langdirlevel: 2
 locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
+aliases:
+- /nl/sharepoint/
+- /sv/sharepoint/
+- /hu/sharepoint/
+- /hi/sharepoint/
+- /el/sharepoint/
+- /cs/sharepoint/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}

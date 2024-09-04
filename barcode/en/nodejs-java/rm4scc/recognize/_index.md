@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /nodejs-java/rm4scc/recognize/
 aliases:
 - /nodejs-java/recognize/rm4scc/
+- /nl/nodejs-java/rm4scc/recognize/
+- /sv/nodejs-java/rm4scc/recognize/
+- /hu/nodejs-java/rm4scc/recognize/
+- /hi/nodejs-java/rm4scc/recognize/
+- /el/nodejs-java/rm4scc/recognize/
+- /cs/nodejs-java/rm4scc/recognize/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -5,6 +5,13 @@ description: Aspose.Barcode for JasperReports API allows customize, generate and
 lang: en
 langdirlevel: 2
 locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
+aliases:
+- /nl/jasperreports/australia-post/
+- /sv/jasperreports/australia-post/
+- /hu/jasperreports/australia-post/
+- /hi/jasperreports/australia-post/
+- /el/jasperreports/australia-post/
+- /cs/jasperreports/australia-post/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

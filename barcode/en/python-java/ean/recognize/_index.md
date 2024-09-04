@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /python-java/ean/recognize/
 aliases:
 - /python-java/recognize/ean/
+- /nl/python-java/ean/recognize/
+- /sv/python-java/ean/recognize/
+- /hu/python-java/ean/recognize/
+- /hi/python-java/ean/recognize/
+- /el/python-java/ean/recognize/
+- /cs/python-java/ean/recognize/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

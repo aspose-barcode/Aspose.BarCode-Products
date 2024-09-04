@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /net/dotcode/recognize/
 aliases:
 - /net/recognize/dotcode/
+- /nl/net/dotcode/recognize/
+- /sv/net/dotcode/recognize/
+- /hu/net/dotcode/recognize/
+- /hi/net/dotcode/recognize/
+- /el/net/dotcode/recognize/
+- /cs/net/dotcode/recognize/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

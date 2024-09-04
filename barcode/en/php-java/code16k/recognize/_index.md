@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /php-java/code16k/recognize/
 aliases:
 - /php-java/recognize/code16k/
+- /nl/php-java/code16k/recognize/
+- /sv/php-java/code16k/recognize/
+- /hu/php-java/code16k/recognize/
+- /hi/php-java/code16k/recognize/
+- /el/php-java/code16k/recognize/
+- /cs/php-java/code16k/recognize/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

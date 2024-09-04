@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /android-java/code39/generate/
 aliases:
 - /android-java/generate/code39/
+- /nl/android-java/code39/generate/
+- /sv/android-java/code39/generate/
+- /hu/android-java/code39/generate/
+- /hi/android-java/code39/generate/
+- /el/android-java/code39/generate/
+- /cs/android-java/code39/generate/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

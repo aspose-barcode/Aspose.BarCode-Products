@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /java/code93/recognize/
 aliases:
 - /java/recognize/code93/
+- /nl/java/code93/recognize/
+- /sv/java/code93/recognize/
+- /hu/java/code93/recognize/
+- /hi/java/code93/recognize/
+- /el/java/code93/recognize/
+- /cs/java/code93/recognize/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

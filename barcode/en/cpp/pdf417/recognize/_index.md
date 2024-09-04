@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /cpp/pdf417/recognize/
 aliases:
 - /cpp/recognize/pdf417/
+- /nl/cpp/pdf417/recognize/
+- /sv/cpp/pdf417/recognize/
+- /hu/cpp/pdf417/recognize/
+- /hi/cpp/pdf417/recognize/
+- /el/cpp/pdf417/recognize/
+- /cs/cpp/pdf417/recognize/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /python-java/databar/recognize/
 aliases:
 - /python-java/recognize/databar/
+- /nl/python-java/databar/recognize/
+- /sv/python-java/databar/recognize/
+- /hu/python-java/databar/recognize/
+- /hi/python-java/databar/recognize/
+- /el/python-java/databar/recognize/
+- /cs/python-java/databar/recognize/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

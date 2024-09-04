@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /net/pdf417/recognize/
 aliases:
 - /net/recognize/pdf417/
+- /nl/net/pdf417/recognize/
+- /sv/net/pdf417/recognize/
+- /hu/net/pdf417/recognize/
+- /hi/net/pdf417/recognize/
+- /el/net/pdf417/recognize/
+- /cs/net/pdf417/recognize/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -5,6 +5,13 @@ description: Aspose.Barcode for Java API allows customize, generate and recogniz
 lang: en
 langdirlevel: 2
 locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
+aliases:
+- /nl/java/swiss-post-parcel/
+- /sv/java/swiss-post-parcel/
+- /hu/java/swiss-post-parcel/
+- /hi/java/swiss-post-parcel/
+- /el/java/swiss-post-parcel/
+- /cs/java/swiss-post-parcel/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

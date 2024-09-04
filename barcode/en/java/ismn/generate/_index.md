@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /java/ismn/generate/
 aliases:
 - /java/generate/ismn/
+- /nl/java/ismn/generate/
+- /sv/java/ismn/generate/
+- /hu/java/ismn/generate/
+- /hi/java/ismn/generate/
+- /el/java/ismn/generate/
+- /cs/java/ismn/generate/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /nodejs-java/databar/recognize/
 aliases:
 - /nodejs-java/recognize/databar/
+- /nl/nodejs-java/databar/recognize/
+- /sv/nodejs-java/databar/recognize/
+- /hu/nodejs-java/databar/recognize/
+- /hi/nodejs-java/databar/recognize/
+- /el/nodejs-java/databar/recognize/
+- /cs/nodejs-java/databar/recognize/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

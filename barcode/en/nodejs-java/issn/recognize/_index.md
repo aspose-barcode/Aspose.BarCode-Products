@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /nodejs-java/issn/recognize/
 aliases:
 - /nodejs-java/recognize/issn/
+- /nl/nodejs-java/issn/recognize/
+- /sv/nodejs-java/issn/recognize/
+- /hu/nodejs-java/issn/recognize/
+- /hi/nodejs-java/issn/recognize/
+- /el/nodejs-java/issn/recognize/
+- /cs/nodejs-java/issn/recognize/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /php-java/code39/recognize/
 aliases:
 - /php-java/recognize/code39/
+- /nl/php-java/code39/recognize/
+- /sv/php-java/code39/recognize/
+- /hu/php-java/code39/recognize/
+- /hi/php-java/code39/recognize/
+- /el/php-java/code39/recognize/
+- /cs/php-java/code39/recognize/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

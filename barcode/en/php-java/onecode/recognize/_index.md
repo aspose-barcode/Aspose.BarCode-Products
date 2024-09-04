@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /php-java/onecode/recognize/
 aliases:
 - /php-java/recognize/onecode/
+- /nl/php-java/onecode/recognize/
+- /sv/php-java/onecode/recognize/
+- /hu/php-java/onecode/recognize/
+- /hi/php-java/onecode/recognize/
+- /el/php-java/onecode/recognize/
+- /cs/php-java/onecode/recognize/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

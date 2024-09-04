@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /cpp/rm4scc/recognize/
 aliases:
 - /cpp/recognize/rm4scc/
+- /nl/cpp/rm4scc/recognize/
+- /sv/cpp/rm4scc/recognize/
+- /hu/cpp/rm4scc/recognize/
+- /hi/cpp/rm4scc/recognize/
+- /el/cpp/rm4scc/recognize/
+- /cs/cpp/rm4scc/recognize/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

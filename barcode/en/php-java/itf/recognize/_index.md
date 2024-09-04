@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /php-java/itf/recognize/
 aliases:
 - /php-java/recognize/itf/
+- /nl/php-java/itf/recognize/
+- /sv/php-java/itf/recognize/
+- /hu/php-java/itf/recognize/
+- /hi/php-java/itf/recognize/
+- /el/php-java/itf/recognize/
+- /cs/php-java/itf/recognize/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

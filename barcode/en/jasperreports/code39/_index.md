@@ -5,6 +5,13 @@ description: Aspose.Barcode for JasperReports API allows customize, generate and
 lang: en
 langdirlevel: 2
 locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
+aliases:
+- /nl/jasperreports/code39/
+- /sv/jasperreports/code39/
+- /hu/jasperreports/code39/
+- /hi/jasperreports/code39/
+- /el/jasperreports/code39/
+- /cs/jasperreports/code39/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

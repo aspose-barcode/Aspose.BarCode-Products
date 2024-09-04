@@ -5,6 +5,13 @@ description: Aspose.Barcode for SQL Reporting Services API allows customize, gen
 lang: en
 langdirlevel: 2
 locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
+aliases:
+- /nl/reporting-services/hibc/
+- /sv/reporting-services/hibc/
+- /hu/reporting-services/hibc/
+- /hi/reporting-services/hibc/
+- /el/reporting-services/hibc/
+- /cs/reporting-services/hibc/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

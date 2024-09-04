@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /net/code128/generate/
 aliases:
 - /net/generate/code128/
+- /nl/net/code128/generate/
+- /sv/net/code128/generate/
+- /hu/net/code128/generate/
+- /hi/net/code128/generate/
+- /el/net/code128/generate/
+- /cs/net/code128/generate/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

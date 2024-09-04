@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /php-java/rm4scc/generate/
 aliases:
 - /php-java/generate/rm4scc/
+- /nl/php-java/rm4scc/generate/
+- /sv/php-java/rm4scc/generate/
+- /hu/php-java/rm4scc/generate/
+- /hi/php-java/rm4scc/generate/
+- /el/php-java/rm4scc/generate/
+- /cs/php-java/rm4scc/generate/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

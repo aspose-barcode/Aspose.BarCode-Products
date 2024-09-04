@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /php-java/isbn/generate/
 aliases:
 - /php-java/generate/isbn/
+- /nl/php-java/isbn/generate/
+- /sv/php-java/isbn/generate/
+- /hu/php-java/isbn/generate/
+- /hi/php-java/isbn/generate/
+- /el/php-java/isbn/generate/
+- /cs/php-java/isbn/generate/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

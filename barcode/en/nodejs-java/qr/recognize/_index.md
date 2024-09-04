@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /nodejs-java/qr/recognize/
 aliases:
 - /nodejs-java/recognize/qr/
+- /nl/nodejs-java/qr/recognize/
+- /sv/nodejs-java/qr/recognize/
+- /hu/nodejs-java/qr/recognize/
+- /hi/nodejs-java/qr/recognize/
+- /el/nodejs-java/qr/recognize/
+- /cs/nodejs-java/qr/recognize/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

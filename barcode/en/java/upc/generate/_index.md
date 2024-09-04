@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /java/upc/generate/
 aliases:
 - /java/generate/upc/
+- /nl/java/upc/generate/
+- /sv/java/upc/generate/
+- /hu/java/upc/generate/
+- /hi/java/upc/generate/
+- /el/java/upc/generate/
+- /cs/java/upc/generate/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

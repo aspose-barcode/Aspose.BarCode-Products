@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /cpp/itf/recognize/
 aliases:
 - /cpp/recognize/itf/
+- /nl/cpp/itf/recognize/
+- /sv/cpp/itf/recognize/
+- /hu/cpp/itf/recognize/
+- /hi/cpp/itf/recognize/
+- /el/cpp/itf/recognize/
+- /cs/cpp/itf/recognize/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

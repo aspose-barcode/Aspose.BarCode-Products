@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /net/aztec/generate/
 aliases:
 - /net/generate/aztec/
+- /nl/net/aztec/generate/
+- /sv/net/aztec/generate/
+- /hu/net/aztec/generate/
+- /hi/net/aztec/generate/
+- /el/net/aztec/generate/
+- /cs/net/aztec/generate/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

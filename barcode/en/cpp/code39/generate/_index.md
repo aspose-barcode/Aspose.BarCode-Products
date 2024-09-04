@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /cpp/code39/generate/
 aliases:
 - /cpp/generate/code39/
+- /nl/cpp/code39/generate/
+- /sv/cpp/code39/generate/
+- /hu/cpp/code39/generate/
+- /hi/cpp/code39/generate/
+- /el/cpp/code39/generate/
+- /cs/cpp/code39/generate/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

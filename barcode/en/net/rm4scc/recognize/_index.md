@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /net/rm4scc/recognize/
 aliases:
 - /net/recognize/rm4scc/
+- /nl/net/rm4scc/recognize/
+- /sv/net/rm4scc/recognize/
+- /hu/net/rm4scc/recognize/
+- /hi/net/rm4scc/recognize/
+- /el/net/rm4scc/recognize/
+- /cs/net/rm4scc/recognize/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

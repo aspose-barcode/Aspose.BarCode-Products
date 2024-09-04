@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /nodejs-java/code16k/generate/
 aliases:
 - /nodejs-java/generate/code16k/
+- /nl/nodejs-java/code16k/generate/
+- /sv/nodejs-java/code16k/generate/
+- /hu/nodejs-java/code16k/generate/
+- /hi/nodejs-java/code16k/generate/
+- /el/nodejs-java/code16k/generate/
+- /cs/nodejs-java/code16k/generate/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

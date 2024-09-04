@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /net/onecode/generate/
 aliases:
 - /net/generate/onecode/
+- /nl/net/onecode/generate/
+- /sv/net/onecode/generate/
+- /hu/net/onecode/generate/
+- /hi/net/onecode/generate/
+- /el/net/onecode/generate/
+- /cs/net/onecode/generate/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /php-java/code128/generate/
 aliases:
 - /php-java/generate/code128/
+- /nl/php-java/code128/generate/
+- /sv/php-java/code128/generate/
+- /hu/php-java/code128/generate/
+- /hi/php-java/code128/generate/
+- /el/php-java/code128/generate/
+- /cs/php-java/code128/generate/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

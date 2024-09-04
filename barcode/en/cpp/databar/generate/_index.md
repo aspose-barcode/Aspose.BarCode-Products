@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /cpp/databar/generate/
 aliases:
 - /cpp/generate/databar/
+- /nl/cpp/databar/generate/
+- /sv/cpp/databar/generate/
+- /hu/cpp/databar/generate/
+- /hi/cpp/databar/generate/
+- /el/cpp/databar/generate/
+- /cs/cpp/databar/generate/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /python-java/code93/recognize/
 aliases:
 - /python-java/recognize/code93/
+- /nl/python-java/code93/recognize/
+- /sv/python-java/code93/recognize/
+- /hu/python-java/code93/recognize/
+- /hi/python-java/code93/recognize/
+- /el/python-java/code93/recognize/
+- /cs/python-java/code93/recognize/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -5,6 +5,13 @@ description: Aspose.Barcode for JasperReports API allows customize, generate and
 lang: en
 langdirlevel: 2
 locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
+aliases:
+- /nl/jasperreports/code128/
+- /sv/jasperreports/code128/
+- /hu/jasperreports/code128/
+- /hi/jasperreports/code128/
+- /el/jasperreports/code128/
+- /cs/jasperreports/code128/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

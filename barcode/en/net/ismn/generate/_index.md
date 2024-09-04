@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /net/ismn/generate/
 aliases:
 - /net/generate/ismn/
+- /nl/net/ismn/generate/
+- /sv/net/ismn/generate/
+- /hu/net/ismn/generate/
+- /hi/net/ismn/generate/
+- /el/net/ismn/generate/
+- /cs/net/ismn/generate/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

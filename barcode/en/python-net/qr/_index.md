@@ -5,6 +5,13 @@ description: Aspose.Barcode for Python via .NET API allows customize, generate a
 lang: en
 langdirlevel: 2
 locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
+aliases:
+- /nl/python-net/qr/
+- /sv/python-net/qr/
+- /hu/python-net/qr/
+- /hi/python-net/qr/
+- /el/python-net/qr/
+- /cs/python-net/qr/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

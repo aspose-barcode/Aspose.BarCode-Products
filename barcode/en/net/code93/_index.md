@@ -5,6 +5,13 @@ description: Aspose.Barcode for .NET API allows customize, generate and recogniz
 lang: en
 langdirlevel: 2
 locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
+aliases:
+- /nl/net/code93/
+- /sv/net/code93/
+- /hu/net/code93/
+- /hi/net/code93/
+- /el/net/code93/
+- /cs/net/code93/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

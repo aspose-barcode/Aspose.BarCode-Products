@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /python-java/dotcode/recognize/
 aliases:
 - /python-java/recognize/dotcode/
+- /nl/python-java/dotcode/recognize/
+- /sv/python-java/dotcode/recognize/
+- /hu/python-java/dotcode/recognize/
+- /hi/python-java/dotcode/recognize/
+- /el/python-java/dotcode/recognize/
+- /cs/python-java/dotcode/recognize/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

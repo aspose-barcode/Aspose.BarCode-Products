@@ -4,6 +4,13 @@ description: Node.js barcode scanning and generation library for 1D, 2D and Post
 lang: en
 langdirlevel: 2
 locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
+aliases:
+- /nl/nodejs-java/
+- /sv/nodejs-java/
+- /hu/nodejs-java/
+- /hi/nodejs-java/
+- /el/nodejs-java/
+- /cs/nodejs-java/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}

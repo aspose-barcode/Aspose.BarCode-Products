@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /net/swiss-post-parcel/recognize/
 aliases:
 - /net/recognize/swiss-post-parcel/
+- /nl/net/swiss-post-parcel/recognize/
+- /sv/net/swiss-post-parcel/recognize/
+- /hu/net/swiss-post-parcel/recognize/
+- /hi/net/swiss-post-parcel/recognize/
+- /el/net/swiss-post-parcel/recognize/
+- /cs/net/swiss-post-parcel/recognize/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

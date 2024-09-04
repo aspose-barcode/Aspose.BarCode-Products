@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /php-java/itf/generate/
 aliases:
 - /php-java/generate/itf/
+- /nl/php-java/itf/generate/
+- /sv/php-java/itf/generate/
+- /hu/php-java/itf/generate/
+- /hi/php-java/itf/generate/
+- /el/php-java/itf/generate/
+- /cs/php-java/itf/generate/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

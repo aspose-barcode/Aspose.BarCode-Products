@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /php-java/code32/recognize/
 aliases:
 - /php-java/recognize/code32/
+- /nl/php-java/code32/recognize/
+- /sv/php-java/code32/recognize/
+- /hu/php-java/code32/recognize/
+- /hi/php-java/code32/recognize/
+- /el/php-java/code32/recognize/
+- /cs/php-java/code32/recognize/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

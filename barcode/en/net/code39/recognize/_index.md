@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /net/code39/recognize/
 aliases:
 - /net/recognize/code39/
+- /nl/net/code39/recognize/
+- /sv/net/code39/recognize/
+- /hu/net/code39/recognize/
+- /hi/net/code39/recognize/
+- /el/net/code39/recognize/
+- /cs/net/code39/recognize/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

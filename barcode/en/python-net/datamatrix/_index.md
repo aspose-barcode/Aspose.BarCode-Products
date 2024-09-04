@@ -5,6 +5,13 @@ description: Aspose.Barcode for Python via .NET API allows customize, generate a
 lang: en
 langdirlevel: 2
 locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
+aliases:
+- /nl/python-net/datamatrix/
+- /sv/python-net/datamatrix/
+- /hu/python-net/datamatrix/
+- /hi/python-net/datamatrix/
+- /el/python-net/datamatrix/
+- /cs/python-net/datamatrix/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

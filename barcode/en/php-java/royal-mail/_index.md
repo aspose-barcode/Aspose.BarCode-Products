@@ -5,6 +5,13 @@ description: Aspose.Barcode for PHP via Java API allows customize, generate and 
 lang: en
 langdirlevel: 2
 locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
+aliases:
+- /nl/php-java/royal-mail/
+- /sv/php-java/royal-mail/
+- /hu/php-java/royal-mail/
+- /hi/php-java/royal-mail/
+- /el/php-java/royal-mail/
+- /cs/php-java/royal-mail/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

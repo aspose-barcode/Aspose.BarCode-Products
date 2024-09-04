@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /net/code39/generate/
 aliases:
 - /net/generate/code39/
+- /nl/net/code39/generate/
+- /sv/net/code39/generate/
+- /hu/net/code39/generate/
+- /hi/net/code39/generate/
+- /el/net/code39/generate/
+- /cs/net/code39/generate/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

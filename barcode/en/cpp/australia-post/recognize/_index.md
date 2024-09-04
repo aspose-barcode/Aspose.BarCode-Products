@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /cpp/australia-post/recognize/
 aliases:
 - /cpp/recognize/australia-post/
+- /nl/cpp/australia-post/recognize/
+- /sv/cpp/australia-post/recognize/
+- /hu/cpp/australia-post/recognize/
+- /hi/cpp/australia-post/recognize/
+- /el/cpp/australia-post/recognize/
+- /cs/cpp/australia-post/recognize/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

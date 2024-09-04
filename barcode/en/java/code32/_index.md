@@ -5,6 +5,13 @@ description: Aspose.Barcode for Java API allows customize, generate and recogniz
 lang: en
 langdirlevel: 2
 locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
+aliases:
+- /nl/java/code32/
+- /sv/java/code32/
+- /hu/java/code32/
+- /hi/java/code32/
+- /el/java/code32/
+- /cs/java/code32/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

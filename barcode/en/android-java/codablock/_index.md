@@ -5,6 +5,13 @@ description: Aspose.Barcode for Android via Java API allows customize, generate 
 lang: en
 langdirlevel: 2
 locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
+aliases:
+- /nl/android-java/codablock/
+- /sv/android-java/codablock/
+- /hu/android-java/codablock/
+- /hi/android-java/codablock/
+- /el/android-java/codablock/
+- /cs/android-java/codablock/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

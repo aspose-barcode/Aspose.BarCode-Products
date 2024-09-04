@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /cpp/standard2of5/generate/
 aliases:
 - /cpp/generate/standard2of5/
+- /nl/cpp/standard2of5/generate/
+- /sv/cpp/standard2of5/generate/
+- /hu/cpp/standard2of5/generate/
+- /hi/cpp/standard2of5/generate/
+- /el/cpp/standard2of5/generate/
+- /cs/cpp/standard2of5/generate/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

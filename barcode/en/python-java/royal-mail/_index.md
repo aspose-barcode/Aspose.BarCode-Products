@@ -5,6 +5,13 @@ description: Aspose.Barcode for Python via Java API allows customize, generate a
 lang: en
 langdirlevel: 2
 locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
+aliases:
+- /nl/python-java/royal-mail/
+- /sv/python-java/royal-mail/
+- /hu/python-java/royal-mail/
+- /hi/python-java/royal-mail/
+- /el/python-java/royal-mail/
+- /cs/python-java/royal-mail/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

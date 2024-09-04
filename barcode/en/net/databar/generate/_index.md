@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /net/databar/generate/
 aliases:
 - /net/generate/databar/
+- /nl/net/databar/generate/
+- /sv/net/databar/generate/
+- /hu/net/databar/generate/
+- /hi/net/databar/generate/
+- /el/net/databar/generate/
+- /cs/net/databar/generate/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

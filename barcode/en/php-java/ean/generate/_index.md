@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /php-java/ean/generate/
 aliases:
 - /php-java/generate/ean/
+- /nl/php-java/ean/generate/
+- /sv/php-java/ean/generate/
+- /hu/php-java/ean/generate/
+- /hi/php-java/ean/generate/
+- /el/php-java/ean/generate/
+- /cs/php-java/ean/generate/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /cpp/ismn/recognize/
 aliases:
 - /cpp/recognize/ismn/
+- /nl/cpp/ismn/recognize/
+- /sv/cpp/ismn/recognize/
+- /hu/cpp/ismn/recognize/
+- /hi/cpp/ismn/recognize/
+- /el/cpp/ismn/recognize/
+- /cs/cpp/ismn/recognize/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

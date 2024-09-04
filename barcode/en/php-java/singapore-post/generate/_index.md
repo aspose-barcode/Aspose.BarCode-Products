@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /php-java/singapore-post/generate/
 aliases:
 - /php-java/generate/singapore-post/
+- /nl/php-java/singapore-post/generate/
+- /sv/php-java/singapore-post/generate/
+- /hu/php-java/singapore-post/generate/
+- /hi/php-java/singapore-post/generate/
+- /el/php-java/singapore-post/generate/
+- /cs/php-java/singapore-post/generate/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

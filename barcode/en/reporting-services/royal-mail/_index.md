@@ -5,6 +5,13 @@ description: Aspose.Barcode for SQL Reporting Services API allows customize, gen
 lang: en
 langdirlevel: 2
 locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
+aliases:
+- /nl/reporting-services/royal-mail/
+- /sv/reporting-services/royal-mail/
+- /hu/reporting-services/royal-mail/
+- /hi/reporting-services/royal-mail/
+- /el/reporting-services/royal-mail/
+- /cs/reporting-services/royal-mail/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

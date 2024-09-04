@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /android-java/upc/recognize/
 aliases:
 - /android-java/recognize/upc/
+- /nl/android-java/upc/recognize/
+- /sv/android-java/upc/recognize/
+- /hu/android-java/upc/recognize/
+- /hi/android-java/upc/recognize/
+- /el/android-java/upc/recognize/
+- /cs/android-java/upc/recognize/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /net/databar/recognize/
 aliases:
 - /net/recognize/databar/
+- /nl/net/databar/recognize/
+- /sv/net/databar/recognize/
+- /hu/net/databar/recognize/
+- /hi/net/databar/recognize/
+- /el/net/databar/recognize/
+- /cs/net/databar/recognize/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

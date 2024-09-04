@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /android-java/issn/generate/
 aliases:
 - /android-java/generate/issn/
+- /nl/android-java/issn/generate/
+- /sv/android-java/issn/generate/
+- /hu/android-java/issn/generate/
+- /hi/android-java/issn/generate/
+- /el/android-java/issn/generate/
+- /cs/android-java/issn/generate/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /java/aztec/recognize/
 aliases:
 - /java/recognize/aztec/
+- /nl/java/aztec/recognize/
+- /sv/java/aztec/recognize/
+- /hu/java/aztec/recognize/
+- /hi/java/aztec/recognize/
+- /el/java/aztec/recognize/
+- /cs/java/aztec/recognize/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

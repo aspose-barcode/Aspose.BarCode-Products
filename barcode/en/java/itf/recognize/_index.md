@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /java/itf/recognize/
 aliases:
 - /java/recognize/itf/
+- /nl/java/itf/recognize/
+- /sv/java/itf/recognize/
+- /hu/java/itf/recognize/
+- /hi/java/itf/recognize/
+- /el/java/itf/recognize/
+- /cs/java/itf/recognize/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

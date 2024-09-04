@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /python-java/datamatrix/recognize/
 aliases:
 - /python-java/recognize/datamatrix/
+- /nl/python-java/datamatrix/recognize/
+- /sv/python-java/datamatrix/recognize/
+- /hu/python-java/datamatrix/recognize/
+- /hi/python-java/datamatrix/recognize/
+- /el/python-java/datamatrix/recognize/
+- /cs/python-java/datamatrix/recognize/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

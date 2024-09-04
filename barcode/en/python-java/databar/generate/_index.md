@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /python-java/databar/generate/
 aliases:
 - /python-java/generate/databar/
+- /nl/python-java/databar/generate/
+- /sv/python-java/databar/generate/
+- /hu/python-java/databar/generate/
+- /hi/python-java/databar/generate/
+- /el/python-java/databar/generate/
+- /cs/python-java/databar/generate/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

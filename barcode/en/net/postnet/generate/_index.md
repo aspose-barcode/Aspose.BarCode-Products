@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /net/postnet/generate/
 aliases:
 - /net/generate/postnet/
+- /nl/net/postnet/generate/
+- /sv/net/postnet/generate/
+- /hu/net/postnet/generate/
+- /hi/net/postnet/generate/
+- /el/net/postnet/generate/
+- /cs/net/postnet/generate/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

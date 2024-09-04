@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /python-java/aztec/recognize/
 aliases:
 - /python-java/recognize/aztec/
+- /nl/python-java/aztec/recognize/
+- /sv/python-java/aztec/recognize/
+- /hu/python-java/aztec/recognize/
+- /hi/python-java/aztec/recognize/
+- /el/python-java/aztec/recognize/
+- /cs/python-java/aztec/recognize/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

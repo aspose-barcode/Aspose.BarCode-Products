@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /cpp/qr/generate/
 aliases:
 - /cpp/generate/qr/
+- /nl/cpp/qr/generate/
+- /sv/cpp/qr/generate/
+- /hu/cpp/qr/generate/
+- /hi/cpp/qr/generate/
+- /el/cpp/qr/generate/
+- /cs/cpp/qr/generate/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

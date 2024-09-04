@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /python-java/issn/recognize/
 aliases:
 - /python-java/recognize/issn/
+- /nl/python-java/issn/recognize/
+- /sv/python-java/issn/recognize/
+- /hu/python-java/issn/recognize/
+- /hi/python-java/issn/recognize/
+- /el/python-java/issn/recognize/
+- /cs/python-java/issn/recognize/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

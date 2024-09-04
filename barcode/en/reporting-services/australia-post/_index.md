@@ -5,6 +5,13 @@ description: Aspose.Barcode for SQL Reporting Services API allows customize, gen
 lang: en
 langdirlevel: 2
 locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
+aliases:
+- /nl/reporting-services/australia-post/
+- /sv/reporting-services/australia-post/
+- /hu/reporting-services/australia-post/
+- /hi/reporting-services/australia-post/
+- /el/reporting-services/australia-post/
+- /cs/reporting-services/australia-post/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /android-java/qr/generate/
 aliases:
 - /android-java/generate/qr/
+- /nl/android-java/qr/generate/
+- /sv/android-java/qr/generate/
+- /hu/android-java/qr/generate/
+- /hi/android-java/qr/generate/
+- /el/android-java/qr/generate/
+- /cs/android-java/qr/generate/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

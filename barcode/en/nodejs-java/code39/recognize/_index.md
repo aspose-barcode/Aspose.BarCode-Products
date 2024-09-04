@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /nodejs-java/code39/recognize/
 aliases:
 - /nodejs-java/recognize/code39/
+- /nl/nodejs-java/code39/recognize/
+- /sv/nodejs-java/code39/recognize/
+- /hu/nodejs-java/code39/recognize/
+- /hi/nodejs-java/code39/recognize/
+- /el/nodejs-java/code39/recognize/
+- /cs/nodejs-java/code39/recognize/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

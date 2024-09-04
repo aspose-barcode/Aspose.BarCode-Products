@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /android-java/postnet/recognize/
 aliases:
 - /android-java/recognize/postnet/
+- /nl/android-java/postnet/recognize/
+- /sv/android-java/postnet/recognize/
+- /hu/android-java/postnet/recognize/
+- /hi/android-java/postnet/recognize/
+- /el/android-java/postnet/recognize/
+- /cs/android-java/postnet/recognize/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -5,6 +5,13 @@ description: Aspose.Barcode for .NET API allows customize, generate and recogniz
 lang: en
 langdirlevel: 2
 locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
+aliases:
+- /nl/net/swiss-post-parcel/
+- /sv/net/swiss-post-parcel/
+- /hu/net/swiss-post-parcel/
+- /hi/net/swiss-post-parcel/
+- /el/net/swiss-post-parcel/
+- /cs/net/swiss-post-parcel/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

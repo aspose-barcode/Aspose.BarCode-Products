@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /cpp/issn/recognize/
 aliases:
 - /cpp/recognize/issn/
+- /nl/cpp/issn/recognize/
+- /sv/cpp/issn/recognize/
+- /hu/cpp/issn/recognize/
+- /hi/cpp/issn/recognize/
+- /el/cpp/issn/recognize/
+- /cs/cpp/issn/recognize/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -5,6 +5,13 @@ description: Aspose.Barcode for SQL Reporting Services API allows customize, gen
 lang: en
 langdirlevel: 2
 locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
+aliases:
+- /nl/reporting-services/code39/
+- /sv/reporting-services/code39/
+- /hu/reporting-services/code39/
+- /hi/reporting-services/code39/
+- /el/reporting-services/code39/
+- /cs/reporting-services/code39/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

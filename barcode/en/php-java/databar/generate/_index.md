@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /php-java/databar/generate/
 aliases:
 - /php-java/generate/databar/
+- /nl/php-java/databar/generate/
+- /sv/php-java/databar/generate/
+- /hu/php-java/databar/generate/
+- /hi/php-java/databar/generate/
+- /el/php-java/databar/generate/
+- /cs/php-java/databar/generate/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

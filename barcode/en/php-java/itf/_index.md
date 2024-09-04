@@ -5,6 +5,13 @@ description: Aspose.Barcode for PHP via Java API allows customize, generate and 
 lang: en
 langdirlevel: 2
 locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
+aliases:
+- /nl/php-java/itf/
+- /sv/php-java/itf/
+- /hu/php-java/itf/
+- /hi/php-java/itf/
+- /el/php-java/itf/
+- /cs/php-java/itf/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

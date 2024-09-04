@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /android-java/postnet/generate/
 aliases:
 - /android-java/generate/postnet/
+- /nl/android-java/postnet/generate/
+- /sv/android-java/postnet/generate/
+- /hu/android-java/postnet/generate/
+- /hi/android-java/postnet/generate/
+- /el/android-java/postnet/generate/
+- /cs/android-java/postnet/generate/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

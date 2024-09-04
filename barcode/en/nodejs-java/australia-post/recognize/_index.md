@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /nodejs-java/australia-post/recognize/
 aliases:
 - /nodejs-java/recognize/australia-post/
+- /nl/nodejs-java/australia-post/recognize/
+- /sv/nodejs-java/australia-post/recognize/
+- /hu/nodejs-java/australia-post/recognize/
+- /hi/nodejs-java/australia-post/recognize/
+- /el/nodejs-java/australia-post/recognize/
+- /cs/nodejs-java/australia-post/recognize/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

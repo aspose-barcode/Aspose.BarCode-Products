@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /android-java/databar/generate/
 aliases:
 - /android-java/generate/databar/
+- /nl/android-java/databar/generate/
+- /sv/android-java/databar/generate/
+- /hu/android-java/databar/generate/
+- /hi/android-java/databar/generate/
+- /el/android-java/databar/generate/
+- /cs/android-java/databar/generate/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

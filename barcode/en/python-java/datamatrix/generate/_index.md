@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /python-java/datamatrix/generate/
 aliases:
 - /python-java/generate/datamatrix/
+- /nl/python-java/datamatrix/generate/
+- /sv/python-java/datamatrix/generate/
+- /hu/python-java/datamatrix/generate/
+- /hi/python-java/datamatrix/generate/
+- /el/python-java/datamatrix/generate/
+- /cs/python-java/datamatrix/generate/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

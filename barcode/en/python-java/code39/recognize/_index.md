@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /python-java/code39/recognize/
 aliases:
 - /python-java/recognize/code39/
+- /nl/python-java/code39/recognize/
+- /sv/python-java/code39/recognize/
+- /hu/python-java/code39/recognize/
+- /hi/python-java/code39/recognize/
+- /el/python-java/code39/recognize/
+- /cs/python-java/code39/recognize/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

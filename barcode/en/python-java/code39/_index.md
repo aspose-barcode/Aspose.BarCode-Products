@@ -5,6 +5,13 @@ description: Aspose.Barcode for Python via Java API allows customize, generate a
 lang: en
 langdirlevel: 2
 locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
+aliases:
+- /nl/python-java/code39/
+- /sv/python-java/code39/
+- /hu/python-java/code39/
+- /hi/python-java/code39/
+- /el/python-java/code39/
+- /cs/python-java/code39/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

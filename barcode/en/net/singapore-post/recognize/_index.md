@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /net/singapore-post/recognize/
 aliases:
 - /net/recognize/singapore-post/
+- /nl/net/singapore-post/recognize/
+- /sv/net/singapore-post/recognize/
+- /hu/net/singapore-post/recognize/
+- /hi/net/singapore-post/recognize/
+- /el/net/singapore-post/recognize/
+- /cs/net/singapore-post/recognize/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

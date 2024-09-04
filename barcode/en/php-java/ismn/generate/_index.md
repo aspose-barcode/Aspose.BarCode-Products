@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /php-java/ismn/generate/
 aliases:
 - /php-java/generate/ismn/
+- /nl/php-java/ismn/generate/
+- /sv/php-java/ismn/generate/
+- /hu/php-java/ismn/generate/
+- /hi/php-java/ismn/generate/
+- /el/php-java/ismn/generate/
+- /cs/php-java/ismn/generate/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /php-java/dotcode/generate/
 aliases:
 - /php-java/generate/dotcode/
+- /nl/php-java/dotcode/generate/
+- /sv/php-java/dotcode/generate/
+- /hu/php-java/dotcode/generate/
+- /hi/php-java/dotcode/generate/
+- /el/php-java/dotcode/generate/
+- /cs/php-java/dotcode/generate/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

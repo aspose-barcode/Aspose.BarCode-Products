@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /net/code32/generate/
 aliases:
 - /net/generate/code32/
+- /nl/net/code32/generate/
+- /sv/net/code32/generate/
+- /hu/net/code32/generate/
+- /hi/net/code32/generate/
+- /el/net/code32/generate/
+- /cs/net/code32/generate/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

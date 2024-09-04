@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /net/code32/recognize/
 aliases:
 - /net/recognize/code32/
+- /nl/net/code32/recognize/
+- /sv/net/code32/recognize/
+- /hu/net/code32/recognize/
+- /hi/net/code32/recognize/
+- /el/net/code32/recognize/
+- /cs/net/code32/recognize/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /nodejs-java/isbn/recognize/
 aliases:
 - /nodejs-java/recognize/isbn/
+- /nl/nodejs-java/isbn/recognize/
+- /sv/nodejs-java/isbn/recognize/
+- /hu/nodejs-java/isbn/recognize/
+- /hi/nodejs-java/isbn/recognize/
+- /el/nodejs-java/isbn/recognize/
+- /cs/nodejs-java/isbn/recognize/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

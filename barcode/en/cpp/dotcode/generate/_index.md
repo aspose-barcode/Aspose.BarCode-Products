@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /cpp/dotcode/generate/
 aliases:
 - /cpp/generate/dotcode/
+- /nl/cpp/dotcode/generate/
+- /sv/cpp/dotcode/generate/
+- /hu/cpp/dotcode/generate/
+- /hi/cpp/dotcode/generate/
+- /el/cpp/dotcode/generate/
+- /cs/cpp/dotcode/generate/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

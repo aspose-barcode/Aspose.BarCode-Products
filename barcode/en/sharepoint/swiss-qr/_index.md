@@ -5,6 +5,13 @@ description: Aspose.Barcode for SharePoint API allows customize, generate and re
 lang: en
 langdirlevel: 2
 locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
+aliases:
+- /nl/sharepoint/swiss-qr/
+- /sv/sharepoint/swiss-qr/
+- /hu/sharepoint/swiss-qr/
+- /hi/sharepoint/swiss-qr/
+- /el/sharepoint/swiss-qr/
+- /cs/sharepoint/swiss-qr/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

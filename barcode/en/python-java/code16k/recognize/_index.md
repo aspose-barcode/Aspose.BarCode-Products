@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /python-java/code16k/recognize/
 aliases:
 - /python-java/recognize/code16k/
+- /nl/python-java/code16k/recognize/
+- /sv/python-java/code16k/recognize/
+- /hu/python-java/code16k/recognize/
+- /hi/python-java/code16k/recognize/
+- /el/python-java/code16k/recognize/
+- /cs/python-java/code16k/recognize/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

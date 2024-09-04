@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /nodejs-java/standard2of5/recognize/
 aliases:
 - /nodejs-java/recognize/standard2of5/
+- /nl/nodejs-java/standard2of5/recognize/
+- /sv/nodejs-java/standard2of5/recognize/
+- /hu/nodejs-java/standard2of5/recognize/
+- /hi/nodejs-java/standard2of5/recognize/
+- /el/nodejs-java/standard2of5/recognize/
+- /cs/nodejs-java/standard2of5/recognize/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

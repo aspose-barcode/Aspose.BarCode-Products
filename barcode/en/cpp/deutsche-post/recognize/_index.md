@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /cpp/deutsche-post/recognize/
 aliases:
 - /cpp/recognize/deutsche-post/
+- /nl/cpp/deutsche-post/recognize/
+- /sv/cpp/deutsche-post/recognize/
+- /hu/cpp/deutsche-post/recognize/
+- /hi/cpp/deutsche-post/recognize/
+- /el/cpp/deutsche-post/recognize/
+- /cs/cpp/deutsche-post/recognize/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /java/ismn/recognize/
 aliases:
 - /java/recognize/ismn/
+- /nl/java/ismn/recognize/
+- /sv/java/ismn/recognize/
+- /hu/java/ismn/recognize/
+- /hi/java/ismn/recognize/
+- /el/java/ismn/recognize/
+- /cs/java/ismn/recognize/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

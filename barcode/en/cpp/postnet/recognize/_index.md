@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /cpp/postnet/recognize/
 aliases:
 - /cpp/recognize/postnet/
+- /nl/cpp/postnet/recognize/
+- /sv/cpp/postnet/recognize/
+- /hu/cpp/postnet/recognize/
+- /hi/cpp/postnet/recognize/
+- /el/cpp/postnet/recognize/
+- /cs/cpp/postnet/recognize/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

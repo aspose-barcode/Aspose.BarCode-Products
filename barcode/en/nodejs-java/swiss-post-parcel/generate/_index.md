@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /nodejs-java/swiss-post-parcel/generate/
 aliases:
 - /nodejs-java/generate/swiss-post-parcel/
+- /nl/nodejs-java/swiss-post-parcel/generate/
+- /sv/nodejs-java/swiss-post-parcel/generate/
+- /hu/nodejs-java/swiss-post-parcel/generate/
+- /hi/nodejs-java/swiss-post-parcel/generate/
+- /el/nodejs-java/swiss-post-parcel/generate/
+- /cs/nodejs-java/swiss-post-parcel/generate/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

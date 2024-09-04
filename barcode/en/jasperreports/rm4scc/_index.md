@@ -5,6 +5,13 @@ description: Aspose.Barcode for JasperReports API allows customize, generate and
 lang: en
 langdirlevel: 2
 locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
+aliases:
+- /nl/jasperreports/rm4scc/
+- /sv/jasperreports/rm4scc/
+- /hu/jasperreports/rm4scc/
+- /hi/jasperreports/rm4scc/
+- /el/jasperreports/rm4scc/
+- /cs/jasperreports/rm4scc/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

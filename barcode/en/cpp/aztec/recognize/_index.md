@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /cpp/aztec/recognize/
 aliases:
 - /cpp/recognize/aztec/
+- /nl/cpp/aztec/recognize/
+- /sv/cpp/aztec/recognize/
+- /hu/cpp/aztec/recognize/
+- /hi/cpp/aztec/recognize/
+- /el/cpp/aztec/recognize/
+- /cs/cpp/aztec/recognize/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

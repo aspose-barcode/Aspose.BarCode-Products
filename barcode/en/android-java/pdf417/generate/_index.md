@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /android-java/pdf417/generate/
 aliases:
 - /android-java/generate/pdf417/
+- /nl/android-java/pdf417/generate/
+- /sv/android-java/pdf417/generate/
+- /hu/android-java/pdf417/generate/
+- /hi/android-java/pdf417/generate/
+- /el/android-java/pdf417/generate/
+- /cs/android-java/pdf417/generate/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

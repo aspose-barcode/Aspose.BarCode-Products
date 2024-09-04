@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /cpp/qr/recognize/
 aliases:
 - /cpp/recognize/qr/
+- /nl/cpp/qr/recognize/
+- /sv/cpp/qr/recognize/
+- /hu/cpp/qr/recognize/
+- /hi/cpp/qr/recognize/
+- /el/cpp/qr/recognize/
+- /cs/cpp/qr/recognize/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

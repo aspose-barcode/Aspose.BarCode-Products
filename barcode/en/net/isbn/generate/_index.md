@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /net/isbn/generate/
 aliases:
 - /net/generate/isbn/
+- /nl/net/isbn/generate/
+- /sv/net/isbn/generate/
+- /hu/net/isbn/generate/
+- /hi/net/isbn/generate/
+- /el/net/isbn/generate/
+- /cs/net/isbn/generate/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

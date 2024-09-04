@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /python-java/code32/generate/
 aliases:
 - /python-java/generate/code32/
+- /nl/python-java/code32/generate/
+- /sv/python-java/code32/generate/
+- /hu/python-java/code32/generate/
+- /hi/python-java/code32/generate/
+- /el/python-java/code32/generate/
+- /cs/python-java/code32/generate/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

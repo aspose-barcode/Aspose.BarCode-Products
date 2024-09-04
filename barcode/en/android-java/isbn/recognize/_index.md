@@ -7,6 +7,12 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /android-java/isbn/recognize/
 aliases:
 - /android-java/recognize/isbn/
+- /nl/android-java/isbn/recognize/
+- /sv/android-java/isbn/recognize/
+- /hu/android-java/isbn/recognize/
+- /hi/android-java/isbn/recognize/
+- /el/android-java/isbn/recognize/
+- /cs/android-java/isbn/recognize/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

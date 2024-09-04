@@ -5,6 +5,13 @@ description: Aspose.Barcode for Node.js via Java API allows customize, generate 
 lang: en
 langdirlevel: 2
 locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
+aliases:
+- /nl/nodejs-java/codablock/
+- /sv/nodejs-java/codablock/
+- /hu/nodejs-java/codablock/
+- /hi/nodejs-java/codablock/
+- /el/nodejs-java/codablock/
+- /cs/nodejs-java/codablock/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
