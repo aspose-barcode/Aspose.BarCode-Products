@@ -995,9 +995,6 @@ recognized_results = reader.read_bar_codes()
                         }
                     } catch (e) {
                         console.error(e);
-                        if (e.message) {
-                            setStateServerError(e.message);
-                        }
                     } finally {
                         cancelAsyncRecognitionProcess();
                     }
@@ -1060,9 +1057,6 @@ recognized_results = reader.read_bar_codes()
         }
         function setStateUnsuccessfulRecognition(htmlUnsuccessful) {
             showRecognitionResult(htmlUnsuccessful);
-        }
-        function setStateServerError(errorText) {
-            showRecognitionResult('Error');
         }
         function showRecognitionResult(messageText) {
             const popupContainer = document.getElementById('barcode-read-lcs-result');

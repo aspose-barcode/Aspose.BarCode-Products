@@ -422,9 +422,6 @@ Le API di Aspose sono supportate su tutte le principali piattaforme e sistemi op
                         }
                     } catch (e) {
                         console.error(e);
-                        if (e.message) {
-                            setStateServerError(e.message);
-                        }
                     } finally {
                         cancelAsyncRecognitionProcess();
                     }
@@ -487,9 +484,6 @@ Le API di Aspose sono supportate su tutte le principali piattaforme e sistemi op
         }
         function setStateUnsuccessfulRecognition(htmlUnsuccessful) {
             showRecognitionResult(htmlUnsuccessful);
-        }
-        function setStateServerError(errorText) {
-            showRecognitionResult('Error');
         }
         function showRecognitionResult(messageText) {
             const popupContainer = document.getElementById('barcode-read-lcs-result');

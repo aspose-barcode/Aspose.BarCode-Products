@@ -434,9 +434,6 @@ barcodeReaderExamples.readBarcodeImage()
                         }
                     } catch (e) {
                         console.error(e);
-                        if (e.message) {
-                            setStateServerError(e.message);
-                        }
                     } finally {
                         cancelAsyncRecognitionProcess();
                     }
@@ -499,9 +496,6 @@ barcodeReaderExamples.readBarcodeImage()
         }
         function setStateUnsuccessfulRecognition(htmlUnsuccessful) {
             showRecognitionResult(htmlUnsuccessful);
-        }
-        function setStateServerError(errorText) {
-            showRecognitionResult('Error');
         }
         function showRecognitionResult(messageText) {
             const popupContainer = document.getElementById('barcode-read-lcs-result');

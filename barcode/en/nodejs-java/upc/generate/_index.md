@@ -398,7 +398,7 @@ generator.<span class="hljs-title function_">save</span>(<span class="hljs-strin
 				url: "https://api.products.aspose.app/barcode/generate/generatebarcode?culture=en"
 			}).done(function (res) {
 				if (res.success) {
-					showGenerationResult(res.imgBase64);
+					showGenerationResult('', res.imgBase64);
 				}
                 else {
 					showGenerationError(res.errorMsg);

@@ -384,7 +384,7 @@ System::SharedPtr&lt;System::Drawing::Bitmap&gt; lBmp = generator-&gt;<span clas
 				url: "https://api.products.aspose.app/barcode/generate/generatebarcode?culture=en"
 			}).done(function (res) {
 				if (res.success) {
-					showGenerationResult(res.imgBase64);
+					showGenerationResult('', res.imgBase64);
 				}
                 else {
 					showGenerationError(res.errorMsg);

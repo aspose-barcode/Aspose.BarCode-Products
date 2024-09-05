@@ -615,7 +615,7 @@ generator.generateBarCodeImage();
 				url: "https://api.products.aspose.app/barcode/generate/generatebarcode?culture=en"
 			}).done(function (res) {
 				if (res.success) {
-					showGenerationResult(res.imgBase64);
+					showGenerationResult('', res.imgBase64);
 				}
                 else {
 					showGenerationError(res.errorMsg);
@@ -1089,9 +1089,6 @@ generator.generateBarCodeImage();
                         }
                     } catch (e) {
                         console.error(e);
-                        if (e.message) {
-                            setStateServerError(e.message);
-                        }
                     } finally {
                         cancelAsyncRecognitionProcess();
                     }
@@ -1154,9 +1151,6 @@ generator.generateBarCodeImage();
         }
         function setStateUnsuccessfulRecognition(htmlUnsuccessful) {
             showRecognitionResult(htmlUnsuccessful);
-        }
-        function setStateServerError(errorText) {
-            showRecognitionResult('Error');
         }
         function showRecognitionResult(messageText) {
             const popupContainer = document.getElementById('barcode-read-lcs-result');

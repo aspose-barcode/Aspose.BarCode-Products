@@ -383,7 +383,7 @@ Le API per codici a barre Aspose sono supportate da tutte le principali piattafo
 				url: "https://api.products.aspose.app/barcode/generate/generatebarcode?culture=en"
 			}).done(function (res) {
 				if (res.success) {
-					showGenerationResult(res.imgBase64);
+					showGenerationResult('', res.imgBase64);
 				}
                 else {
 					showGenerationError(res.errorMsg);
