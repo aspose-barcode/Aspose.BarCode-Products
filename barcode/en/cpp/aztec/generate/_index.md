@@ -43,7 +43,7 @@ Aspose.BarCode makes it easy for developers to create Aztec Code images with few
 
 {{% /blocks/products/pf/agp/text %}}
 
-<ul><li>Create an object of BarcodeGenerator class</li><li>Pass Aztec Code as a parameter</li><li>Insert input text to encode as the second parameter</li><li>Define image dimensions if required</li><li>Call the BarcodeGenerator.Save method to download the Aztec Code barcode</li></ul>
+<ul><li>Create an object of BarcodeGenerator class</li><li>Pass Aztec Code as a parameter</li><li>Insert input text to encode as the second parameter</li><li>Define image dimensions if required</li><li>Call the BarcodeGenerator.Save method to generate and save the Aztec Code barcode</li></ul>
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
