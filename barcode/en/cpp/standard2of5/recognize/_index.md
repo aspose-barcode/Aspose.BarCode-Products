@@ -13,6 +13,7 @@ aliases:
 - /hi/cpp/standard2of5/recognize/
 - /el/cpp/standard2of5/recognize/
 - /cs/cpp/standard2of5/recognize/
+- /cpp/recognize/iata2of5/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

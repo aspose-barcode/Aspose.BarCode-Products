@@ -13,6 +13,7 @@ aliases:
 - /hi/nodejs-java/standard2of5/generate/
 - /el/nodejs-java/standard2of5/generate/
 - /cs/nodejs-java/standard2of5/generate/
+- /nodejs-java/generate/iata2of5/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

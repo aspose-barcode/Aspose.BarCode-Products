@@ -13,6 +13,7 @@ aliases:
 - /hi/php-java/australia-post/recognize/
 - /el/php-java/australia-post/recognize/
 - /cs/php-java/australia-post/recognize/
+- /php-java/recognize/australiapost/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

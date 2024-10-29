@@ -12,6 +12,8 @@ aliases:
 - /hi/python-net/hibc/
 - /el/python-net/hibc/
 - /cs/python-net/hibc/
+- /python-net/hibc/generate
+- /python-net/hibc/recognize
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -13,6 +13,7 @@ aliases:
 - /hi/net/singapore-post/recognize/
 - /el/net/singapore-post/recognize/
 - /cs/net/singapore-post/recognize/
+- /net/recognize/singaporepost/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

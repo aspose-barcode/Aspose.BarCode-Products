@@ -12,6 +12,8 @@ aliases:
 - /hi/android-java/swiss-qr/
 - /el/android-java/swiss-qr/
 - /cs/android-java/swiss-qr/
+- /android-java/swiss-qr/generate
+- /android-java/swiss-qr/recognize
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

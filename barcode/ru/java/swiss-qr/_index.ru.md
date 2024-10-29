@@ -5,6 +5,9 @@ description: Aspose.Barcode for Java API позволяет настраиват
 lang: ru
 langdirlevel: 2
 locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
+aliases:
+- /ru/java/swiss-qr/generate
+- /ru/java/swiss-qr/recognize
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

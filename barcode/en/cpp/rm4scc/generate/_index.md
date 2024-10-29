@@ -43,7 +43,7 @@ Aspose.BarCode makes it easy for developers to create Royal Mail 4-State Custome
 
 {{% /blocks/products/pf/agp/text %}}
 
-<ul><li>Create an object of BarcodeGenerator class</li><li>Pass Royal Mail 4-State Customer Code (RM4SCC) as a parameter</li><li>Insert input text to encode as the second parameter</li><li>Define image dimensions if required</li><li>Call the BarcodeGenerator.Save method to download the Royal Mail 4-State Customer Code (RM4SCC) barcode</li></ul>
+<ul><li>Create an object of BarcodeGenerator class</li><li>Pass Royal Mail 4-State Customer Code (RM4SCC) as a parameter</li><li>Insert input text to encode as the second parameter</li><li>Define image dimensions if required</li><li>Call the BarcodeGenerator.Save method to generate and save the Royal Mail 4-State Customer Code (RM4SCC) barcode</li></ul>
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

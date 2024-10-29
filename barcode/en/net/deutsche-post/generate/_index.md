@@ -13,6 +13,7 @@ aliases:
 - /hi/net/deutsche-post/generate/
 - /el/net/deutsche-post/generate/
 - /cs/net/deutsche-post/generate/
+- /net/generate/deutschepost/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

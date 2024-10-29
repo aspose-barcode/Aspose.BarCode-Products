@@ -12,6 +12,8 @@ aliases:
 - /hi/python-java/swiss-qr/
 - /el/python-java/swiss-qr/
 - /cs/python-java/swiss-qr/
+- /python-java/swiss-qr/generate
+- /python-java/swiss-qr/recognize
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

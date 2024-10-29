@@ -13,6 +13,7 @@ aliases:
 - /hi/python-java/deutsche-post/generate/
 - /el/python-java/deutsche-post/generate/
 - /cs/python-java/deutsche-post/generate/
+- /python-java/generate/deutschepost/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

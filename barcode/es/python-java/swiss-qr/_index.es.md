@@ -5,6 +5,9 @@ description: Aspose.Barcode para Python via Java API permite personalizar, gener
 lang: es
 langdirlevel: 2
 locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
+aliases:
+- /es/python-java/swiss-qr/generate
+- /es/python-java/swiss-qr/recognize
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

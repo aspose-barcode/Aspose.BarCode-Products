@@ -12,6 +12,8 @@ aliases:
 - /hi/nodejs-java/hibc/
 - /el/nodejs-java/hibc/
 - /cs/nodejs-java/hibc/
+- /nodejs-java/hibc/generate
+- /nodejs-java/hibc/recognize
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

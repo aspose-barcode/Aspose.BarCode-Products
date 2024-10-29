@@ -13,6 +13,7 @@ aliases:
 - /hi/python-java/australia-post/generate/
 - /el/python-java/australia-post/generate/
 - /cs/python-java/australia-post/generate/
+- /python-java/generate/australiapost/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -13,6 +13,7 @@ aliases:
 - /hi/php-java/australia-post/generate/
 - /el/php-java/australia-post/generate/
 - /cs/php-java/australia-post/generate/
+- /php-java/generate/australiapost/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

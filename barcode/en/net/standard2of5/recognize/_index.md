@@ -13,6 +13,7 @@ aliases:
 - /hi/net/standard2of5/recognize/
 - /el/net/standard2of5/recognize/
 - /cs/net/standard2of5/recognize/
+- /net/recognize/iata2of5/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

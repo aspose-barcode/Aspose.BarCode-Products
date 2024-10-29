@@ -12,6 +12,8 @@ aliases:
 - /hi/net/hibc/
 - /el/net/hibc/
 - /cs/net/hibc/
+- /net/hibc/generate
+- /net/hibc/recognize
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

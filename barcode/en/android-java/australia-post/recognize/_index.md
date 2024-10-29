@@ -13,6 +13,7 @@ aliases:
 - /hi/android-java/australia-post/recognize/
 - /el/android-java/australia-post/recognize/
 - /cs/android-java/australia-post/recognize/
+- /android-java/recognize/australiapost/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

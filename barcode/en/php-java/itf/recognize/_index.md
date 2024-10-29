@@ -13,6 +13,7 @@ aliases:
 - /hi/php-java/itf/recognize/
 - /el/php-java/itf/recognize/
 - /cs/php-java/itf/recognize/
+- /php-java/recognize/datalogic2of5/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

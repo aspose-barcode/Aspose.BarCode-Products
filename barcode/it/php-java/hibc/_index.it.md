@@ -5,6 +5,9 @@ description: L'API Aspose.Barcode per PHP via Java consente di personalizzare, g
 lang: it
 langdirlevel: 2
 locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
+aliases:
+- /it/php-java/hibc/generate
+- /it/php-java/hibc/recognize
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

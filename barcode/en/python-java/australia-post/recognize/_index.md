@@ -13,6 +13,7 @@ aliases:
 - /hi/python-java/australia-post/recognize/
 - /el/python-java/australia-post/recognize/
 - /cs/python-java/australia-post/recognize/
+- /python-java/recognize/australiapost/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

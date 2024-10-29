@@ -13,6 +13,7 @@ aliases:
 - /hi/python-java/singapore-post/recognize/
 - /el/python-java/singapore-post/recognize/
 - /cs/python-java/singapore-post/recognize/
+- /python-java/recognize/singaporepost/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

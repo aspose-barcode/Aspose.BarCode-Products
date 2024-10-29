@@ -13,6 +13,7 @@ aliases:
 - /hi/nodejs-java/standard2of5/recognize/
 - /el/nodejs-java/standard2of5/recognize/
 - /cs/nodejs-java/standard2of5/recognize/
+- /nodejs-java/recognize/iata2of5/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

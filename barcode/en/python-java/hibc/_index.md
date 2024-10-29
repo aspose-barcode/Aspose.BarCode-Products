@@ -12,6 +12,8 @@ aliases:
 - /hi/python-java/hibc/
 - /el/python-java/hibc/
 - /cs/python-java/hibc/
+- /python-java/hibc/generate
+- /python-java/hibc/recognize
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

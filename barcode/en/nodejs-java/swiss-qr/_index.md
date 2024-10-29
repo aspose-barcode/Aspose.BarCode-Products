@@ -12,6 +12,8 @@ aliases:
 - /hi/nodejs-java/swiss-qr/
 - /el/nodejs-java/swiss-qr/
 - /cs/nodejs-java/swiss-qr/
+- /nodejs-java/swiss-qr/generate
+- /nodejs-java/swiss-qr/recognize
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

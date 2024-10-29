@@ -12,6 +12,8 @@ aliases:
 - /hi/jasperreports/swiss-qr/
 - /el/jasperreports/swiss-qr/
 - /cs/jasperreports/swiss-qr/
+- /jasperreports/swiss-qr/generate
+- /jasperreports/swiss-qr/recognize
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

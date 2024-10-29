@@ -12,6 +12,8 @@ aliases:
 - /hi/cpp/hibc/
 - /el/cpp/hibc/
 - /cs/cpp/hibc/
+- /cpp/hibc/generate
+- /cpp/hibc/recognize
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

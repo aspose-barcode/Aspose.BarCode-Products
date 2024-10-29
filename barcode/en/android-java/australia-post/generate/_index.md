@@ -13,6 +13,7 @@ aliases:
 - /hi/android-java/australia-post/generate/
 - /el/android-java/australia-post/generate/
 - /cs/android-java/australia-post/generate/
+- /android-java/generate/australiapost/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

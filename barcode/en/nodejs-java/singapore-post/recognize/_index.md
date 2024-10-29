@@ -13,6 +13,7 @@ aliases:
 - /hi/nodejs-java/singapore-post/recognize/
 - /el/nodejs-java/singapore-post/recognize/
 - /cs/nodejs-java/singapore-post/recognize/
+- /nodejs-java/recognize/singaporepost/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

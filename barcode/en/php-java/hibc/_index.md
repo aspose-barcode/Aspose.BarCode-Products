@@ -12,6 +12,8 @@ aliases:
 - /hi/php-java/hibc/
 - /el/php-java/hibc/
 - /cs/php-java/hibc/
+- /php-java/hibc/generate
+- /php-java/hibc/recognize
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

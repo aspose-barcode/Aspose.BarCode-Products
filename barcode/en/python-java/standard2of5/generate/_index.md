@@ -13,6 +13,7 @@ aliases:
 - /hi/python-java/standard2of5/generate/
 - /el/python-java/standard2of5/generate/
 - /cs/python-java/standard2of5/generate/
+- /python-java/generate/iata2of5/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

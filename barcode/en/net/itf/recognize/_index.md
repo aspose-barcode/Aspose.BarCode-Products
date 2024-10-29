@@ -13,6 +13,7 @@ aliases:
 - /hi/net/itf/recognize/
 - /el/net/itf/recognize/
 - /cs/net/itf/recognize/
+- /net/recognize/datalogic2of5/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

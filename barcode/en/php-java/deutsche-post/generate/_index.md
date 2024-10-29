@@ -13,6 +13,7 @@ aliases:
 - /hi/php-java/deutsche-post/generate/
 - /el/php-java/deutsche-post/generate/
 - /cs/php-java/deutsche-post/generate/
+- /php-java/generate/deutschepost/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

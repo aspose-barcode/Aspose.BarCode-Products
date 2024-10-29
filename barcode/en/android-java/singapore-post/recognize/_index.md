@@ -13,6 +13,7 @@ aliases:
 - /hi/android-java/singapore-post/recognize/
 - /el/android-java/singapore-post/recognize/
 - /cs/android-java/singapore-post/recognize/
+- /android-java/recognize/singaporepost/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

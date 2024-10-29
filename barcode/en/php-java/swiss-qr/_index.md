@@ -12,6 +12,8 @@ aliases:
 - /hi/php-java/swiss-qr/
 - /el/php-java/swiss-qr/
 - /cs/php-java/swiss-qr/
+- /php-java/swiss-qr/generate
+- /php-java/swiss-qr/recognize
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

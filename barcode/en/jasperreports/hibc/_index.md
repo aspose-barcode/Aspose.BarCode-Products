@@ -12,6 +12,8 @@ aliases:
 - /hi/jasperreports/hibc/
 - /el/jasperreports/hibc/
 - /cs/jasperreports/hibc/
+- /jasperreports/hibc/generate
+- /jasperreports/hibc/recognize
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

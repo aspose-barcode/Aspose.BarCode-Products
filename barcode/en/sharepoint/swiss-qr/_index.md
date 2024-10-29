@@ -12,6 +12,8 @@ aliases:
 - /hi/sharepoint/swiss-qr/
 - /el/sharepoint/swiss-qr/
 - /cs/sharepoint/swiss-qr/
+- /sharepoint/swiss-qr/generate
+- /sharepoint/swiss-qr/recognize
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

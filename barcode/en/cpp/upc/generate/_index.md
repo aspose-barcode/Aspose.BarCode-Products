@@ -43,7 +43,7 @@ Aspose.BarCode makes it easy for developers to create UPC barcode images with fe
 
 {{% /blocks/products/pf/agp/text %}}
 
-<ul><li>Create an object of BarcodeGenerator class</li><li>Pass UPC (Universal Product Code) barcode as a parameter</li><li>Insert input text to encode as the second parameter</li><li>Define image dimensions if required</li><li>Call the BarcodeGenerator.Save method to download the UPC (Universal Product Code) barcode barcode</li></ul>
+<ul><li>Create an object of BarcodeGenerator class</li><li>Pass UPC (Universal Product Code) barcode as a parameter</li><li>Insert input text to encode as the second parameter</li><li>Define image dimensions if required</li><li>Call the BarcodeGenerator.Save method to generate and save the UPC (Universal Product Code) barcode barcode</li></ul>
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
