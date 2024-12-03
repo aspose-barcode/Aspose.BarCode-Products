@@ -13,6 +13,7 @@ aliases:
 - /hi/net/australia-post/generate/
 - /el/net/australia-post/generate/
 - /cs/net/australia-post/generate/
+- /net/generate/australiapost/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

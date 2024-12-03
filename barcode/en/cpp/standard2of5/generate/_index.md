@@ -13,6 +13,7 @@ aliases:
 - /hi/cpp/standard2of5/generate/
 - /el/cpp/standard2of5/generate/
 - /cs/cpp/standard2of5/generate/
+- /cpp/generate/iata2of5/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

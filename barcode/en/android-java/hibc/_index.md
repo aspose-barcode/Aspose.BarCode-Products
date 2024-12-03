@@ -12,6 +12,8 @@ aliases:
 - /hi/android-java/hibc/
 - /el/android-java/hibc/
 - /cs/android-java/hibc/
+- /android-java/hibc/generate
+- /android-java/hibc/recognize
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -7,6 +7,7 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /es/nodejs-java/singapore-post/recognize/
 aliases:
 - /es/nodejs-java/recognize/singapore-post/
+- /es/nodejs-java/recognize/singaporepost/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

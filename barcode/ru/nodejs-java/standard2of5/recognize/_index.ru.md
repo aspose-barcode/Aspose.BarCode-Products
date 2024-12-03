@@ -7,6 +7,7 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /ru/nodejs-java/standard2of5/recognize/
 aliases:
 - /ru/nodejs-java/recognize/standard2of5/
+- /ru/nodejs-java/recognize/iata2of5/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

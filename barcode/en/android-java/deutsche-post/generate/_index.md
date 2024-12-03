@@ -13,6 +13,7 @@ aliases:
 - /hi/android-java/deutsche-post/generate/
 - /el/android-java/deutsche-post/generate/
 - /cs/android-java/deutsche-post/generate/
+- /android-java/generate/deutschepost/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

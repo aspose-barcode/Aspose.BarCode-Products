@@ -13,6 +13,7 @@ aliases:
 - /hi/cpp/singapore-post/generate/
 - /el/cpp/singapore-post/generate/
 - /cs/cpp/singapore-post/generate/
+- /cpp/generate/singaporepost/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

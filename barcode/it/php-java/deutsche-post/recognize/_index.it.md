@@ -7,6 +7,7 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /it/php-java/deutsche-post/recognize/
 aliases:
 - /it/php-java/recognize/deutsche-post/
+- /it/php-java/recognize/deutschepost/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

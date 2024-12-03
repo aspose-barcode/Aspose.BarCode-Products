@@ -13,6 +13,7 @@ aliases:
 - /hi/php-java/deutsche-post/recognize/
 - /el/php-java/deutsche-post/recognize/
 - /cs/php-java/deutsche-post/recognize/
+- /php-java/recognize/deutschepost/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

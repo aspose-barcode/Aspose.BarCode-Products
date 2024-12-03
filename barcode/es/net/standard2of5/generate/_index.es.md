@@ -7,6 +7,7 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /es/net/standard2of5/generate/
 aliases:
 - /es/net/generate/standard2of5/
+- /es/net/generate/iata2of5/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

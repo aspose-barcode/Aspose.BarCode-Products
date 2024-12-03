@@ -12,6 +12,8 @@ aliases:
 - /hi/net/swiss-qr/
 - /el/net/swiss-qr/
 - /cs/net/swiss-qr/
+- /net/swiss-qr/generate
+- /net/swiss-qr/recognize
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

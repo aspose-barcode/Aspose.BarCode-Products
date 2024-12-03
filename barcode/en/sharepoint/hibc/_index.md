@@ -12,6 +12,8 @@ aliases:
 - /hi/sharepoint/hibc/
 - /el/sharepoint/hibc/
 - /cs/sharepoint/hibc/
+- /sharepoint/hibc/generate
+- /sharepoint/hibc/recognize
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

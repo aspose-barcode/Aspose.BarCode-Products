@@ -5,6 +5,9 @@ description: L'API Aspose.Barcode per SQL Reporting Services consente di persona
 lang: it
 langdirlevel: 2
 locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
+aliases:
+- /it/reporting-services/swiss-qr/generate
+- /it/reporting-services/swiss-qr/recognize
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

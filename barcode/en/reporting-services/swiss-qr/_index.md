@@ -12,6 +12,8 @@ aliases:
 - /hi/reporting-services/swiss-qr/
 - /el/reporting-services/swiss-qr/
 - /cs/reporting-services/swiss-qr/
+- /reporting-services/swiss-qr/generate
+- /reporting-services/swiss-qr/recognize
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

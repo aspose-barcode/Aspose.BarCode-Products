@@ -13,6 +13,7 @@ aliases:
 - /hi/cpp/deutsche-post/generate/
 - /el/cpp/deutsche-post/generate/
 - /cs/cpp/deutsche-post/generate/
+- /cpp/generate/deutschepost/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

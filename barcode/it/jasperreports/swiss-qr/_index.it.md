@@ -5,6 +5,9 @@ description: L'API Aspose.Barcode per JasperReports consente di personalizzare, 
 lang: it
 langdirlevel: 2
 locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
+aliases:
+- /it/jasperreports/swiss-qr/generate
+- /it/jasperreports/swiss-qr/recognize
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -7,6 +7,7 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /it/cpp/australia-post/generate/
 aliases:
 - /it/cpp/generate/australia-post/
+- /it/cpp/generate/australiapost/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

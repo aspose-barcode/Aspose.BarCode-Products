@@ -7,6 +7,7 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /ru/cpp/singapore-post/generate/
 aliases:
 - /ru/cpp/generate/singapore-post/
+- /ru/cpp/generate/singaporepost/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

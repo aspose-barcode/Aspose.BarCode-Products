@@ -7,6 +7,7 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /es/nodejs-java/deutsche-post/generate/
 aliases:
 - /es/nodejs-java/generate/deutsche-post/
+- /es/nodejs-java/generate/deutschepost/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

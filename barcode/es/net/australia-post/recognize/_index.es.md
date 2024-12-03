@@ -7,6 +7,7 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /es/net/australia-post/recognize/
 aliases:
 - /es/net/recognize/australia-post/
+- /es/net/recognize/australiapost/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

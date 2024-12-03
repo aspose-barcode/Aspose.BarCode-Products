@@ -13,6 +13,7 @@ aliases:
 - /hi/cpp/deutsche-post/recognize/
 - /el/cpp/deutsche-post/recognize/
 - /cs/cpp/deutsche-post/recognize/
+- /cpp/recognize/deutschepost/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

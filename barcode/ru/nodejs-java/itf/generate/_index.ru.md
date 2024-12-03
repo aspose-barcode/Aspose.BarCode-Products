@@ -7,6 +7,7 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /ru/nodejs-java/itf/generate/
 aliases:
 - /ru/nodejs-java/generate/itf/
+- /ru/nodejs-java/generate/datalogic2of5/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -13,6 +13,7 @@ aliases:
 - /hi/python-java/itf/recognize/
 - /el/python-java/itf/recognize/
 - /cs/python-java/itf/recognize/
+- /python-java/recognize/datalogic2of5/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

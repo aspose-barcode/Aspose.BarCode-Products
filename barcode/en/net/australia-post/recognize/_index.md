@@ -13,6 +13,7 @@ aliases:
 - /hi/net/australia-post/recognize/
 - /el/net/australia-post/recognize/
 - /cs/net/australia-post/recognize/
+- /net/recognize/australiapost/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

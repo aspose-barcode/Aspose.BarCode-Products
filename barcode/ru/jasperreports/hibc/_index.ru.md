@@ -5,6 +5,9 @@ description: Aspose.Barcode for JasperReports API позволяет настр�
 lang: ru
 langdirlevel: 2
 locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
+aliases:
+- /ru/jasperreports/hibc/generate
+- /ru/jasperreports/hibc/recognize
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

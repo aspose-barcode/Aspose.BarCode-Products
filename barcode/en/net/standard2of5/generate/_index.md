@@ -13,6 +13,7 @@ aliases:
 - /hi/net/standard2of5/generate/
 - /el/net/standard2of5/generate/
 - /cs/net/standard2of5/generate/
+- /net/generate/iata2of5/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

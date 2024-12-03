@@ -7,6 +7,7 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /es/cpp/itf/recognize/
 aliases:
 - /es/cpp/recognize/itf/
+- /es/cpp/recognize/datalogic2of5/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

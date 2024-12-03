@@ -13,6 +13,7 @@ aliases:
 - /hi/php-java/standard2of5/recognize/
 - /el/php-java/standard2of5/recognize/
 - /cs/php-java/standard2of5/recognize/
+- /php-java/recognize/iata2of5/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

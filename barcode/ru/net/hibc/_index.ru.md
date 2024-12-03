@@ -5,6 +5,9 @@ description: Aspose.Barcode for .NET API позволяет настраиват
 lang: ru
 langdirlevel: 2
 locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
+aliases:
+- /ru/net/hibc/generate
+- /ru/net/hibc/recognize
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

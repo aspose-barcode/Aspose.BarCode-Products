@@ -7,6 +7,7 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /ru/nodejs-java/deutsche-post/recognize/
 aliases:
 - /ru/nodejs-java/recognize/deutsche-post/
+- /ru/nodejs-java/recognize/deutschepost/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

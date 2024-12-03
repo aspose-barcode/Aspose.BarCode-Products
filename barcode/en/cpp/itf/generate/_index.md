@@ -13,6 +13,7 @@ aliases:
 - /hi/cpp/itf/generate/
 - /el/cpp/itf/generate/
 - /cs/cpp/itf/generate/
+- /cpp/generate/datalogic2of5/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -7,6 +7,7 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /it/nodejs-java/standard2of5/generate/
 aliases:
 - /it/nodejs-java/generate/standard2of5/
+- /it/nodejs-java/generate/iata2of5/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

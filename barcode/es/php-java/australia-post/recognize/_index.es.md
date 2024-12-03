@@ -7,6 +7,7 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /es/php-java/australia-post/recognize/
 aliases:
 - /es/php-java/recognize/australia-post/
+- /es/php-java/recognize/australiapost/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

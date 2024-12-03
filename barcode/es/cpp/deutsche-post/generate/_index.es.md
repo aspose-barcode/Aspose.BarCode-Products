@@ -7,6 +7,7 @@ locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
 url: /es/cpp/deutsche-post/generate/
 aliases:
 - /es/cpp/generate/deutsche-post/
+- /es/cpp/generate/deutschepost/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

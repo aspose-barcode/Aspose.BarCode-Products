@@ -13,6 +13,7 @@ aliases:
 - /hi/cpp/itf/recognize/
 - /el/cpp/itf/recognize/
 - /cs/cpp/itf/recognize/
+- /cpp/recognize/datalogic2of5/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

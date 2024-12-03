@@ -12,6 +12,8 @@ aliases:
 - /hi/java/hibc/
 - /el/java/hibc/
 - /cs/java/hibc/
+- /java/hibc/generate
+- /java/hibc/recognize
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

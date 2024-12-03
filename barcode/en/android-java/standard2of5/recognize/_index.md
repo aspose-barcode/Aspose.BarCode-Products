@@ -13,6 +13,7 @@ aliases:
 - /hi/android-java/standard2of5/recognize/
 - /el/android-java/standard2of5/recognize/
 - /cs/android-java/standard2of5/recognize/
+- /android-java/recognize/iata2of5/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

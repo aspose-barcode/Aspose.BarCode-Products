@@ -13,6 +13,7 @@ aliases:
 - /hi/android-java/itf/generate/
 - /el/android-java/itf/generate/
 - /cs/android-java/itf/generate/
+- /android-java/generate/datalogic2of5/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

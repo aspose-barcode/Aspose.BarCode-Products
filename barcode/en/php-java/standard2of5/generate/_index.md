@@ -13,6 +13,7 @@ aliases:
 - /hi/php-java/standard2of5/generate/
 - /el/php-java/standard2of5/generate/
 - /cs/php-java/standard2of5/generate/
+- /php-java/generate/iata2of5/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

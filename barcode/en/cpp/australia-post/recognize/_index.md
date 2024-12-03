@@ -13,6 +13,7 @@ aliases:
 - /hi/cpp/australia-post/recognize/
 - /el/cpp/australia-post/recognize/
 - /cs/cpp/australia-post/recognize/
+- /cpp/recognize/australiapost/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

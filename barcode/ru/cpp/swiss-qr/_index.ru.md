@@ -5,6 +5,9 @@ description: Aspose.Barcode for C++ API позволяет настраиват�
 lang: ru
 langdirlevel: 2
 locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
+aliases:
+- /ru/cpp/swiss-qr/generate
+- /ru/cpp/swiss-qr/recognize
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

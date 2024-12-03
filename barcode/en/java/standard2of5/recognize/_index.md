@@ -13,6 +13,7 @@ aliases:
 - /hi/java/standard2of5/recognize/
 - /el/java/standard2of5/recognize/
 - /cs/java/standard2of5/recognize/
+- /java/recognize/iata2of5/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

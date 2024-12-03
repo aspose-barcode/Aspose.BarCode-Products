@@ -13,6 +13,7 @@ aliases:
 - /hi/python-java/singapore-post/generate/
 - /el/python-java/singapore-post/generate/
 - /cs/python-java/singapore-post/generate/
+- /python-java/generate/singaporepost/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -13,6 +13,7 @@ aliases:
 - /hi/android-java/itf/recognize/
 - /el/android-java/itf/recognize/
 - /cs/android-java/itf/recognize/
+- /android-java/recognize/datalogic2of5/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

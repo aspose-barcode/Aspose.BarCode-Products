@@ -12,6 +12,8 @@ aliases:
 - /hi/reporting-services/hibc/
 - /el/reporting-services/hibc/
 - /cs/reporting-services/hibc/
+- /reporting-services/hibc/generate
+- /reporting-services/hibc/recognize
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

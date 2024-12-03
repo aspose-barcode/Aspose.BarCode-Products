@@ -13,6 +13,7 @@ aliases:
 - /hi/nodejs-java/itf/recognize/
 - /el/nodejs-java/itf/recognize/
 - /cs/nodejs-java/itf/recognize/
+- /nodejs-java/recognize/datalogic2of5/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

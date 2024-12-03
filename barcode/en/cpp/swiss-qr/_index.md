@@ -12,6 +12,8 @@ aliases:
 - /hi/cpp/swiss-qr/
 - /el/cpp/swiss-qr/
 - /cs/cpp/swiss-qr/
+- /cpp/swiss-qr/generate
+- /cpp/swiss-qr/recognize
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

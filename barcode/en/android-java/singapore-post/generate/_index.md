@@ -13,6 +13,7 @@ aliases:
 - /hi/android-java/singapore-post/generate/
 - /el/android-java/singapore-post/generate/
 - /cs/android-java/singapore-post/generate/
+- /android-java/generate/singaporepost/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -13,6 +13,7 @@ aliases:
 - /hi/nodejs-java/australia-post/recognize/
 - /el/nodejs-java/australia-post/recognize/
 - /cs/nodejs-java/australia-post/recognize/
+- /nodejs-java/recognize/australiapost/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

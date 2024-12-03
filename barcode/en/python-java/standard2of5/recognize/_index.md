@@ -13,6 +13,7 @@ aliases:
 - /hi/python-java/standard2of5/recognize/
 - /el/python-java/standard2of5/recognize/
 - /cs/python-java/standard2of5/recognize/
+- /python-java/recognize/iata2of5/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

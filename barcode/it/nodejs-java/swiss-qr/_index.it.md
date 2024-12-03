@@ -5,6 +5,9 @@ description: L'API Aspose.Barcode per Node.js via Java consente di personalizzar
 lang: it
 langdirlevel: 2
 locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
+aliases:
+- /it/nodejs-java/swiss-qr/generate
+- /it/nodejs-java/swiss-qr/recognize
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

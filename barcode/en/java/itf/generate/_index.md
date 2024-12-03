@@ -13,6 +13,7 @@ aliases:
 - /hi/java/itf/generate/
 - /el/java/itf/generate/
 - /cs/java/itf/generate/
+- /java/generate/datalogic2of5/
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

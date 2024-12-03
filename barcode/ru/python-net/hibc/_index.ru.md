@@ -5,6 +5,9 @@ description: Aspose.Barcode for Python via .NET API позволяет наст�
 lang: ru
 langdirlevel: 2
 locales: ar,de,es,fr,id,it,ja,ko,pl,pt,ru,th,tr,vi,zh,zh-hant
+aliases:
+- /ru/python-net/hibc/generate
+- /ru/python-net/hibc/recognize
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
