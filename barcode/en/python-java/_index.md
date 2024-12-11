@@ -18,7 +18,7 @@ aliases:
 
 {{< blocks/products/pf/main-container pfName="Aspose.BarCode" subTitlepfName="for Python via Java" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-python-java.svg" liveDemosLink="https://products.aspose.app/barcode/family" PricingLink="https://purchase.aspose.com/pricing/barcode/python-java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/barcode/python-java/" installationsDocsLink="https://docs.aspose.com/barcode/python-java/installation" nugetLink="" nugetPackageName="" mavenRepoLink="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-barcode" directDownloadLink="https://releases.aspose.com/barcode/python-java/" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-python-java.svg" liveDemosLink="https://products.aspose.app/barcode/family" PricingLink="https://purchase.aspose.com/pricing/barcode/python-java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/barcode/python-java/" installationsDocsLink="https://docs.aspose.com/barcode/python-java/installation" nugetLink="" nugetPackageName="" mavenRepoLink="https://releases.aspose.com/barcode/python-java/" directDownloadLink="https://releases.aspose.com/barcode/python-java/" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>Aspose.BarCode for Python via Java is a set of barcode generation and reading APIs to be integrated in Python applications by using the python-java bridge. Developers can easily add barcode generation and recognition functionality. This barcode API based on Python creates barcode images and save them in various formats, such as PNG, JPG, GIF, BMP, and TIFF. It supports various imaging features like customizing borders, color scheme, rotating angle, resolution, and a lot more.</p>
@@ -1226,6 +1226,7 @@ barcodeReaderExamples.readBarcodeImage()
     {{< blocks/products/pf/offers-section-item link="/barcode/jasperreports/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-jasperreports.svg" sdkName="JasperReports" >}}
     {{< blocks/products/pf/offers-section-item link="/barcode/php-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-php-java.svg" sdkName="PHP via Java" >}}
     {{< blocks/products/pf/offers-section-item link="/barcode/nodejs-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-nodejs-java.svg" sdkName="Node.js via Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/barcode/javascript-cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-python-java.svg" sdkName="JavaScript via C++" >}}
 
 {{< /blocks/products/pf/offers-section >}}
 

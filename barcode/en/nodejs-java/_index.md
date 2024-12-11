@@ -18,7 +18,7 @@ aliases:
 
 {{< blocks/products/pf/main-container pfName="Aspose.BarCode" subTitlepfName="for Node.js via Java" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-nodejs-java.svg" liveDemosLink="https://products.aspose.app/barcode/family" PricingLink="https://purchase.aspose.com/pricing/barcode/nodejs-java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/barcode/nodejsjava/" installationsDocsLink="https://docs.aspose.com/barcode/nodejs-java/installation" nugetLink="" nugetPackageName="" mavenRepoLink="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-barcode" directDownloadLink="https://releases.aspose.com/barcode/nodejs/" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-nodejs-java.svg" liveDemosLink="https://products.aspose.app/barcode/family" PricingLink="https://purchase.aspose.com/pricing/barcode/nodejs-java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/barcode/nodejsjava/" installationsDocsLink="https://docs.aspose.com/barcode/nodejs-java/installation" nugetLink="" nugetPackageName="" mavenRepoLink="https://releases.aspose.com/barcode/nodejs/" directDownloadLink="https://releases.aspose.com/barcode/nodejs/" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>Aspose.BarCode for Node.js via Java is an easily customizable barcode generator and decoder API. Developers can integrate its barcode generating and reading functionality in their applications via the nodejs-java bridge. It can be used to read common 1D, 2D, and postal barcodes from images at any angle. This barcode library allows developers to generate barcode images of over 60 types and saving them in various formats, such as JPG, PNG, GIF, BMP, and TIFF. It supports customizing different imaging features, such as barcode border color and style, margins, rotation angle, resolution, and barcode color.</p>
@@ -1187,6 +1187,7 @@ reader.<span class="hljs-title function_">readBarCodes</span>().<span class="hlj
     {{< blocks/products/pf/offers-section-item link="/barcode/jasperreports/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-jasperreports.svg" sdkName="JasperReports" >}}
     {{< blocks/products/pf/offers-section-item link="/barcode/php-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-php-java.svg" sdkName="PHP via Java" >}}
     {{< blocks/products/pf/offers-section-item link="/barcode/python-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-python-java.svg" sdkName="Python via Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/barcode/javascript-cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-python-java.svg" sdkName="JavaScript via C++" >}}
 
 {{< /blocks/products/pf/offers-section >}}
 

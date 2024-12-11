@@ -18,7 +18,7 @@ aliases:
 
 {{< blocks/products/pf/main-container pfName="Aspose.BarCode" subTitlepfName="for JasperReports" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-jasperreports.svg" liveDemosLink="https://products.aspose.app/barcode/family" PricingLink="https://purchase.aspose.com/pricing/barcode/jasperreports" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/barcode/jasperreports/" installationsDocsLink="https://docs.aspose.com/barcode/jasperreports/installation" nugetLink="" nugetPackageName="" mavenRepoLink="" directDownloadLink="https://releases.aspose.com/barcode/jasperreports/" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-jasperreports.svg" liveDemosLink="https://products.aspose.app/barcode/family" PricingLink="https://purchase.aspose.com/pricing/barcode/jasperreports" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/barcode/jasperreports/" installationsDocsLink="https://docs.aspose.com/barcode/jasperreports/installation" nugetLink="" nugetPackageName="" mavenRepoLink="https://releases.aspose.com/barcode/jasperreports/" directDownloadLink="https://releases.aspose.com/barcode/jasperreports/" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>Aspose.BarCode for JasperReports is a flexible JasperReports and JasperServer extension to create and display barcode labels in your applications. These barcode labels can be rendered in many popular image formats.</p>
@@ -1292,6 +1292,7 @@ generator.generateBarCodeImage();
     {{< blocks/products/pf/offers-section-item link="/barcode/php-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-php-java.svg" sdkName="PHP via Java" >}}
     {{< blocks/products/pf/offers-section-item link="/barcode/nodejs-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-nodejs-java.svg" sdkName="Node.js via Java" >}}
     {{< blocks/products/pf/offers-section-item link="/barcode/python-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-python-java.svg" sdkName="Python via Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/barcode/javascript-cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-python-java.svg" sdkName="JavaScript via C++" >}}
 
 {{< /blocks/products/pf/offers-section >}}
 

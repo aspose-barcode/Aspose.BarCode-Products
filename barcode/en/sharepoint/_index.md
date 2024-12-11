@@ -18,7 +18,7 @@ aliases:
 
 {{< blocks/products/pf/main-container pfName="Aspose.BarCode" subTitlepfName="for SharePoint" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-sharepoint.svg" liveDemosLink="https://products.aspose.app/barcode/family" PricingLink="https://purchase.aspose.com/pricing/barcode/sharepoint" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/barcode/sharepoint/" installationsDocsLink="https://docs.aspose.com/barcode/sharepoint/installation" nugetLink="" nugetPackageName="" mavenRepoLink="" directDownloadLink="https://releases.aspose.com/barcode/sharepoint/" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-sharepoint.svg" liveDemosLink="https://products.aspose.app/barcode/family" PricingLink="https://purchase.aspose.com/pricing/barcode/sharepoint" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/barcode/sharepoint/" installationsDocsLink="https://docs.aspose.com/barcode/sharepoint/installation" nugetLink="" nugetPackageName="" mavenRepoLink="https://releases.aspose.com/barcode/sharepoint/" directDownloadLink="https://releases.aspose.com/barcode/sharepoint/" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>Aspose.BarCode for SharePoint allows developers to add a large variety of linear, 2D, and postal barcodes to Microsoft SharePoint Foundation 2010 and Microsoft Office SharePoint Server 2010 (MOSS) lists. You may create and then insert barcodes to any list by specifying input text and type.</p>
@@ -1235,6 +1235,7 @@ aliases:
     {{< blocks/products/pf/offers-section-item link="/barcode/php-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-php-java.svg" sdkName="PHP via Java" >}}
     {{< blocks/products/pf/offers-section-item link="/barcode/nodejs-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-nodejs-java.svg" sdkName="Node.js via Java" >}}
     {{< blocks/products/pf/offers-section-item link="/barcode/python-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-python-java.svg" sdkName="Python via Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/barcode/javascript-cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-python-java.svg" sdkName="JavaScript via C++" >}}
 
 {{< /blocks/products/pf/offers-section >}}
 

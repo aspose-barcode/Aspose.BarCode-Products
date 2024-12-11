@@ -18,7 +18,7 @@ aliases:
 
 {{< blocks/products/pf/main-container pfName="Aspose.BarCode" subTitlepfName="for PHP via Java" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-php-java.svg" liveDemosLink="https://products.aspose.app/barcode/family" PricingLink="https://purchase.aspose.com/pricing/barcode/php-java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/barcode/phpjava/" installationsDocsLink="https://docs.aspose.com/barcode/php-java/installation" nugetLink="" nugetPackageName="" mavenRepoLink="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-barcode" directDownloadLink="https://releases.aspose.com/barcode/php/" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-php-java.svg" liveDemosLink="https://products.aspose.app/barcode/family" PricingLink="https://purchase.aspose.com/pricing/barcode/php-java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/barcode/phpjava/" installationsDocsLink="https://docs.aspose.com/barcode/php-java/installation" nugetLink="" nugetPackageName="" mavenRepoLink="https://releases.aspose.com/barcode/php/" directDownloadLink="https://releases.aspose.com/barcode/php/" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>Aspose.BarCode for PHP via Java is a set of barcode generation and reading APIs for PHP applications and scripts. Developers can easily read 1D, 2D and postal barcodes from images at different angles. Barcode generator API creates barcode images within various formats such as JPG, PNG, GIF, BMP.  Moreover, It supports multiple imaging features like manipulating borders, color, rotating images, customizing resolution and a lot more.</p>
@@ -1221,6 +1221,7 @@ aliases:
     {{< blocks/products/pf/offers-section-item link="/barcode/jasperreports/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-jasperreports.svg" sdkName="JasperReports" >}}
     {{< blocks/products/pf/offers-section-item link="/barcode/nodejs-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-nodejs-java.svg" sdkName="Node.js via Java" >}}
     {{< blocks/products/pf/offers-section-item link="/barcode/python-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-python-java.svg" sdkName="Python via Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/barcode/javascript-cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-python-java.svg" sdkName="JavaScript via C++" >}}
 
 {{< /blocks/products/pf/offers-section >}}
 

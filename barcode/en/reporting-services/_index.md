@@ -18,7 +18,7 @@ aliases:
 
 {{< blocks/products/pf/main-container pfName="Aspose.BarCode" subTitlepfName="for SQL Reporting Services" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-reporting-services.svg" liveDemosLink="https://products.aspose.app/barcode/family" PricingLink="https://purchase.aspose.com/pricing/barcode/reporting-services" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/barcode/reportingservices/" installationsDocsLink="https://docs.aspose.com/barcode/reporting-services/installation" nugetLink="" nugetPackageName="" mavenRepoLink="" directDownloadLink="https://releases.aspose.com/barcode/reportingservices/" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-reporting-services.svg" liveDemosLink="https://products.aspose.app/barcode/family" PricingLink="https://purchase.aspose.com/pricing/barcode/reporting-services" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/barcode/reportingservices/" installationsDocsLink="https://docs.aspose.com/barcode/reporting-services/installation" nugetLink="" nugetPackageName="" mavenRepoLink="https://releases.aspose.com/barcode/reportingservices/" directDownloadLink="https://releases.aspose.com/barcode/reportingservices/" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>Aspose.BarCode for Reporting Services is a comprehensive solution for rendering linear and 2D barcodes within Microsoft SQL Server Reporting Services. Barcode labels can be encoded with Non-English characters and rendered in BMP, JPEG, GIF and PNG formats.</p>
@@ -1263,6 +1263,7 @@ aliases:
     {{< blocks/products/pf/offers-section-item link="/barcode/php-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-php-java.svg" sdkName="PHP via Java" >}}
     {{< blocks/products/pf/offers-section-item link="/barcode/nodejs-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-nodejs-java.svg" sdkName="Node.js via Java" >}}
     {{< blocks/products/pf/offers-section-item link="/barcode/python-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-python-java.svg" sdkName="Python via Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/barcode/javascript-cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-python-java.svg" sdkName="JavaScript via C++" >}}
 
 {{< /blocks/products/pf/offers-section >}}
 

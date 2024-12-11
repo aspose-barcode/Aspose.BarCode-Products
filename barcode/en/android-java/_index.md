@@ -18,7 +18,7 @@ aliases:
 
 {{< blocks/products/pf/main-container pfName="Aspose.BarCode" subTitlepfName="for Android via Java" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-android-java.svg" liveDemosLink="https://products.aspose.app/barcode/family" PricingLink="https://purchase.aspose.com/pricing/barcode/android-java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/barcode/androidjava/" installationsDocsLink="https://docs.aspose.com/barcode/android-java/installation" nugetLink="" nugetPackageName="" mavenRepoLink="" directDownloadLink="https://releases.aspose.com/barcode/androidjava/" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-android-java.svg" liveDemosLink="https://products.aspose.app/barcode/family" PricingLink="https://purchase.aspose.com/pricing/barcode/android-java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/barcode/androidjava/" installationsDocsLink="https://docs.aspose.com/barcode/android-java/installation" nugetLink="" nugetPackageName="" mavenRepoLink="https://releases.aspose.com/barcode/androidjava/" directDownloadLink="https://releases.aspose.com/barcode/androidjava/" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>Aspose.BarCode for Android via Java is a barcode generation &amp; reading API for Android applications. Its supports scanning 1D, 2D, and postal barcodes from images at different angles. The barcode generator API can easily create barcode images and save them in various formats. It also provides rich imaging functionality, such as customizing barcode borders, color, rotation angle, resolution, and much more.</p>
@@ -1286,6 +1286,7 @@ generator.generateBarCodeImage();
     {{< blocks/products/pf/offers-section-item link="/barcode/php-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-php-java.svg" sdkName="PHP via Java" >}}
     {{< blocks/products/pf/offers-section-item link="/barcode/nodejs-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-nodejs-java.svg" sdkName="Node.js via Java" >}}
     {{< blocks/products/pf/offers-section-item link="/barcode/python-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-python-java.svg" sdkName="Python via Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/barcode/javascript-cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-python-java.svg" sdkName="JavaScript via C++" >}}
 
 {{< /blocks/products/pf/offers-section >}}
 

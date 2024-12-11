@@ -18,7 +18,7 @@ aliases:
 
 {{< blocks/products/pf/main-container pfName="Aspose.BarCode" subTitlepfName="for C++" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-cpp.svg" liveDemosLink="https://products.aspose.app/barcode/family" PricingLink="https://purchase.aspose.com/pricing/barcode/cpp" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/barcode/cpp/" installationsDocsLink="https://docs.aspose.com/barcode/cpp/installation" nugetLink="" nugetPackageName="" mavenRepoLink="" directDownloadLink="https://releases.aspose.com/barcode/cpp/" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-cpp.svg" liveDemosLink="https://products.aspose.app/barcode/family" PricingLink="https://purchase.aspose.com/pricing/barcode/cpp" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/barcode/cpp/" installationsDocsLink="https://docs.aspose.com/barcode/cpp/installation" nugetLink="https://www.nuget.org/packages/Aspose.BarCode.Cpp" nugetPackageName="Aspose.BarCode" mavenRepoLink="" directDownloadLink="https://releases.aspose.com/barcode/cpp/" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>Aspose.BarCode for C++ is a barcode API to add barcode generation &amp; recognition capabilities, as well as export generated barcodes using different high-quality image formats. This API allows customizing barcode appearance parameters, such as bar color, background color, quality, rotation angle, x-dimension, size, captions, resolution, and a lot more. It provides encoding and decoding features for 60+ barcode types, including but not limited to QR Code, Aztec Code, Data Matrix, ISBN, Code 39, Code 93, PDF417, UPC, EAN, and GS1 Data Matrix.</p>
@@ -1297,6 +1297,7 @@ System::SharedPtr&lt;System::Drawing::Bitmap&gt; lBmp = generator-&gt;<span clas
     {{< blocks/products/pf/offers-section-item link="/barcode/php-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-php-java.svg" sdkName="PHP via Java" >}}
     {{< blocks/products/pf/offers-section-item link="/barcode/nodejs-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-nodejs-java.svg" sdkName="Node.js via Java" >}}
     {{< blocks/products/pf/offers-section-item link="/barcode/python-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-python-java.svg" sdkName="Python via Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/barcode/javascript-cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-python-java.svg" sdkName="JavaScript via C++" >}}
 
 {{< /blocks/products/pf/offers-section >}}
 

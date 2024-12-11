@@ -18,7 +18,7 @@ aliases:
 
 {{< blocks/products/pf/main-container pfName="Aspose.BarCode" subTitlepfName="for Python via .NET" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-python-net.svg" liveDemosLink="https://products.aspose.app/barcode/family" PricingLink="https://purchase.aspose.com/pricing/barcode/python-net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/barcode/python-net/" installationsDocsLink="https://docs.aspose.com/barcode/python-net/installation" nugetLink="https://www.nuget.org/packages/Aspose.BarCode/" nugetPackageName="Aspose.BarCode" mavenRepoLink="" directDownloadLink="https://releases.aspose.com/barcode/python-net" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-python-net.svg" liveDemosLink="https://products.aspose.app/barcode/family" PricingLink="https://purchase.aspose.com/pricing/barcode/python-net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/barcode/python-net/" installationsDocsLink="https://docs.aspose.com/barcode/python-net/installation" nugetLink="" nugetPackageName="" mavenRepoLink="https://releases.aspose.com/barcode/python-net/" directDownloadLink="https://releases.aspose.com/barcode/python-net" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>Aspose.BarCode for Python via NET is a set of barcode generation and reading APIs to be integrated in Python applications. Developers can easily add barcode generation and recognition functionality. Python barcode API creates barcode images within various formats such as PNG, JPG, GIF, BMP. Moreover, It supports multiple imaging features like manipulating borders, color, rotating images, customizing resolution, and a lot more.</p>
@@ -1200,6 +1200,7 @@ recognized_results = reader.read_bar_codes()
     {{< blocks/products/pf/offers-section-item link="/barcode/php-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-php-java.svg" sdkName="PHP via Java" >}}
     {{< blocks/products/pf/offers-section-item link="/barcode/nodejs-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-nodejs-java.svg" sdkName="Node.js via Java" >}}
     {{< blocks/products/pf/offers-section-item link="/barcode/python-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-python-java.svg" sdkName="Python via Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/barcode/javascript-cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-python-java.svg" sdkName="JavaScript via C++" >}}
 
 {{< /blocks/products/pf/offers-section >}}
 
